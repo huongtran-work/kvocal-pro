@@ -5,27 +5,101 @@
   "annotatedWords": [
     {
       "word": "한옥은",
-      "pronounced": "하노근",
-      "rule": "Nối âm",
-      "explanation": "Patchim 'k' (ㄱ) nối lên nguyên âm 'eu' (으)."
+      "pronounced": "[하노근]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄱ của 옥 nối với nguyên âm 은 → ㄱ chuyển: [하노근].",
+      "meaning": "nhà truyền thống Hàn (thì)"
+    },
+    {
+      "word": "이루는",
+      "pronounced": "[이루는]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 루 nối với 는; ㄹ liên kết tự nhiên [이루는].",
+      "meaning": "tạo nên"
+    },
+    {
+      "word": "건축물입니다",
+      "pronounced": "[건충무림니다]",
+      "rule": "Nối âm + Biến âm mũi",
+      "explanation": "Patchim ㄹ của 물 nối với 입 → [무리]; ㅂ gặp ㄴ biến âm mũi [림니다].",
+      "meaning": "là công trình kiến trúc"
     },
     {
       "word": "특징은",
-      "pronounced": "특찡은",
-      "rule": "Căng hóa",
-      "explanation": "Âm 'j' (ㅈ) đứng sau patchim 'k' (ㄱ) bị căng hóa thành 'jj' (ㅉ)."
+      "pronounced": "[특찡은]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㄱ của 특 căng hóa ㅈ của 징 → [찡]; patchim ㅇ của 징 nối với 은.",
+      "meaning": "đặc điểm (thì)"
     },
     {
-      "word": "따뜻하고",
-      "pronounced": "따뜻타고",
-      "rule": "Âm bật hơi",
-      "explanation": "Patchim 't' (ㅅ) gặp 'h' (ㅎ) biến thành âm bật hơi 't' (ㅌ)."
+      "word": "담겨있어요",
+      "pronounced": "[담겨이써요]",
+      "rule": "Nối âm + Căng hóa",
+      "explanation": "Patchim ㄱ của 겨 nối với 있 → [겨있→겨이]; ㅅ patchim của 있 + 어 → căng hóa [써요].",
+      "meaning": "được chứa đựng"
+    },
+    {
+      "word": "겨울에는",
+      "pronounced": "[겨우레는]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 울 nối với 에는 → ㄹ chuyển: [겨우레는].",
+      "meaning": "vào mùa đông thì"
     },
     {
       "word": "관광객들에게",
-      "pronounced": "관광객들에게",
-      "rule": "Căng hóa",
-      "explanation": "Âm 'k' (ㄱ) đứng sau patchim 'k' (ㄱ) bị căng hóa thành 'kk' (ㄲ)."
+      "pronounced": "[관광객뜨레게]",
+      "rule": "Nối âm + Căng hóa",
+      "explanation": "Patchim ㄱ của 객 gặp ㄷ của 들 → căng hóa [뜰]; ㄹ của 들 nối với 에게 → [뜨레게].",
+      "meaning": "dành cho khách du lịch"
+    },
+    {
+      "word": "끼워맞춰서",
+      "pronounced": "[끼워맏춰서]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅊ của 춰 nối với 서 → âm liên kết: [맏춰서].",
+      "meaning": "lắp ráp vào"
+    },
+    {
+      "word": "능선과",
+      "pronounced": "[능선꽈]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "Patchim ㄴ của 선 gặp ㄱ của 과 → căng hóa [꽈].",
+      "meaning": "đường sống núi và"
+    },
+    {
+      "word": "어우러져요",
+      "pronounced": "[어우러져요]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 러 nối với 져요; ㄹ liên kết liền mạch.",
+      "meaning": "hòa quyện"
+    },
+    {
+      "word": "햇빛이",
+      "pronounced": "[해삐치]",
+      "rule": "Nối âm + Bật hơi",
+      "explanation": "Patchim ㅅ của 햇 + ㅂ → căng hóa [삐]; patchim ㅊ của 빛 nối với 이 → [치].",
+      "meaning": "ánh nắng"
+    },
+    {
+      "word": "은은하게",
+      "pronounced": "[으느나게]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄴ của 은 nối với 은 → [으느]; tiếp tục ㄴ nối 하게 → [나게]; chuỗi liên tiếp.",
+      "meaning": "nhẹ nhàng, dịu dàng"
+    },
+    {
+      "word": "들어오게",
+      "pronounced": "[드러오게]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 들 nối với 어 → [드러]; tiếp theo 오게 liên kết tự nhiên.",
+      "meaning": "để vào được"
+    },
+    {
+      "word": "문화유산입니다",
+      "pronounced": "[문화유사님니다]",
+      "rule": "Nối âm + Biến âm mũi",
+      "explanation": "Patchim ㄴ của 산 nối với 입 → [사니]; ㅂ của 입 gặp ㄴ biến âm mũi [님니다].",
+      "meaning": "là di sản văn hóa"
     }
   ]
 }

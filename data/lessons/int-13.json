@@ -4,28 +4,102 @@
   "translation": "Hệ thống giao thông công cộng của Hàn Quốc được vận hành rất tiện lợi và hiệu quả. Tàu điện ngầm có lộ trình đa dạng nên có thể di chuyển nhanh chóng và chính xác đến bất cứ đâu trong nội thành Seoul, và nhờ làn đường dành riêng cho xe buýt nên việc sử dụng xe buýt vào giờ đi làm cũng rất tốt. Đặc biệt, việc có chế độ giảm giá chuyển tuyến giúp tiết kiệm chi phí khi đổi giữa tàu điện ngầm và xe buýt là một điểm lôi cuốn lớn. Ngoài ra, có ứng dụng có thể kiểm tra thông tin đến theo thời gian thực nên có thể giảm bớt thời gian chờ đợi. Tôi cũng sử dụng giao thông công cộng mỗi ngày và thấy rất hài lòng. Trong ga tàu điện ngầm có nhiều cửa hàng và tiện ích đa dạng nên rất tiện lợi. Nhờ nhà vệ sinh sạch sẽ và máy điều hòa mát mẻ mà bạn có thể sử dụng một cách thoải mái. Tại các trạm xe buýt cũng có nhiều nơi lắp đặt ghế sưởi nhiệt để bạn có thể chờ đợi ấm áp vào mùa đông. Những sự quan tâm tỉ mỉ này làm cho việc sử dụng giao thông công cộng trở nên thú vị hơn. Thẻ giao thông của Hàn Quốc có thể sử dụng ở cả cửa hàng tiện lợi hay siêu thị nên rất hữu ích. Cũng có thẻ giao thông dành riêng cho khách du lịch nước ngoài nên việc đi du lịch thực sự rất tốt. Thông báo hướng dẫn không chỉ bằng tiếng Hàn mà còn bằng tiếng Anh, tiếng Trung, tiếng Nhật nên rất dễ tìm đường. Bản đồ tàu điện ngầm được phân chia rõ ràng theo màu sắc nên người mới sử dụng lần đầu cũng có thể nhanh chóng làm quen. Nếu sử dụng giao thông công cộng, bạn có thể giữ đúng giờ hẹn mà không lo tắc đường. Ngoài ra, việc này còn giúp ích cho việc bảo vệ môi trường nên có thể nói là một công đôi việc. Các bạn nếu đến Hàn Quốc hãy thử sử dụng thoải mái phương tiện giao thông công cộng tiện lợi nhé. Giao thông công cộng của Hàn Quốc có thể đi bất cứ đâu một cách dễ dàng và nhanh chóng thực sự là tuyệt nhất. Tôi khuyên bạn nên đi du lịch khắp mọi ngóc ngách của Hàn Quốc bằng phương tiện giao thông công cộng.",
   "annotatedWords": [
     {
-      "word": "운영되고",
-      "pronounced": "운영되고",
-      "rule": "Phát âm chuẩn",
-      "explanation": "Từ này phát âm theo đúng mặt chữ."
+      "word": "시스템은",
+      "pronounced": "[시스테믄]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅁ của 템 nối với 은 → ㅁ chuyển: [시스테믄].",
+      "meaning": "hệ thống (thì)"
     },
     {
-      "word": "있고",
-      "pronounced": "이꼬",
-      "rule": "Căng hóa",
-      "explanation": "Âm 'k' (ㄱ) đứng sau patchim 'ss' (ㅆ) bị căng hóa thành 'kk' (ㄲ)."
+      "word": "노선이",
+      "pronounced": "[노서니]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄴ của 선 nối với 이 → ㄴ chuyển: [노서니].",
+      "meaning": "tuyến đường"
+    },
+    {
+      "word": "어디든",
+      "pronounced": "[어디든]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄴ của 디 nối với 든 → liên kết tự nhiên [어디든].",
+      "meaning": "ở đâu cũng"
+    },
+    {
+      "word": "이용하기",
+      "pronounced": "[이용하기]",
+      "rule": "Nối âm + Bật hơi",
+      "explanation": "Patchim ㅇ của 용 + ㅎ của 하 → bật hơi nhẹ; 하기 liên kết.",
+      "meaning": "để sử dụng"
+    },
+    {
+      "word": "환승할인",
+      "pronounced": "[환승하린]",
+      "rule": "Nối âm + Bật hơi",
+      "explanation": "Patchim ㅇ của 승 + ㅎ của 할 → bật hơi [하]; patchim ㄴ của 인 liên kết.",
+      "meaning": "chiết khấu chuyển tuyến"
+    },
+    {
+      "word": "갈아탈",
+      "pronounced": "[가라탈]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 갈 nối với 아탈 → ㄹ chuyển: [가라탈].",
+      "meaning": "chuyển tuyến"
     },
     {
       "word": "절약할",
-      "pronounced": "저랴칼",
-      "rule": "Âm bật hơi",
-      "explanation": "Patchim 'k' (ㄱ) gặp 'h' (ㅎ) biến thành âm bật hơi 'kh' (ㅋ)."
+      "pronounced": "[저랴칼]",
+      "rule": "Nối âm + Bật hơi",
+      "explanation": "Patchim ㄹ của 약 nối với 할 → [랴칼]; ㄱ của 약 + ㅎ bật hơi.",
+      "meaning": "tiết kiệm được"
     },
     {
       "word": "실시간으로",
-      "pronounced": "실씨간으로",
-      "rule": "Căng hóa",
-      "explanation": "Âm 's' (ㅅ) đứng sau patchim 'l' (ㄹ) trong từ Hán Hàn bị căng hóa thành 'ss' (ㅆ)."
+      "pronounced": "[실씨가느로]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㄹ của 실 căng hóa ㅅ → [씨]; patchim ㄴ của 간 nối với 으로 → [가느로].",
+      "meaning": "theo thời gian thực"
+    },
+    {
+      "word": "상점과",
+      "pronounced": "[상점꽈]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "Patchim ㅁ của 점 gặp ㄱ của 과 → căng hóa [꽈].",
+      "meaning": "cửa hàng và"
+    },
+    {
+      "word": "편의시설이",
+      "pronounced": "[편의시서리]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 설 nối với 이 → [서리]; chuỗi liên kết mượt.",
+      "meaning": "tiện ích (thì)"
+    },
+    {
+      "word": "이용할",
+      "pronounced": "[이용할]",
+      "rule": "Nối âm + Bật hơi",
+      "explanation": "Patchim ㄹ của 할 + 수 → căng hóa [쑤]; chuỗi nối.",
+      "meaning": "sử dụng được"
+    },
+    {
+      "word": "관광객들을",
+      "pronounced": "[관광객뜨를]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㄱ của 객 căng hóa ㄷ → [뜨]; patchim ㄹ của 들 nối với 을 → [뜨를].",
+      "meaning": "khách du lịch (tân ngữ)"
+    },
+    {
+      "word": "교통카드는",
+      "pronounced": "[교통카드는]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄴ của 드 nối với 는 → âm liên kết tự nhiên.",
+      "meaning": "thẻ giao thông (thì)"
+    },
+    {
+      "word": "구석구석을",
+      "pronounced": "[구석꾸서글]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㄱ của 석 căng hóa ㄱ của 구 → [꾸]; patchim ㄱ của 석₂ nối với 을 → [서글].",
+      "meaning": "từng góc, khắp nơi"
     }
   ]
 }

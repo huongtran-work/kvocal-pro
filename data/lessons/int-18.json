@@ -4,28 +4,95 @@
   "translation": "Văn hóa chợ của Hàn Quốc mang một sức lôi cuốn đầy sức sống và sự thân thương khác hẳn với các siêu thị lớn hiện đại. Mỗi ngõ chợ đều tràn ngập mùi thức ăn đường phố ngon lành, và nhờ sự hào phóng của các thương nhân mà việc nhận thêm đồ khuyến mãi (deom) cũng rất thú vị. Đặc biệt, các chợ truyền thống như chợ Gwangjang hay chợ Namdaemun có rất nhiều thứ để xem và ăn nên được coi là lộ trình bắt buộc đối với khách du lịch. Điểm mạnh lớn nhất là bạn có thể thưởng thức các món ăn bình dân tiêu biểu của Hàn Quốc như Tteokbokki, Bindaetteok, chân giò heo với giá rẻ. Thỉnh thoảng khi muốn nạp thêm năng lượng sống, tôi cũng thường tìm đến các chợ truyền thống, bầu không khí ấm áp đầy hơi thở con người thực sự rất tốt.",
   "annotatedWords": [
     {
-      "word": "인심",
-      "pronounced": "인심",
-      "rule": "Phát âm chuẩn",
-      "explanation": "Từ này phát âm theo đúng mặt chữ."
+      "word": "정겨움과",
+      "pronounced": "[정겨움꽈]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "Patchim ㅁ của 움 gặp ㄱ của 과 → căng hóa [꽈].",
+      "meaning": "sự ấm cúng và"
+    },
+    {
+      "word": "매력을",
+      "pronounced": "[매려글]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄱ của 력 nối với 을 → ㄱ chuyển: [매려글].",
+      "meaning": "sức hấp dẫn"
+    },
+    {
+      "word": "가지고있습니다",
+      "pronounced": "[가지고잇씀니다]",
+      "rule": "Căng hóa + Biến âm mũi",
+      "explanation": "Patchim ㄱ của 있 căng hóa ㅅ của 습 → [잇씀]; ㅂ của 습 gặp ㄴ biến âm mũi [씀니다].",
+      "meaning": "đang có"
+    },
+    {
+      "word": "골목마다",
+      "pronounced": "[골몽마다]",
+      "rule": "Biến âm mũi 비음화",
+      "explanation": "Patchim ㄱ của 목 gặp ㅁ của 마 → biến âm mũi: ㄱ→ㅇ [골몽마다].",
+      "meaning": "mỗi con hẻm"
+    },
+    {
+      "word": "냄새가",
+      "pronounced": "[냄새가]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅐ? Không, 냄 có ㅁ patchim; 새 không có patchim, 가 tiếp theo tự nhiên.",
+      "meaning": "mùi thơm"
+    },
+    {
+      "word": "인심덕분에",
+      "pronounced": "[인심떡뿌네]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㅁ của 심 căng hóa ㄷ của 덕 → [떡]; patchim ㄱ của 덕 căng hóa ㅂ → [뿐]; ㄴ của 분 nối với 에 → [뿌네].",
+      "meaning": "nhờ lòng hào phóng"
+    },
+    {
+      "word": "전통시장은",
+      "pronounced": "[전통시장은]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅇ(ng) của 장 nối với 은 → ng liên kết [전통시장은].",
+      "meaning": "chợ truyền thống thì"
+    },
+    {
+      "word": "볼거리와",
+      "pronounced": "[볼거리와]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 볼 nối với 거리 → ㄹ chuyển: [볼거리와].",
+      "meaning": "điểm tham quan và"
+    },
+    {
+      "word": "먹거리가",
+      "pronounced": "[먹거리가]",
+      "rule": "Nối âm + Căng hóa",
+      "explanation": "Patchim ㄱ của 먹 nối với 거 → [먹거]; patchim ㄱ của 거 căng hóa nhẹ.",
+      "meaning": "đồ ăn, thức ăn"
     },
     {
       "word": "손꼽힙니다",
-      "pronounced": "손꼽힘니다",
-      "rule": "Âm bật hơi & Biến âm mũi",
-      "explanation": "Patchim 'p' (ㅂ) gặp 'h' (ㅎ) thành 'ph' (ㅍ), và 'p' (ㅂ) biến thành 'm' (ㅁ)."
+      "pronounced": "[손꼬핌니다]",
+      "rule": "Bật hơi + Biến âm mũi",
+      "explanation": "Patchim ㅂ của 힙 gặp ㄴ của 니 → biến âm mũi [핌니다]; trước đó ㅂ+ㅎ bật hơi.",
+      "meaning": "được xếp hạng"
     },
     {
-      "word": "맛볼",
-      "pronounced": "맏뽈",
-      "rule": "Căng hóa",
-      "explanation": "Âm 'p' (ㅂ) đứng sau patchim 't' (ㅅ) bị căng hóa thành 'pp' (ㅃ)."
+      "word": "음식들을",
+      "pronounced": "[음식뜨를]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㄱ của 식 căng hóa ㄷ → [뜩]; ㄹ của 들 nối với 을 → [뜨를].",
+      "meaning": "những món ăn"
     },
     {
-      "word": "좋습니다",
-      "pronounced": "조씀니다",
-      "rule": "Âm bật hơi & Biến âm mũi",
-      "explanation": "Patchim 'h' (ㅎ) gặp 's' (ㅅ) biến thành 'ss' (ㅆ), và 'p' (ㅂ) biến thành 'm' (ㅁ)."
+      "word": "가격에",
+      "pronounced": "[가겨게]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄱ của 격 nối với 에 → ㄱ chuyển: [가겨게].",
+      "meaning": "với giá tiền"
+    },
+    {
+      "word": "맛볼수있다는",
+      "pronounced": "[맏뽈쑤읻따는]",
+      "rule": "Căng hóa liên tiếp",
+      "explanation": "ㅅ của 맛 + ㅂ → [뽈]; ㄹ + 수 → [쑤]; ㄷ của 있 + 다 → căng hóa [읻따]; chuỗi phức.",
+      "meaning": "có thể nếm thử"
     }
   ]
 }

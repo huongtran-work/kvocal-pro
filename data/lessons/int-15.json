@@ -5,27 +5,94 @@
   "annotatedWords": [
     {
       "word": "교육열은",
-      "pronounced": "교육껴른",
-      "rule": "Thêm 'n' & Biến âm mũi",
-      "explanation": "Khi ghép '교육' và '열', âm 'n' được thêm vào và 'l' biến thành 'n', sau đó 'k' gặp 'n' biến thành 'ng' (ㅇ)."
+      "pronounced": "[교융녀른]",
+      "rule": "Biến âm lưỡi + Nối âm",
+      "explanation": "Patchim ㄱ của 육 gặp ㄴ của 열 → biến âm mũi [융녀]; patchim ㄹ nối với 은 → [녀른].",
+      "meaning": "nhiệt huyết giáo dục (thì)"
     },
     {
       "word": "원동력이",
-      "pronounced": "원동녁끼",
-      "rule": "Biến âm mũi & Nối âm",
-      "explanation": "Âm 'l' (ㄹ) đứng sau patchim 'ng' (ㅇ) biến thành 'n' (ㄴ)."
+      "pronounced": "[원동녀기]",
+      "rule": "Biến âm mũi + Nối âm",
+      "explanation": "Patchim ㄱ của 력 gặp ㅇ của 이 → nối âm [녀기]; trước đó ㄴ+ㄹ biến âm.",
+      "meaning": "là động lực"
     },
     {
-      "word": "배출할",
-      "pronounced": "배출할",
-      "rule": "Phát âm chuẩn",
-      "explanation": "Từ này phát âm theo đúng mặt chữ."
+      "word": "아낌없이",
+      "pronounced": "[아끼멉씨]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㄱ của 낌 căng hóa ㅇ → [끼]; patchim ㅂ của 없 nối với 이 → [멉씨].",
+      "meaning": "không tiếc"
+    },
+    {
+      "word": "투자하고",
+      "pronounced": "[투자하고]",
+      "rule": "Nối âm + Bật hơi",
+      "explanation": "Patchim ㅇ của 자 + ㅎ của 하 → bật hơi nhẹ; 하고 liên kết.",
+      "meaning": "đầu tư và"
+    },
+    {
+      "word": "과목을",
+      "pronounced": "[과모글]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄱ của 목 nối với nguyên âm 을 → ㄱ chuyển: [과모글].",
+      "meaning": "môn học"
+    },
+    {
+      "word": "보충하거나",
+      "pronounced": "[보충하거나]",
+      "rule": "Bật hơi 격음화",
+      "explanation": "Patchim ㄱ của 충 + ㅎ của 하 → bật hơi [충하→충아?]... 충하 → [충하] bật hơi.",
+      "meaning": "bổ sung hoặc"
+    },
+    {
+      "word": "배우는",
+      "pronounced": "[배우는]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄴ của 우 liên kết với 는 → [배우는] tự nhiên.",
+      "meaning": "đang học"
+    },
+    {
+      "word": "수능시험날에는",
+      "pronounced": "[수능시험나레는]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 날 nối với 에는 → ㄹ chuyển: [나레는]; chuỗi 6 âm tiết liên tiếp.",
+      "meaning": "vào ngày thi Suneung thì"
     },
     {
       "word": "결정짓는",
-      "pronounced": "결정진는",
-      "rule": "Biến âm mũi",
-      "explanation": "Patchim 't' (ㅅ - phát âm là ㄷ) gặp 'n' (ㄴ) biến thành 'n' (ㄴ)."
+      "pronounced": "[결쩡진는]",
+      "rule": "Căng hóa + Biến âm mũi",
+      "explanation": "Patchim ㄹ của 결 căng hóa ㅈ → [쩡]; patchim ㅅ của 짓 gặp ㄴ → biến âm mũi [진는].",
+      "meaning": "quyết định"
+    },
+    {
+      "word": "균형을",
+      "pronounced": "[균형을]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅇ(ng) của 형 nối với 을 → ng liên kết: [균형을].",
+      "meaning": "sự cân bằng"
+    },
+    {
+      "word": "암기하는",
+      "pronounced": "[암기하는]",
+      "rule": "Nối âm + Bật hơi",
+      "explanation": "Patchim ㅇ của 기 + ㅎ của 하 → bật hơi; 하는 liên kết.",
+      "meaning": "ghi nhớ, học thuộc"
+    },
+    {
+      "word": "능력이",
+      "pronounced": "[능녀기]",
+      "rule": "Biến âm mũi + Nối âm",
+      "explanation": "Patchim ㄱ của 력 gặp ㅇ của 이 → nối âm [녀기]; âm mũi ㅇ liên kết.",
+      "meaning": "năng lực"
+    },
+    {
+      "word": "배움에는",
+      "pronounced": "[배우메는]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅁ của 움 nối với 에는 → ㅁ chuyển: [배우메는].",
+      "meaning": "trong việc học"
     }
   ]
 }

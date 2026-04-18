@@ -4,28 +4,102 @@
   "translation": "Mỗi cuối tuần tôi đều đến thư viện để đọc sách hoặc học bài. Thư viện yên tĩnh và có không khí tốt để tập trung nên việc học rất hiệu quả. Thỉnh thoảng khi mệt mỏi vì học tập, tôi cũng đi dạo ở công viên gần thư viện để thư giãn đầu óc. Quá trình học hỏi kiến thức mới khi đọc sách thực sự rất vui và ý nghĩa. Cuối tuần này tôi có kế hoạch mượn một cuốn tiểu thuyết mới xuất bản, tôi đã thấy mong đợi rồi. Ở thư viện có rất nhiều sách thuộc các lĩnh vực đa dạng nên rất thú vị khi lựa chọn. Tôi chủ yếu thích đọc sách liên quan đến lịch sử hoặc tâm lý học. Thỉnh thoảng tôi cũng đọc tạp chí hoặc báo để cập nhật tin tức thế giới. Ở tầng 1 của thư viện cũng có quán cà phê nên tôi có thể tận hưởng một tách cà phê thư giãn khi đang học. Bánh sandwich bán ở quán cà phê cũng rất ngon nên tôi thường ăn vào bữa trưa. Đối với tôi, thư viện có ý nghĩa hơn cả một không gian học tập đơn thuần. Đó là một không gian quý giá nơi tôi có thể tích lũy kiến thức cho tâm hồn và nghỉ ngơi. Các bạn cũng hãy thường xuyên sử dụng thư viện gần nhà nhé. Giống như câu nói 'trong sách có con đường', bạn sẽ có thể gặp gỡ một thế giới mới. Cuối tuần này đi dạo thư viện thì thế nào nhỉ? Hãy cùng cảm nhận niềm vui của việc đọc sách nhé.",
   "annotatedWords": [
     {
+      "word": "책을",
+      "pronounced": "[채글]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄱ của 책 nối với nguyên âm 을 → ㄱ chuyển sang tiếp: [채글].",
+      "meaning": "cuốn sách"
+    },
+    {
       "word": "읽거나",
-      "pronounced": "일꺼나",
-      "rule": "Lược bỏ phụ âm & Căng hóa",
-      "explanation": "Patchim kép 'lg' (ㄺ) phát âm là 'l' (ㄹ) trước 'k' (ㄱ), và 'k' bị căng hóa thành 'kk' (ㄲ)."
+      "pronounced": "[일꺼나]",
+      "rule": "Nối âm + Căng hóa",
+      "explanation": "Patchim kép ㄺ của 읽: ㄹ ở lại, ㄱ nối với 거 → nối âm [일거]; ㄱ+ㄱ căng hóa [일꺼].",
+      "meaning": "đọc hoặc"
     },
     {
-      "word": "식히기도",
-      "pronounced": "시키기도",
-      "rule": "Âm bật hơi",
-      "explanation": "Patchim 'k' (ㄱ) gặp 'h' (ㅎ) biến thành âm bật hơi 'kh' (ㅋ)."
+      "word": "도서관에",
+      "pronounced": "[도서과네]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄴ của 관 nối với nguyên âm 에 → ㄴ chuyển: [과네].",
+      "meaning": "ở thư viện"
     },
     {
-      "word": "즐겁고",
-      "pronounced": "즐겁꼬",
-      "rule": "Căng hóa",
-      "explanation": "Âm 'k' (ㄱ) đứng sau patchim 'p' (ㅂ) bị căng hóa thành 'kk' (ㄲ)."
+      "word": "읽으면서",
+      "pronounced": "[일그면서]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim kép ㄺ: ㄹ ở lại, ㄱ nối với 으면서 → [일그면서]; patchim kép mở.",
+      "meaning": "trong khi đọc"
     },
     {
-      "word": "읽는",
-      "pronounced": "잉는",
-      "rule": "Biến âm mũi",
-      "explanation": "Patchim 'k' (ㄱ) gặp 'n' (ㄴ) biến thành 'ng' (ㅇ)."
+      "word": "지식을",
+      "pronounced": "[지시글]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄱ của 식 nối với nguyên âm 을 → ㄱ chuyển: [지시글].",
+      "meaning": "kiến thức"
+    },
+    {
+      "word": "과정이",
+      "pronounced": "[과정이]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅇ(ng) của 정 nối với 이 → ng liên kết liền mạch: [과정이].",
+      "meaning": "quá trình"
+    },
+    {
+      "word": "소설책을",
+      "pronounced": "[소설채글]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄱ của 책 nối với 을 → ㄱ chuyển: [소설채글]; chuỗi nối.",
+      "meaning": "cuốn tiểu thuyết"
+    },
+    {
+      "word": "분야의",
+      "pronounced": "[부냐에]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅇ(ng) của 야 nối với 의(에) → âm liên kết: [부냐에].",
+      "meaning": "của lĩnh vực"
+    },
+    {
+      "word": "신문을",
+      "pronounced": "[신무늘]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄴ của 문 nối với nguyên âm 을 → ㄴ chuyển: [신무늘].",
+      "meaning": "tờ báo"
+    },
+    {
+      "word": "소식을",
+      "pronounced": "[소시글]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄱ của 식 nối với 을 → ㄱ chuyển: [소시글]; dạng nối âm rất phổ biến.",
+      "meaning": "tin tức"
+    },
+    {
+      "word": "샌드위치도",
+      "pronounced": "[샌드위치도]",
+      "rule": "Nối âm 연음",
+      "explanation": "ㅊ patchim của 치 không có biến đổi; liên kết tự nhiên trong chuỗi.",
+      "meaning": "sandwich cũng"
+    },
+    {
+      "word": "점심으로",
+      "pronounced": "[점시므로]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅁ của 심 nối với 으로 → ㅁ chuyển: [점시므로].",
+      "meaning": "làm bữa trưa"
+    },
+    {
+      "word": "의미가",
+      "pronounced": "[의미가]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅁ của 미 không có patchim; âm tiếp theo liên kết tự nhiên.",
+      "meaning": "ý nghĩa"
+    },
+    {
+      "word": "양식을",
+      "pronounced": "[양시글]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄱ của 식 nối với 을 → ㄱ chuyển: [양시글].",
+      "meaning": "lương thực tinh thần"
     }
   ]
 }

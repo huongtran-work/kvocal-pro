@@ -4,28 +4,102 @@
   "translation": "Văn hóa công sở của Hàn Quốc gần đây đang thay đổi nhiều theo hướng coi trọng sự cân bằng giữa công việc và cuộc sống (Work-Life Balance). Trong quá khứ, việc làm thêm giờ thường xuyên và văn hóa tiệc tùng (Hoesik) rất mạnh mẽ, nhưng dạo này bầu không khí khuyến khích tan làm đúng giờ và tận hưởng các hoạt động văn hóa thay vì tiệc tùng đang được lan rộng. Ngoài ra, khi các doanh nghiệp áp dụng chế độ làm việc linh hoạt hoặc làm việc tại nhà ngày càng tăng, mọi người đã có thể tận dụng thời gian cá nhân một cách hiệu quả. Nhờ những thay đổi này, chất lượng cuộc sống của người đi làm được nâng cao và hiệu quả công việc cũng được cải thiện, tạo ra những hiệu ứng tích cực. Tôi cũng cảm thấy mình có thể tập trung hơn vào công việc khi có thể có thời gian cá nhân trong khi đi làm.",
   "annotatedWords": [
     {
-      "word": "변화하고",
-      "pronounced": "변화하고",
-      "rule": "Phát âm chuẩn",
-      "explanation": "Từ này phát âm theo đúng mặt chữ."
+      "word": "최근들어",
+      "pronounced": "[최근드러]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 들 nối với 어 → ㄹ chuyển: [드러]; liên kết mượt mà.",
+      "meaning": "gần đây"
     },
     {
-      "word": "확산되고",
-      "pronounced": "확싼되고",
-      "rule": "Căng hóa",
-      "explanation": "Âm 's' (ㅅ) đứng sau patchim 'k' (ㄱ) bị căng hóa thành 'ss' (ㅆ)."
+      "word": "변화하고있습니다",
+      "pronounced": "[변화하고잇씀니다]",
+      "rule": "Căng hóa + Biến âm mũi",
+      "explanation": "Patchim ㄱ của 있 căng hóa ㅅ → [잇씀]; ㅂ của 습 gặp ㄴ biến âm mũi [씀니다].",
+      "meaning": "đang thay đổi"
+    },
+    {
+      "word": "문화가",
+      "pronounced": "[문화가]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅎ? Không, 화 không có patchim; liên kết tự nhiên [문화가].",
+      "meaning": "văn hóa"
+    },
+    {
+      "word": "확산되고있어요",
+      "pronounced": "[확싼되고이써요]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㄱ của 확 căng hóa ㅅ → [싼]; patchim ㄱ của 있 nối với 어요 → [이써요].",
+      "meaning": "đang lan rộng"
+    },
+    {
+      "word": "근무제나",
+      "pronounced": "[근무제나]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄴ của 제 nối với 나 → ㄴ liên kết [근무제나].",
+      "meaning": "chế độ làm việc linh hoạt hoặc"
+    },
+    {
+      "word": "재택근무를",
+      "pronounced": "[재택끈무를]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㄱ của 택 căng hóa ㄱ của 근 → [끈]; patchim ㄹ của 무 nối với 를 → [무를].",
+      "meaning": "làm việc từ xa"
+    },
+    {
+      "word": "도입하는",
+      "pronounced": "[도이파는]",
+      "rule": "Bật hơi 격음화",
+      "explanation": "Patchim ㅂ của 입 kết hợp ㅎ của 하 → bật hơi [파]: [도이파는].",
+      "meaning": "áp dụng"
+    },
+    {
+      "word": "활용할수있게",
+      "pronounced": "[화룡할쑤읻께]",
+      "rule": "Biến âm lưỡi + Căng hóa + Nối âm",
+      "explanation": "Patchim ㄹ của 활+용 → [화룡]; ㄹ của 할+수 → căng hóa [쑤]; ㄷ của 있 căng hóa ㄱ → [읻께].",
+      "meaning": "để có thể sử dụng hiệu quả"
+    },
+    {
+      "word": "직장인들의",
+      "pronounced": "[직짱인드레]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㄱ của 직 căng hóa ㅈ → [짱]; patchim ㄹ của 들 nối với 의(에) → [드레].",
+      "meaning": "của dân văn phòng"
+    },
+    {
+      "word": "삶의질이",
+      "pronounced": "[살뫼찌리]",
+      "rule": "Nối âm + Căng hóa",
+      "explanation": "Patchim kép ㄻ của 삶: ㄹ+의 → [살뫼]; ㄹ của 질 nối với 이 → căng hóa [찌리].",
+      "meaning": "chất lượng cuộc sống"
+    },
+    {
+      "word": "높아지고",
+      "pronounced": "[노파지고]",
+      "rule": "Bật hơi + Nối âm",
+      "explanation": "Patchim ㅍ của 높 + 아 → [노파]; 아지고 nối tiếp.",
+      "meaning": "được nâng cao và"
+    },
+    {
+      "word": "업무효율성도",
+      "pronounced": "[엄무효율썽도]",
+      "rule": "Biến âm mũi + Căng hóa",
+      "explanation": "Patchim ㅂ của 업 gặp ㅁ của 무 → biến âm mũi [엄무]; patchim ㄹ căng hóa ㅅ → [썽].",
+      "meaning": "hiệu suất công việc cũng"
     },
     {
       "word": "향상되는",
-      "pronounced": "향상되는",
-      "rule": "Phát âm chuẩn",
-      "explanation": "Từ này phát âm theo đúng mặt chữ."
+      "pronounced": "[향상되는]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅇ(ng) của 상 nối với 되는 → ng liên kết tự nhiên [향상되는].",
+      "meaning": "được cải thiện"
     },
     {
-      "word": "집중할",
-      "pronounced": "집쭝할",
-      "rule": "Căng hóa",
-      "explanation": "Âm 'j' (ㅈ) đứng sau patchim 'p' (ㅂ) bị căng hóa thành 'jj' (ㅉ)."
+      "word": "집중할수있게",
+      "pronounced": "[집쭝할쑤읻께]",
+      "rule": "Căng hóa liên tiếp",
+      "explanation": "Patchim ㄱ của 집 căng hóa ㅈ → [쭝]; ㄹ của 할+수 → căng hóa [쑤]; ㄷ của 있 căng hóa ㄱ → [읻께].",
+      "meaning": "để có thể tập trung"
     }
   ]
 }

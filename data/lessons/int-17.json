@@ -4,28 +4,102 @@
   "translation": "Hàn Quốc có bốn mùa xuân, hạ, thu, đông rõ rệt nên bạn có thể cảm nhận được những vẻ đẹp khác nhau theo từng mùa. Vào mùa xuân, hoa anh đào rực rỡ nở rộ nhuộm hồng cả thế giới, vào mùa hè thì thật tuyệt để thực hiện những chuyến nghỉ mát mát mẻ tìm đến biển xanh và thung lũng. Vào mùa thu, lá phong đỏ rực trên khắp các ngọn núi là thời điểm tối ưu để tận hưởng việc leo núi, và vào mùa đông, tuyết trắng rơi giúp bạn có thể ngắm nhìn cảnh tuyết đẹp đẽ. Trong số đó, tôi thích nhất mùa thu với những cơn gió mát lành, khi nhìn bầu trời trong xanh, tôi cảm thấy tinh thần sảng khoái. Các bạn thích mùa nào nhất trong bốn mùa của Hàn Quốc? Khi gió xuân thổi nhẹ, mọi người đi dã ngoại với trang phục nhẹ nhàng. Vào mùa hè, mọi người thường ăn mì lạnh hoặc đá bào đậu đỏ mát lạnh để xua tan cái nóng gay gắt. Bầu trời mùa thu cao và xanh, không khí trong lành nên thời tiết rất tốt cho các hoạt động ngoài trời. Vào mùa đông, việc ngồi trong phòng sưởi ấm áp, bóc quýt ăn và dành thời gian bên gia đình là một hạnh phúc nhỏ bé. Hình ảnh màu sắc của núi rừng và đồng ruộng thay đổi theo sự chuyển giao mùa thực sự rất kinh ngạc. Người Hàn Quốc đã duy trì sức khỏe bằng cách ăn các loại thực phẩm theo mùa phù hợp với từng thời điểm. Sự thay đổi bốn mùa này cũng mang lại nguồn cảm hứng phong phú cho nghệ thuật và văn học Hàn Quốc. Các lễ hội đa dạng được tổ chức theo mùa là cơ hội rất tốt để trải nghiệm văn hóa Hàn Quốc. Nhờ bốn mùa rõ rệt mà Hàn Quốc là nơi bạn có thể cảm nhận được sức lôi cuốn mới mẻ mỗi khi ghé thăm. Tuy nhiên, dạo gần đây tôi cũng cảm thấy đáng tiếc khi đặc trưng của các mùa đang dần thay đổi do biến đổi khí hậu. Tất cả chúng ta nên trân trọng môi trường trái đất để tiếp tục giữ gìn bốn mùa đẹp đẽ. Ở đất nước của bạn có bốn mùa không? Hay có khí hậu như thế nào? Hy vọng bạn sẽ trực tiếp kiểm tra những cảnh sắc mùa đa dạng của Hàn Quốc bằng chính đôi mắt mình.",
   "annotatedWords": [
     {
-      "word": "뚜렷한",
-      "pronounced": "뚜려탄",
-      "rule": "Âm bật hơi",
-      "explanation": "Patchim 't' (ㅅ) gặp 'h' (ㅎ) biến thành âm bật hơi 't' (ㅌ)."
+      "word": "사계절이",
+      "pronounced": "[사계저리]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 절 nối với 이 → ㄹ chuyển: [사계저리].",
+      "meaning": "bốn mùa"
+    },
+    {
+      "word": "아름다움을",
+      "pronounced": "[아름다우믈]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅁ của 움 nối với 을 → ㅁ chuyển: [아름다우믈].",
+      "meaning": "vẻ đẹp"
     },
     {
       "word": "벚꽃이",
-      "pronounced": "벚꼬치",
-      "rule": "Căng hóa & Nối âm",
-      "explanation": "Âm 'k' (ㄱ) bị căng hóa thành 'kk' (ㄲ), và patchim 'ch' (ㅊ) nối lên nguyên âm 'i' (이)."
+      "pronounced": "[벚꼬치]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㅅ của 벚 căng hóa ㄱ của 꽃 → [꽃]; patchim ㅊ nối với 이 → [꼬치].",
+      "meaning": "hoa anh đào"
+    },
+    {
+      "word": "분홍빛으로",
+      "pronounced": "[분홍비츠로]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅅ của 빛 nối với 으로 → ㅅ chuyển thành [츠]: [비츠로].",
+      "meaning": "thành màu hồng"
+    },
+    {
+      "word": "최적의",
+      "pronounced": "[최저게]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄱ của 적 nối với 의(에) → ㄱ chuyển: [최저게].",
+      "meaning": "tốt nhất, tối ưu"
+    },
+    {
+      "word": "단풍이",
+      "pronounced": "[단풍이]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅇ(ng) của 풍 nối với 이 → ng liên kết: [단풍이].",
+      "meaning": "lá mùa thu"
+    },
+    {
+      "word": "등산을",
+      "pronounced": "[등산을]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄴ của 산 nối với 을 → ㄴ chuyển: [등사늘].",
+      "meaning": "leo núi"
+    },
+    {
+      "word": "계절마다",
+      "pronounced": "[계절마다]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 절 nối với 마다 → ㄹ liên kết [계절마다].",
+      "meaning": "mỗi mùa"
+    },
+    {
+      "word": "냉면이나",
+      "pronounced": "[냉며니나]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄴ của 면 nối với 이나 → ㄴ chuyển: [냉며니나].",
+      "meaning": "mì lạnh hoặc"
+    },
+    {
+      "word": "팥빙수를",
+      "pronounced": "[팓삥수를]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㅅ của 팥 căng hóa ㅂ → [삥]; patchim ㄹ của 수 nối với 를 → [수를].",
+      "meaning": "kem đá đậu đỏ"
+    },
+    {
+      "word": "음식을",
+      "pronounced": "[음시글]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄱ của 식 nối với 을 → ㄱ chuyển: [음시글].",
+      "meaning": "thức ăn, đồ ăn"
+    },
+    {
+      "word": "즐겨먹어요",
+      "pronounced": "[즐겨머거요]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄱ của 먹 nối với 어요 → ㄱ chuyển: [머거요]; 2 lần nối âm liên tiếp.",
+      "meaning": "thường xuyên ăn"
     },
     {
       "word": "울긋불긋한",
-      "pronounced": "울굳불구탄",
-      "rule": "Âm bật hơi",
-      "explanation": "Patchim 'k' (ㄱ) gặp 'h' (ㅎ) biến thành âm bật hơi 'kh' (ㅋ)."
+      "pronounced": "[울긋뿔그탄]",
+      "rule": "Căng hóa + Bật hơi",
+      "explanation": "Patchim ㅅ của 긋 căng hóa ㅂ → [뿔]; patchim ㄱ của 긋₂ gặp ㅎ của 한 → bật hơi [그탄].",
+      "meaning": "rực rỡ nhiều màu"
     },
     {
-      "word": "상쾌해지는",
-      "pronounced": "상쾌해지는",
-      "rule": "Phát âm chuẩn",
-      "explanation": "Từ này phát âm theo đúng mặt chữ."
+      "word": "영감을",
+      "pronounced": "[영가믈]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅁ của 감 nối với 을 → ㅁ chuyển: [영가믈].",
+      "meaning": "nguồn cảm hứng"
     }
   ]
 }

@@ -7,120 +7,113 @@
       "word": "윤리적책임은",
       "pronounced": "[율리쩍채기믄]",
       "rule": "Biến âm lưỡi + Căng hóa + Nối âm",
-      "explanation": "ㄴ của 윤 gặp ㄹ → [율리]; ㄱ gặp ㅈ → [쩍]; 임+은 nối âm [채기믄].",
-      "meaning": "trách nhiệm đạo đức"
+      "explanation": "ㄴ의 윤+ㄹ biến âm lưỡi [율리]; ㄱ+ㅈ căng hóa [쩍]; ㄱ의 임+은 nối âm [채기믄]; chuỗi 6 âm tiết.",
+      "meaning": "trách nhiệm đạo đức thì"
     },
     {
-      "word": "강조되고",
-      "pronounced": "[강조되고]",
+      "word": "강조되고있습니다",
+      "pronounced": "[강조되고잇씀니다]",
+      "rule": "Nối âm + Căng hóa + Biến âm mũi",
+      "explanation": "ㄱ의 있 căng hóa [잇씀]; ㅂ+ㄴ biến âm mũi [씀니다]; chuỗi 6 âm tiết.",
+      "meaning": "đang được nhấn mạnh"
+    },
+    {
+      "word": "첨단과학기술은",
+      "pronounced": "[첨단과학끼수른]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "ㄱ의 학+ㄱ의 기 căng hóa [끼]; ㄹ의 술+은 nối âm [수른]; chuỗi 7 âm tiết.",
+      "meaning": "công nghệ khoa học tiên tiến thì"
+    },
+    {
+      "word": "삶을혁명적으로변화시킬잠재력을가지고있지만",
+      "pronounced": "[사뤄혁명쩌그로변화시킬잠재녀글가지고잇찌만]",
+      "rule": "Nối âm patchim kép + Căng hóa liên tiếp + Biến âm mũi + Căng hóa",
+      "explanation": "Patchim kép ㄻ의 삶+을 → [사뤄]; ㄱ+ㅈ căng hóa [쩍]; ㄱ의 력+을 nối âm [녀글]; ㄱ의 있+ㅈ căng hóa [잇찌]; chuỗi 16 âm tiết.",
+      "meaning": "có tiềm năng thay đổi cuộc sống một cách cách mạng nhưng"
+    },
+    {
+      "word": "심각한부작용을초래할위험도내포하고있습니다",
+      "pronounced": "[심가칸부자뇨글초래할위험도내포하고잇씀니다]",
+      "rule": "Bật hơi + Nối âm + Biến âm mũi",
+      "explanation": "ㄱ의 각+ㅎ bật hơi [가칸]; ㄱ의 용+을 nối âm [뇨글]; ㄱ의 있 căng hóa; ㅂ+ㄴ biến âm mũi; chuỗi 14 âm tiết.",
+      "meaning": "đang chứa đựng nguy cơ gây ra tác dụng phụ nghiêm trọng"
+    },
+    {
+      "word": "자신의연구가사회에미칠영향을깊이고민하고",
+      "pronounced": "[자시네연구가사회에미칠령향을기피고미나고]",
+      "rule": "Nối âm + Biến âm lưỡi + Bật hơi",
+      "explanation": "신+의(에) nối âm [시네]; ㄹ의 칠+령 biến âm lưỡi [칠령]; ㅂ의 깊+이 nối âm [기피]; ㄴ의 민+ㅎ bật hơi [미나]; chuỗi 14 âm tiết.",
+      "meaning": "suy nghĩ sâu sắc về tác động mà nghiên cứu gây ra cho xã hội và"
+    },
+    {
+      "word": "연구과정에서윤리적원칙을철저히준수해야합니다",
+      "pronounced": "[연구과정에서율리쩍원칙을철쩌히준수해야함니다]",
+      "rule": "Nối âm + Biến âm lưỡi + Căng hóa liên tiếp + Biến âm mũi",
+      "explanation": "ㅇ의 정+에서 nối âm; ㄴ의 윤+ㄹ biến âm lưỡi [율리]; ㄱ+ㅈ căng hóa [쩍]; ㄹ의 철+ㅈ căng hóa Hán [쩌]; ㅂ+ㄴ biến âm mũi [함니다]; chuỗi 17 âm tiết.",
+      "meaning": "phải triệt để tuân thủ các nguyên tắc đạo đức trong quá trình nghiên cứu"
+    },
+    {
+      "word": "사회적감시와제도적장치가마련되어야합니다",
+      "pronounced": "[사회쩍감시와제도쩍짱치가마련되어야함니다]",
+      "rule": "Căng hóa liên tiếp + Biến âm mũi",
+      "explanation": "ㄱ+ㅈ căng hóa [쩍] ×2; ㄱ의 적+ㅈ의 장 căng hóa [쩍짱]; ㅂ+ㄴ biến âm mũi [함니다]; chuỗi 14 âm tiết.",
+      "meaning": "phải được chuẩn bị sự giám sát xã hội và cơ chế thể chế"
+    },
+    {
+      "word": "인류전체의복지증진과평화에기여할수있는방향으로나아가야합니다",
+      "pronounced": "[일류전체에복찌증진꽈평화에기여할쑤인는방향으로나아가야함니다]",
+      "rule": "Biến âm lưỡi + Căng hóa + Nối âm + Biến âm mũi",
+      "explanation": "ㄴ의 인+ㄹ biến âm lưỡi [일류]; 체+의(에) nối âm; ㄱ의 복+ㅈ căng hóa [복찌]; 진+과 căng hóa [진꽈]; 할+수 căng hóa [쑤]; 있+는 biến âm mũi; ㅂ+ㄴ biến âm mũi; chuỗi 20 âm tiết.",
+      "meaning": "phải hướng đến việc đóng góp cho phúc lợi và hòa bình của toàn thể nhân loại"
+    },
+    {
+      "word": "과학기술과인문학적성찰이조화를이룰때",
+      "pronounced": "[과학끼술꽈인문학쩍성차리조화를이룰때]",
+      "rule": "Căng hóa liên tiếp + Nối âm",
+      "explanation": "ㄱ의 학+ㄱ căng hóa [끼]; 술+과 căng hóa [술꽈]; ㄱ의 학+ㄱ의 적 căng hóa [쩍]; ㄹ의 찰+이 nối âm [차리]; chuỗi 12 âm tiết.",
+      "meaning": "khi khoa học công nghệ và triết học nhân văn hài hòa"
+    },
+    {
+      "word": "기술을지혜롭게통제하고더나은미래를설계할수있습니다",
+      "pronounced": "[기수를지혜롭께통제하고더나은미래를설계할쑤잇씀니다]",
+      "rule": "Nối âm + Căng hóa + Biến âm mũi",
+      "explanation": "ㄹ의 술+을 nối âm [수를]; ㅂ의 롭+게 căng hóa [롭께]; 할+수 căng hóa [쑤]; ㄱ의 있 căng hóa; ㅂ+ㄴ biến âm mũi; chuỗi 18 âm tiết.",
+      "meaning": "có thể kiểm soát công nghệ một cách khôn ngoan và thiết kế tương lai tốt hơn"
+    },
+    {
+      "word": "미래세대에게물려줄세상이기술의노예가아닌기술을다스리는인간중심의사회가되도록",
+      "pronounced": "[미래세대에게물려줄세상이기수레노예가아닌기수를다스리는인간중시메사회가되도록]",
+      "rule": "Nối âm chuỗi dài + Biến âm lưỡi",
+      "explanation": "대+에게 nối âm [대에게]; ㄹ의 물+려 nối âm [물려]; 술+의(에) nối âm [수레] ×2; 중+시+의(에) nối âm [중시메]; chuỗi 22 âm tiết.",
+      "meaning": "để thế giới để lại cho thế hệ tương lai trở thành xã hội lấy con người làm trung tâm điều khiển công nghệ, không phải nô lệ của công nghệ"
+    },
+    {
+      "word": "우리모두가관심을가져야합니다",
+      "pronounced": "[우리모두가관시믈가져야함니다]",
+      "rule": "Nối âm + Biến âm mũi",
+      "explanation": "ㅁ의 심+을 nối âm [시믈]; ㅂ+ㄴ biến âm mũi [함니다]; chuỗi 9 âm tiết.",
+      "meaning": "tất cả chúng ta phải quan tâm"
+    },
+    {
+      "word": "나노기술인공지능등",
+      "pronounced": "[나노기술인공지능등]",
+      "rule": "Nối âm chuỗi Hán-Hàn",
+      "explanation": "Chuỗi 8 âm tiết: 술+인 nối âm [수린]; 공지능 các patchim ㅇ liên kết liền mạch; toàn chuỗi tự nhiên.",
+      "meaning": "công nghệ nano, trí tuệ nhân tạo, v.v."
+    },
+    {
+      "word": "인류에게미치는영향이",
+      "pronounced": "[일류에게미치는영향이]",
+      "rule": "Biến âm lưỡi + Nối âm chuỗi",
+      "explanation": "ㄴ의 인+ㄹ biến âm lưỡi [일류]; 류+에게 nối âm [류에게]; ㅇ의 향+이 nối âm [향이]; chuỗi 9 âm tiết.",
+      "meaning": "ảnh hưởng tác động lên nhân loại"
+    },
+    {
+      "word": "거대해짐에따라",
+      "pronounced": "[거대해지메따라]",
       "rule": "Nối âm 연음",
-      "explanation": "Patchim ㅇ câm; các âm tiết liên kết tự nhiên.",
-      "meaning": "được nhấn mạnh và"
-    },
-    {
-      "word": "잠재력을",
-      "pronounced": "[잠재녀글]",
-      "rule": "Biến âm mũi + Nối âm",
-      "explanation": "Patchim ㄱ của 력 gặp 을 → nối âm [녀글].",
-      "meaning": "tiềm năng"
-    },
-    {
-      "word": "생명경시",
-      "pronounced": "[생명경시]",
-      "rule": "Căng hóa 경음화",
-      "explanation": "Patchim ㅇ của 명 gặp ㄱ của 경 → căng hóa nhẹ trong Hán-Hàn.",
-      "meaning": "coi thường sinh mạng"
-    },
-    {
-      "word": "초래할",
-      "pronounced": "[초래할]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㄹ của 래 + ㅎ của 할 → bật hơi nhẹ; liên kết mượt.",
-      "meaning": "sẽ gây ra"
-    },
-    {
-      "word": "내포하고",
-      "pronounced": "[내포하고]",
-      "rule": "Bật hơi 격음화",
-      "explanation": "Patchim ㅇ của 포 + ㅎ của 하 → bật hơi nhẹ [내포하고].",
-      "meaning": "chứa đựng và"
-    },
-    {
-      "word": "연구과정에서",
-      "pronounced": "[연구과정에서]",
-      "rule": "Nối âm 연음",
-      "explanation": "Chuỗi 6 âm tiết Hán-Hàn; patchim ㅇ của 정 nối với 에서 tự nhiên.",
-      "meaning": "trong quá trình nghiên cứu"
-    },
-    {
-      "word": "철저히",
-      "pronounced": "[철쩌히]",
-      "rule": "Căng hóa 경음화 (Hán tự)",
-      "explanation": "Patchim ㄹ của 철 gặp ㅈ của 저 trong Hán-Hàn → căng hóa [쩌].",
-      "meaning": "một cách triệt để"
-    },
-    {
-      "word": "준수해야",
-      "pronounced": "[준수해야]",
-      "rule": "Nối âm + Bật hơi",
-      "explanation": "Patchim ㅅ của 수 + 해 → bật hơi nhẹ; chuỗi liên kết.",
-      "meaning": "phải tuân thủ"
-    },
-    {
-      "word": "훼손하지",
-      "pronounced": "[훼소나지]",
-      "rule": "Biến âm mũi + Bật hơi",
-      "explanation": "Patchim ㄴ của 손 + ㅎ của 하 → biến đổi [나]; 나지 liên kết.",
-      "meaning": "gây thiệt hại không"
-    },
-    {
-      "word": "감시와",
-      "pronounced": "[감시와]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㅅ của 시 liên kết nhẹ với 와; không biến đổi.",
-      "meaning": "sự giám sát và"
-    },
-    {
-      "word": "경계해야",
-      "pronounced": "[경계해야]",
-      "rule": "Bật hơi 격음화",
-      "explanation": "Patchim ㄱ của 계 + ㅎ của 해 → bật hơi [경계해야].",
-      "meaning": "phải cảnh giác"
-    },
-    {
-      "word": "복지증진과",
-      "pronounced": "[복찌증진꽈]",
-      "rule": "Căng hóa 경음화",
-      "explanation": "Patchim ㄱ của 복 gặp ㅈ의 지 → căng hóa [찌]; 진+과 → căng hóa [꽈].",
-      "meaning": "cải thiện phúc lợi và"
-    },
-    {
-      "word": "인문학적",
-      "pronounced": "[인문학쩍]",
-      "rule": "Căng hóa 경음화",
-      "explanation": "Patchim ㄱ của 학 gặp ㅈ của 적 → căng hóa [쩍].",
-      "meaning": "mang tính nhân văn"
-    },
-    {
-      "word": "조화를",
-      "pronounced": "[조화를]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㄹ của 화 nối với 를 → [화를] liên kết tự nhiên.",
-      "meaning": "sự hài hòa"
-    },
-    {
-      "word": "물려줄",
-      "pronounced": "[물려줄]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㄹ của 줄 liên kết nhẹ; chuỗi ㄹ liên tiếp.",
-      "meaning": "để lại cho"
-    },
-    {
-      "word": "통제하고",
-      "pronounced": "[통제하고]",
-      "rule": "Nối âm + Bật hơi",
-      "explanation": "Patchim ㅇ của 제 + ㅎ của 하 → bật hơi nhẹ; 하고 liên kết.",
-      "meaning": "kiểm soát và"
+      "explanation": "ㅁ의 짐+에 nối âm [지메]; 에+따라 liên kết; chuỗi 6 âm tiết mượt mà.",
+      "meaning": "khi trở nên khổng lồ theo"
     }
   ]
 }

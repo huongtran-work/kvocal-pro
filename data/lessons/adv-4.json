@@ -4,130 +4,116 @@
   "translation": "Cùng với sự xuất hiện của thời đại Cách mạng Công nghiệp lần thứ 4, tầm quan trọng của giáo dục suốt đời đang được nhấn mạnh hơn bao giờ hết. Đó là bởi vì thời hạn hữu hiệu của kiến thức đang ngắn lại và đổi mới công nghệ đang được đẩy nhanh, khiến việc ứng phó với xã hội thay đổi nhanh chóng chỉ bằng kiến thức đã học ở trường trở nên khó khăn. Giờ đây, giáo dục không chỉ diễn ra vào một thời điểm cụ thể mà đã trở thành một yếu tố thiết yếu phải được thực hiện liên tục trong suốt quá trình sống. Cần có thái độ không ngừng học hỏi và khám phá để tăng cường năng lực cá nhân và thích nghi với môi trường mới. Chính phủ và cộng đồng địa phương phải xây dựng cơ sở hạ tầng học tập suốt đời đa dạng để bất kỳ ai cũng có thể nhận được giáo dục mong muốn mọi lúc mọi nơi. Ngoài ra, các doanh nghiệp cũng phải tích cực hỗ trợ sự phát triển bản thân của các thành viên và tạo ra văn hóa tổ chức học tập. Việc học không có điểm dừng, và trong quá trình tiếp thu kiến thức mới, chúng ta có thể tìm thấy sức sống và ý nghĩa của cuộc sống. Giáo dục suốt đời sẽ trở thành động lực cốt lõi không chỉ cho sự phát triển cá nhân mà còn nâng cao khả năng cạnh tranh của toàn xã hội. Tất cả chúng ta phải cùng nhau tạo ra một cộng đồng học tập nơi mọi người có thể tận hưởng niềm vui của việc học và cùng nhau trưởng성.",
   "annotatedWords": [
     {
-      "word": "평생교육",
-      "pronounced": "[평생교육]",
-      "rule": "Nối âm 연음",
-      "explanation": "Chuỗi Hán-Hàn; không có biến âm lớn, các âm tiết liên kết tự nhiên.",
-      "meaning": "giáo dục suốt đời"
+      "word": "평생교육의중요성이",
+      "pronounced": "[평생교유게중요성이]",
+      "rule": "Nối âm chuỗi",
+      "explanation": "ㄱ của 육+의(에) nối âm [유게]; ㅇ của 성+이 nối âm [성이]; 2 lần nối âm trong chuỗi 7 âm tiết.",
+      "meaning": "tầm quan trọng của giáo dục suốt đời"
     },
     {
-      "word": "중요성이",
-      "pronounced": "[중요성이]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㅇ của 성 nối với nguyên âm 이 → [성이] đọc liền.",
-      "meaning": "tầm quan trọng"
+      "word": "강조되고있습니다",
+      "pronounced": "[강조되고잇씀니다]",
+      "rule": "Nối âm + Căng hóa + Biến âm mũi",
+      "explanation": "ㄱ của 있 căng hóa ㅅ → [잇씀]; ㅂ+ㄴ biến âm mũi [씀니다]; chuỗi 6 âm tiết.",
+      "meaning": "đang được nhấn mạnh"
     },
     {
-      "word": "강조되고",
-      "pronounced": "[강조되고]",
-      "rule": "Nối âm 연음",
-      "explanation": "ㅇ patchim của 강 câm, các âm tiết liên kết liên tục.",
-      "meaning": "được nhấn mạnh và"
+      "word": "유효기간이짧아지고",
+      "pronounced": "[유효기가니짤바지고]",
+      "rule": "Nối âm liên tiếp",
+      "explanation": "ㄴ의 간+이 nối âm [가니]; ㄹ의 짧+아 nối âm (patchim kép ㄼ→ㄹ) [짤바]; 2 lần nối âm.",
+      "meaning": "thời hạn hiệu lực ngắn lại và"
     },
     {
-      "word": "급변하는",
-      "pronounced": "[급뼌하는]",
-      "rule": "Căng hóa + Bật hơi",
-      "explanation": "Patchim ㅂ của 급 căng hóa ㅂ của 변 → [뼌]; ㄴ của 변 + ㅎ bật hơi.",
-      "meaning": "đang biến đổi nhanh"
+      "word": "끊임없이배우고",
+      "pronounced": "[끄니멉씨배우고]",
+      "rule": "Nối âm patchim kép liên tiếp",
+      "explanation": "ㄶ patchim kép: ㄴ giữ [끄님]; 없+이 nối âm (ㅄ→ㅂ+이) [멉씨]; 2 lần patchim kép.",
+      "meaning": "không ngừng học và"
     },
     {
-      "word": "적응하기",
-      "pronounced": "[저긍하기]",
+      "word": "적응하기위해",
+      "pronounced": "[저긍하기위해]",
       "rule": "Nối âm + Bật hơi",
-      "explanation": "ㄱ của 적 nối với 응 → [저긍]; 응+하 bật hơi nhẹ.",
+      "explanation": "ㄱ의 적+응 nối âm [저긍]; ㅎ bật hơi tự nhiên; chuỗi 5 âm tiết liên kết.",
       "meaning": "để thích ứng"
     },
     {
-      "word": "끊임없이",
-      "pronounced": "[끄니멉씨]",
-      "rule": "Biến âm mũi + Nối âm",
-      "explanation": "Patchim kép ㄶ: ㄴ giữ lại, ㅎ câm; 없+이 nối âm → [멉씨].",
-      "meaning": "không ngừng"
+      "word": "삶의전과정에걸쳐",
+      "pronounced": "[사뤄전과정에걸쳐]",
+      "rule": "Nối âm patchim kép + Nối âm",
+      "explanation": "Patchim kép ㄻ của 삶+의 → [사뤄]; ㅇ의 정+에 nối âm [정에]; 걸+쳐 nối âm; chuỗi 7 âm tiết.",
+      "meaning": "trải qua toàn bộ cuộc đời"
     },
     {
-      "word": "탐구하는",
-      "pronounced": "[탐구하는]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㄱ của 탐 câm, 구+하 bật hơi nhẹ; chuỗi liên kết mượt.",
-      "meaning": "khám phá, tìm tòi"
+      "word": "이루어져야하는",
+      "pronounced": "[이루어져야하는]",
+      "rule": "Nối âm chuỗi nguyên âm",
+      "explanation": "ㄹ của 루+어져야 nối âm liên tiếp [루어져야]; 야+하 liên kết; chuỗi 7 âm tiết mượt mà.",
+      "meaning": "phải được thực hiện"
     },
     {
-      "word": "인프라를",
-      "pronounced": "[인프라를]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㄹ của 라 nối với 를 → đọc liền mạch [인프라를].",
-      "meaning": "cơ sở hạ tầng"
+      "word": "학습인프라를구축해야합니다",
+      "pronounced": "[학씁인프라를구추캐야함니다]",
+      "rule": "Căng hóa + Bật hơi + Biến âm mũi",
+      "explanation": "ㄱ của 학 căng hóa ㅅ → [씁]; ㄱ의 축+ㅎ bật hơi [추캐]; ㅂ+ㄴ biến âm mũi [함니다]; chuỗi 11 âm tiết.",
+      "meaning": "phải xây dựng cơ sở hạ tầng học tập"
     },
     {
-      "word": "구축해야",
-      "pronounced": "[구추캐야]",
-      "rule": "Bật hơi 격음화",
-      "explanation": "Patchim ㄱ của 축 kết hợp ㅎ của 해 → bật hơi [캐].",
-      "meaning": "phải xây dựng"
+      "word": "역량을강화하고",
+      "pronounced": "[영냥을강화하고]",
+      "rule": "Biến âm mũi + Nối âm + Bật hơi",
+      "explanation": "ㄱ의 역+ㄴ의 냥 → biến âm mũi [영냥]; ㅇ의 냥+을 nối âm; ㅎ bật hơi tự nhiên.",
+      "meaning": "tăng cường năng lực và"
     },
     {
-      "word": "자기계발을",
-      "pronounced": "[자기계바를]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㄹ của 발 nối với nguyên âm 을 → [바를]; các âm tiết liên kết.",
-      "meaning": "sự phát triển bản thân"
+      "word": "지식을습득하는",
+      "pronounced": "[지시글습뜨카는]",
+      "rule": "Nối âm + Căng hóa + Bật hơi",
+      "explanation": "ㄱ의 식+을 nối âm [시글]; ㅂ의 습+ㄷ căng hóa [뜩]; ㄱ의 뜩+ㅎ bật hơi [뜨카]; chuỗi 6 âm tiết.",
+      "meaning": "tiếp thu kiến thức"
     },
     {
-      "word": "학습하는",
-      "pronounced": "[학씁하는]",
-      "rule": "Căng hóa + Bật hơi",
-      "explanation": "Patchim ㄱ của 학 căng hóa ㅅ của 습 → [씁]; ㅂ patchim + ㅎ → bật hơi.",
-      "meaning": "đang học tập"
+      "word": "학습하는조직문화를",
+      "pronounced": "[학씁하는조징무놔를]",
+      "rule": "Căng hóa + Biến âm mũi + Nối âm",
+      "explanation": "ㄱ의 학 căng hóa ㅅ → [씁]; ㄱ의 직+ㅁ → biến âm mũi [조징]; ㄹ의 화+를 nối âm; chuỗi 7 âm tiết.",
+      "meaning": "văn hóa tổ chức học tập"
     },
     {
-      "word": "지식을",
-      "pronounced": "[지시글]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㄱ của 식 nối với nguyên âm 을 → [시글].",
-      "meaning": "kiến thức"
+      "word": "자기계발을적극적으로지원하고",
+      "pronounced": "[자기계바를쩍끄쩌그로지워나고]",
+      "rule": "Nối âm + Căng hóa liên tiếp",
+      "explanation": "ㄹ의 발+을 nối âm [바를]; ㄱ+ㄱ căng hóa [쩍끄]; ㄱ+ㅈ căng hóa [쩌그]; ㄴ+ㅎ bật hơi [나고]; chuỗi 13 âm tiết.",
+      "meaning": "tích cực hỗ trợ phát triển bản thân và"
     },
     {
-      "word": "습득하는",
-      "pronounced": "[습뜨카는]",
-      "rule": "Căng hóa + Bật hơi",
-      "explanation": "Patchim ㅂ của 습 căng hóa ㄷ của 득 → [뜩]; ㄱ patchim + ㅎ → bật hơi [카].",
-      "meaning": "tiếp thu"
+      "word": "경쟁력을높이는",
+      "pronounced": "[경쟁녀글노피는]",
+      "rule": "Biến âm mũi + Nối âm + Bật hơi",
+      "explanation": "ㄱ의 력+을 nối âm [녀글]; ㅍ의 높+이 → bật hơi [노피]; 2 loại biến âm liên tiếp.",
+      "meaning": "nâng cao năng lực cạnh tranh"
     },
     {
-      "word": "역량을",
-      "pronounced": "[영냥을]",
-      "rule": "Biến âm mũi 비음화",
-      "explanation": "Patchim ㄱ của 역 gặp ㄴ của 냥 → ㄱ biến thành ㅇ → [영냥].",
-      "meaning": "năng lực"
+      "word": "활력과보람을찾을수있습니다",
+      "pronounced": "[활려꽈보라믈차즐쑤잇씀니다]",
+      "rule": "Biến âm mũi + Căng hóa + Nối âm + Biến âm mũi",
+      "explanation": "ㄱ의 력+과 → [녀꽈]; ㅁ의 람+을 nối âm [라믈]; 할+수 căng hóa [쑤]; ㄱ의 있 căng hóa; ㅂ+ㄴ biến âm mũi [씀니다]; chuỗi 11 âm tiết.",
+      "meaning": "có thể tìm thấy sức sống và ý nghĩa"
     },
     {
-      "word": "경쟁력을",
-      "pronounced": "[경쟁녀글]",
-      "rule": "Biến âm mũi + Nối âm",
-      "explanation": "ㄱ của 력 gặp 을 → nối âm [녀글]; patchim ㄱ trước ㄴ biến âm mũi.",
-      "meaning": "năng lực cạnh tranh"
+      "word": "핵심적인동력이될것입니다",
+      "pronounced": "[핵씸쩌긴동녀기될꺼심니다]",
+      "rule": "Căng hóa liên tiếp + Nối âm",
+      "explanation": "ㄱ의 핵 căng hóa ㅅ [씸]; ㄱ+ㅈ căng hóa [쩍]; ㄱ의 력+이 nối âm [녀기]; ㄱ의 것 căng hóa; ㅂ+ㄴ biến âm mũi [심니다]; chuỗi 9 âm tiết.",
+      "meaning": "sẽ là động lực cốt lõi"
     },
     {
-      "word": "조직문화를",
-      "pronounced": "[조징무놔를]",
-      "rule": "Biến âm mũi 비음화",
-      "explanation": "Patchim ㄱ của 직 gặp ㅁ của 문 → biến thành ㅇ [조징]; 문+화 liên kết.",
-      "meaning": "văn hóa tổ chức"
-    },
-    {
-      "word": "학교육",
-      "pronounced": "[학꾜육]",
-      "rule": "Căng hóa 경음화",
-      "explanation": "Patchim ㄱ của 학 gặp ㄱ của 교 → căng hóa [꾜].",
-      "meaning": "giáo dục trường học"
-    },
-    {
-      "word": "활력과",
-      "pronounced": "[활력꽈]",
-      "rule": "Căng hóa 경음화",
-      "explanation": "Patchim ㄱ của 력 căng hóa ㄱ của 과 → [꽈].",
-      "meaning": "sức sống và"
+      "word": "배움의즐거움을",
+      "pronounced": "[배우메즐거우믈]",
+      "rule": "Nối âm liên tiếp",
+      "explanation": "ㅁ의 움+의(에) nối âm [우메]; ㅁ의 움₂+을 nối âm [우믈]; 2 lần nối âm cùng loại.",
+      "meaning": "niềm vui học tập"
     }
   ]
 }

@@ -4,130 +4,116 @@
   "translation": "Giá trị cốt lõi của dân chủ là tất cả công dân tham gia vào quá trình ra quyết định xã hội một cách tự do và bình đẳng. Vì một xã hội dân chủ trưởng thành, cần có thái độ tôn trọng ý kiến của người khác và nỗ lực đưa ra kết luận hợp lý thông qua đối thoại và thỏa hiệp, thay vì chỉ dừng lại ở việc tham gia bỏ phiếu. Chúng ta phải có thái độ bảo vệ quyền của người khác và hoàn thành trách nhiệm của cộng đồng cũng như việc khẳng định quyền lợi của chính mình. Ngoài ra, thái độ bao dung lắng nghe tiếng nói của những người yếu thế trong xã hội cùng với việc giám sát phản biện đối với quyền lực là rất quan trọng. Cần có nỗ lực rèn luyện tố chất với tư cách là công dân dân chủ thông qua giáo dục và thực hiện các nguyên tắc dân chủ trong cuộc sống hàng ngày. Khi dựa trên tinh thần đoàn kết và hợp tác vượt qua xung đột và đối lập, dân chủ mới có thể trở nên vững chắc. Chúng ta phải phát huy ý thức công dân trưởng thành, không ngừng giao tiếp và công nhận sự khác biệt của nhau để tạo ra một cộng đồng tốt đẹp hơn. Chúng ta không được quên rằng dân chủ không phải là một kết quả đã hoàn thành, mà là một quá trình không ngừng nghỉ mà chúng ta cùng nhau tạo ra.",
   "annotatedWords": [
     {
-      "word": "민주주의의",
-      "pronounced": "[민주주이에]",
-      "rule": "Nối âm 연음",
-      "explanation": "의의 phát âm là [이에]; chuỗi 5 âm tiết liên kết liền mạch.",
-      "meaning": "của dân chủ"
+      "word": "민주주의의핵심가치는",
+      "pronounced": "[민주주이에핵씸까치는]",
+      "rule": "Nối âm + Căng hóa liên tiếp",
+      "explanation": "의의→[이에] nối âm; ㄱ의 핵 căng hóa ㅅ [씸]; ㅁ의 심 căng hóa ㄱ [까]; chuỗi 8 âm tiết.",
+      "meaning": "giá trị cốt lõi của dân chủ thì"
     },
     {
-      "word": "핵심가치는",
-      "pronounced": "[핵씸까치는]",
-      "rule": "Căng hóa (Hán tự)",
-      "explanation": "Patchim ㄱ của 핵 căng hóa ㅅ của 심 → [씸]; patchim ㅁ căng hóa ㄱ của 가 → [까].",
-      "meaning": "giá trị cốt lõi"
+      "word": "모든시민이자유롭고평등하게",
+      "pronounced": "[모든시미니자유롭꼬평등하게]",
+      "rule": "Nối âm + Căng hóa",
+      "explanation": "ㄴ의 민+이 nối âm [미니]; ㅂ의 롭+꼬 căng hóa; chuỗi 9 âm tiết liên kết.",
+      "meaning": "mọi công dân một cách tự do và bình đẳng"
     },
     {
-      "word": "참여하는",
-      "pronounced": "[차며하는]",
+      "word": "의사결정과정에참여하는",
+      "pronounced": "[의사결쩡과정에차며하는]",
+      "rule": "Căng hóa + Nối âm chuỗi",
+      "explanation": "ㄹ+ㅈ căng hóa [쩡]; ㅇ의 정+에 nối âm [정에]; ㅇ의 여+하는 liên kết; chuỗi 9 âm tiết.",
+      "meaning": "tham gia vào quá trình ra quyết định"
+    },
+    {
+      "word": "성숙한민주사회를위해서는",
+      "pronounced": "[성수칸민주사회를위해서는]",
+      "rule": "Bật hơi + Nối âm chuỗi",
+      "explanation": "ㄱ의 숙+ㅎ bật hơi [수칸]; ㄹ의 회+를 nối âm; 를+위해서는 liên kết; chuỗi 9 âm tiết.",
+      "meaning": "để có xã hội dân chủ trưởng thành thì"
+    },
+    {
+      "word": "단순히투표에참여하는것을넘어",
+      "pronounced": "[단수니투표에차며하는거슬너머]",
+      "rule": "Nối âm chuỗi dài",
+      "explanation": "ㄴ의 순+히 nối âm [수니]; 표+에 nối âm; 것+을 nối âm [거슬]; ㅁ의 넘+어 nối âm [너머]; 4 lần nối âm trong chuỗi 11 âm tiết.",
+      "meaning": "vượt ra ngoài việc chỉ đơn giản tham gia bỏ phiếu"
+    },
+    {
+      "word": "타인의의견을존중하고",
+      "pronounced": "[타이네의견을존중하고]",
       "rule": "Nối âm + Bật hơi",
-      "explanation": "Patchim ㅇ của 여 + ㅎ của 하 → bật hơi [하]; chuỗi liên kết.",
-      "meaning": "tham gia"
+      "explanation": "인+의(에) nối âm [이네]; ㄴ의 견+을 nối âm [견을]; ㅇ의 중+ㅎ bật hơi; chuỗi 8 âm tiết.",
+      "meaning": "tôn trọng ý kiến của người khác và"
     },
     {
-      "word": "성숙한",
-      "pronounced": "[성수칸]",
-      "rule": "Bật hơi 격음화",
-      "explanation": "Patchim ㄱ của 숙 kết hợp ㅎ của 한 → bật hơi [칸] → [성수칸].",
-      "meaning": "trưởng thành"
+      "word": "타협을통해합리적인결론을도출하려는",
+      "pronounced": "[타혀블통해함니쩌긴결로늘도추라려는]",
+      "rule": "Nối âm + Biến âm mũi + Căng hóa + Nối âm",
+      "explanation": "ㅂ의 협+을 nối âm [혀블]; ㅂ의 합+ㄹ biến âm mũi [함니]; ㄱ+ㅈ căng hóa [쩍]; ㄴ의 론+을 nối âm [로늘]; ㄹ의 출+하 bật hơi [추라]; chuỗi 13 âm tiết.",
+      "meaning": "cố gắng đưa ra kết luận hợp lý qua thỏa hiệp"
     },
     {
-      "word": "존중하고",
-      "pronounced": "[존중하고]",
-      "rule": "Nối âm + Bật hơi",
-      "explanation": "Patchim ㅇ của 중 + ㅎ của 하 → bật hơi nhẹ; 하고 liên kết.",
-      "meaning": "tôn trọng và"
+      "word": "자신의권리를주장하는것만큼이나",
+      "pronounced": "[자시네권리를주장하는건만큼이나]",
+      "rule": "Nối âm chuỗi",
+      "explanation": "신+의(에) nối âm [시네]; ㄹ의 리+를 nối âm; 것+만큼 nối âm [건만큼]; chuỗi 11 âm tiết.",
+      "meaning": "bằng với việc khẳng định quyền lợi của bản thân"
     },
     {
-      "word": "도출하려는",
-      "pronounced": "[도추라려는]",
-      "rule": "Bật hơi + Nối âm",
-      "explanation": "Patchim ㄹ của 출 + ㅎ của 하 → bật hơi [추하→추라]; ㄹ nối tiếp.",
-      "meaning": "cố gắng đưa ra"
+      "word": "타인의권리를보호하고공동체의책임을다하는",
+      "pronounced": "[타이네권리를보호하고공동체에채기믈다하는]",
+      "rule": "Nối âm liên tiếp",
+      "explanation": "인+의(에) nối âm [이네]; ㄹ의 리+를 nối âm; 체+의(에) nối âm [체에]; ㅁ의 임+을 nối âm [채기믈]; 4 lần nối âm trong chuỗi 14 âm tiết.",
+      "meaning": "bảo vệ quyền lợi của người khác và thực hiện trách nhiệm với cộng đồng"
     },
     {
-      "word": "합리적인",
-      "pronounced": "[함니쩌긴]",
-      "rule": "Biến âm mũi + Căng hóa + Nối âm",
-      "explanation": "ㅂ của 합 gặp ㄹ → biến âm mũi [함니]; ㅈ của 적 căng hóa [쩍]; 적+인 nối âm [쩌긴].",
-      "meaning": "mang tính hợp lý"
+      "word": "권력에대한비판적인감시와더불어",
+      "pronounced": "[권려게대한비판쩌긴감시와더부러]",
+      "rule": "Biến âm lưỡi + Căng hóa + Nối âm",
+      "explanation": "ㄹ의 권+력 biến âm lưỡi [권려]; ㄱ의 려+에 nối âm [려게]; ㄱ+ㅈ căng hóa [쩍]; ㄹ의 불+어 nối âm [부러]; chuỗi 11 âm tiết.",
+      "meaning": "giám sát quyền lực một cách phê phán và hơn nữa"
     },
     {
-      "word": "보호하고",
-      "pronounced": "[보호하고]",
-      "rule": "Nối âm + Bật hơi",
-      "explanation": "Patchim ㅎ của 호 + ㅎ của 하 → bật hơi kép [보호하고] đọc liền.",
-      "meaning": "bảo vệ và"
+      "word": "사회적약자의목소리에귀를기울이는",
+      "pronounced": "[사회쩍양자에목쏘리에귀를기우리는]",
+      "rule": "Căng hóa + Nối âm + Căng hóa + Nối âm liên tiếp",
+      "explanation": "ㄱ+ㅈ căng hóa [쩍]; 자+의(에) nối âm [자에]; ㄱ의 소 căng hóa ㅅ [쏘]; ㄹ의 리+에 nối âm [리에]; ㄹ의 울+이는 nối âm [우리는]; chuỗi 12 âm tiết.",
+      "meaning": "lắng nghe tiếng nói của những người yếu thế trong xã hội"
     },
     {
-      "word": "책임을",
-      "pronounced": "[채기믈]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㅁ của 임 nối với 을 → [이믈→채기믈].",
-      "meaning": "trách nhiệm"
+      "word": "갈등과대립을넘어연대와협력의정신을바탕으로할때",
+      "pronounced": "[갈뜽과대리블너머연대와협려게정시늘바탕으로할때]",
+      "rule": "Căng hóa + Nối âm + Biến âm lưỡi + Nối âm chuỗi",
+      "explanation": "ㄹ+ㄷ căng hóa Hán [뜽]; ㅂ의 립+을 nối âm [리블]; ㅁ의 넘+어 nối âm [너머]; ㄱ의 협+력 biến âm lưỡi [협려]; ㄴ의 신+을 nối âm [시늘]; chuỗi 15 âm tiết.",
+      "meaning": "khi vượt qua mâu thuẫn dựa trên tinh thần đoàn kết và hợp tác"
     },
     {
-      "word": "권력에",
-      "pronounced": "[궐려게]",
-      "rule": "Biến âm lưỡi + Nối âm",
-      "explanation": "Patchim ㄹ của 권 gặp ㄹ của 력 → [궐력]; ㄱ patchim của 력 nối với 에 → [려게].",
-      "meaning": "đối với quyền lực"
+      "word": "민주주의는비로소공고해질수있습니다",
+      "pronounced": "[민주주이는비로소공고해질쑤잇씀니다]",
+      "rule": "Nối âm + Căng hóa + Biến âm mũi",
+      "explanation": "의→[이] nối âm; 할+수 căng hóa [쑤]; ㄱ의 있 căng hóa; ㅂ+ㄴ biến âm mũi; chuỗi 11 âm tiết.",
+      "meaning": "dân chủ mới có thể trở nên vững chắc"
     },
     {
-      "word": "비판적인",
-      "pronounced": "[비판쩌긴]",
-      "rule": "Căng hóa + Nối âm",
-      "explanation": "Patchim ㄱ của 판 gặp ㅈ của 적 → căng hóa [쩍]; 적+인 nối âm [쩌긴].",
-      "meaning": "mang tính phê phán"
+      "word": "끊임없이소통하고서로의다름을인정하는",
+      "pronounced": "[끄니멉씨소통하고서로에다르믈인정하는]",
+      "rule": "Nối âm patchim kép + Nối âm liên tiếp",
+      "explanation": "ㄶ patchim kép [끄님]; 없+이 nối âm [멉씨]; 로+의(에) nối âm [로에]; ㅁ의 름+을 nối âm [르믈]; chuỗi 13 âm tiết.",
+      "meaning": "không ngừng giao tiếp và công nhận sự khác biệt của nhau"
     },
     {
-      "word": "포용적인",
-      "pronounced": "[포용쩌긴]",
-      "rule": "Căng hóa + Nối âm",
-      "explanation": "Patchim ㄱ của 용 gặp ㅈ của 적 → căng hóa [쩍]; 적+인 nối âm [쩌긴].",
-      "meaning": "mang tính bao dung"
+      "word": "성숙한시민의식을발휘해야합니다",
+      "pronounced": "[성수칸시미뉘시글발휘해야함니다]",
+      "rule": "Bật hơi + Nối âm + Biến âm mũi",
+      "explanation": "ㄱ의 숙+ㅎ bật hơi [수칸]; ㄴ의 민+의식 nối âm [미뉘]; ㄱ의 식+을 nối âm [시글]; ㅂ+ㄴ biến âm mũi [함니다]; chuỗi 10 âm tiết.",
+      "meaning": "phải phát huy ý thức công dân trưởng thành"
     },
     {
-      "word": "소양을",
-      "pronounced": "[소양을]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㅇ của 양 nối với 을 → [양을] liên kết tự nhiên.",
-      "meaning": "phẩm chất, giáo dục cơ bản"
-    },
-    {
-      "word": "일상생활속에서",
-      "pronounced": "[일상생활쏘게서]",
-      "rule": "Căng hóa + Nối âm",
-      "explanation": "Patchim ㄱ của 속 căng hóa ㅅ → [쏙]; 속+에 nối âm [쏘게서].",
-      "meaning": "trong cuộc sống hàng ngày"
-    },
-    {
-      "word": "갈등과",
-      "pronounced": "[갈뜽꽈]",
-      "rule": "Căng hóa (Hán tự + kết hợp)",
-      "explanation": "Patchim ㄹ của 갈 căng hóa ㄷ của 등 → [뜽]; patchim ㅇ của 등 căng hóa ㄱ của 과 → [꽈].",
-      "meaning": "mâu thuẫn và"
-    },
-    {
-      "word": "공고해질",
-      "pronounced": "[공고해질]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㄹ của 질 liên kết; chuỗi 4 âm tiết tự nhiên.",
-      "meaning": "trở nên vững chắc"
-    },
-    {
-      "word": "완성된",
-      "pronounced": "[완성된]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㄴ của 된 liên kết; không biến âm lớn.",
-      "meaning": "đã hoàn thành"
-    },
-    {
-      "word": "끊임없는",
-      "pronounced": "[끄니멉는]",
-      "rule": "Biến âm mũi + Nối âm",
-      "explanation": "Patchim kép ㄶ: ㄴ giữ, ㅎ câm; 없+는 nối âm: ㅅ gặp ㄴ → ㄴ [멈는].",
-      "meaning": "không ngừng nghỉ"
+      "word": "민주주의는완성된결과가아니라끊임없는과정임을잊지말아야합니다",
+      "pronounced": "[민주주이는완성된결과가아니라끄니멈는과정이믈잊찌마라야함니다]",
+      "rule": "Nối âm + Biến âm mũi + Căng hóa + Nối âm chuỗi",
+      "explanation": "의→[이] nối âm; ㄶ patchim kép → [끄님]; 없+는 biến âm mũi [멈는]; ㅁ의 임+을 nối âm [이믈]; ㅈ+ㅈ căng hóa [잊찌]; ㄹ의 말+아야 nối âm [마라야]; ㅂ+ㄴ biến âm mũi; chuỗi 22 âm tiết.",
+      "meaning": "dân chủ là quá trình không ngừng, không phải kết quả đã hoàn thành"
     }
   ]
 }

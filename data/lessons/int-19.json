@@ -4,28 +4,95 @@
   "translation": "Văn hóa nhà ở của Hàn Quốc đang cho thấy những đặc điểm rất hiện đại và tiện lợi khi căn hộ chung cư trở thành trung tâm. Hầu hết các căn hộ đều có các tiện ích như công viên, sân chơi, cơ sở thể thao được trang bị tốt trong khu phức hợp nên rất tốt để sinh sống. Ngoài ra, hệ thống an ninh chặt chẽ và các dịch vụ tiện lợi như tủ giữ đồ chuyển phát nhanh không người lái cũng có thể sử dụng nên rất an toàn và tiện lợi. Đặc biệt, hệ thống Ondol, một phương thức sưởi ấm độc đáo riêng của căn hộ Hàn Quốc, giúp duy trì sự ấm áp cho toàn bộ ngôi nhà ngay cả trong mùa đông nên rất hiệu quả. Tôi hiện cũng đang sống ở căn hộ chung cư và thấy rất hài lòng nhờ môi trường sạch sẽ và tiện nghi.",
   "annotatedWords": [
     {
-      "word": "갖춰져",
-      "pronounced": "가춰져",
-      "rule": "Phát âm chuẩn",
-      "explanation": "Patchim 't' (ㅈ) phát âm là 't', gặp 'ch' (ㅊ) vẫn giữ nguyên âm 'ch'."
+      "word": "중심이",
+      "pronounced": "[중시미]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅁ của 심 nối với 이 → ㅁ chuyển: [중시미].",
+      "meaning": "là trung tâm"
     },
     {
-      "word": "안전하고",
-      "pronounced": "안전하고",
-      "rule": "Phát âm chuẩn",
-      "explanation": "Từ này phát âm theo đúng mặt chữ."
+      "word": "특징을",
+      "pronounced": "[특찡을]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㄱ của 특 căng hóa ㅈ → [찡]; patchim ㅇ của 징 nối với 을 [찡을].",
+      "meaning": "đặc điểm"
+    },
+    {
+      "word": "시설이",
+      "pronounced": "[시서리]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 설 nối với 이 → ㄹ chuyển: [시서리].",
+      "meaning": "tiện ích"
+    },
+    {
+      "word": "갖춰져있어서",
+      "pronounced": "[가춰져이써서]",
+      "rule": "Nối âm + Căng hóa",
+      "explanation": "Patchim ㄱ của 있 căng hóa ㅅ của 어 → [이써]; 써서 liên kết tiếp.",
+      "meaning": "vì đã được trang bị"
+    },
+    {
+      "word": "보안시스템이",
+      "pronounced": "[보안시스테미]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅁ của 템 nối với 이 → ㅁ chuyển: [시스테미]; liên kết 6 âm tiết.",
+      "meaning": "hệ thống an ninh"
+    },
+    {
+      "word": "난방방식인",
+      "pronounced": "[난방방시긴]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄱ của 식 nối với 인 → ㄱ chuyển: [시긴]; chuỗi liên kết.",
+      "meaning": "phương thức sưởi ấm"
+    },
+    {
+      "word": "온돌시스템은",
+      "pronounced": "[온돌씨스테믄]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㄹ của 돌 căng hóa ㅅ → [씨]; patchim ㅁ của 템 nối với 은 → [테믄].",
+      "meaning": "hệ thống sưởi Ondol thì"
     },
     {
       "word": "전체를",
-      "pronounced": "전체를",
-      "rule": "Phát âm chuẩn",
-      "explanation": "Từ này phát âm theo đúng mặt chữ."
+      "pronounced": "[전체를]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 체 nối với 를 → ㄹ liên kết [전체를].",
+      "meaning": "toàn bộ"
     },
     {
-      "word": "살고",
-      "pronounced": "살고",
-      "rule": "Phát âm chuẩn",
-      "explanation": "Từ này phát âm theo đúng mặt chữ."
+      "word": "유지해주어서",
+      "pronounced": "[유지해주어서]",
+      "rule": "Nối âm 연음",
+      "explanation": "Chuỗi 6 âm tiết không có biến âm lớn; liên kết liên tục tự nhiên.",
+      "meaning": "vì duy trì cho"
+    },
+    {
+      "word": "효율적이에요",
+      "pronounced": "[효율쩌기에요]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㄱ của 율 căng hóa ㅈ → [쩍]; 쩍+이에요 nối âm → [쩌기에요].",
+      "meaning": "rất hiệu quả"
+    },
+    {
+      "word": "환경과",
+      "pronounced": "[환경꽈]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "Patchim ㅇ(ng) của 경 gặp ㄱ của 과 → căng hóa [꽈].",
+      "meaning": "môi trường và"
+    },
+    {
+      "word": "편리한시설덕분에",
+      "pronounced": "[펼리한시설떡뿌네]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Chuỗi phức: 설+덕 → căng hóa [떡]; ㄱ+분 → [뿐]; ㄴ của 분 nối với 에 → [뿌네].",
+      "meaning": "nhờ tiện ích thuận tiện"
+    },
+    {
+      "word": "만족하며",
+      "pronounced": "[만조카며]",
+      "rule": "Bật hơi 격음화",
+      "explanation": "Patchim ㄱ của 족 kết hợp ㅎ của 하 → bật hơi [카]: [만조카며].",
+      "meaning": "trong khi hài lòng"
     }
   ]
 }
