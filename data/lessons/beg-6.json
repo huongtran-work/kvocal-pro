@@ -7,73 +7,85 @@
       "word": "가족은",
       "pronounced": "[가조근]",
       "rule": "Nối âm 연음",
-      "explanation": "Batchim 'ㄱ' của '족' nối với nguyên âm 'ㅡ' của '은'."
+      "explanation": "Batchim 'ㄱ' của '족' nối với nguyên âm 'ㅡ' của '은'.",
+      "meaning": "gia đình tôi"
     },
     {
       "word": "있어요",
       "pronounced": "[이써요]",
       "rule": "Nối âm 연음",
-      "explanation": "Batchim 'ㅆ' của '있' nối với nguyên âm 'ㅓ' của '어요'."
+      "explanation": "Batchim 'ㅆ' của '있' nối với nguyên âm 'ㅓ' của '어요'.",
+      "meaning": "có"
     },
     {
       "word": "신문을",
       "pronounced": "[신무늘]",
       "rule": "Nối âm 연음",
-      "explanation": "Batchim 'ㄴ' của '문' nối với nguyên âm 'ㅡ' của '을'."
+      "explanation": "Batchim 'ㄴ' của '문' nối với nguyên âm 'ㅡ' của '을'.",
+      "meaning": "báo chí"
     },
     {
       "word": "읽어요",
       "pronounced": "[일거요]",
       "rule": "Nối âm 연음",
-      "explanation": "Double batchim 'ㄺ' của '읽', 'ㄱ' nối với nguyên âm 'ㅓ' của '어요'."
+      "explanation": "Double batchim 'ㄺ' của '읽', 'ㄱ' nối với nguyên âm 'ㅓ' của '어요'.",
+      "meaning": "đọc"
     },
     {
       "word": "옷을",
       "pronounced": "[오슬]",
       "rule": "Nối âm 연음",
-      "explanation": "Batchim 'ㅅ' của '옷' nối với nguyên âm 'ㅡ' của '을'."
+      "explanation": "Batchim 'ㅅ' của '옷' nối với nguyên âm 'ㅡ' của '을'.",
+      "meaning": "quần áo"
     },
     {
       "word": "앉아서",
       "pronounced": "[안자서]",
       "rule": "Nối âm 연음",
-      "explanation": "Double batchim 'ㄵ' của '앉', 'ㅈ' nối với nguyên âm 'ㅏ' của '아서'."
+      "explanation": "Double batchim 'ㄵ' của '앉', 'ㅈ' nối với nguyên âm 'ㅏ' của '아서'.",
+      "meaning": "ngồi rồi"
     },
     {
       "word": "책을",
       "pronounced": "[채글]",
       "rule": "Nối âm 연음",
-      "explanation": "Batchim 'ㄱ' của '책' nối với nguyên âm 'ㅡ' của '을'."
+      "explanation": "Batchim 'ㄱ' của '책' nối với nguyên âm 'ㅡ' của '을'.",
+      "meaning": "sách"
     },
     {
       "word": "저녁을",
       "pronounced": "[저녀글]",
       "rule": "Nối âm 연음",
-      "explanation": "Batchim 'ㄱ' của '녁' nối với nguyên âm 'ㅡ' của '을'."
+      "explanation": "Batchim 'ㄱ' của '녁' nối với nguyên âm 'ㅡ' của '을'.",
+      "meaning": "bữa tối"
     },
     {
       "word": "먹어요",
       "pronounced": "[머거요]",
       "rule": "Nối âm 연음",
-      "explanation": "Batchim 'ㄱ' của '먹' nối với nguyên âm 'ㅓ' của '어요'."
+      "explanation": "Batchim 'ㄱ' của '먹' nối với nguyên âm 'ㅓ' của '어요'.",
+      "meaning": "ăn"
     },
     {
       "word": "밤에는",
       "pronounced": "[바메는]",
       "rule": "Nối âm 연음",
-      "explanation": "Batchim 'ㅁ' của '밤' nối với nguyên âm 'ㅔ' của '에는'."
+      "explanation": "Batchim 'ㅁ' của '밤' nối với nguyên âm 'ㅔ' của '에는'.",
+      "meaning": "vào ban đêm"
     },
     {
       "word": "텔레비전을",
       "pronounced": "[텔레비저늘]",
       "rule": "Nối âm 연음",
-      "explanation": "Batchim 'ㄴ' của '전' nối với nguyên âm 'ㅡ' của '을'."
+      "explanation": "Batchim 'ㄴ' của '전' nối với nguyên âm 'ㅡ' của '을'.",
+      "meaning": "TV"
     },
     {
       "word": "가족을",
       "pronounced": "[가조글]",
       "rule": "Nối âm 연음",
-      "explanation": "Batchim 'ㄱ' của '족' nối với nguyên âm 'ㅡ' của '을'."
+      "explanation": "Batchim 'ㄱ' của '족' nối với nguyên âm 'ㅡ' của '을'.",
+      "meaning": "gia đình mình"
     }
   ]
 }

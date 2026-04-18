@@ -7,61 +7,71 @@
       "word": "있어요",
       "pronounced": "[이써요]",
       "rule": "Nối âm 연음",
-      "explanation": "Phụ âm cuối 'ㅆ' của '있' nối với nguyên âm '어' của '어요'."
+      "explanation": "Phụ âm cuối 'ㅆ' của '있' nối với nguyên âm '어' của '어요'.",
+      "meaning": "có"
     },
     {
       "word": "책을",
       "pronounced": "[채글]",
       "rule": "Nối âm 연음",
-      "explanation": "Phụ âm cuối 'ㄱ' của '책' nối với nguyên âm 'ㅡ' của '을'."
+      "explanation": "Phụ âm cuối 'ㄱ' của '책' nối với nguyên âm 'ㅡ' của '을'.",
+      "meaning": "sách"
     },
     {
       "word": "읽어요",
       "pronounced": "[일거요]",
       "rule": "Nối âm 연음",
-      "explanation": "Phụ âm cuối kép 'ㄹㄱ' của '읽' khi gặp nguyên âm '어' thì 'ㄱ' nối sang, phát âm thành '일거요'."
+      "explanation": "Phụ âm cuối kép 'ㄹㄱ' của '읽' khi gặp nguyên âm '어' thì 'ㄱ' nối sang, phát âm thành '일거요'.",
+      "meaning": "đọc"
     },
     {
       "word": "음악도",
       "pronounced": "[으막또]",
       "rule": "Nối âm 연음",
-      "explanation": "Âm tiết '악' có phụ âm cuối 'ㄱ' nối với nguyên âm 'ㅗ' của '도'. (Lưu ý: '음악' tự nó đã có nối âm '으막', sau đó là '또' do quy tắc căng âm sau phụ âm cuối 'ㄱ')."
+      "explanation": "Âm tiết '악' có phụ âm cuối 'ㄱ' nối với nguyên âm 'ㅗ' của '도'. (Lưu ý: '음악' tự nó đã có nối âm '으막', sau đó là '또' do quy tắc căng âm sau phụ âm cuối 'ㄱ').",
+      "meaning": "cả âm nhạc"
     },
     {
       "word": "집에서",
       "pronounced": "[지베서]",
       "rule": "Nối âm 연음",
-      "explanation": "Phụ âm cuối 'ㅂ' của '집' nối với nguyên âm 'ㅔ' của '에서'."
+      "explanation": "Phụ âm cuối 'ㅂ' của '집' nối với nguyên âm 'ㅔ' của '에서'.",
+      "meaning": "ở nhà"
     },
     {
       "word": "음악을",
       "pronounced": "[으마글]",
       "rule": "Nối âm 연음",
-      "explanation": "Âm tiết '악' có phụ âm cuối 'ㄱ' nối với nguyên âm 'ㅡ' của '을'. (Lưu ý: '음악' tự nó đã có nối âm '으막')."
+      "explanation": "Âm tiết '악' có phụ âm cuối 'ㄱ' nối với nguyên âm 'ㅡ' của '을'. (Lưu ý: '음악' tự nó đã có nối âm '으막').",
+      "meaning": "nhạc"
     },
     {
       "word": "좋아요",
       "pronounced": "[조아요]",
       "rule": "Nối âm 연음",
-      "explanation": "Phụ âm cuối 'ㅎ' của '좋' khi gặp nguyên âm '아' của '아요' thì 'ㅎ' bị câm, 'ㅇ' nối sang, phát âm thành '조아요'."
+      "explanation": "Phụ âm cuối 'ㅎ' của '좋' khi gặp nguyên âm '아' của '아요' thì 'ㅎ' bị câm, 'ㅇ' nối sang, phát âm thành '조아요'.",
+      "meaning": "tốt"
     },
     {
       "word": "책이나",
       "pronounced": "[채기나]",
       "rule": "Nối âm 연음",
-      "explanation": "Phụ âm cuối 'ㄱ' của '책' nối với nguyên âm 'ㅣ' của '이나'."
+      "explanation": "Phụ âm cuối 'ㄱ' của '책' nối với nguyên âm 'ㅣ' của '이나'.",
+      "meaning": "sách hay"
     },
     {
       "word": "음악이",
       "pronounced": "[으마기]",
       "rule": "Nối âm 연음",
-      "explanation": "Âm tiết '악' có phụ âm cuối 'ㄱ' nối với nguyên âm 'ㅣ' của '이'. (Lưu ý: '음악' tự nó đã có nối âm '으막')."
+      "explanation": "Âm tiết '악' có phụ âm cuối 'ㄱ' nối với nguyên âm 'ㅣ' của '이'. (Lưu ý: '음악' tự nó đã có nối âm '으막').",
+      "meaning": "âm nhạc"
     },
     {
       "word": "없으면",
       "pronounced": "[업쓰면]",
       "rule": "Nối âm 연음",
-      "explanation": "Phụ âm cuối kép 'ㅄ' của '없' khi gặp nguyên âm 'ㅡ' của '으면' thì 'ㅆ' nối sang, phát âm thành '업쓰면'."
+      "explanation": "Phụ âm cuối kép 'ㅄ' của '없' khi gặp nguyên âm 'ㅡ' của '으면' thì 'ㅆ' nối sang, phát âm thành '업쓰면'.",
+      "meaning": "nếu không có"
     }
   ]
 }

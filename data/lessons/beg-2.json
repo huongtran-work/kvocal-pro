@@ -7,67 +7,78 @@
       "word": "시장에",
       "pronounced": "시자게",
       "rule": "Nối âm 연음",
-      "explanation": "Patchim 'ㅇ' của '시장' nối với nguyên âm '에' tạo thành [시자게]"
+      "explanation": "Patchim 'ㅇ' của '시장' nối với nguyên âm '에' tạo thành [시자게]",
+      "meaning": "Đến chợ"
     },
     {
       "word": "좋아요",
       "pronounced": "조아요",
       "rule": "Nối âm 연음 (và biến âm)",
-      "explanation": "Patchim 'ㅎ' của '좋-' bị lược bỏ, nguyên âm 'ㅏ' của '아요' nối với 'ㅗ' tạo thành [조아요]. (Theo ví dụ của người dùng)"
+      "explanation": "Patchim 'ㅎ' của '좋-' bị lược bỏ, nguyên âm 'ㅏ' của '아요' nối với 'ㅗ' tạo thành [조아요]. (Theo ví dụ của người dùng)",
+      "meaning": "Rất tốt/tuyệt"
     },
     {
       "word": "팔아요",
       "pronounced": "파라요",
       "rule": "Nối âm 연음",
-      "explanation": "Patchim 'ㄹ' của '팔-' nối với nguyên âm 'ㅏ' của '아요' tạo thành [파라요]"
+      "explanation": "Patchim 'ㄹ' của '팔-' nối với nguyên âm 'ㅏ' của '아요' tạo thành [파라요]",
+      "meaning": "Bán"
     },
     {
       "word": "옷을",
       "pronounced": "오슬",
       "rule": "Nối âm 연음",
-      "explanation": "Patchim 'ㅅ' của '옷' nối với nguyên âm 'ㅡ' của '을' tạo thành [오슬]"
+      "explanation": "Patchim 'ㅅ' của '옷' nối với nguyên âm 'ㅡ' của '을' tạo thành [오슬]",
+      "meaning": "Quần áo"
     },
     {
       "word": "꽃을",
       "pronounced": "꼬츨",
       "rule": "Nối âm 연음",
-      "explanation": "Patchim 'ㅊ' của '꽃' nối với nguyên âm 'ㅡ' của '을' tạo thành [꼬츨]"
+      "explanation": "Patchim 'ㅊ' của '꽃' nối với nguyên âm 'ㅡ' của '을' tạo thành [꼬츨]",
+      "meaning": "Hoa"
     },
     {
       "word": "귤을",
       "pronounced": "규를",
       "rule": "Nối âm 연음",
-      "explanation": "Patchim 'ㄹ' của '귤' nối với nguyên âm 'ㅡ' của '을' tạo thành [규를]"
+      "explanation": "Patchim 'ㄹ' của '귤' nối với nguyên âm 'ㅡ' của '을' tạo thành [규를]",
+      "meaning": "Quýt"
     },
     {
       "word": "먹어요",
       "pronounced": "머거요",
       "rule": "Nối âm 연음",
-      "explanation": "Patchim 'ㄱ' của '먹-' nối với nguyên âm 'ㅓ' của '어요' tạo thành [머거요]"
+      "explanation": "Patchim 'ㄱ' của '먹-' nối với nguyên âm 'ㅓ' của '어요' tạo thành [머거요]",
+      "meaning": "Ăn"
     },
     {
       "word": "것이",
       "pronounced": "거시",
       "rule": "Nối âm 연음",
-      "explanation": "Patchim 'ㅅ' của '것' nối với nguyên âm 'ㅣ' của '이' tạo thành [거시]"
+      "explanation": "Patchim 'ㅅ' của '것' nối với nguyên âm 'ㅣ' của '이' tạo thành [거시]",
+      "meaning": "Thứ/điều"
     },
     {
       "word": "많이",
       "pronounced": "마니",
       "rule": "Biến âm (ㅎ 탈락)",
-      "explanation": "Patchim 'ㅎ' của '많' bị lược bỏ khi gặp nguyên âm 'ㅣ' tạo thành [마니]"
+      "explanation": "Patchim 'ㅎ' của '많' bị lược bỏ khi gặp nguyên âm 'ㅣ' tạo thành [마니]",
+      "meaning": "Nhiều"
     },
     {
       "word": "좋아해요",
       "pronounced": "조아해요",
       "rule": "Biến âm (ㅎ 탈락)",
-      "explanation": "Patchim 'ㅎ' trong '좋아-' bị lược bỏ khi gặp nguyên âm 'ㅐ' của '해요' (biến thể của '-아요/어요') tạo thành [조아해요]"
+      "explanation": "Patchim 'ㅎ' trong '좋아-' bị lược bỏ khi gặp nguyên âm 'ㅐ' của '해요' (biến thể của '-아요/어요') tạo thành [조아해요]",
+      "meaning": "Thích"
     },
     {
       "word": "싶어요",
       "pronounced": "시퍼요",
       "rule": "Biến âm",
-      "explanation": "Đây là cách phát âm phổ biến của từ '싶어요' với âm 'ㅂ' biến đổi thành 'ㅍ' khi gặp nguyên âm 'ㅓ'."
+      "explanation": "Đây là cách phát âm phổ biến của từ '싶어요' với âm 'ㅂ' biến đổi thành 'ㅍ' khi gặp nguyên âm 'ㅓ'.",
+      "meaning": "Muốn"
     }
   ]
 }

@@ -10,6 +10,7 @@ export type AnnotatedWord = {
   pronounced: string;
   rule: string;
   explanation: string;
+  meaning?: string;
 };
 
 export type LessonData = {
@@ -486,9 +487,14 @@ export function TopicLessons() {
                   <div className="flex flex-col gap-2">
                     {currentLesson.annotatedWords.map((ann, idx) => (
                       <div key={idx} className="bg-gray-50 p-3 md:p-4 rounded-xl border border-gray-100 hover:border-blue-200 transition-colors">
-                        <div className="flex flex-col sm:flex-row sm:items-center gap-2">
+                        <div className="flex flex-col sm:flex-row sm:items-start gap-2">
                           <div className="flex items-center gap-2 flex-shrink-0">
-                            <span className="font-bold text-lg text-gray-900">{ann.word}</span>
+                            <div className="flex flex-col">
+                              <span className="font-bold text-lg text-gray-900">{ann.word}</span>
+                              {ann.meaning && (
+                                <span className="text-xs text-gray-400 italic">{ann.meaning}</span>
+                              )}
+                            </div>
                             <span className="text-gray-300">→</span>
                             <span className={`font-bold text-lg ${currentLevelData?.textColor}`}>[{ann.pronounced}]</span>
                           </div>
