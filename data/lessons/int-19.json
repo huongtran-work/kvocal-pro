@@ -1,0 +1,31 @@
+{
+  "originalText": "한국의 주거 문화는 아파트가 중심이 되면서 매우 편리하고 현대적인 특징을 보이고 있습니다. 대부분의 아파트는 단지 내에 공원, 놀이터, 운동 시설 등 편의 시설이 잘 갖춰져 있어서 생활하기에 아주 좋아요. 또한 보안 시스템이 철저하고 무인 택배함 같은 편리한 서비스도 이용할 수 있어서 안전하고 편리합니다. 특히 한국 아파트만의 독특한 난방 방식인 온돌 시스템은 겨울철에도 집안 전체를 따뜻하게 유지해 주어 매우 효율적이에요. 저도 지금 아파트에 살고 있는데 깨끗한 환경과 편리한 시설 덕분에 아주 만족하며 지내고 있습니다.",
+  "pronouncedText": "[한구게 주거 문화는 아파트가 중심이 되면서 매우 편리하고 현대적인 특찡을 보이고 이씀니다. 대부분의 아파트는 단지 내에 공원, 놀이터, 운동 시설 등 편의 시서리 잘 가춰져 이써서 생활하기에 아주 조아요. 또한 보안 시스테믄 철저하고 무인 택배함 가튼 편리한 서비르도 이용할 쑤 이써서 안전하고 편리함니다. 특히 한국 아파트마네 독특한 난방 방식인 온돌 시스테믄 겨울철에도 집안 전체를 따뜻하게 유지해 주어 매우 효율적임니다. 저도 지금 아파트에 살고 인는데 깨끗한 환경과 편리한 시설 덕뿐에 아주 만족하며 지내고 이씀니다.]",
+  "translation": "Văn hóa nhà ở của Hàn Quốc đang cho thấy những đặc điểm rất hiện đại và tiện lợi khi căn hộ chung cư trở thành trung tâm. Hầu hết các căn hộ đều có các tiện ích như công viên, sân chơi, cơ sở thể thao được trang bị tốt trong khu phức hợp nên rất tốt để sinh sống. Ngoài ra, hệ thống an ninh chặt chẽ và các dịch vụ tiện lợi như tủ giữ đồ chuyển phát nhanh không người lái cũng có thể sử dụng nên rất an toàn và tiện lợi. Đặc biệt, hệ thống Ondol, một phương thức sưởi ấm độc đáo riêng của căn hộ Hàn Quốc, giúp duy trì sự ấm áp cho toàn bộ ngôi nhà ngay cả trong mùa đông nên rất hiệu quả. Tôi hiện cũng đang sống ở căn hộ chung cư và thấy rất hài lòng nhờ môi trường sạch sẽ và tiện nghi.",
+  "annotatedWords": [
+    {
+      "word": "갖춰져",
+      "pronounced": "가춰져",
+      "rule": "Phát âm chuẩn",
+      "explanation": "Patchim 't' (ㅈ) phát âm là 't', gặp 'ch' (ㅊ) vẫn giữ nguyên âm 'ch'."
+    },
+    {
+      "word": "안전하고",
+      "pronounced": "안전하고",
+      "rule": "Phát âm chuẩn",
+      "explanation": "Từ này phát âm theo đúng mặt chữ."
+    },
+    {
+      "word": "전체를",
+      "pronounced": "전체를",
+      "rule": "Phát âm chuẩn",
+      "explanation": "Từ này phát âm theo đúng mặt chữ."
+    },
+    {
+      "word": "살고",
+      "pronounced": "살고",
+      "rule": "Phát âm chuẩn",
+      "explanation": "Từ này phát âm theo đúng mặt chữ."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "originalText": "시험 준비는 항상 중요합니다. 저는 보통 시험 한 달 전부터 공부를 시작해요. 먼저, 교과서와 노트를 다시 읽어요. 이해가 안 되는 부분은 친구에게 물어봐요. 그리고 핵심 내용을 정리하고 문제집을 풀어요. 모르는 문제가 있으면 답지를 보고 이해하려고 노력합니다. 밤늦게까지 공부할 때도 있지만, 충분한 잠을 자는 것도 중요하다고 생각해요. 시험 전날에는 일찍 잠자리에 들어요. 이렇게 준비하면 시험을 잘 볼 수 있을 거예요. 좋은 결과를 얻기 위해 최선을 다합니다.",
+  "pronouncedText": "[시엄 준비는 항샹 중효함니다. 저눈 보통 시엄 한 달 전부터 공불을 시작해요. 먼저, 교과서와 노틀을 다시 일거요. 이해가 안 되는 부부는 친구에게 무러봐요. 그리구 핵심 내용을 정리하구 문제지블 푸러요. 모르는 문제가 이쓰면 답찔을 보구 이해하려구 노려캄니다. 밤늗께까시 공부할 때도 이찌만, 충분한 잠을 자는 걷또 중효하다고 생각해요. 시엄 전날에는 일찍 잠짜리에 드러요. 이르케 준비하면 시어믈 잘 볼 쑤 이쓸 꺼예요. 조은 결과률 얻끼 위헤 최서늘 다함니다.]",
+  "translation": "Việc chuẩn bị cho kỳ thi luôn quan trọng. Tôi thường bắt đầu học một tháng trước kỳ thi. Đầu tiên, tôi đọc lại sách giáo khoa và vở ghi. Những phần nào không hiểu thì tôi hỏi bạn bè. Sau đó, tôi tóm tắt nội dung cốt lõi và giải các đề thi. Nếu có câu nào không biết, tôi nhìn đáp án và cố gắng hiểu. Mặc dù đôi khi tôi học đến khuya, nhưng tôi nghĩ ngủ đủ giấc cũng quan trọng. Tối trước ngày thi, tôi đi ngủ sớm. Nếu chuẩn bị như vậy, tôi sẽ có thể làm bài thi tốt. Tôi cố gắng hết sức để đạt được kết quả tốt.",
+  "annotatedWords": [
+    {
+      "word": "항상",
+      "pronounced": "항샹",
+      "rule": "Biến âm (Phụ âm mũi hóa)",
+      "explanation": "ㅂ (patchim của 입) gặp ㄴ (âm đầu của 니다) thành ㅁ + ㄴ"
+    },
+    {
+      "word": "한 달",
+      "pronounced": "한 달",
+      "rule": "Không nối âm",
+      "explanation": "Đây là một trường hợp không nối âm điển hình vì patchim ㄴ của 한 không nối với âm sau (달 bắt đầu bằng phụ âm)"
+    },
+    {
+      "word": "전부터",
+      "pronounced": "전부터",
+      "rule": "Không nối âm",
+      "explanation": "Patchim ㄴ của 전 không nối với âm sau (부터 bắt đầu bằng phụ âm)"
+    },
+    {
+      "word": "읽어요",
+      "pronounced": "일거요",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim kép ㄺ của 읽 nối với nguyên âm ㅇ của 어요, chữ ㄹ được phát âm, chữ ㄱ chuyển sang âm tiết sau."
+    },
+    {
+      "word": "어렵지",
+      "pronounced": "어렵찌",
+      "rule": "Nối âm 연음 + Căng hóa (된소리되기)",
+      "explanation": "Patchim ㅂ của 어렵 nối với nguyên âm ㅇ của 지, sau đó chữ ㅈ bị căng hóa thành ㅉ."
+    },
+    {
+      "word": "없어요",
+      "pronounced": "업써요",
+      "rule": "Nối âm 연음 + Căng hóa (된소리되기)",
+      "explanation": "Patchim ㅄ của 없 nối với nguyên âm ㅇ của 어요, chữ ㅆ được phát âm và bị căng hóa thành ㅆ (âm s căng)."
+    },
+    {
+      "word": "문제집을",
+      "pronounced": "문제지블",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅂ của 문제집 nối với nguyên âm ㅡ của 을."
+    },
+    {
+      "word": "있으면",
+      "pronounced": "이쓰면",
+      "rule": "Nối âm 연음 + Căng hóa (된소리되기)",
+      "explanation": "Patchim ㅆ của 있 nối với nguyên âm ㅡ của 으면, chữ ㅆ được phát âm và bị căng hóa thành ㅆ (âm s căng)."
+    },
+    {
+      "word": "답지를",
+      "pronounced": "답찔을",
+      "rule": "Nối âm 연음 + Căng hóa (된소리되기)",
+      "explanation": "Patchim ㅂ của 답지 nối với nguyên âm ㅡ của 를, sau đó chữ ㅈ bị căng hóa thành ㅉ."
+    },
+    {
+      "word": "이해하려고",
+      "pronounced": "이해하려구",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 려 (từ 려고) nối với nguyên âm ㅡ của 고, sau đó chữ ㄱ bị căng hóa thành ㄲ (từ 고 thành 구)."
+    },
+    {
+      "word": "늦게까지",
+      "pronounced": "늗께까시",
+      "rule": "Nối âm 연음 + Căng hóa (된소리되기)",
+      "explanation": "Patchim ㅈ của 늦게 (sau đó ㅈ biến thành ㄷ do quy tắc đại diện) nối với nguyên âm ㅇ của 까지, sau đó chữ ㄲ và ㅆ bị căng hóa."
+    },
+    {
+      "word": "하는 것도",
+      "pronounced": "하는 걷또",
+      "rule": "Nối âm 연음 + Căng hóa (된소리되기)",
+      "explanation": "Patchim ㅅ của 것 (sau đó ㅅ biến thành ㄷ do quy tắc đại diện) nối với nguyên âm ㅗ của 도, sau đó chữ ㄷ bị căng hóa thành ㄸ."
+    },
+    {
+      "word": "전날에는",
+      "pronounced": "전날에는",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄴ của 전날 nối với nguyên âm ㅔ của 에는."
+    },
+    {
+      "word": "들어요",
+      "pronounced": "드러요",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 들 nối với nguyên âm ㅓ của 어요."
+    },
+    {
+      "word": "볼 수 있을",
+      "pronounced": "볼 쑤 이쓸",
+      "rule": "Nối âm 연음 + Căng hóa (된소리되기)",
+      "explanation": "Patchim ㄹ của 볼 nối với nguyên âm ㅜ của 수, và chữ ㅅ bị căng hóa thành ㅆ. Tương tự, patchim ㄹ của 있을 nối với nguyên âm ㅡ của 수, và chữ ㅅ bị căng hóa thành ㅆ."
+    },
+    {
+      "word": "얻기",
+      "pronounced": "얻끼",
+      "rule": "Căng hóa (된소리되기)",
+      "explanation": "Patchim ㄷ của 얻 gặp ㄱ, chữ ㄱ bị căng hóa thành ㄲ."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "originalText": "대학교에 입학한 후에 저는 동아리에 가입했어요. 특히 저는 영화 동아리가 정말 마음에 들었어요. 매주 우리는 함께 영화를 보고 이야기를 나눴어요. 동아리 활동은 정말 재미있고 유익했어요. 새로운 사람들을 많이 만날 수 있었고, 그들과 좋은 친구가 되었어요. 처음에는 낯설었지만, 지금은 동아리 친구들이 저에게 큰 힘이 돼요. 함께 영화를 보면서 다양한 관점을 배울 수 있었고, 저의 영화 지식도 넓어졌어요. 동아리 활동을 통해 저는 더 자신감 있는 사람이 되었고, 앞으로도 계속 참여하고 싶어요.",
+  "pronouncedText": "[대하꾜에 이파칸 후에 저는 동아리에 가이패써요. 트키 저는 영화 동아리가 정말 마음에 드러써요. 매주 우리는 함께 영화를 보고 이야길르 나눠써요. 동아리 활똥은 정말 재미꼬 유이캐써요. 새로운 사람들을 마니 만날 쑤 이써꼬, 그들과 조은 친구가 되어써요. 처으멘는 낟썰엳찌만, 지금은 동아리 친구들이 저에게 큰 히미 돼요. 함께 영화를 보면서 다앙한 관쩜을 배울 쑤 이써꼬, 저의 영화 지식또 널버뎌써요. 동아리 활똥을 통해 저는 더 자신감 인는 사라미 되어꼬, 아프로도 계쏙 차며하고 시퍼요.]",
+  "translation": "Sau khi nhập học đại học, tôi đã tham gia một câu lạc bộ. Đặc biệt, tôi rất thích câu lạc bộ điện ảnh. Mỗi tuần, chúng tôi cùng nhau xem phim và trò chuyện. Hoạt động câu lạc bộ thực sự rất thú vị và bổ ích. Tôi đã gặp được nhiều người mới và trở thành bạn tốt với họ. Ban đầu còn bỡ ngỡ, nhưng bây giờ những người bạn câu lạc bộ là nguồn động lực lớn cho tôi. Khi cùng nhau xem phim, tôi có thể học được nhiều góc nhìn khác nhau, và kiến thức về phim ảnh của tôi cũng được mở rộng. Thông qua hoạt động câu lạc bộ, tôi đã trở thành một người tự tin hơn, và tôi muốn tiếp tục tham gia trong tương lai.",
+  "annotatedWords": [
+    {
+      "word": "입학한",
+      "pronounced": "이파칸",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅂ của '입' nối với ㅇ của '학' thành '박', patchim ㄱ của '학' nối với ㅇ của '한' thành '칸'."
+    },
+    {
+      "word": "가입했어요",
+      "pronounced": "가이패써요",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅂ của '가입' nối với ㅇ của '했어요' thành '패'."
+    },
+    {
+      "word": "들었어요",
+      "pronounced": "드러써요",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của '들' nối với ㅇ của '었어요' thành '러'."
+    },
+    {
+      "word": "이야기를",
+      "pronounced": "이야길르",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄱ của '이야기' nối với ㅇ của '를' thành '길'."
+    },
+    {
+      "word": "재미있고",
+      "pronounced": "재미꼬",
+      "rule": "Nối âm 연음 + Biến âm (경음화)",
+      "explanation": "Patchim ㅆ của '있' nối với ㅇ của '고' thành '써'. Sau đó, ㄱ của '고' bị biến âm thành ㄲ do patchim ㅆ đứng trước."
+    },
+    {
+      "word": "유익했어요",
+      "pronounced": "유이캐써요",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄱ của '유익' nối với ㅇ của '했어요' thành '캐'."
+    },
+    {
+      "word": "있었고",
+      "pronounced": "이써꼬",
+      "rule": "Nối âm 연음 + Biến âm (경음화)",
+      "explanation": "Patchim ㅆ của '있' nối với ㅇ của '었고' thành '써'. Sau đó, ㄱ của '고' bị biến âm thành ㄲ do patchim ㅆ đứng trước."
+    },
+    {
+      "word": "되었어요",
+      "pronounced": "되어써요",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅆ của '되었' nối với ㅇ của '어요' thành '써'."
+    },
+    {
+      "word": "낯설었지만",
+      "pronounced": "낟썰엳찌만",
+      "rule": "Biến âm (대표음화 + 연음 + 경음화)",
+      "explanation": "Patchim ㄾ của '낯설' biến thành 대표음 ㄷ. Sau đó, ㄷ nối với ㅇ của '었' thành '돋'. Tiếp theo, ㅈ của '지만' bị biến âm thành ㅉ do patchim ㄷ đứng trước."
+    },
+    {
+      "word": "힘이",
+      "pronounced": "히미",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅁ của '힘' nối với ㅇ của '이' thành '미'."
+    },
+    {
+      "word": "넓어졌어요",
+      "pronounced": "널버뎌써요",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄼ của '넓' nối với ㅇ của '어졌어요' thành '버'."
+    },
+    {
+      "word": "있는",
+      "pronounced": "인는",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅆ của '있' nối với ㅇ của '는' thành '쓰'. (Tuy nhiên, trong một số trường hợp, âm 'ㅆ' có thể được đọc như 'ㅅ', nên '인는' cũng là một cách phát âm phổ biến.)"
+    },
+    {
+      "word": "사람이",
+      "pronounced": "사라미",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅁ của '사람' nối với ㅇ của '이' thành '미'."
+    },
+    {
+      "word": "싶어요",
+      "pronounced": "시퍼요",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅂ của '싶' nối với ㅇ của '어요' thành '퍼'."
+    }
+  ]
+}

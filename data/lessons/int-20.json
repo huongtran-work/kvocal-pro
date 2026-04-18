@@ -1,0 +1,31 @@
+{
+  "originalText": "한국의 직장 문화는 최근 들어 워라밸(Work-Life Balance)을 중시하는 방향으로 많이 변화하고 있습니다. 과거에는 야근이 잦고 회식 문화가 강했지만, 요즘은 정시 퇴근을 권장하고 회식 대신 문화 활동을 즐기는 분위기가 확산되고 있어요. 또한 유연 근무제나 재택근무를 도입하는 기업들이 늘어나면서 개인의 시간을 효율적으로 활용할 수 있게 되었습니다. 이러한 변화 덕분에 직장인들의 삶의 질이 높아지고 업무 효율성도 향상되는 긍정적인 효과가 나타나고 있습니다. 저도 회사 생활을 하면서 개인 시간을 가질 수 있어서 업무에 더 집중할 수 있게 된 것 같아요.",
+  "pronouncedText": "[한구게 직장 문화는 최근 드러 워라배를 중시하는 방향으로 마니 변화하고 이씀니다. 과거에는 야그니 잦꼬 회식 문화가 강했지만, 요즘은 정시 퇴그늘 권장하고 회식 대신 문화 활동글 즐기는 분위기가 확산되고 이써요. 또한 유연 근무제나 재택근무를 도입하는 기업들이 늘어나면서 개인의 시가늘 효율적으로 활용할 쑤 있게 되얻씀니다. 이러한 변화 덕뿐에 직장인들의 삶의 지리 노파지고 업무 효율성도 향상되는 긍정적인 효과가 나타나고 이씀니다. 저도 회사 생활을 하면서 개인 시가늘 가질 쑤 이써서 업무에 더 집중할 쑤 있게 된 것 가타요.]",
+  "translation": "Văn hóa công sở của Hàn Quốc gần đây đang thay đổi nhiều theo hướng coi trọng sự cân bằng giữa công việc và cuộc sống (Work-Life Balance). Trong quá khứ, việc làm thêm giờ thường xuyên và văn hóa tiệc tùng (Hoesik) rất mạnh mẽ, nhưng dạo này bầu không khí khuyến khích tan làm đúng giờ và tận hưởng các hoạt động văn hóa thay vì tiệc tùng đang được lan rộng. Ngoài ra, khi các doanh nghiệp áp dụng chế độ làm việc linh hoạt hoặc làm việc tại nhà ngày càng tăng, mọi người đã có thể tận dụng thời gian cá nhân một cách hiệu quả. Nhờ những thay đổi này, chất lượng cuộc sống của người đi làm được nâng cao và hiệu quả công việc cũng được cải thiện, tạo ra những hiệu ứng tích cực. Tôi cũng cảm thấy mình có thể tập trung hơn vào công việc khi có thể có thời gian cá nhân trong khi đi làm.",
+  "annotatedWords": [
+    {
+      "word": "변화하고",
+      "pronounced": "변화하고",
+      "rule": "Phát âm chuẩn",
+      "explanation": "Từ này phát âm theo đúng mặt chữ."
+    },
+    {
+      "word": "확산되고",
+      "pronounced": "확싼되고",
+      "rule": "Căng hóa",
+      "explanation": "Âm 's' (ㅅ) đứng sau patchim 'k' (ㄱ) bị căng hóa thành 'ss' (ㅆ)."
+    },
+    {
+      "word": "향상되는",
+      "pronounced": "향상되는",
+      "rule": "Phát âm chuẩn",
+      "explanation": "Từ này phát âm theo đúng mặt chữ."
+    },
+    {
+      "word": "집중할",
+      "pronounced": "집쭝할",
+      "rule": "Căng hóa",
+      "explanation": "Âm 'j' (ㅈ) đứng sau patchim 'p' (ㅂ) bị căng hóa thành 'jj' (ㅉ)."
+    }
+  ]
+}

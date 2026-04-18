@@ -1,0 +1,47 @@
+modules = ["nodejs-20", "web", "postgresql-16"]
+[agent]
+expertMode = true
+
+[nix]
+channel = "stable-25_05"
+
+[workflows]
+runButton = "Project"
+
+[[workflows.workflow]]
+name = "Project"
+mode = "parallel"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "Start application"
+
+[[workflows.workflow]]
+name = "Start application"
+author = "agent"
+
+[workflows.workflow.metadata]
+outputType = "webview"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "npm run dev"
+waitForPort = 5000
+
+[[ports]]
+localPort = 5000
+externalPort = 80
+
+[userenv]
+
+[userenv.development]
+BETTER_AUTH_URL = "https://e39e8e8b-6996-466e-8397-5ebabde535f6-00-1nxfjt3scbjp.sisko.replit.dev"
+
+[userenv.production]
+BETTER_AUTH_URL = "https://kvoice-ai.vercel.app"
+
+[deployment]
+build = ["sh", "-c", "prisma generate && next build"]
+run = ["sh", "-c", "next start -p 5000"]
+deploymentTarget = "cloudrun"

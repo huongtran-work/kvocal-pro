@@ -1,0 +1,61 @@
+{
+  "originalText": "안녕하세요. 제 이름은 수진입니다. 저는 베트남 사람이에요. 저는 대학교에 다녀요. 매일 한국어를 공부해요. 음악을 들어요. 그리고 책을 읽어요. 한국 친구들을 많이 만나고 싶어요.",
+  "pronouncedText": "[안녕하세여. 제 이르믄 수지님니다. 저눈 베트남 사라미에여. 저눈 대하꾜에 다녀여. 매일 한구거를 공부해여. 으마글 드러여. 그리고 채글 일거여. 한구 친구들을 마니 만나고 시퍼여.]",
+  "translation": "Xin chào. Tên tôi là Sujin. Tôi là người Việt Nam. Tôi đang học đại học. Hàng ngày tôi học tiếng Hàn. Tôi nghe nhạc. Và tôi đọc sách. Tôi muốn gặp nhiều bạn Hàn Quốc.",
+  "annotatedWords": [
+    {
+      "word": "이름은",
+      "pronounced": "[이르믄]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㅁ' của '름' nối với nguyên âm 'ㅇ' của '은'."
+    },
+    {
+      "word": "사람이에요",
+      "pronounced": "[사라미에여]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㅁ' của '람' nối với nguyên âm 'ㅇ' của '이'."
+    },
+    {
+      "word": "대학교에",
+      "pronounced": "[대하꾜에]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㄱ' của '학' nối với nguyên âm 'ㅇ' của '에'."
+    },
+    {
+      "word": "한국어를",
+      "pronounced": "[한구거를]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㄱ' của '국' nối với nguyên âm 'ㅇ' của '어'."
+    },
+    {
+      "word": "음악을",
+      "pronounced": "[으마글]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㄱ' của '악' nối với nguyên âm 'ㅇ' của '을'."
+    },
+    {
+      "word": "들어요",
+      "pronounced": "[드러여]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㄹ' của '들' nối với nguyên âm '어'."
+    },
+    {
+      "word": "책을",
+      "pronounced": "[채글]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㄱ' của '책' nối với nguyên âm 'ㅇ' của '을'."
+    },
+    {
+      "word": "읽어요",
+      "pronounced": "[일거여]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㄺ' của '읽' nối với nguyên âm '어', chỉ có 'ㄱ' nối sang."
+    },
+    {
+      "word": "친구들을",
+      "pronounced": "[친구드를]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㄹ' của '들' nối với nguyên âm '을'."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "originalText": "실례합니다, 여기 은행이 어디에 있어요? 은행 앞에 서점이 없어요? 어떻게 가면 돼요? 길을 알려 주세요. 저기 큰 건물 옆에 있어요? 네, 알겠습니다. 감사합니다!",
+  "pronouncedText": "[실례함니다, 여기 으내기 어지에 이써요? 으냉 아페 서저미 업써요? 어떠케 가면 돼요? 기르를 알려 주세요. 저기 큰 건물 여페 이써요? 네, 알겍씀니다. 감사함니다!]",
+  "translation": "Xin lỗi, ngân hàng ở đâu ạ? Trước ngân hàng không có hiệu sách ạ? Tôi phải đi thế nào? Xin hãy chỉ đường cho tôi. Nó ở cạnh tòa nhà lớn đó phải không? Vâng, tôi hiểu rồi. Cảm ơn rất nhiều!",
+  "annotatedWords": [
+    {
+      "word": "은행이",
+      "pronounced": "으내기",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㅇ' (ng âm sau) của '은행' (eun-haeng) nối với nguyên âm '이' (i) của tiểu từ '이'."
+    },
+    {
+      "word": "있어요",
+      "pronounced": "이써요",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㅆ' của '있' (it) nối với nguyên âm 'ㅓ' (eo) của '어요'. Đồng thời, 'ㅆ' khi nối với nguyên âm sẽ đọc căng hơn (경음화)."
+    },
+    {
+      "word": "앞에",
+      "pronounced": "아페",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㅍ' của '앞' (ap) nối với nguyên âm 'ㅔ' (e) của tiểu từ '에'."
+    },
+    {
+      "word": "서점이",
+      "pronounced": "서저미",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㅁ' của '서점' (seo-jeom) nối với nguyên âm '이' (i) của tiểu từ '이'."
+    },
+    {
+      "word": "없어요",
+      "pronounced": "업써요",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㅄ' của '없' (eop) được đọc là 'ㅂ' và nối với nguyên âm 'ㅓ' (eo) của '어요'. Đồng thời, âm 'ㅆ' khi nối với nguyên âm sẽ đọc căng hơn (경음화)."
+    },
+    {
+      "word": "길을",
+      "pronounced": "기르를",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㄹ' của '길' (gil) nối với nguyên âm 'ㅡ' (eu) của tiểu từ '을'."
+    },
+    {
+      "word": "알려",
+      "pronounced": "알려",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㄹ' của '알' (al) nối với nguyên âm 'ㅕ' (yeo) của '여' (kết hợp với '르다' hoặc '리다')."
+    },
+    {
+      "word": "옆에",
+      "pronounced": "여페",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㅍ' của '옆' (yeop) nối với nguyên âm 'ㅔ' (e) của tiểu từ '에'."
+    },
+    {
+      "word": "어떻게",
+      "pronounced": "어떠케",
+      "rule": "Biến âm (격음화)",
+      "explanation": "Patchim 'ㅎ' của '어떻' (eotteot) gặp 'ㄱ' của '게' (ge) tạo thành âm bật hơi 'ㅋ' (ke)."
+    },
+    {
+      "word": "알겠습니다",
+      "pronounced": "알겍씀니다",
+      "rule": "Biến âm (경음화 + 비음화)",
+      "explanation": "Patchim 'ㄹ' của '알' (al) không nối âm trực tiếp. '겠' (get) đọc thành '겍' (kek) do 'ㅅ' sau 'ㄱ' bị căng (경음화). 'ㅂ니다' (mnida) sau '겠' bị biến thành '씀니다' (sseumnida) do quy tắc biến âm (비음화)."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "originalText": "오늘 날씨가 참 좋아요. 하늘이 맑고 햇볕이 따뜻해요. 바람이 시원하고 많이 불어요. 그래서 기분이 정말 좋아요. 밖에 나가서 산책하고 싶어요. 따뜻한 옷을 입어야 할 것 같아요.",
+  "pronouncedText": "[오늘 날씨가 참 조아요. 하느리 말꼬 해뼈치 따뜨태요. 바라미 시워나고 마니 부러요. 그래서 기부니 정말 조아요. 바께 나가서 산채카고 시퍼요. 따뜨탄 오슬 이벼야 할 껃 가타요.]",
+  "translation": "Hôm nay thời tiết thật đẹp. Trời trong xanh và nắng ấm áp. Gió mát và thổi nhiều. Vì vậy tâm trạng của tôi thực sự tốt. Tôi muốn ra ngoài đi dạo. Có lẽ tôi nên mặc quần áo ấm.",
+  "annotatedWords": [
+    {
+      "word": "좋아요",
+      "pronounced": "조아요",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㅎ' (patchim) của '좋' không được phát âm và nguyên âm '아' của '아요' nối với 'ㅈ' của âm tiết trước."
+    },
+    {
+      "word": "하늘이",
+      "pronounced": "하느리",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㄹ' (patchim) của '늘' nối trực tiếp với nguyên âm '이' của âm tiết sau."
+    },
+    {
+      "word": "햇볕이",
+      "pronounced": "해뼈치",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㅌ' (patchim) của '볕' được phát âm là 'ㄷ', sau đó nối với nguyên âm '이' của âm tiết sau và biến đổi thành 'ㅊ' (phát âm căng/bật hơi)."
+    },
+    {
+      "word": "바람이",
+      "pronounced": "바라미",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㅁ' (patchim) của '람' nối trực tiếp với nguyên âm '이' của âm tiết sau."
+    },
+    {
+      "word": "많이",
+      "pronounced": "마니",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㅎ' (patchim) của '많' không được phát âm, và 'ㄴ' của âm tiết trước nối trực tiếp với nguyên âm '이' của âm tiết sau."
+    },
+    {
+      "word": "기분이",
+      "pronounced": "기부니",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㄴ' (patchim) của '분' nối trực tiếp với nguyên âm '이' của âm tiết sau."
+    },
+    {
+      "word": "좋아요",
+      "pronounced": "조아요",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㅎ' (patchim) của '좋' không được phát âm và nguyên âm '아' của '아요' nối với 'ㅈ' của âm tiết trước."
+    },
+    {
+      "word": "밖에",
+      "pronounced": "바께",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㄱ' (patchim) của '밖' nối trực tiếp với nguyên âm '에' của âm tiết sau, và 'ㄱ' được phát âm căng thành 'ㄲ'."
+    },
+    {
+      "word": "싶어요",
+      "pronounced": "시퍼요",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㅂ' (patchim) của '싶' nối trực tiếp với nguyên âm '어' của âm tiết sau và được phát âm bật hơi thành 'ㅍ'."
+    },
+    {
+      "word": "옷을",
+      "pronounced": "오슬",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㅅ' (patchim) của '옷' được phát âm là 'ㄷ', sau đó nối với nguyên âm '으' của âm tiết sau và biến đổi thành 'ㅅ'."
+    },
+    {
+      "word": "입어야",
+      "pronounced": "이벼야",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㅂ' (patchim) của '입' nối trực tiếp với nguyên âm '어' của âm tiết sau."
+    }
+  ]
+}

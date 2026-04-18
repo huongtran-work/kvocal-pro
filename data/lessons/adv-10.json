@@ -1,0 +1,31 @@
+{
+  "originalText": "민주주의의 핵심 가치는 모든 시민이 자유롭고 평등하게 사회적 의사 결정 과정에 참여하는 것입니다. 성숙한 민주 사회를 위해서는 단순히 투표에 참여하는 것을 넘어, 타인의 의견을 존중하고 대화와 타협을 통해 합리적인 결론을 도출하려는 자세가 필요합니다. 우리는 자신의 권리를 주장하는 것만큼이나 타인의 권리를 보호하고 공동체의 책임을 다하는 태도를 가져야 합니다. 또한 권력에 대한 비판적인 감시와 더불어 사회적 약자의 목소리에 귀를 기울이는 포용적인 자세가 중요합니다. 교육을 통해 민주 시민으로서의 소양을 기르고, 일상생활 속에서 민주주의의 원칙을 실천하는 노력이 필요합니다. 갈등과 대립을 넘어 연대와 협력의 정신을 바탕으로 할 때, 민주주의는 비로소 공고해질 수 있습니다. 우리는 더 나은 공동체를 만들기 위해 끊임없이 소통하고 서로의 다름을 인정하는 성숙한 시민 의식을 발휘해야 합니다. 민주주의는 완성된 결과가 아니라, 우리가 함께 만들어가는 끊임없는 과정임을 잊지 말아야 합니다.",
+  "pronouncedText": "[민주주의의 핵심 가치는 모든 시민이 자유롭고 평등하게 사회적 의사 결정 과정에 참여하는 것심니다. 성숙한 민주 사회를 위해서는 단순히 투표에 참여하는 거슬 너머, 타인의 의견글 존중하고 대화와 타협을 통해 합리적인 결론글 도출하려는 자세가 필요함니다. 우리는 자신의 권리를 주장하는 것만큼이나 타인의 권리를 보호하고 공동체의 책임을 다하는 태도를 가져야 함니다. 또한 권력에 대한 비판적인 감시와 더불어 사회적 약자의 목소리에 귀를 기울이는 포용적인 자세가 중요함니다. 교육을 통해 민주 시민으로서의 소양글 기르고, 일상생활 속에서 민주주의의 원칙글 실천하는 노력이 필요함니다. 갈등과 대립을 너머 연대와 협력의 정신글 바탕으로 할 때, 민주주의는 비로소 공고해질 쑤 이씀니다. 우리는 더 나은 공동체를 만들기 위해 끊임업씨 소통하고 서로의 다름을 인정하는 성숙한 시민 의시글 발휘해야 함니다. 민주주의는 완성된 결과가 아니라, 우리가 함꼐 만들어가는 끊임엄는 과정임을 잊찌 말아야 함니다.]",
+  "translation": "Giá trị cốt lõi của dân chủ là tất cả công dân tham gia vào quá trình ra quyết định xã hội một cách tự do và bình đẳng. Vì một xã hội dân chủ trưởng thành, cần có thái độ tôn trọng ý kiến của người khác và nỗ lực đưa ra kết luận hợp lý thông qua đối thoại và thỏa hiệp, thay vì chỉ dừng lại ở việc tham gia bỏ phiếu. Chúng ta phải có thái độ bảo vệ quyền của người khác và hoàn thành trách nhiệm của cộng đồng cũng như việc khẳng định quyền lợi của chính mình. Ngoài ra, thái độ bao dung lắng nghe tiếng nói của những người yếu thế trong xã hội cùng với việc giám sát phản biện đối với quyền lực là rất quan trọng. Cần có nỗ lực rèn luyện tố chất với tư cách là công dân dân chủ thông qua giáo dục và thực hiện các nguyên tắc dân chủ trong cuộc sống hàng ngày. Khi dựa trên tinh thần đoàn kết và hợp tác vượt qua xung đột và đối lập, dân chủ mới có thể trở nên vững chắc. Chúng ta phải phát huy ý thức công dân trưởng thành, không ngừng giao tiếp và công nhận sự khác biệt của nhau để tạo ra một cộng đồng tốt đẹp hơn. Chúng ta không được quên rằng dân chủ không phải là một kết quả đã hoàn thành, mà là một quá trình không ngừng nghỉ mà chúng ta cùng nhau tạo ra.",
+  "annotatedWords": [
+    {
+      "word": "의견을",
+      "pronounced": "의견글",
+      "rule": "Nối âm",
+      "explanation": "Patchim 'n' (ㄴ) nối lên nguyên âm 'eu' (으)."
+    },
+    {
+      "word": "결론을",
+      "pronounced": "결론글",
+      "rule": "Nối âm",
+      "explanation": "Patchim 'n' (ㄴ) nối lên nguyên âm 'eu' (으)."
+    },
+    {
+      "word": "소양을",
+      "pronounced": "소양글",
+      "rule": "Nối âm",
+      "explanation": "Patchim 'ng' (ㅇ) không nối âm, nhưng ở đây 'ng' (ㅇ) đứng trước 'eu' (으) thường được phát âm rõ ràng."
+    },
+    {
+      "word": "의식을",
+      "pronounced": "의시글",
+      "rule": "Nối âm",
+      "explanation": "Patchim 'k' (ㄱ) nối lên nguyên âm 'eu' (으)."
+    }
+  ]
+}

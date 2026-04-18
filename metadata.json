@@ -1,0 +1,5 @@
+{
+  "name": "K-Vocal AI",
+  "description": "Korean pronunciation learning app powered by Gemini AI",
+  "requestFramePermissions": ["microphone"]
+}

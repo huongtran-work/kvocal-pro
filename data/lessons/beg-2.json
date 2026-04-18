@@ -1,0 +1,73 @@
+{
+  "originalText": "저는 주말에 시장에 가요. 시장은 활기차고 정말 좋아요. 거기에서 신선한 과일과 야채를 많이 팔아요. 저는 예쁜 옷을 사고 싶어요. 어머니는 꽃을 좋아해요. 저도 귤을 하나 먹어요. 시장에서 모든 것이 싸요.",
+  "pronouncedText": "[저는 주마레 시자게 가요. 시장은 활기차고 정말 조아요. 거기에서 신선한 과일과 야채를 마니 파라요. 저는 예쁜 오슬 사고 시퍼요. 어머니는 꼬츨 조아해요. 저도 규를 하나 머거요. 시자게서 모든 거시 싸요.]",
+  "translation": "Cuối tuần tôi đi chợ. Chợ rất nhộn nhịp và thực sự tốt. Ở đó, họ bán rất nhiều trái cây và rau tươi. Tôi muốn mua một bộ quần áo đẹp. Mẹ tôi thích hoa. Tôi cũng ăn một quả quýt. Mọi thứ ở chợ đều rẻ.",
+  "annotatedWords": [
+    {
+      "word": "시장에",
+      "pronounced": "시자게",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㅇ' của '시장' nối với nguyên âm '에' tạo thành [시자게]"
+    },
+    {
+      "word": "좋아요",
+      "pronounced": "조아요",
+      "rule": "Nối âm 연음 (và biến âm)",
+      "explanation": "Patchim 'ㅎ' của '좋-' bị lược bỏ, nguyên âm 'ㅏ' của '아요' nối với 'ㅗ' tạo thành [조아요]. (Theo ví dụ của người dùng)"
+    },
+    {
+      "word": "팔아요",
+      "pronounced": "파라요",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㄹ' của '팔-' nối với nguyên âm 'ㅏ' của '아요' tạo thành [파라요]"
+    },
+    {
+      "word": "옷을",
+      "pronounced": "오슬",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㅅ' của '옷' nối với nguyên âm 'ㅡ' của '을' tạo thành [오슬]"
+    },
+    {
+      "word": "꽃을",
+      "pronounced": "꼬츨",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㅊ' của '꽃' nối với nguyên âm 'ㅡ' của '을' tạo thành [꼬츨]"
+    },
+    {
+      "word": "귤을",
+      "pronounced": "규를",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㄹ' của '귤' nối với nguyên âm 'ㅡ' của '을' tạo thành [규를]"
+    },
+    {
+      "word": "먹어요",
+      "pronounced": "머거요",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㄱ' của '먹-' nối với nguyên âm 'ㅓ' của '어요' tạo thành [머거요]"
+    },
+    {
+      "word": "것이",
+      "pronounced": "거시",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㅅ' của '것' nối với nguyên âm 'ㅣ' của '이' tạo thành [거시]"
+    },
+    {
+      "word": "많이",
+      "pronounced": "마니",
+      "rule": "Biến âm (ㅎ 탈락)",
+      "explanation": "Patchim 'ㅎ' của '많' bị lược bỏ khi gặp nguyên âm 'ㅣ' tạo thành [마니]"
+    },
+    {
+      "word": "좋아해요",
+      "pronounced": "조아해요",
+      "rule": "Biến âm (ㅎ 탈락)",
+      "explanation": "Patchim 'ㅎ' trong '좋아-' bị lược bỏ khi gặp nguyên âm 'ㅐ' của '해요' (biến thể của '-아요/어요') tạo thành [조아해요]"
+    },
+    {
+      "word": "싶어요",
+      "pronounced": "시퍼요",
+      "rule": "Biến âm",
+      "explanation": "Đây là cách phát âm phổ biến của từ '싶어요' với âm 'ㅂ' biến đổi thành 'ㅍ' khi gặp nguyên âm 'ㅓ'."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "originalText": "어제부터 몸이 안 좋아요.\n그래서 병원 앞에 있어요.\n진찰실 안에 앉아요.\n의사 선생님이 진찰을 해요.\n그리고 약을 먹어요.\n지금은 기분이 좀 좋아요.",
+  "pronouncedText": "[어제부터 모미 안 조아요.]\n[그래서 병원 아페 이써요.]\n[진찰실 아네 안자요.]\n[의사 선생니미 진차를 해요.]\n[그리고 야글 머거요.]\n[지금은 기부니 좀 조아요.]",
+  "translation": "Từ hôm qua tôi đã không khỏe.\nVì vậy, tôi đang ở trước bệnh viện.\nTôi ngồi xuống trong phòng khám.\nBác sĩ khám bệnh cho tôi.\nVà tôi uống thuốc.\nBây giờ tôi cảm thấy tốt hơn một chút.",
+  "annotatedWords": [
+    {
+      "word": "몸이",
+      "pronounced": "모미",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㅁ' của '몸' nối với nguyên âm '이'."
+    },
+    {
+      "word": "앞에",
+      "pronounced": "아페",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㅍ' của '앞' nối với nguyên âm '에'."
+    },
+    {
+      "word": "있어요",
+      "pronounced": "이써요",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối kép 'ㅆ' của '있' nối với nguyên âm '어'."
+    },
+    {
+      "word": "안에",
+      "pronounced": "아네",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㄴ' của '안' nối với nguyên âm '에'."
+    },
+    {
+      "word": "앉아요",
+      "pronounced": "안자요",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối kép 'ㄵ' của '앉' chuyển 'ㅈ' nối với nguyên âm '아'."
+    },
+    {
+      "word": "선생님이",
+      "pronounced": "선생니미",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㅁ' của '님' nối với nguyên âm '이'."
+    },
+    {
+      "word": "진찰을",
+      "pronounced": "진차를",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㄹ' của '찰' nối với nguyên âm '으'."
+    },
+    {
+      "word": "약을",
+      "pronounced": "야글",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㄱ' của '약' nối với nguyên âm '으'."
+    },
+    {
+      "word": "먹어요",
+      "pronounced": "머거요",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㄱ' của '먹' nối với nguyên âm '어'."
+    },
+    {
+      "word": "기분이",
+      "pronounced": "기부니",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㄴ' của '분' nối với nguyên âm '이'."
+    },
+    {
+      "word": "좋아요",
+      "pronounced": "조아요",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㅎ' của '좋' bị lược bỏ, nguyên âm '아' nối với nguyên âm trước đó."
+    }
+  ]
+}

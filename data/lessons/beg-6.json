@@ -1,0 +1,79 @@
+{
+  "originalText": "우리 가족은 네 명이에요.\n아빠, 엄마, 여동생 그리고 제가 있어요.\n아빠는 매일 신문을 읽어요.\n엄마는 옷을 만들어요.\n여동생은 방에 앉아서 책을 봐요.\n우리는 저녁을 같이 먹어요. 밤에는 함께 텔레비전을 봐요.\n저는 우리 가족을 아주 사랑해요.",
+  "pronouncedText": "[우리 가조근 네 명이에요.\n아빠, 엄마, 여동생 그리고 제가 이써요.\n아빠는 매일 신무늘 일거요.\n엄마는 오슬 만들어요.\n여동생은 방에 안자서 채글 봐요.\n우리는 저녀글 가치 머거요. 바메는 함께 텔레비저늘 봐요.\n저는 우리 가조글 아주 사라해요.]",
+  "translation": "Gia đình tôi có bốn người.\nCó bố, mẹ, em gái và tôi.\nBố đọc báo mỗi ngày.\nMẹ may quần áo.\nEm gái ngồi trong phòng đọc sách.\nChúng tôi cùng nhau ăn tối. Buổi tối chúng tôi cùng nhau xem TV.\nTôi rất yêu gia đình tôi.",
+  "annotatedWords": [
+    {
+      "word": "가족은",
+      "pronounced": "[가조근]",
+      "rule": "Nối âm 연음",
+      "explanation": "Batchim 'ㄱ' của '족' nối với nguyên âm 'ㅡ' của '은'."
+    },
+    {
+      "word": "있어요",
+      "pronounced": "[이써요]",
+      "rule": "Nối âm 연음",
+      "explanation": "Batchim 'ㅆ' của '있' nối với nguyên âm 'ㅓ' của '어요'."
+    },
+    {
+      "word": "신문을",
+      "pronounced": "[신무늘]",
+      "rule": "Nối âm 연음",
+      "explanation": "Batchim 'ㄴ' của '문' nối với nguyên âm 'ㅡ' của '을'."
+    },
+    {
+      "word": "읽어요",
+      "pronounced": "[일거요]",
+      "rule": "Nối âm 연음",
+      "explanation": "Double batchim 'ㄺ' của '읽', 'ㄱ' nối với nguyên âm 'ㅓ' của '어요'."
+    },
+    {
+      "word": "옷을",
+      "pronounced": "[오슬]",
+      "rule": "Nối âm 연음",
+      "explanation": "Batchim 'ㅅ' của '옷' nối với nguyên âm 'ㅡ' của '을'."
+    },
+    {
+      "word": "앉아서",
+      "pronounced": "[안자서]",
+      "rule": "Nối âm 연음",
+      "explanation": "Double batchim 'ㄵ' của '앉', 'ㅈ' nối với nguyên âm 'ㅏ' của '아서'."
+    },
+    {
+      "word": "책을",
+      "pronounced": "[채글]",
+      "rule": "Nối âm 연음",
+      "explanation": "Batchim 'ㄱ' của '책' nối với nguyên âm 'ㅡ' của '을'."
+    },
+    {
+      "word": "저녁을",
+      "pronounced": "[저녀글]",
+      "rule": "Nối âm 연음",
+      "explanation": "Batchim 'ㄱ' của '녁' nối với nguyên âm 'ㅡ' của '을'."
+    },
+    {
+      "word": "먹어요",
+      "pronounced": "[머거요]",
+      "rule": "Nối âm 연음",
+      "explanation": "Batchim 'ㄱ' của '먹' nối với nguyên âm 'ㅓ' của '어요'."
+    },
+    {
+      "word": "밤에는",
+      "pronounced": "[바메는]",
+      "rule": "Nối âm 연음",
+      "explanation": "Batchim 'ㅁ' của '밤' nối với nguyên âm 'ㅔ' của '에는'."
+    },
+    {
+      "word": "텔레비전을",
+      "pronounced": "[텔레비저늘]",
+      "rule": "Nối âm 연음",
+      "explanation": "Batchim 'ㄴ' của '전' nối với nguyên âm 'ㅡ' của '을'."
+    },
+    {
+      "word": "가족을",
+      "pronounced": "[가조글]",
+      "rule": "Nối âm 연음",
+      "explanation": "Batchim 'ㄱ' của '족' nối với nguyên âm 'ㅡ' của '을'."
+    }
+  ]
+}

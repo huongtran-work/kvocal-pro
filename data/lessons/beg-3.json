@@ -1,0 +1,67 @@
+{
+  "originalText": "안녕하세요! 여기 앉아요. 메뉴판을 보세요. 어떤 음식이 맛있어요? 저는 비빔밥을 먹을게요. 친구는 밥을 먹어요. 물 좀 주세요. 그리고 컵이 있어요? 네, 감사합니다!",
+  "pronouncedText": "[안녕하세여! 여기 안자요. 메뉴파늘 보세요. 어떤 음시기가 마시써요? 저는 비빔바블 머글께요. 친구는 바블 머거요. 물 좀 주세여. 그리고 커비 이써요? 네, 감사함니다!]",
+  "translation": "Xin chào! Tôi ngồi ở đây. Xin hãy xem thực đơn. Món ăn nào ngon vậy? Tôi sẽ ăn bibimbap. Bạn tôi ăn cơm. Xin hãy cho tôi chút nước. Và có cốc không? Vâng, xin cảm ơn!",
+  "annotatedWords": [
+    {
+      "word": "앉아요",
+      "pronounced": "안자요",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối ㅈ của '앉' nối với nguyên âm ㅏ của '아요'."
+    },
+    {
+      "word": "메뉴판을",
+      "pronounced": "메뉴파늘",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối ㄴ của '판' nối với nguyên âm ㅡ của '을'."
+    },
+    {
+      "word": "음식이",
+      "pronounced": "음시기",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối ㄱ của '식' nối với nguyên âm ㅣ của '이'."
+    },
+    {
+      "word": "맛있어요",
+      "pronounced": "마시써요",
+      "rule": "Nối âm 연음 및 경음화",
+      "explanation": "Phụ âm cuối ㅅ của '맛' nối với nguyên âm ㅣ của '있', sau đó ㅅ của '있' làm căng âm ㅅ của '어요'."
+    },
+    {
+      "word": "비빔밥을",
+      "pronounced": "비빔바블",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối ㅂ của '밥' nối với nguyên âm ㅡ của '을'."
+    },
+    {
+      "word": "먹을게요",
+      "pronounced": "머글께요",
+      "rule": "Nối âm 연음 및 경음화",
+      "explanation": "Phụ âm cuối ㄱ của '먹' nối với nguyên âm ㅡ của '을', sau đó ㄱ của '게요' được căng âm."
+    },
+    {
+      "word": "밥을",
+      "pronounced": "바블",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối ㅂ của '밥' nối với nguyên âm ㅡ của '을'."
+    },
+    {
+      "word": "먹어요",
+      "pronounced": "머거요",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối ㄱ của '먹' nối với nguyên âm ㅓ của '어요'."
+    },
+    {
+      "word": "컵이",
+      "pronounced": "커비",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối ㅂ của '컵' nối với nguyên âm ㅣ của '이'."
+    },
+    {
+      "word": "있어요",
+      "pronounced": "이써요",
+      "rule": "Nối âm 연음 및 경음화",
+      "explanation": "Phụ âm cuối ㅅ của '있' nối với nguyên âm ㅓ của '어요', đồng thời gây căng âm ㅅ thành ㅆ."
+    }
+  ]
+}

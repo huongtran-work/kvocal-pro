@@ -1,0 +1,31 @@
+{
+  "originalText": "인공지능 기술의 급격한 발전은 우리 삶의 방식을 근본적으로 변화시키고 있습니다. 자율주행 자동차, 스마트 홈 시스템, 의료 진단 보조 등 다양한 분야에서 인공지능이 활용되며 편의성을 높여주고 있어요. 하지만 기술의 발전과 함께 일자리 감소, 개인정보 침해, 윤리적 판단 문제 등 해결해야 할 과제들도 산적해 있습니다. 우리는 인공지능이 인간의 지능을 보조하는 도구로서 올바르게 사용될 수 있도록 사회적 합의를 이끌어내야 합니다. 특히 알고리즘의 투명성과 공정성을 확보하는 것이 무엇보다 중요하며, 기술이 인간의 가치를 훼손하지 않도록 엄격한 가이드라인이 필요합니다. 인공지능과 인간이 공존하는 미래를 위해 우리는 끊임없이 고민하고 준비해야 할 것입니다. 기술은 결국 인간을 위한 것이어야 하며, 그 혜택이 모두에게 공평하게 돌아갈 수 있는 구조를 만들어야 합니다. 인공지능 시대의 주역으로서 우리는 비판적인 사고와 창의적인 문제 해결 능력을 키워나가야 합니다.",
+  "pronouncedText": "[인공지능 기술의 급껴칸 발전은 우리 살믜 방시글 근본적으로 변화시키고 이씀니다. 자율주행 자동차, 스마트 홈 시스탬, 의료 진단 보조 등 다양한 분야에서 인공지능이 활용되며 편의성을 노펴주고 이써요. 하지만 기술의 발전과 함꼐 일자리 감소, 개인정보 침해, 윤리적 판단 문제 등 해결해야 할 과제들도 산적해 이씀니다. 우리는 인공지능이 인간의 지능을 보조하는 도구로서 올바르게 사용될 쑤 이또록 사회적 하비르 리끌어내야 함니다. 특히 알고리즘의 투명성과 공정성을 확보하는 거시 무엇뽀다 중요하며, 기술이 인간의 가치를 훼손하지 안토록 엄격한 가이드라이니 필요함니다. 인공지능과 인간이 공존하는 미래를 위해 우리는 끊임업씨 고민하고 준비해야 할 것심니다. 기술은 결국 인간을 위한 거시어야 하며, 그 혜태기 모두에게 공평하게 돌아갈 쑤 인는 구조를 만들어야 함니다. 인공지능 시대의 주역으로서 우리는 비판적인 사고와 창의적인 문제 해결 능려글 키워나가야 함니다.]",
+  "translation": "Sự phát triển nhanh chóng của công nghệ trí tuệ nhân tạo đang thay đổi căn bản cách sống của chúng ta. Trí tuệ nhân tạo đang được sử dụng trong nhiều lĩnh vực như xe tự lái, hệ thống nhà thông minh, hỗ trợ chẩn đoán y tế, giúp nâng cao tính tiện lợi. Tuy nhiên, cùng với sự phát triển của công nghệ, những thách thức cần giải quyết như giảm bớt việc làm, xâm phạm thông tin cá nhân, vấn đề phán đoán đạo đức cũng đang chồng chất. Chúng ta cần đưa ra sự đồng thuận xã hội để trí tuệ nhân tạo có thể được sử dụng đúng đắn như một công cụ hỗ trợ trí thông minh của con người. Đặc biệt, việc đảm bảo tính minh bạch và công bằng của thuật toán là quan trọng hơn bất cứ điều gì, và cần có những hướng dẫn nghiêm ngặt để công nghệ không làm tổn hại đến giá trị của con người. Vì một tương lai nơi trí tuệ nhân tạo và con người cùng tồn tại, chúng ta sẽ phải không ngừng suy nghĩ và chuẩn bị. Công nghệ cuối cùng phải là vì con người, và chúng ta phải tạo ra một cấu trúc nơi những lợi ích đó có thể được chia sẻ công bằng cho tất cả mọi người. Với tư cách là những nhân vật chính của thời đại trí tuệ nhân tạo, chúng ta cần nuôi dưỡng tư duy phản biện và khả năng giải quyết vấn đề sáng tạo.",
+  "annotatedWords": [
+    {
+      "word": "급격한",
+      "pronounced": "급껴칸",
+      "rule": "Căng hóa & Âm bật hơi",
+      "explanation": "Âm 'k' (ㄱ) bị căng hóa thành 'kk' (ㄲ), và 'h' (ㅎ) biến thành 'kh' (ㅋ)."
+    },
+    {
+      "word": "확보하는",
+      "pronounced": "확뽀하는",
+      "rule": "Căng hóa",
+      "explanation": "Âm 'p' (ㅂ) đứng sau patchim 'k' (ㄱ) bị căng hóa thành 'pp' (ㅃ)."
+    },
+    {
+      "word": "끊임없이",
+      "pronounced": "끈임업씨",
+      "rule": "Lược bỏ 'h' & Nối âm",
+      "explanation": "Patchim kép 'nh' (ㄶ) lược bỏ 'h', và 'ps' (ㅄ) nối lên thành 'ss' (ㅆ)."
+    },
+    {
+      "word": "혜택이",
+      "pronounced": "혜태기",
+      "rule": "Nối âm",
+      "explanation": "Patchim 'k' (ㄱ) nối lên nguyên âm 'i' (이)."
+    }
+  ]
+}

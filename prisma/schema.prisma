@@ -1,0 +1,29 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Lesson {
+  topicId    String   @id @map("topic_id")
+  lessonData Json     @map("lesson_data")
+  createdAt  DateTime @default(now()) @map("created_at")
+
+  @@map("lessons")
+}
+
+model UserProgress {
+  id           Int      @id @default(autoincrement())
+  userId       String   @map("user_id")
+  topicId      String   @map("topic_id")
+  bestScore    Float?   @map("best_score")
+  attempts     Int      @default(0)
+  completed    Boolean  @default(false)
+  lastAccessed DateTime @default(now()) @map("last_accessed")
+
+  @@unique([userId, topicId])
+  @@map("user_progress")
+}

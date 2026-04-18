@@ -1,0 +1,31 @@
+{
+  "originalText": "한국의 시장 문화는 현대적인 대형 마트와는 또 다른 정겨움과 활기찬 매력을 가지고 있습니다. 시장 골목마다 맛있는 길거리 음식 냄새가 가득하고, 상인들의 넉넉한 인심 덕분에 덤을 받는 재미도 쏠쏠해요. 특히 광장시장이나 남대문시장 같은 전통 시장은 볼거리와 먹거리가 풍부해서 관광객들에게 필수 코스로 손꼽힙니다. 떡볶이, 빈대떡, 족발 등 한국의 대표적인 서민 음식들을 저렴한 가격에 맛볼 수 있다는 것이 큰 장점이에요. 저도 가끔 활기찬 에너지를 얻고 싶을 때 전통 시장을 찾곤 하는데, 사람 냄새 나는 따뜻한 분위기가 정말 좋습니다.",
+  "pronouncedText": "[한구게 시장 문화는 현대적인 대형 마트와는 또 다른 정겨움과 활기찬 매려글 가지고 이씀니다. 시장 골목마다 마신는 길거리 음식 냄새가 가득하고, 상인들의 넉넉한 인심 덕뿐에 더믈 받는 재미도 쏠쏠해요. 특히 광장시장이나 남대문시장 가튼 전통 시장은 볼거리와 먹거리가 풍부해서 관광객들에게 필수 코스로 손꼽힘니다. 떡볶이, 빈대떡, 족발 등 한구게 대표적인 서민 음식드르 저렴한 가격께 맛볼 쑤 이따는 거시 큰 장쩜임니다. 저도 가끔 활기찬 에너지를 얻꼬 시플 때 전통 시장을 찾꼰 하는데, 사람 냄새 나는 따뜻한 분위기가 정말 조씀니다.]",
+  "translation": "Văn hóa chợ của Hàn Quốc mang một sức lôi cuốn đầy sức sống và sự thân thương khác hẳn với các siêu thị lớn hiện đại. Mỗi ngõ chợ đều tràn ngập mùi thức ăn đường phố ngon lành, và nhờ sự hào phóng của các thương nhân mà việc nhận thêm đồ khuyến mãi (deom) cũng rất thú vị. Đặc biệt, các chợ truyền thống như chợ Gwangjang hay chợ Namdaemun có rất nhiều thứ để xem và ăn nên được coi là lộ trình bắt buộc đối với khách du lịch. Điểm mạnh lớn nhất là bạn có thể thưởng thức các món ăn bình dân tiêu biểu của Hàn Quốc như Tteokbokki, Bindaetteok, chân giò heo với giá rẻ. Thỉnh thoảng khi muốn nạp thêm năng lượng sống, tôi cũng thường tìm đến các chợ truyền thống, bầu không khí ấm áp đầy hơi thở con người thực sự rất tốt.",
+  "annotatedWords": [
+    {
+      "word": "인심",
+      "pronounced": "인심",
+      "rule": "Phát âm chuẩn",
+      "explanation": "Từ này phát âm theo đúng mặt chữ."
+    },
+    {
+      "word": "손꼽힙니다",
+      "pronounced": "손꼽힘니다",
+      "rule": "Âm bật hơi & Biến âm mũi",
+      "explanation": "Patchim 'p' (ㅂ) gặp 'h' (ㅎ) thành 'ph' (ㅍ), và 'p' (ㅂ) biến thành 'm' (ㅁ)."
+    },
+    {
+      "word": "맛볼",
+      "pronounced": "맏뽈",
+      "rule": "Căng hóa",
+      "explanation": "Âm 'p' (ㅂ) đứng sau patchim 't' (ㅅ) bị căng hóa thành 'pp' (ㅃ)."
+    },
+    {
+      "word": "좋습니다",
+      "pronounced": "조씀니다",
+      "rule": "Âm bật hơi & Biến âm mũi",
+      "explanation": "Patchim 'h' (ㅎ) gặp 's' (ㅅ) biến thành 'ss' (ㅆ), và 'p' (ㅂ) biến thành 'm' (ㅁ)."
+    }
+  ]
+}

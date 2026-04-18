@@ -1,0 +1,67 @@
+{
+  "originalText": "이번 주말에 저는 계획이 많아요. 먼저, 집에서 책을 읽을 거예요. 그리고 음악을 들을 거예요. 오후에는 맛있는 음식을 먹을 거예요. 친구와 카페에 앉아서 이야기도 할 거예요. 주말 생각에 벌써 기분이 좋아요.",
+  "pronouncedText": "[이번 주마레 저눈 계회기 마나요. 먼저, 지베서 채글 일글 꺼에요. 그리고 으마글 드을 꺼에요. 오후에눈 마신는 음시글 머글 꺼에요. 친구와 카폐에 안자서 이야기도 할 꺼에요. 주말 생가게 벌써 기부니 조아요.]",
+  "translation": "Tôi có nhiều kế hoạch vào cuối tuần này. Đầu tiên, tôi sẽ đọc sách ở nhà. Sau đó, tôi sẽ nghe nhạc. Vào buổi chiều, tôi sẽ ăn đồ ăn ngon. Tôi cũng sẽ ngồi ở quán cà phê với bạn bè và nói chuyện. Chỉ nghĩ đến cuối tuần thôi đã thấy vui rồi.",
+  "annotatedWords": [
+    {
+      "word": "많아요",
+      "pronounced": "마나요",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối kép 'ㄶ' của '많' khi gặp nguyên âm '아' thì 'ㅎ' câm và 'ㄴ' nối với '아' thành '나'."
+    },
+    {
+      "word": "책을",
+      "pronounced": "채글",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㄱ' của '책' nối với nguyên âm '으' của '을' thành '글'."
+    },
+    {
+      "word": "읽을",
+      "pronounced": "일글",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối kép 'ㄺ' của '읽' khi gặp nguyên âm '으' thì 'ㄹ' nối với '으' thành '글', còn 'ㄱ' giữ nguyên ở âm tiết trước."
+    },
+    {
+      "word": "음악을",
+      "pronounced": "으마글",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㄱ' của '악' nối với nguyên âm '으' của '을' thành '글'."
+    },
+    {
+      "word": "음식을",
+      "pronounced": "음시글",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㄱ' của '식' nối với nguyên âm '으' của '을' thành '글'."
+    },
+    {
+      "word": "먹을",
+      "pronounced": "머글",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㄱ' của '먹' nối với nguyên âm '으' của '을' thành '글'."
+    },
+    {
+      "word": "앉아서",
+      "pronounced": "안자서",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối kép 'ㄵ' của '앉' khi gặp nguyên âm '아' thì 'ㅈ' nối với '아' thành '자', còn 'ㄴ' giữ nguyên ở âm tiết trước."
+    },
+    {
+      "word": "생각에",
+      "pronounced": "생가게",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㄱ' của '각' nối với nguyên âm 'ㅐ' của '에' thành '개'."
+    },
+    {
+      "word": "기분이",
+      "pronounced": "기부니",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㄴ' của '분' nối với nguyên âm 'ㅣ' của '이' thành '니'."
+    },
+    {
+      "word": "좋아요",
+      "pronounced": "조아요",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㅎ' của '좋' khi gặp nguyên âm '아' thì 'ㅎ' câm và '아' được đọc trực tiếp."
+    }
+  ]
+}

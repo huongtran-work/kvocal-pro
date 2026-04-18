@@ -1,0 +1,67 @@
+{
+  "originalText": "한국에서 은행 계좌를 개설하는 것은 중요한 일이에요. 먼저, 신분증이 꼭 필요해요. 보통 외국인 등록증이나 여권을 준비해야 해요. 가까운 은행에 가서 번호표를 뽑고 기다리면 돼요. 직원과 상담할 때 계좌 개설 목적을 분명히 말해야 해요. 그 다음에 신청서를 작성하고 비밀번호를 설정하면 돼요. 모르는 것이 있으면 직원에게 물어보면 친절하게 알려줄 거예요. 카드를 발급받고 돈을 입금하면 모든 절차가 끝나요. 생각보다 어렵지 않아서 쉽게 처리할 수 있었어요.",
+  "pronouncedText": "[한구게서 은행 계좌를 개서라는 거슨 중요한 이리에요. 먼저, 신분쯩이 꼭 피료해요. 보통 외구긴 등록쯩이나 여꿔늘 준비해야 해요. 가까운 은행에 가셔 번호표를 뽑꼬 기다리묜 돼요. 지권과 상다말 때 계좌 개설 목적을 분명히 마래야 해요. 그 다음에 신청서를 작썽하고 비밀버노를 설쩡하면 돼요. 모르는 거시 이쓰면 지궈네게 무러보묜 친저라게 알료줄 꺼예요. 카드를 발급받꼬 도늘 입끄마면 모듣 절차가 끈나요. 생각보다 어렵찌 아나서 쉽께 처리할 수 이써써요.]",
+  "translation": "Mở tài khoản ngân hàng ở Hàn Quốc là một việc quan trọng. Trước tiên, bạn nhất định phải có giấy tờ tùy thân. Thông thường, bạn cần chuẩn bị thẻ đăng ký người nước ngoài hoặc hộ chiếu. Bạn có thể đến ngân hàng gần nhất, lấy phiếu số và đợi. Khi tư vấn với nhân viên, bạn phải nói rõ mục đích mở tài khoản. Sau đó, bạn điền đơn đăng ký và đặt mật khẩu. Nếu có điều gì không biết, hãy hỏi nhân viên, họ sẽ tận tình giải đáp cho bạn. Sau khi nhận thẻ và gửi tiền, tất cả các thủ tục sẽ hoàn tất. Việc này không khó như tôi nghĩ nên tôi đã có thể xử lý dễ dàng.",
+  "annotatedWords": [
+    {
+      "word": "것은",
+      "pronounced": "[거슨]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅅ' của '것' nối với nguyên âm 'ㅡ' (âm câm 'ㅇ') của '은'."
+    },
+    {
+      "word": "신분증이",
+      "pronounced": "[신분쯩이]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅇ (ng)' của '신분증' nối với nguyên âm 'ㅣ' (âm câm 'ㅇ') của '이'. Patchim 'ㅈ' của '증' được phát âm là 'ㅊ' (대표음) rồi thành 'ㅉ' do căng hóa."
+    },
+    {
+      "word": "외국인",
+      "pronounced": "[외구긴]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '외국' nối với nguyên âm 'ㅣ' (âm câm 'ㅇ') của '인'."
+    },
+    {
+      "word": "등록증이나",
+      "pronounced": "[등록쯩이나]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅇ (ng)' của '등록증' nối với nguyên âm 'ㅣ' (âm câm 'ㅇ') của '이나'. Patchim 'ㅈ' của '증' được phát âm là 'ㅊ' (대표음) rồi thành 'ㅉ' do căng hóa."
+    },
+    {
+      "word": "여권을",
+      "pronounced": "[여꿔늘]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '여권' nối với nguyên âm 'ㅡ' (âm câm 'ㅇ') của '을'."
+    },
+    {
+      "word": "말해야",
+      "pronounced": "[마래야]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '말하' nối với nguyên âm 'ㅓ' (âm câm 'ㅇ') của '어야'. Âm 'ㅎ' thường bị yếu đi hoặc lược bỏ khi đứng giữa."
+    },
+    {
+      "word": "것이",
+      "pronounced": "[거시]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅅ' của '것' nối với nguyên âm 'ㅣ' (âm câm 'ㅇ') của '이'."
+    },
+    {
+      "word": "있으면",
+      "pronounced": "[이쓰면]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅆ' của '있' nối với nguyên âm 'ㅡ' (âm câm 'ㅇ') của '으면'."
+    },
+    {
+      "word": "직원에게",
+      "pronounced": "[지궈네게]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '직원' nối với nguyên âm 'ㅔ' (âm câm 'ㅇ') của '에게'."
+    },
+    {
+      "word": "돈을",
+      "pronounced": "[도늘]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '돈' nối với nguyên âm 'ㅡ' (âm câm 'ㅇ') của '을'."
+    }
+  ]
+}

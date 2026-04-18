@@ -1,0 +1,67 @@
+{
+  "originalText": "제 친구 민준 씨는 정말 좋은 사람이에요. 그는 항상 밝고 긍정적인 태도를 가지고 있어요. 어려운 일이 있어도 쉽게 포기하지 않아요. 다른 사람의 마음을 잘 이해하고 공감하는 능력이 뛰어나요. 그래서 친구들 사이에서 인기가 많아요. 특히 그는 음악을 듣는 것을 좋아해요. 친구들 앞에서 재미있는 이야기를 자주 해요. 그의 긍정적인 에너지는 주변 사람들에게 좋은 영향을 줘요. 민준 씨는 제가 정말 존경하는 친구예요.",
+  "pronouncedText": "[제 친구 민준 씨는 정말 조은 사라미에요. 그는 항상 발꼬 긍정적인 태도를 가쥐고 이써요. 어려운 일이 이써도 쉽께 포기하지 아나요. 다른 사라메 마음을 잘 이해하고 공감하느 능녀기 뛰어나요. 그래서 친구들 사이에서 인기가 마나요. 특키 그는 으마글 듣는 거슬 조아해요. 친구들 아페서 재미인는 이야기를 자주 해요. 그의 긍정적인 에너지는 주번 사람드레게 조은 영향을 줘요. 민준 씨는 제가 정말 존경하느 친구예요.]",
+  "translation": "Bạn tôi, Minjun, thực sự là một người tốt. Anh ấy luôn có thái độ lạc quan và tích cực. Dù có chuyện khó khăn cũng không dễ dàng từ bỏ. Anh ấy giỏi thấu hiểu và đồng cảm với người khác. Vì vậy, anh ấy rất được yêu mến trong số bạn bè. Đặc biệt, anh ấy thích nghe nhạc. Anh ấy thường kể những câu chuyện thú vị trước mặt bạn bè. Năng lượng tích cực của anh ấy mang lại ảnh hưởng tốt cho những người xung quanh. Minjun là một người bạn mà tôi thực sự kính trọng.",
+  "annotatedWords": [
+    {
+      "word": "사람이에요",
+      "pronounced": "사라미에요",
+      "rule": "Nối âm (연음)",
+      "explanation": "Phụ âm cuối 'ㅁ' nối với nguyên âm '이'."
+    },
+    {
+      "word": "있어요",
+      "pronounced": "이써요",
+      "rule": "Nối âm (연음)",
+      "explanation": "Phụ âm cuối 'ㅆ' nối với nguyên âm '어'."
+    },
+    {
+      "word": "있어도",
+      "pronounced": "이써도",
+      "rule": "Nối âm (연음)",
+      "explanation": "Phụ âm cuối 'ㅆ' nối với nguyên âm '어'."
+    },
+    {
+      "word": "않아요",
+      "pronounced": "아나요",
+      "rule": "Nối âm (연음)",
+      "explanation": "Phụ âm cuối 'ㅎ' nối với nguyên âm '아', 'ㅎ' bị lược bỏ."
+    },
+    {
+      "word": "사람의",
+      "pronounced": "사라메",
+      "rule": "Nối âm (연음)",
+      "explanation": "Phụ âm cuối 'ㅁ' nối với nguyên âm '의' (phát âm thành '에')."
+    },
+    {
+      "word": "능력이",
+      "pronounced": "능녀기",
+      "rule": "Nối âm (연음)",
+      "explanation": "Phụ âm cuối 'ㄱ' nối với nguyên âm '이'."
+    },
+    {
+      "word": "인기가",
+      "pronounced": "인기가",
+      "rule": "Nối âm (연음)",
+      "explanation": "Phụ âm cuối 'ㄱ' nối với nguyên âm '이'."
+    },
+    {
+      "word": "많아요",
+      "pronounced": "마나요",
+      "rule": "Nối âm (연음)",
+      "explanation": "Phụ âm cuối 'ㅎ' nối với nguyên âm '아', 'ㅎ' bị lược bỏ."
+    },
+    {
+      "word": "음악을",
+      "pronounced": "으마글",
+      "rule": "Nối âm (연음)",
+      "explanation": "Phụ âm cuối 'ㄱ' nối với nguyên âm '을'."
+    },
+    {
+      "word": "것을",
+      "pronounced": "거슬",
+      "rule": "Nối âm (연음)",
+      "explanation": "Phụ âm cuối 'ㅅ' nối với nguyên âm '을'."
+    }
+  ]
+}

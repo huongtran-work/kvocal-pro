@@ -1,0 +1,73 @@
+{
+  "originalText": "저는 아침 7시에 일어나요. 아침밥을 먹어요. 학교 앞에서 친구를 만나요. 우리는 책을 읽어요. 오후에는 수업이 있어요. 음악을 들어요. 그리고 옷을 갈아입고 밖에 나가요. 숙제가 없어서 편안해요.",
+  "pronouncedText": "[저ː는 아침 칠시에 이러나요. 아침바블 머거요. 학꾜 아페서 친구를 만나요. 우리는 채글 일거요. 오후에는 수어비 이써요. 으마글 드러요. 그리고 오슬 가ː라이꼬 바께 나가요. 숙쩨가 업써서 펴ː나내요.]",
+  "translation": "Tôi thức dậy lúc 7 giờ sáng. Tôi ăn bữa sáng. Tôi gặp bạn bè ở trước trường. Chúng tôi đọc sách. Buổi chiều có tiết học. Tôi nghe nhạc. Và tôi thay quần áo rồi đi ra ngoài. Tôi không có bài tập về nhà nên rất thoải mái.",
+  "annotatedWords": [
+    {
+      "word": "아침밥을",
+      "pronounced": "아침바블",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㅂ' của '밥' nối với nguyên âm '을'."
+    },
+    {
+      "word": "먹어요",
+      "pronounced": "머거요",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㄱ' của '먹' nối với nguyên âm '어'."
+    },
+    {
+      "word": "앞에서",
+      "pronounced": "아페서",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㅍ' của '앞' nối với nguyên âm '에'."
+    },
+    {
+      "word": "책을",
+      "pronounced": "채글",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㄱ' của '책' nối với nguyên âm '을'."
+    },
+    {
+      "word": "읽어요",
+      "pronounced": "일거요",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối kép 'ㄺ' của '읽' nối với nguyên âm '어' (âm 'ㄱ' của phụ âm kép được chuyển sang và phát âm)."
+    },
+    {
+      "word": "수업이",
+      "pronounced": "수어비",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㅂ' của '수업' nối với nguyên âm '이'."
+    },
+    {
+      "word": "있어요",
+      "pronounced": "이써요",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㅆ' của '있' nối với nguyên âm '어' (và biến âm căng)."
+    },
+    {
+      "word": "음악을",
+      "pronounced": "으마글",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㄱ' của '음악' nối với nguyên âm '을'."
+    },
+    {
+      "word": "옷을",
+      "pronounced": "오슬",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㅅ' (được phát âm như 'ㄷ') của '옷' nối với nguyên âm '을'."
+    },
+    {
+      "word": "밖에",
+      "pronounced": "바께",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㅋ' của '밖' nối với nguyên âm '에' (và biến âm căng)."
+    },
+    {
+      "word": "없어서",
+      "pronounced": "업써서",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối kép 'ㅄ' của '없' nối với nguyên âm '어' (âm 'ㅅ' của phụ âm kép được chuyển sang và phát âm, sau đó biến âm căng)."
+    }
+  ]
+}

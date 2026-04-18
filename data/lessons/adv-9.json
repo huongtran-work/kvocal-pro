@@ -1,0 +1,31 @@
+{
+  "originalText": "과학 기술의 윤리적 책임은 기술이 인류에게 미치는 영향이 거대해짐에 따라 더욱 강조되고 있습니다. 생명 공학, 나노 기술, 인공지능 등 첨단 과학 기술은 인류의 삶을 혁명적으로 변화시킬 잠재력을 가지고 있지만, 동시에 생명 경시, 환경 파괴, 인간 소외 등 심각한 부작용을 초래할 위험도 내포하고 있습니다. 과학자들은 자신의 연구가 사회에 미칠 영향을 깊이 고민하고, 연구 과정에서 윤리적 원칙을 철저히 준수해야 합니다. 기술의 발전이 인류의 보편적 가치와 존엄성을 훼손하지 않도록 사회적 감시와 제도적 장치가 마련되어야 합니다. 우리는 과학 기술이 단순히 경제적 이익이나 효율성만을 추구하는 도구가 되지 않도록 경계해야 합니다. 기술의 혜택이 인류 전체의 복지 증진과 평화에 기여할 수 있는 방향으로 나아가야 합니다. 과학 기술과 인문학적 성찰이 조화를 이룰 때, 우리는 기술을 지혜롭게 통제하고 더 나은 미래를 설계할 수 있습니다. 미래 세대에게 물려줄 세상이 기술의 노예가 아닌, 기술을 다스리는 인간 중심의 사회가 되도록 우리 모두가 관심을 가져야 합니다.",
+  "pronouncedText": "[과학 기술의 윤리적 채기믄 기술이 인류에게 미치는 영향이 거대해짐에 따라 더욱 강조되고 이씀니다. 생명 공학, 나노 기술, 인공지능 등 첨단 과학 기술은 인류의 살믈 형명적으로 변화시킬 잠재려글 가지고 이찌만, 동시에 생명 경시, 환경 파괴, 인간 소외 등 심각한 부작용글 초래할 위험도 내포하고 이씀니다. 과학자들은 자신의 연구가 사회에 미칠 영향글 기피 고민하고, 연구 과정에서 윤리적 원치글 철저히 준수해야 함니다. 기술의 발전이 인류의 보편적 가치와 존엄성을 훼손하지 안토록 사회적 감시와 제도적 장치가 마련되어야 함니다. 우리는 과학 기술이 단순히 경제적 이익이나 효율성만을 추구하는 도구가 되지 안토록 경계해야 함니다. 기술의 혜태기 인류 전체의 복지 증진과 평화에 기여할 쑤 인는 방향으로 나아가야 함니다. 과학 기술과 인문학적 성차리 조화르 리룰 때, 우리는 기술을 지혜롭게 통제하고 더 나은 미래를 설계할 쑤 이씀니다. 미래 세대에게 물려줄 세상이 기술의 노예가 아닌, 기술을 다스리는 인간 중심의 사회가 되도록 우리 모두가 관심글 가져야 함니다.]",
+  "translation": "Trách nhiệm đạo đức của khoa học công nghệ đang ngày càng được nhấn mạnh khi tác động của công nghệ đối với nhân loại trở nên to lớn. Các công nghệ khoa học tiên tiến như công nghệ sinh học, công nghệ nano, trí tuệ nhân tạo có tiềm năng thay đổi cách mạng cuộc sống của nhân loại, nhưng đồng thời cũng tiềm ẩn nguy cơ gây ra những tác dụng phụ nghiêm trọng như coi thường sự sống, phá hủy môi trường, sự xa lánh của con người. Các nhà khoa học phải suy nghĩ sâu sắc về tác động của nghiên cứu của mình đối với xã hội và tuân thủ nghiêm ngặt các nguyên tắc đạo đức trong quá trình nghiên cứu. Các thiết bị giám sát xã hội và thiết chế phải được xây dựng để sự phát triển của công nghệ không làm tổn hại đến các giá trị phổ quát và phẩm giá của nhân loại. Chúng ta phải cảnh giác để khoa học công nghệ không trở thành công cụ chỉ theo đuổi lợi ích kinh tế hay tính hiệu quả đơn thuần. Lợi ích của công nghệ phải hướng tới việc đóng góp vào việc nâng cao phúc lợi và hòa bình của toàn nhân loại. Khi khoa học công nghệ và sự phản tỉnh nhân văn hòa hợp, chúng ta có thể kiểm soát công nghệ một cách khôn ngoan và thiết kế một tương lai tốt đẹp hơn. Tất cả chúng ta phải quan tâm để thế giới để lại cho thế hệ tương lai không phải là nô lệ của công nghệ, mà là một xã hội trọng tâm con người làm chủ công nghệ.",
+  "annotatedWords": [
+    {
+      "word": "책임은",
+      "pronounced": "채기믄",
+      "rule": "Nối âm",
+      "explanation": "Patchim 'm' (ㅁ) nối lên nguyên âm 'eu' (으)."
+    },
+    {
+      "word": "잠재력을",
+      "pronounced": "잠재려글",
+      "rule": "Biến âm mũi & Nối âm",
+      "explanation": "Patchim 'k' (ㄱ) gặp 'r' (ㄹ) biến thành 'ng' (ㅇ) và 'n' (ㄴ), và 'l' (ㄹ) nối lên."
+    },
+    {
+      "word": "원칙을",
+      "pronounced": "원치글",
+      "rule": "Nối âm",
+      "explanation": "Patchim 'k' (ㄱ) nối lên nguyên âm 'eu' (으)."
+    },
+    {
+      "word": "성찰이",
+      "pronounced": "성차리",
+      "rule": "Nối âm",
+      "explanation": "Patchim 'l' (ㄹ) nối lên nguyên âm 'i' (이)."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "originalText": "저는 여러 가지 취미가 있어요. 제 취미는 책 읽기하고 음악 듣기예요. 주말에 도서관에 가서 책을 읽어요. 그리고 음악도 자주 들어요. 집에서 좋아하는 음악을 들으면 기분이 좋아요. 책이나 음악이 없으면 심심해요.",
+  "pronouncedText": "저는 여러 가지 취미가 [이써요]. 제 취미는 책 읽기하고 음악 듣기예요. 주말에 도서관에 가서 [채글] [일거요]. 그리고 [으막또] 자주 들어요. [지베서] 조아하는 [으마글] 들으면 기부니 [조아요]. [채기나] [으마기] [업쓰면] 심심해요.",
+  "translation": "Tôi có nhiều sở thích khác nhau. Sở thích của tôi là đọc sách và nghe nhạc. Cuối tuần tôi đi thư viện và đọc sách. Và tôi cũng thường xuyên nghe nhạc. Nếu nghe nhạc yêu thích ở nhà, tôi cảm thấy rất vui. Nếu không có sách hay nhạc thì tôi thấy buồn chán.",
+  "annotatedWords": [
+    {
+      "word": "있어요",
+      "pronounced": "[이써요]",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㅆ' của '있' nối với nguyên âm '어' của '어요'."
+    },
+    {
+      "word": "책을",
+      "pronounced": "[채글]",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㄱ' của '책' nối với nguyên âm 'ㅡ' của '을'."
+    },
+    {
+      "word": "읽어요",
+      "pronounced": "[일거요]",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối kép 'ㄹㄱ' của '읽' khi gặp nguyên âm '어' thì 'ㄱ' nối sang, phát âm thành '일거요'."
+    },
+    {
+      "word": "음악도",
+      "pronounced": "[으막또]",
+      "rule": "Nối âm 연음",
+      "explanation": "Âm tiết '악' có phụ âm cuối 'ㄱ' nối với nguyên âm 'ㅗ' của '도'. (Lưu ý: '음악' tự nó đã có nối âm '으막', sau đó là '또' do quy tắc căng âm sau phụ âm cuối 'ㄱ')."
+    },
+    {
+      "word": "집에서",
+      "pronounced": "[지베서]",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㅂ' của '집' nối với nguyên âm 'ㅔ' của '에서'."
+    },
+    {
+      "word": "음악을",
+      "pronounced": "[으마글]",
+      "rule": "Nối âm 연음",
+      "explanation": "Âm tiết '악' có phụ âm cuối 'ㄱ' nối với nguyên âm 'ㅡ' của '을'. (Lưu ý: '음악' tự nó đã có nối âm '으막')."
+    },
+    {
+      "word": "좋아요",
+      "pronounced": "[조아요]",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㅎ' của '좋' khi gặp nguyên âm '아' của '아요' thì 'ㅎ' bị câm, 'ㅇ' nối sang, phát âm thành '조아요'."
+    },
+    {
+      "word": "책이나",
+      "pronounced": "[채기나]",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối 'ㄱ' của '책' nối với nguyên âm 'ㅣ' của '이나'."
+    },
+    {
+      "word": "음악이",
+      "pronounced": "[으마기]",
+      "rule": "Nối âm 연음",
+      "explanation": "Âm tiết '악' có phụ âm cuối 'ㄱ' nối với nguyên âm 'ㅣ' của '이'. (Lưu ý: '음악' tự nó đã có nối âm '으막')."
+    },
+    {
+      "word": "없으면",
+      "pronounced": "[업쓰면]",
+      "rule": "Nối âm 연음",
+      "explanation": "Phụ âm cuối kép 'ㅄ' của '없' khi gặp nguyên âm 'ㅡ' của '으면' thì 'ㅆ' nối sang, phát âm thành '업쓰면'."
+    }
+  ]
+}
