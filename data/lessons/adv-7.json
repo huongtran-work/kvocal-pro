@@ -4,28 +4,123 @@
   "translation": "Tiêu dùng và sản xuất bền vững là nhiệm vụ cấp bách của nhân loại để bảo vệ môi trường trái đất và đảm bảo quyền sinh tồn của các thế hệ tương lai. Phương thức lãng phí tài nguyên bừa bãi, sản xuất hàng loạt và tiêu dùng hàng loạt đang làm trầm trọng thêm tình trạng cạn kiệt tài nguyên và ô nhiễm môi trường, khiến khả năng tự phục hồi của trái đất đạt đến giới hạn. Giờ đây, khi mua một món đồ, chúng ta phải xem xét tác động của nó đối với môi trường và có thái độ thận trọng chỉ tiêu dùng những thứ thực sự cần thiết. Các doanh nghiệp phải áp dụng quy trình thân thiện với môi trường để giảm phát thải carbon và tối đa hóa việc tái chế tài nguyên trong quá trình sản xuất sản phẩm. Ngoài ra, chính phủ phải xây dựng nền tảng chế độ để thúc đẩy sản xuất và tiêu dùng các sản phẩm thân thiện với môi trường và tăng cường các quy định về môi trường. Việc chuyển đổi sang nền kinh tế tuần hoàn (Circular Economy) không phải là lựa chọn mà là điều bắt buộc, và điều này sẽ đưa ra một mô hình mới nơi tăng trưởng kinh tế và bảo vệ môi trường có thể song hành. Hãy nhớ rằng những hành động nhỏ của cá nhân có thể tập hợp lại để tạo ra sự thay đổi to lớn, và tất cả chúng ta phải trở thành những người tiêu dùng có trách nhiệm vì trái đất. Tương lai phụ thuộc vào việc chúng ta lựa chọn điều gì hôm nay.",
   "annotatedWords": [
     {
-      "word": "생존권을",
-      "pronounced": "생존꿔늘",
-      "rule": "Căng hóa",
-      "explanation": "Âm 'k' (ㄱ) đứng sau patchim 'n' (ㄴ) trong từ Hán Hàn bị căng hóa thành 'kk' (ㄲ)."
+      "word": "무분별한",
+      "pronounced": "[무분별한]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 별 liên kết với 한; không biến âm lớn.",
+      "meaning": "bừa bãi, thiếu chọn lọc"
     },
     {
-      "word": "능력을",
-      "pronounced": "능려글",
-      "rule": "Biến âm mũi & Nối âm",
-      "explanation": "Patchim 'k' (ㄱ) gặp 'r' (ㄹ) biến thành 'ng' (ㅇ) và 'n' (ㄴ), và 'l' (ㄹ) nối lên."
+      "word": "자원고갈과",
+      "pronounced": "[자원고갈꽈]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "Patchim ㄹ của 갈 gặp ㄱ của 과 → căng hóa [꽈].",
+      "meaning": "sự cạn kiệt tài nguyên và"
     },
     {
-      "word": "영향을",
-      "pronounced": "영향글",
-      "rule": "Nối âm",
-      "explanation": "Patchim 'ng' (ㅇ) không nối âm, nhưng ở đây 'ng' (ㅇ) đứng trước 'eu' (으) thường được phát âm rõ ràng."
+      "word": "환경오염을",
+      "pronounced": "[환경오염을]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅁ của 염 nối với 을 → [염을]; chuỗi 5 âm tiết liên tiếp.",
+      "meaning": "ô nhiễm môi trường"
     },
     {
-      "word": "무엇을",
-      "pronounced": "무엇슬",
-      "rule": "Nối âm",
-      "explanation": "Patchim 's' (ㅅ) nối lên nguyên âm 'eu' (으)."
+      "word": "심화시키며",
+      "pronounced": "[시무시키며]",
+      "rule": "Biến âm mũi 비음화",
+      "explanation": "Patchim ㅂ của 심 gặp ㅅ → không biến âm lớn; ㅎ của 화 câm.",
+      "meaning": "làm trầm trọng thêm và"
+    },
+    {
+      "word": "자정능력을",
+      "pronounced": "[자정능녀글]",
+      "rule": "Biến âm mũi + Nối âm",
+      "explanation": "Patchim ㄱ của 력 gặp 을 → nối âm [녀글]; ㅇ+ㄴ đồng hóa mũi.",
+      "meaning": "khả năng tự làm sạch"
+    },
+    {
+      "word": "구매할",
+      "pronounced": "[구매할]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 할 liên kết tự nhiên; không biến đổi.",
+      "meaning": "mua"
+    },
+    {
+      "word": "고려하고",
+      "pronounced": "[고려하고]",
+      "rule": "Nối âm + Bật hơi",
+      "explanation": "Patchim ㄹ của 려 + ㅎ của 하 → bật hơi nhẹ; 하고 liên kết.",
+      "meaning": "cân nhắc và"
+    },
+    {
+      "word": "재활용을",
+      "pronounced": "[재화룡을]",
+      "rule": "Biến âm lưỡi + Nối âm",
+      "explanation": "Patchim ㄹ của 활 gặp ㅇ của 용 → âm lưỡi [화룡]; 용+을 nối âm.",
+      "meaning": "tái chế"
+    },
+    {
+      "word": "극대화하는",
+      "pronounced": "[극때화하는]",
+      "rule": "Căng hóa + Bật hơi",
+      "explanation": "Patchim ㄱ của 극 căng hóa ㄷ của 대 → [때]; ㅎ của 화+하 bật hơi.",
+      "meaning": "tối đa hóa"
+    },
+    {
+      "word": "친환경제품의",
+      "pronounced": "[치놘경제푸메]",
+      "rule": "Nối âm 연음",
+      "explanation": "Chuỗi phức 6 âm tiết; patchim ㅂ của 품 nối với 의 → [푸메].",
+      "meaning": "của sản phẩm thân thiện môi trường"
+    },
+    {
+      "word": "순환경제로의",
+      "pronounced": "[순환경제로에]",
+      "rule": "Nối âm 연음",
+      "explanation": "의 đọc là [에]; chuỗi Hán-Hàn liên kết mượt mà.",
+      "meaning": "đến nền kinh tế tuần hoàn"
+    },
+    {
+      "word": "이끌어낼",
+      "pronounced": "[이끄러낼]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 끌 nối với 어 → [끄러]; 낼 liên kết.",
+      "meaning": "có thể tạo ra"
+    },
+    {
+      "word": "책임있는",
+      "pronounced": "[채기민는]",
+      "rule": "Nối âm + Biến âm mũi",
+      "explanation": "임+있 → ㅁ+이 nối âm [미]; patchim ㅅ của 있 gặp ㄴ của 는 → [민는].",
+      "meaning": "có trách nhiệm"
+    },
+    {
+      "word": "선택하느냐에",
+      "pronounced": "[선태카느냐에]",
+      "rule": "Bật hơi 격음화",
+      "explanation": "Patchim ㄱ của 택 kết hợp ㅎ của 하 → bật hơi [카].",
+      "meaning": "lựa chọn gì thì"
+    },
+    {
+      "word": "제도적기반을",
+      "pronounced": "[제도쩍끼바늘]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "ㄱ patchim của 적 căng hóa ㄱ của 기 → [끼]; 반+을 nối âm [바늘].",
+      "meaning": "nền tảng thể chế"
+    },
+    {
+      "word": "탄소배출을",
+      "pronounced": "[탄소배추를]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 출 nối với 을 → [추를]; liên kết liền mạch.",
+      "meaning": "phát thải carbon"
+    },
+    {
+      "word": "생산과정에서",
+      "pronounced": "[생산과정에서]",
+      "rule": "Nối âm 연음",
+      "explanation": "Chuỗi 6 âm tiết; patchim ㅇ của 정 nối với 에서 → liên kết tự nhiên.",
+      "meaning": "trong quá trình sản xuất"
     }
   ]
 }

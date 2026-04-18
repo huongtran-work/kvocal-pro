@@ -4,28 +4,123 @@
   "translation": "Trách nhiệm đạo đức của khoa học công nghệ đang ngày càng được nhấn mạnh khi tác động của công nghệ đối với nhân loại trở nên to lớn. Các công nghệ khoa học tiên tiến như công nghệ sinh học, công nghệ nano, trí tuệ nhân tạo có tiềm năng thay đổi cách mạng cuộc sống của nhân loại, nhưng đồng thời cũng tiềm ẩn nguy cơ gây ra những tác dụng phụ nghiêm trọng như coi thường sự sống, phá hủy môi trường, sự xa lánh của con người. Các nhà khoa học phải suy nghĩ sâu sắc về tác động của nghiên cứu của mình đối với xã hội và tuân thủ nghiêm ngặt các nguyên tắc đạo đức trong quá trình nghiên cứu. Các thiết bị giám sát xã hội và thiết chế phải được xây dựng để sự phát triển của công nghệ không làm tổn hại đến các giá trị phổ quát và phẩm giá của nhân loại. Chúng ta phải cảnh giác để khoa học công nghệ không trở thành công cụ chỉ theo đuổi lợi ích kinh tế hay tính hiệu quả đơn thuần. Lợi ích của công nghệ phải hướng tới việc đóng góp vào việc nâng cao phúc lợi và hòa bình của toàn nhân loại. Khi khoa học công nghệ và sự phản tỉnh nhân văn hòa hợp, chúng ta có thể kiểm soát công nghệ một cách khôn ngoan và thiết kế một tương lai tốt đẹp hơn. Tất cả chúng ta phải quan tâm để thế giới để lại cho thế hệ tương lai không phải là nô lệ của công nghệ, mà là một xã hội trọng tâm con người làm chủ công nghệ.",
   "annotatedWords": [
     {
-      "word": "책임은",
-      "pronounced": "채기믄",
-      "rule": "Nối âm",
-      "explanation": "Patchim 'm' (ㅁ) nối lên nguyên âm 'eu' (으)."
+      "word": "윤리적책임은",
+      "pronounced": "[율리쩍채기믄]",
+      "rule": "Biến âm lưỡi + Căng hóa + Nối âm",
+      "explanation": "ㄴ của 윤 gặp ㄹ → [율리]; ㄱ gặp ㅈ → [쩍]; 임+은 nối âm [채기믄].",
+      "meaning": "trách nhiệm đạo đức"
+    },
+    {
+      "word": "강조되고",
+      "pronounced": "[강조되고]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅇ câm; các âm tiết liên kết tự nhiên.",
+      "meaning": "được nhấn mạnh và"
     },
     {
       "word": "잠재력을",
-      "pronounced": "잠재려글",
-      "rule": "Biến âm mũi & Nối âm",
-      "explanation": "Patchim 'k' (ㄱ) gặp 'r' (ㄹ) biến thành 'ng' (ㅇ) và 'n' (ㄴ), và 'l' (ㄹ) nối lên."
+      "pronounced": "[잠재녀글]",
+      "rule": "Biến âm mũi + Nối âm",
+      "explanation": "Patchim ㄱ của 력 gặp 을 → nối âm [녀글].",
+      "meaning": "tiềm năng"
     },
     {
-      "word": "원칙을",
-      "pronounced": "원치글",
-      "rule": "Nối âm",
-      "explanation": "Patchim 'k' (ㄱ) nối lên nguyên âm 'eu' (으)."
+      "word": "생명경시",
+      "pronounced": "[생명경시]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "Patchim ㅇ của 명 gặp ㄱ của 경 → căng hóa nhẹ trong Hán-Hàn.",
+      "meaning": "coi thường sinh mạng"
     },
     {
-      "word": "성찰이",
-      "pronounced": "성차리",
-      "rule": "Nối âm",
-      "explanation": "Patchim 'l' (ㄹ) nối lên nguyên âm 'i' (이)."
+      "word": "초래할",
+      "pronounced": "[초래할]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 래 + ㅎ của 할 → bật hơi nhẹ; liên kết mượt.",
+      "meaning": "sẽ gây ra"
+    },
+    {
+      "word": "내포하고",
+      "pronounced": "[내포하고]",
+      "rule": "Bật hơi 격음화",
+      "explanation": "Patchim ㅇ của 포 + ㅎ của 하 → bật hơi nhẹ [내포하고].",
+      "meaning": "chứa đựng và"
+    },
+    {
+      "word": "연구과정에서",
+      "pronounced": "[연구과정에서]",
+      "rule": "Nối âm 연음",
+      "explanation": "Chuỗi 6 âm tiết Hán-Hàn; patchim ㅇ của 정 nối với 에서 tự nhiên.",
+      "meaning": "trong quá trình nghiên cứu"
+    },
+    {
+      "word": "철저히",
+      "pronounced": "[철쩌히]",
+      "rule": "Căng hóa 경음화 (Hán tự)",
+      "explanation": "Patchim ㄹ của 철 gặp ㅈ của 저 trong Hán-Hàn → căng hóa [쩌].",
+      "meaning": "một cách triệt để"
+    },
+    {
+      "word": "준수해야",
+      "pronounced": "[준수해야]",
+      "rule": "Nối âm + Bật hơi",
+      "explanation": "Patchim ㅅ của 수 + 해 → bật hơi nhẹ; chuỗi liên kết.",
+      "meaning": "phải tuân thủ"
+    },
+    {
+      "word": "훼손하지",
+      "pronounced": "[훼소나지]",
+      "rule": "Biến âm mũi + Bật hơi",
+      "explanation": "Patchim ㄴ của 손 + ㅎ của 하 → biến đổi [나]; 나지 liên kết.",
+      "meaning": "gây thiệt hại không"
+    },
+    {
+      "word": "감시와",
+      "pronounced": "[감시와]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅅ của 시 liên kết nhẹ với 와; không biến đổi.",
+      "meaning": "sự giám sát và"
+    },
+    {
+      "word": "경계해야",
+      "pronounced": "[경계해야]",
+      "rule": "Bật hơi 격음화",
+      "explanation": "Patchim ㄱ của 계 + ㅎ của 해 → bật hơi [경계해야].",
+      "meaning": "phải cảnh giác"
+    },
+    {
+      "word": "복지증진과",
+      "pronounced": "[복찌증진꽈]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "Patchim ㄱ của 복 gặp ㅈ의 지 → căng hóa [찌]; 진+과 → căng hóa [꽈].",
+      "meaning": "cải thiện phúc lợi và"
+    },
+    {
+      "word": "인문학적",
+      "pronounced": "[인문학쩍]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "Patchim ㄱ của 학 gặp ㅈ của 적 → căng hóa [쩍].",
+      "meaning": "mang tính nhân văn"
+    },
+    {
+      "word": "조화를",
+      "pronounced": "[조화를]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 화 nối với 를 → [화를] liên kết tự nhiên.",
+      "meaning": "sự hài hòa"
+    },
+    {
+      "word": "물려줄",
+      "pronounced": "[물려줄]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 줄 liên kết nhẹ; chuỗi ㄹ liên tiếp.",
+      "meaning": "để lại cho"
+    },
+    {
+      "word": "통제하고",
+      "pronounced": "[통제하고]",
+      "rule": "Nối âm + Bật hơi",
+      "explanation": "Patchim ㅇ của 제 + ㅎ của 하 → bật hơi nhẹ; 하고 liên kết.",
+      "meaning": "kiểm soát và"
     }
   ]
 }

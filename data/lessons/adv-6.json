@@ -4,28 +4,123 @@
   "translation": "Đa dạng văn hóa là giá trị cốt lõi để duy trì sự phong phú của cộng đồng nhân loại và đạt được sự phát triển bền vững. Trong một thế giới nơi những người có lịch sử, truyền thống, ngôn ngữ và giá trị quan khác nhau cùng chung sống, nỗ lực tôn trọng và thấu hiểu văn hóa của người khác là điều thiết yếu để ngăn ngừa xung đột và duy trì hòa bình. Khi toàn cầu hóa được đẩy nhanh, sự tiếp xúc giữa các nền văn hóa khác nhau trở nên thường xuyên hơn, việc trang bị thái độ bao dung vượt qua định kiến và phân biệt đối xử đã trở nên quan trọng hơn bất cứ điều gì. Thay vì coi văn hóa của mình là tiêu chuẩn tuyệt đối, chúng ta nên công nhận giá trị của các biểu hiện văn hóa đa dạng và khám phá sự sáng tạo mới trong đó. Chính phủ và cộng đồng quốc tế phải nỗ lực về mặt chính sách để bảo vệ quyền của các nhóm thiểu số văn hóa và thúc đẩy đối thoại giữa các nền văn hóa. Ngoài ra, thông qua giáo dục, chúng ta cần nuôi dưỡng sự nhạy cảm đa văn hóa ngay từ khi còn nhỏ và rèn luyện thái độ công nhận sự khác biệt của nhau. Đa dạng văn hóa không chỉ dừng lại ở việc công nhận sự khác biệt mà sẽ là cơ hội để chia sẻ trí tuệ của nhau và cùng nhau trưởng thành. Khi tất cả chúng ta nhìn thế giới với một trái tim rộng mở, nhân loại có thể tiến tới con đường thấu hiểu và đoàn kết rộng lớn hơn.",
   "annotatedWords": [
     {
+      "word": "문화다양성은",
+      "pronounced": "[문화다양성은]",
+      "rule": "Nối âm 연음",
+      "explanation": "Chuỗi 5 âm tiết Hán-Hàn; patchim ㅇ câm, các âm tiết liên kết tự nhiên.",
+      "meaning": "đa dạng văn hóa"
+    },
+    {
       "word": "풍요로움을",
-      "pronounced": "풍요로우리",
-      "rule": "Nối âm",
-      "explanation": "Patchim 'm' (ㅁ) nối lên nguyên âm 'eu' (으)."
+      "pronounced": "[풍요로우믈]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅁ của 움 nối với 을 → [우믈]; chuỗi nguyên âm liên kết mượt.",
+      "meaning": "sự phong phú"
     },
     {
-      "word": "접촉이",
-      "pronounced": "접초기",
-      "rule": "Nối âm",
-      "explanation": "Patchim 'k' (ㅋ) nối lên nguyên âm 'i' (이)."
+      "word": "지속가능한",
+      "pronounced": "[지속까능한]",
+      "rule": "Căng hóa + Bật hơi",
+      "explanation": "Patchim ㄱ của 속 căng hóa ㄱ của 가 → [까]; ㄴ+ㅎ của 한 bật hơi.",
+      "meaning": "bền vững"
     },
     {
-      "word": "인정하고",
-      "pronounced": "인정하고",
-      "rule": "Phát âm chuẩn",
-      "explanation": "Từ này phát âm theo đúng mặt chữ."
+      "word": "존중하고",
+      "pronounced": "[존중하고]",
+      "rule": "Nối âm + Bật hơi",
+      "explanation": "Patchim ㅇ của 중 + ㅎ của 하 → bật hơi nhẹ; liên kết tự연.",
+      "meaning": "tôn trọng và"
+    },
+    {
+      "word": "갈등을",
+      "pronounced": "[갈뜽을]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㄹ của 갈 gặp ㄷ của 등 trong Hán-Hàn → căng hóa [뜽]; 등+을 nối âm.",
+      "meaning": "mâu thuẫn"
+    },
+    {
+      "word": "예방하고",
+      "pronounced": "[예바나고]",
+      "rule": "Nối âm + Bật hơi",
+      "explanation": "Patchim ㅂ của 방 + ㅎ của 하 → bật hơi [나]; 나고 liên kết.",
+      "meaning": "ngăn ngừa và"
+    },
+    {
+      "word": "편견과",
+      "pronounced": "[편견꽈]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "Patchim ㄴ của 견 gặp ㄱ của 과 → căng hóa [꽈].",
+      "meaning": "định kiến và"
+    },
+    {
+      "word": "차별을",
+      "pronounced": "[차벼를]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 별 nối với 을 → [벼를]; âm liên kết liền mạch.",
+      "meaning": "sự phân biệt đối xử"
+    },
+    {
+      "word": "포용적인",
+      "pronounced": "[포용쩌긴]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "ㄱ patchim của 용 gặp ㅈ của 적 → căng hóa [쩍]; 적+인 nối âm [쩌긴].",
+      "meaning": "mang tính bao dung"
+    },
+    {
+      "word": "절대적인",
+      "pronounced": "[절때쩌긴]",
+      "rule": "Căng hóa (Hán tự)",
+      "explanation": "Patchim ㄹ của 절 căng hóa ㄷ của 대 → [때]; ㄱ gặp ㅈ của 적 → [쩍].",
+      "meaning": "mang tính tuyệt đối"
+    },
+    {
+      "word": "다문화적",
+      "pronounced": "[다문화쩍]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "Patchim ㄱ của 화 gặp ㅈ của 적 → căng hóa [쩍].",
+      "meaning": "mang tính đa văn hóa"
+    },
+    {
+      "word": "감수성을",
+      "pronounced": "[감수성을]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅇ của 성 nối với 을 → [성을]; liên kết tự nhiên.",
+      "meaning": "cảm thức nhạy cảm"
+    },
+    {
+      "word": "길러주어야",
+      "pronounced": "[길러주어야]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 길 nối với 러 → [길러]; chuỗi 5 âm tiết liên tiếp mượt mà.",
+      "meaning": "phải bồi dưỡng"
     },
     {
       "word": "연대의",
-      "pronounced": "연대의",
-      "rule": "Phát âm chuẩn",
-      "explanation": "Từ này phát âm theo đúng mặt chữ."
+      "pronounced": "[연대에]",
+      "rule": "Nối âm 연음",
+      "explanation": "의 trong văn viết phát âm thành [에]; patchim ㄷ của 대 liên kết nhẹ.",
+      "meaning": "của sự đoàn kết"
+    },
+    {
+      "word": "접촉이",
+      "pronounced": "[접초기]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄱ của 촉 nối với 이 → [초기]; liên kết liền mạch.",
+      "meaning": "sự tiếp xúc"
+    },
+    {
+      "word": "국제사회는",
+      "pronounced": "[국쩨사회는]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "Patchim ㄱ của 국 gặp ㅈ của 제 → căng hóa [쩨].",
+      "meaning": "cộng đồng quốc tế"
+    },
+    {
+      "word": "인정하는",
+      "pronounced": "[인정하는]",
+      "rule": "Nối âm + Bật hơi",
+      "explanation": "Patchim ㅇ của 정 + ㅎ của 하 → bật hơi nhẹ; 하는 liên kết.",
+      "meaning": "công nhận"
     }
   ]
 }

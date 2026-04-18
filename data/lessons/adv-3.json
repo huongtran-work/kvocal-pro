@@ -4,28 +4,130 @@
   "translation": "Vấn đề tỷ lệ sinh thấp và già hóa dân số là một trong những cuộc khủng hoảng cấu trúc dân số nghiêm trọng nhất mà xã hội Hàn Quốc đang phải đối mặt. Sự sụt giảm nhanh chóng của tỷ lệ sinh dẫn đến giảm lực lượng lao động và làm chậm tăng trưởng kinh tế, làm giảm sức sống của toàn xã hội. Ngoài ra, việc tăng tỷ trọng dân số già do kéo dài tuổi thọ dự kiến có nguy cơ làm tăng gánh nặng chi phí phúc lợi và gây ra mâu thuẫn giữa các thế hệ. Để giải quyết những vấn đề phức tạp này, cần có sự cải thiện môi trường căn bản như nhà ở, chăm sóc trẻ em, việc làm thay vì chỉ dừng lại ở mức hỗ trợ tiền khuyến khích sinh con. Cùng với việc tạo dựng văn hóa doanh nghiệp nơi công việc và gia đình có thể song hành, việc tạo việc làm cho người già và tăng cường mạng lưới an toàn xã hội cũng phải được tiến hành song song. Đây là thời điểm cấp bách để đưa ra chiến lược dài hạn ở cấp quốc gia nhằm ứng phó linh hoạt với sự thay đổi cấu trúc dân số. Giờ đây, chúng ta cần thiết kế một hệ thống xã hội mới chuẩn bị cho thời đại giảm dân số và suy nghĩ về tính bền vững của cộng đồng. Mục tiêu của chúng ta phải là tạo ra một xã hội bao dung nơi tất cả các thế hệ có thể cùng chung sống hạnh phúc.",
   "annotatedWords": [
     {
-      "word": "직면한",
-      "pronounced": "징면한",
-      "rule": "Biến âm mũi",
-      "explanation": "Patchim 'k' (ㄱ) gặp 'm' (ㅁ) biến thành 'ng' (ㅇ)."
+      "word": "저출산",
+      "pronounced": "[저출싼]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "Patchim ㄹ của 출 gặp ㅅ của 산 trong Hán-Hàn → căng hóa [싼].",
+      "meaning": "tỉ lệ sinh thấp"
     },
     {
-      "word": "활력을",
-      "pronounced": "활려글",
-      "rule": "Nối âm",
-      "explanation": "Patchim 'k' (ㄱ) nối lên nguyên âm 'eu' (으)."
+      "word": "고령화",
+      "pronounced": "[고령화]",
+      "rule": "Biến âm lưỡi 유음화",
+      "explanation": "Patchim ㄹ của 령 liên kết tự nhiên với 화; phát âm mượt mà.",
+      "meaning": "lão hóa"
+    },
+    {
+      "word": "직면한",
+      "pronounced": "[징면한]",
+      "rule": "Biến âm mũi 비음화",
+      "explanation": "Patchim ㄱ của 직 gặp ㅁ của 면 biến thành ㅇ → [징].",
+      "meaning": "đang đối mặt"
+    },
+    {
+      "word": "노동인구",
+      "pronounced": "[노동인구]",
+      "rule": "Nối âm 연음",
+      "explanation": "Chuỗi Hán-Hàn 4 âm tiết; các âm tiết liên kết mượt mà, không biến đổi lớn.",
+      "meaning": "dân số lao động"
+    },
+    {
+      "word": "떨어뜨리고",
+      "pronounced": "[떠러뜨리고]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 떨 nối với 어 → [떠러]; tiếp theo 뜨리고 liên kết.",
+      "meaning": "làm giảm và"
     },
     {
       "word": "가중시키고",
-      "pronounced": "가중시키고",
-      "rule": "Phát âm chuẩn",
-      "explanation": "Từ này phát âm theo đúng mặt chữ."
+      "pronounced": "[가중시키고]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "Patchim ㄱ của 가중 truyền căng sang ㅅ của 시키 → [씨키].",
+      "meaning": "làm tăng nặng thêm"
     },
     {
-      "word": "시급한",
-      "pronounced": "시급판",
-      "rule": "Âm bật hơi",
-      "explanation": "Patchim 'p' (ㅂ) gặp 'h' (ㅎ) biến thành âm bật hơi 'ph' (ㅍ)."
+      "word": "야기할",
+      "pronounced": "[야기할]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 할 liên kết tự nhiên; không có biến âm phức tạp.",
+      "meaning": "sẽ gây ra"
+    },
+    {
+      "word": "출산율의",
+      "pronounced": "[출싸뉴에]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "ㄹ của 출 căng hóa ㅅ của 산 → [싼]; 율의 phát âm là [뉴에].",
+      "meaning": "của tỉ lệ sinh"
+    },
+    {
+      "word": "장려금을",
+      "pronounced": "[장녀그믈]",
+      "rule": "Biến âm lưỡi + Nối âm",
+      "explanation": "Patchim ㄴ của 장 gặp ㄹ của 려 → [ㄹ+ㄹ] = [녀]; 금을 nối âm [그믈].",
+      "meaning": "trợ cấp khuyến sinh"
+    },
+    {
+      "word": "병행되어야",
+      "pronounced": "[병행되어야]",
+      "rule": "Nối âm 연음",
+      "explanation": "ㅇ patchim câm, các nguyên âm liên kết liên tục → [병행되어야].",
+      "meaning": "phải được tiến hành song song"
+    },
+    {
+      "word": "일자리",
+      "pronounced": "[일짜리]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "Patchim ㄹ của 일 gặp ㅈ của 자리 → căng hóa [짜].",
+      "meaning": "việc làm"
+    },
+    {
+      "word": "복지비용",
+      "pronounced": "[복찌비용]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "Patchim ㄱ của 복 gặp ㅈ của 지 → căng hóa [찌].",
+      "meaning": "chi phí phúc lợi"
+    },
+    {
+      "word": "지속가능성을",
+      "pronounced": "[지속까능성을]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㄱ của 속 căng hóa ㄱ của 가 → [까]; 성+을 nối âm → [성을].",
+      "meaning": "tính bền vững"
+    },
+    {
+      "word": "세대간",
+      "pronounced": "[세대깐]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "Patchim ㄷ (từ 대) gặp ㄱ của 간 → căng hóa [깐].",
+      "meaning": "giữa các thế hệ"
+    },
+    {
+      "word": "기대수명",
+      "pronounced": "[기대수명]",
+      "rule": "Nối âm 연음",
+      "explanation": "Chuỗi Hán-Hàn; patchim ㄷ của 대 liên kết tự nhiên với ㅅ của 수.",
+      "meaning": "tuổi thọ kỳ vọng"
+    },
+    {
+      "word": "근본적인",
+      "pronounced": "[근본쩌긴]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "ㅈ của 적 đứng sau patchim ㄱ của 본 → căng hóa [쩍]; 적+인 nối âm [쩌긴].",
+      "meaning": "mang tính căn bản"
+    },
+    {
+      "word": "인구구조",
+      "pronounced": "[인구구조]",
+      "rule": "Nối âm 연음",
+      "explanation": "Chuỗi 4 âm tiết Hán-Hàn; ㄱ patchim liên kết mượt mà không biến đổi.",
+      "meaning": "cơ cấu dân số"
+    },
+    {
+      "word": "삶을",
+      "pronounced": "[살믈]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim kép ㄻ: ㄹ nối với âm tiết sau, ㅁ giữ nguyên vị trí patchim → [살믈].",
+      "meaning": "cuộc sống"
     }
   ]
 }

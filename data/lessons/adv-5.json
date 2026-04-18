@@ -4,28 +4,123 @@
   "translation": "Trong xã hội hiện đại, Media Literacy (năng lực truyền thông) là một năng lực thiết yếu để sàng lọc và giải thích một cách phản biện những thông tin đúng đắn giữa dòng thác thông tin. Trong tình huống vô số thông tin đổ dồn theo thời gian thực thông qua Internet và SNS, tin giả và thông tin sai lệch có thể gây ra sự hỗn loạn xã hội và làm mờ đi sự phán đoán của cá nhân. Chúng ta phải có thái độ nắm bắt ý đồ hoặc tính thiên vị ẩn sau những thông điệp mà truyền thông truyền tải, đồng thời kiểm tra kỹ lưỡng nguồn gốc và độ tin cậy của thông tin. Không chỉ dừng lại ở việc tiêu thụ thông tin một cách đơn thuần, chúng ta cũng không được quên trách nhiệm khi tự mình sản xuất và chia sẻ thông tin. Các cơ quan giáo dục và chính phủ phải đưa ra các chương trình giáo dục năng lực truyền thông có hệ thống để người dân có thể sử dụng truyền thông một cách đúng đắn. Ngoài ra, các doanh nghiệp nền tảng kỹ thuật số cũng phải tăng cường các biện pháp kỹ thuật và đạo đức để ngăn chặn sự lan truyền thông tin sai lệch. Khi sử dụng truyền thông một cách khôn ngoan dựa trên tư duy phản biện, chúng ta có thể tạo ra một xã hội dân chủ lành mạnh và trưởng thành hơn. Năng lực truyền thông sẽ là cơ chế phòng thủ mạnh mẽ nhất và là công cụ giao tiếp cho tất cả chúng ta sống trong thời đại kỹ thuật số.",
   "annotatedWords": [
     {
-      "word": "해석하는",
-      "pronounced": "해석하는",
-      "rule": "Phát âm chuẩn",
-      "explanation": "Từ này phát âm theo đúng mặt chữ."
+      "word": "홍수속에서",
+      "pronounced": "[홍수쏘게서]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㄱ của 속 căng hóa ㅅ của 에→ [쏙]; 속+에 nối âm [쏘게].",
+      "meaning": "trong biển thông tin"
+    },
+    {
+      "word": "선별하고",
+      "pronounced": "[선벼라고]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 별 nối với 하 → [벼라]; chuỗi liên kết.",
+      "meaning": "chọn lọc và"
+    },
+    {
+      "word": "비판적으로",
+      "pronounced": "[비판쩌그로]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "ㄱ patchim của 판 gặp ㅈ của 적 → căng hóa [쩍]; 적+으 nối âm [쩌그로].",
+      "meaning": "một cách phê phán"
+    },
+    {
+      "word": "가짜뉴스와",
+      "pronounced": "[가짜뉴스와]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "ㄱ patchim căn bản, 가짜 là từ Thuần Hàn; ㅈ sau âm căng hóa.",
+      "meaning": "tin giả và"
+    },
+    {
+      "word": "왜곡된",
+      "pronounced": "[왜곡뙨]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "Patchim ㄱ của 곡 gặp ㄷ của 된 → căng hóa [뙨].",
+      "meaning": "đã bị bóp méo"
     },
     {
       "word": "혼란을",
-      "pronounced": "홀라늘",
-      "rule": "Biến âm lỏng",
-      "explanation": "Patchim 'n' (ㄴ) gặp 'l' (ㄹ) biến thành 'l' (ㄹ)."
+      "pronounced": "[홀라늘]",
+      "rule": "Biến âm lưỡi + Nối âm",
+      "explanation": "Patchim ㄴ của 혼 gặp ㄹ của 란 → ㄴ biến thành ㄹ [홀라]; 란+을 nối âm [라늘].",
+      "meaning": "sự hỗn loạn"
     },
     {
-      "word": "그치지",
-      "pronounced": "그치지",
-      "rule": "Phát âm chuẩn",
-      "explanation": "Từ này phát âm theo đúng mặt chữ."
+      "word": "편향성을",
+      "pronounced": "[편향성을]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅇ của 성 nối với 을 → [성을] đọc liền; âm tự nhiên.",
+      "meaning": "tính thiên vị"
+    },
+    {
+      "word": "출처와",
+      "pronounced": "[출쳐와]",
+      "rule": "Bật hơi 격음화",
+      "explanation": "Patchim ㄹ của 출 + ㅎ ẩn của 처 → bật hơi [쳐].",
+      "meaning": "nguồn và"
+    },
+    {
+      "word": "신뢰성을",
+      "pronounced": "[실뢰성을]",
+      "rule": "Biến âm lưỡi + Nối âm",
+      "explanation": "Patchim ㄴ của 신 gặp ㄹ của 뢰 → ㄴ→ㄹ [실뢰]; 성+을 nối âm.",
+      "meaning": "độ tin cậy"
+    },
+    {
+      "word": "생산하고",
+      "pronounced": "[생사나고]",
+      "rule": "Nối âm + Bật hơi",
+      "explanation": "Patchim ㄴ của 산 + ㅎ của 하 → bật hơi [나]; 나고 liên kết.",
+      "meaning": "sản xuất và"
+    },
+    {
+      "word": "체계적인",
+      "pronounced": "[체계쩌긴]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "ㄱ patchim của 계 gặp ㅈ của 적 → căng hóa [쩍]; 적+인 nối âm [쩌긴].",
+      "meaning": "mang tính hệ thống"
     },
     {
       "word": "확산을",
-      "pronounced": "확사늘",
-      "rule": "Nối âm",
-      "explanation": "Patchim 'n' (ㄴ) nối lên nguyên âm 'eu' (으)."
+      "pronounced": "[확싸늘]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㄱ của 확 căng hóa ㅅ của 산 → [싼]; 산+을 nối âm [싸늘].",
+      "meaning": "sự lan truyền"
+    },
+    {
+      "word": "방지하기",
+      "pronounced": "[방지하기]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅇ của 방 câm; 지+하 bật hơi nhẹ; liên kết tự nhiên.",
+      "meaning": "để ngăn chặn"
+    },
+    {
+      "word": "윤리적",
+      "pronounced": "[율리쩍]",
+      "rule": "Biến âm lưỡi + Căng hóa",
+      "explanation": "Patchim ㄴ của 윤 gặp ㄹ của 리 → [율리]; ㄱ patchim của 리 căng hóa ㅈ → [쩍].",
+      "meaning": "mang tính đạo đức"
+    },
+    {
+      "word": "지혜롭게",
+      "pronounced": "[지혜롭께]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "Patchim ㅂ của 롭 gặp ㄱ của 게 → căng hóa [께].",
+      "meaning": "một cách khôn ngoan"
+    },
+    {
+      "word": "활용할",
+      "pronounced": "[화룡할]",
+      "rule": "Biến âm lưỡi 유음화",
+      "explanation": "Patchim ㄹ của 활 gặp ㅇ của 용 → âm lưỡi đồng hóa [화룡].",
+      "meaning": "sử dụng"
+    },
+    {
+      "word": "민주사회를",
+      "pronounced": "[민주사회를]",
+      "rule": "Nối âm 연음",
+      "explanation": "Chuỗi 4 âm tiết liên tiếp; patchim ㄹ cuối nối với 를 → đọc liền.",
+      "meaning": "xã hội dân chủ"
     }
   ]
 }

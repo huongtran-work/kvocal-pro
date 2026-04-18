@@ -5,27 +5,122 @@
   "annotatedWords": [
     {
       "word": "결정하는",
-      "pronounced": "결정하는",
-      "rule": "Phát âm chuẩn",
-      "explanation": "Từ này phát âm theo đúng mặt chữ."
+      "pronounced": "[결쩡하는]",
+      "rule": "Căng hóa + Bật hơi",
+      "explanation": "Patchim ㄹ của 결 căng hóa ㅈ của 정 → [쩡]; ㅇ+ㅎ bật hơi.",
+      "meaning": "quyết định"
     },
     {
-      "word": "고립감",
-      "pronounced": "고립깜",
-      "rule": "Căng hóa",
-      "explanation": "Âm 'k' (ㄱ) đứng sau patchim 'p' (ㅂ) bị căng hóa thành 'kk' (ㄲ)."
+      "word": "소홀히",
+      "pronounced": "[소홀히]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 홀 nối với 히 → [홀히]; liên kết mượt mà.",
+      "meaning": "một cách sơ suất"
+    },
+    {
+      "word": "과도한",
+      "pronounced": "[과도한]",
+      "rule": "Bật hơi 격음화",
+      "explanation": "Patchim ㄷ của 도 + ㅎ của 한 → bật hơi nhẹ [도한] → [과도한].",
+      "meaning": "quá mức"
+    },
+    {
+      "word": "경쟁위주의",
+      "pronounced": "[경쟁위주에]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅇ của 경쟁 liên kết; 의 phát âm [에]; chuỗi liên tiếp.",
+      "meaning": "lấy cạnh tranh làm trung tâm"
     },
     {
       "word": "우울증이나",
-      "pronounced": "우울쯩이나",
-      "rule": "Căng hóa",
-      "explanation": "Âm 'j' (ㅈ) đứng sau patchim 'ng' (ㅇ) trong từ Hán Hàn bị căng hóa thành 'jj' (ㅉ)."
+      "pronounced": "[우울쯩이나]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㄹ của 울 gặp ㅈ của 증 trong Hán-Hàn → căng hóa [쯩]; 증+이 nối âm.",
+      "meaning": "trầm cảm hoặc"
     },
     {
-      "word": "행복을",
-      "pronounced": "행복글",
-      "rule": "Nối âm",
-      "explanation": "Patchim 'k' (ㄱ) nối lên nguyên âm 'eu' (으)."
+      "word": "저해하고",
+      "pronounced": "[저해하고]",
+      "rule": "Bật hơi 격음화",
+      "explanation": "Patchim ㅎ của 해 không rõ; nhưng 해+하 → bật hơi [해하] đọc liền.",
+      "meaning": "cản trở và"
+    },
+    {
+      "word": "세심하게",
+      "pronounced": "[세심하게]",
+      "rule": "Bật hơi 격음화",
+      "explanation": "Patchim ㅁ của 심 + ㅎ của 하 → bật hơi [세시마게].",
+      "meaning": "một cách tỉ mỉ, cẩn thận"
+    },
+    {
+      "word": "전문가의",
+      "pronounced": "[전문가에]",
+      "rule": "Nối âm 연음",
+      "explanation": "의 phát âm [에]; chuỗi Hán-Hàn liên kết mượt mà.",
+      "meaning": "của chuyên gia"
+    },
+    {
+      "word": "주저하지",
+      "pronounced": "[주저하지]",
+      "rule": "Bật hơi 격음화",
+      "explanation": "Patchim 없 gặp ㅎ; 하+지 bật hơi nhẹ trong chuỗi.",
+      "meaning": "không do dự"
+    },
+    {
+      "word": "편견을",
+      "pronounced": "[편견을]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄴ của 견 nối với 을 → [견을] đọc liền mạch.",
+      "meaning": "định kiến"
+    },
+    {
+      "word": "해소하고",
+      "pronounced": "[해소하고]",
+      "rule": "Nối âm + Bật hơi",
+      "explanation": "Patchim ㅇ của 소 + ㅎ của 하 → bật hơi nhẹ; 하고 liên kết.",
+      "meaning": "giải tỏa và"
+    },
+    {
+      "word": "심리지원",
+      "pronounced": "[심니지원]",
+      "rule": "Biến âm mũi 비음화",
+      "explanation": "Patchim ㄹ của 리 gặp ㄴ → không; thực ra patchim ㄱ của 리 gặp ㅈ → không đổi; [심니지원].",
+      "meaning": "hỗ trợ tâm lý"
+    },
+    {
+      "word": "확충하고",
+      "pronounced": "[확추카고]",
+      "rule": "Bật hơi 격음화",
+      "explanation": "Patchim ㄱ của 확 gặp ㅊ của 충 → bật hơi [추]; ㄱ patchim+ㅎ của 하 → [카].",
+      "meaning": "mở rộng và"
+    },
+    {
+      "word": "체계적인",
+      "pronounced": "[체계쩌긴]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㄱ của 계 gặp ㅈ của 적 → căng hóa [쩍]; 적+인 nối âm [쩌긴].",
+      "meaning": "mang tính hệ thống"
+    },
+    {
+      "word": "불안장애와",
+      "pronounced": "[부란장애와]",
+      "rule": "Biến âm lưỡi + Nối âm",
+      "explanation": "Patchim ㄴ của 불 gặp ㄹ → [불란→부란]; 장+애 nối âm.",
+      "meaning": "rối loạn lo âu và"
+    },
+    {
+      "word": "진정한",
+      "pronounced": "[진정한]",
+      "rule": "Nối âm + Bật hơi",
+      "explanation": "Patchim ㅇ của 정 + ㅎ của 한 → bật hơi nhẹ.",
+      "meaning": "thực sự, thật sự"
+    },
+    {
+      "word": "돌봐야",
+      "pronounced": "[돌봐야]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 돌 nối với 봐야; liên kết mượt mà.",
+      "meaning": "phải chăm sóc"
     }
   ]
 }

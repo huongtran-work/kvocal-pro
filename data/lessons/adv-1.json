@@ -5,33 +5,129 @@
   "annotatedWords": [
     {
       "word": "없는",
-      "pronounced": "엄는",
-      "rule": "Biến âm mũi",
-      "explanation": "Patchim kép 'ps' (ㅄ) phát âm là 'p', gặp 'n' (ㄴ) biến thành 'm' (ㅁ)."
+      "pronounced": "[엄는]",
+      "rule": "Biến âm mũi 비음화",
+      "explanation": "Patchim kép ㅄ phát âm là ㅂ, gặp ㄴ phía sau biến thành ㅁ.",
+      "meaning": "không có"
     },
     {
       "word": "있으며",
-      "pronounced": "이쓰며",
-      "rule": "Nối âm",
-      "explanation": "Patchim 'ss' (ㅆ) nối lên nguyên âm 'eu' (으) phía sau."
+      "pronounced": "[이쓰며]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅆ của 있 nối với nguyên âm 으 phía sau.",
+      "meaning": "trong khi có"
+    },
+    {
+      "word": "이르렀습니다",
+      "pronounced": "[이르렀씀니다]",
+      "rule": "Căng hóa + Biến âm mũi",
+      "explanation": "Patchim ㅆ của 렀 căng hóa 습 → 씀; ㅂ của 습 gặp ㄴ biến thành ㅁ.",
+      "meaning": "đã đạt đến"
     },
     {
       "word": "실질적인",
-      "pronounced": "실찔적인",
-      "rule": "Căng hóa",
-      "explanation": "Âm 'j' (ㅈ) đứng sau patchim 'l' (ㄹ) trong từ Hán Hàn bị căng hóa thành 'jj' (ㅉ)."
+      "pronounced": "[실찔쩌긴]",
+      "rule": "Căng hóa 경음화 (Hán tự)",
+      "explanation": "Trong từ Hán-Hàn, ㅈ đứng sau patchim ㄹ bị căng hóa thành ㅉ.",
+      "meaning": "mang tính thực chất"
+    },
+    {
+      "word": "걱정을",
+      "pronounced": "[걱쩡을]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "ㅈ của 정 đứng sau patchim ㄱ của 걱 bị căng hóa thành ㅉ.",
+      "meaning": "lo lắng"
+    },
+    {
+      "word": "위협하는",
+      "pronounced": "[위혀파는]",
+      "rule": "Bật hơi 격음화",
+      "explanation": "Patchim ㅂ của 협 kết hợp với ㅎ của 하 tạo thành ㅍ → [혀파].",
+      "meaning": "đe dọa"
     },
     {
       "word": "필수적입니다",
-      "pronounced": "필수적임니다",
-      "rule": "Biến âm mũi",
-      "explanation": "Patchim 'p' (ㅂ) gặp 'n' (ㄴ) biến thành 'm' (ㅁ)."
+      "pronounced": "[필수저김니다]",
+      "rule": "Nối âm + Biến âm mũi",
+      "explanation": "적+입 nối âm [저기], ㅂ của 입 gặp ㄴ của 니 biến thành ㅁ → [김니다].",
+      "meaning": "là điều bắt buộc"
     },
     {
       "word": "잊지",
-      "pronounced": "잊찌",
-      "rule": "Căng hóa",
-      "explanation": "Âm 'j' (ㅈ) đứng sau patchim 't' (ㅈ) bị căng hóa thành 'jj' (ㅉ)."
+      "pronounced": "[잊찌]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "Patchim ㅈ của 잊 gặp ㅈ của 지 căng hóa thành ㅉ.",
+      "meaning": "quên"
+    },
+    {
+      "word": "야기하고",
+      "pronounced": "[야기하고]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄱ của 야기 không đổi; 하고 giữ nguyên.",
+      "meaning": "gây ra và"
+    },
+    {
+      "word": "생태계",
+      "pronounced": "[생태계]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄱ của 생 không có thay đổi; các âm tiết nối liền mạch.",
+      "meaning": "hệ sinh thái"
+    },
+    {
+      "word": "세계적으로",
+      "pronounced": "[세계저그로]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄱ của 적 nối với nguyên âm 으 → [저그로].",
+      "meaning": "trên toàn thế giới"
+    },
+    {
+      "word": "중대한",
+      "pronounced": "[중대한]",
+      "rule": "Nối âm 연음",
+      "explanation": "ㅇ không có patchim cuối, các âm tiết liên kết tự nhiên.",
+      "meaning": "quan trọng"
+    },
+    {
+      "word": "앞장서야",
+      "pronounced": "[압짱서야]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㅍ của 앞 phát âm là ㅂ, gặp ㅈ của 장 căng hóa thành ㅉ → [압짱].",
+      "meaning": "phải đi đầu"
+    },
+    {
+      "word": "책임감을",
+      "pronounced": "[채기마글]",
+      "rule": "Nối âm 연음",
+      "explanation": "ㄱ của 임 nối với 을 → 마글; toàn bộ cụm phát âm liền mạch.",
+      "meaning": "tinh thần trách nhiệm"
+    },
+    {
+      "word": "보장될",
+      "pronounced": "[보장될]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 될 nối tự nhiên, không biến đổi.",
+      "meaning": "sẽ được đảm bảo"
+    },
+    {
+      "word": "분리수거",
+      "pronounced": "[불리수거]",
+      "rule": "Biến âm lưỡi 유음화",
+      "explanation": "Patchim ㄴ của 분 gặp ㄹ của 리 biến thành ㄹ → [불리].",
+      "meaning": "phân loại rác"
+    },
+    {
+      "word": "자연재해를",
+      "pronounced": "[자연재해를]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄴ của 자연 nối với âm tiết tiếp theo, chuỗi 4 âm tiết liên tiếp không biến đổi.",
+      "meaning": "thiên tai"
+    },
+    {
+      "word": "이어가야",
+      "pronounced": "[이어가야]",
+      "rule": "Nối âm 연음",
+      "explanation": "Chuỗi nguyên âm liên tiếp 이+어+가+야 nối mượt mà.",
+      "meaning": "phải tiếp tục"
     }
   ]
 }

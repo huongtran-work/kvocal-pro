@@ -5,27 +5,129 @@
   "annotatedWords": [
     {
       "word": "급격한",
-      "pronounced": "급껴칸",
-      "rule": "Căng hóa & Âm bật hơi",
-      "explanation": "Âm 'k' (ㄱ) bị căng hóa thành 'kk' (ㄲ), và 'h' (ㅎ) biến thành 'kh' (ㅋ)."
+      "pronounced": "[급껴칸]",
+      "rule": "Căng hóa + Bật hơi",
+      "explanation": "ㄱ patchim của 급 căng hóa ㄱ của 격 → [급껵]; ㄱ patchim kết hợp ㅎ của 한 → [캄].",
+      "meaning": "đột ngột, mạnh mẽ"
     },
     {
-      "word": "확보하는",
-      "pronounced": "확뽀하는",
-      "rule": "Căng hóa",
-      "explanation": "Âm 'p' (ㅂ) đứng sau patchim 'k' (ㄱ) bị căng hóa thành 'pp' (ㅃ)."
+      "word": "발전은",
+      "pronounced": "[발쩌는]",
+      "rule": "Căng hóa 경음화 (Hán tự)",
+      "explanation": "Patchim ㄹ trước ㅈ trong từ Hán-Hàn căng hóa ㅈ → ㅉ.",
+      "meaning": "sự phát triển"
+    },
+    {
+      "word": "근본적으로",
+      "pronounced": "[근본쩌그로]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "ㅈ của 적 sau patchim ㄱ của 본 → căng hóa [쩍]; 적+으 nối âm → [쩌그로].",
+      "meaning": "một cách căn bản"
+    },
+    {
+      "word": "자율주행",
+      "pronounced": "[자율쭈행]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "Patchim ㄹ của 율 gặp ㅈ của 주 trong từ Hán-Hàn → căng hóa [쭈].",
+      "meaning": "lái xe tự động"
+    },
+    {
+      "word": "활용되며",
+      "pronounced": "[화룡되며]",
+      "rule": "Biến âm lưỡi 유음화",
+      "explanation": "Patchim ㄹ của 활 gặp ㅇ+nguyên âm của 용 → [화룡]; âm lưỡi đồng hóa.",
+      "meaning": "được ứng dụng và"
+    },
+    {
+      "word": "일자리",
+      "pronounced": "[일짜리]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "Patchim ㄹ của 일 gặp ㅈ của 자리 → căng hóa [짜].",
+      "meaning": "việc làm"
+    },
+    {
+      "word": "해결해야",
+      "pronounced": "[해겨래야]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 결 nối với nguyên âm 해 → [겨래]; chuỗi âm liên tiếp.",
+      "meaning": "phải giải quyết"
+    },
+    {
+      "word": "합리적인",
+      "pronounced": "[함니쩌긴]",
+      "rule": "Biến âm mũi + Căng hóa",
+      "explanation": "ㅂ của 합 gặp ㄹ → ㅁ (비음화), ㄹ→ㄴ; ㅈ của 적 căng hóa → ㅉ.",
+      "meaning": "mang tính hợp lý"
+    },
+    {
+      "word": "사회적",
+      "pronounced": "[사회쩍]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "ㄱ patchim ẩn của 회 gặp ㅈ của 적 → căng hóa [쩍].",
+      "meaning": "mang tính xã hội"
+    },
+    {
+      "word": "이끌어내야",
+      "pronounced": "[이끄러내야]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 끌 nối với nguyên âm 어 → [끄러]; các âm tiết liền mạch.",
+      "meaning": "phải dẫn dắt ra"
+    },
+    {
+      "word": "훼손하지",
+      "pronounced": "[훼소나지]",
+      "rule": "Biến âm mũi + Nối âm",
+      "explanation": "Patchim ㄴ của 손 kết hợp ㅎ của 하 → bật hơi [나]; sau đó liên kết.",
+      "meaning": "gây thiệt hại không"
+    },
+    {
+      "word": "엄격한",
+      "pronounced": "[엄껴칸]",
+      "rule": "Căng hóa + Bật hơi",
+      "explanation": "Patchim ㄱ của 엄 căng hóa ㄱ của 격 → [껵]; ㄱ+ㅎ → bật hơi [칸].",
+      "meaning": "nghiêm ngặt"
+    },
+    {
+      "word": "공평하게",
+      "pronounced": "[공평하게]",
+      "rule": "Bật hơi 격음화",
+      "explanation": "Patchim ㅂ của 평 kết hợp ㅎ của 하 → [파]; bật hơi tự nhiên.",
+      "meaning": "một cách công bằng"
     },
     {
       "word": "끊임없이",
-      "pronounced": "끈임업씨",
-      "rule": "Lược bỏ 'h' & Nối âm",
-      "explanation": "Patchim kép 'nh' (ㄶ) lược bỏ 'h', và 'ps' (ㅄ) nối lên thành 'ss' (ㅆ)."
+      "pronounced": "[끄니멉씨]",
+      "rule": "Nối âm + Biến âm mũi",
+      "explanation": "Patchim kép ㄶ của 끊: ㄴ giữ lại, ㅎ câm; 없+이 nối âm ㅂ→ㅅ [업씨].",
+      "meaning": "không ngừng"
     },
     {
-      "word": "혜택이",
-      "pronounced": "혜태기",
-      "rule": "Nối âm",
-      "explanation": "Patchim 'k' (ㄱ) nối lên nguyên âm 'i' (이)."
+      "word": "비판적인",
+      "pronounced": "[비판쩌긴]",
+      "rule": "Căng hóa 경음화",
+      "explanation": "Patchim ㄱ của 판 gặp ㅈ của 적 → căng hóa [쩌긴].",
+      "meaning": "mang tính phê phán"
+    },
+    {
+      "word": "고민하고",
+      "pronounced": "[고미나고]",
+      "rule": "Nối âm + Bật hơi",
+      "explanation": "Patchim ㄴ của 민 + ㅎ của 하 → nhẹ hóa thành [나]; 나고 liên kết.",
+      "meaning": "suy nghĩ và"
+    },
+    {
+      "word": "문제들도",
+      "pronounced": "[문제들도]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 들 liên kết với 도 không biến đổi; chuỗi nối liên tục.",
+      "meaning": "những vấn đề cũng"
+    },
+    {
+      "word": "주역으로서",
+      "pronounced": "[주여그로서]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄱ của 역 nối với nguyên âm 으 → [여그]; tiếp theo 로서 liên kết.",
+      "meaning": "với tư cách nhân vật chính"
     }
   ]
 }

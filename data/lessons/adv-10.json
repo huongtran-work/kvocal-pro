@@ -4,28 +4,130 @@
   "translation": "Giá trị cốt lõi của dân chủ là tất cả công dân tham gia vào quá trình ra quyết định xã hội một cách tự do và bình đẳng. Vì một xã hội dân chủ trưởng thành, cần có thái độ tôn trọng ý kiến của người khác và nỗ lực đưa ra kết luận hợp lý thông qua đối thoại và thỏa hiệp, thay vì chỉ dừng lại ở việc tham gia bỏ phiếu. Chúng ta phải có thái độ bảo vệ quyền của người khác và hoàn thành trách nhiệm của cộng đồng cũng như việc khẳng định quyền lợi của chính mình. Ngoài ra, thái độ bao dung lắng nghe tiếng nói của những người yếu thế trong xã hội cùng với việc giám sát phản biện đối với quyền lực là rất quan trọng. Cần có nỗ lực rèn luyện tố chất với tư cách là công dân dân chủ thông qua giáo dục và thực hiện các nguyên tắc dân chủ trong cuộc sống hàng ngày. Khi dựa trên tinh thần đoàn kết và hợp tác vượt qua xung đột và đối lập, dân chủ mới có thể trở nên vững chắc. Chúng ta phải phát huy ý thức công dân trưởng thành, không ngừng giao tiếp và công nhận sự khác biệt của nhau để tạo ra một cộng đồng tốt đẹp hơn. Chúng ta không được quên rằng dân chủ không phải là một kết quả đã hoàn thành, mà là một quá trình không ngừng nghỉ mà chúng ta cùng nhau tạo ra.",
   "annotatedWords": [
     {
-      "word": "의견을",
-      "pronounced": "의견글",
-      "rule": "Nối âm",
-      "explanation": "Patchim 'n' (ㄴ) nối lên nguyên âm 'eu' (으)."
+      "word": "민주주의의",
+      "pronounced": "[민주주이에]",
+      "rule": "Nối âm 연음",
+      "explanation": "의의 phát âm là [이에]; chuỗi 5 âm tiết liên kết liền mạch.",
+      "meaning": "của dân chủ"
     },
     {
-      "word": "결론을",
-      "pronounced": "결론글",
-      "rule": "Nối âm",
-      "explanation": "Patchim 'n' (ㄴ) nối lên nguyên âm 'eu' (으)."
+      "word": "핵심가치는",
+      "pronounced": "[핵씸까치는]",
+      "rule": "Căng hóa (Hán tự)",
+      "explanation": "Patchim ㄱ của 핵 căng hóa ㅅ của 심 → [씸]; patchim ㅁ căng hóa ㄱ của 가 → [까].",
+      "meaning": "giá trị cốt lõi"
+    },
+    {
+      "word": "참여하는",
+      "pronounced": "[차며하는]",
+      "rule": "Nối âm + Bật hơi",
+      "explanation": "Patchim ㅇ của 여 + ㅎ của 하 → bật hơi [하]; chuỗi liên kết.",
+      "meaning": "tham gia"
+    },
+    {
+      "word": "성숙한",
+      "pronounced": "[성수칸]",
+      "rule": "Bật hơi 격음화",
+      "explanation": "Patchim ㄱ của 숙 kết hợp ㅎ của 한 → bật hơi [칸] → [성수칸].",
+      "meaning": "trưởng thành"
+    },
+    {
+      "word": "존중하고",
+      "pronounced": "[존중하고]",
+      "rule": "Nối âm + Bật hơi",
+      "explanation": "Patchim ㅇ của 중 + ㅎ của 하 → bật hơi nhẹ; 하고 liên kết.",
+      "meaning": "tôn trọng và"
+    },
+    {
+      "word": "도출하려는",
+      "pronounced": "[도추라려는]",
+      "rule": "Bật hơi + Nối âm",
+      "explanation": "Patchim ㄹ của 출 + ㅎ của 하 → bật hơi [추하→추라]; ㄹ nối tiếp.",
+      "meaning": "cố gắng đưa ra"
+    },
+    {
+      "word": "합리적인",
+      "pronounced": "[함니쩌긴]",
+      "rule": "Biến âm mũi + Căng hóa + Nối âm",
+      "explanation": "ㅂ của 합 gặp ㄹ → biến âm mũi [함니]; ㅈ của 적 căng hóa [쩍]; 적+인 nối âm [쩌긴].",
+      "meaning": "mang tính hợp lý"
+    },
+    {
+      "word": "보호하고",
+      "pronounced": "[보호하고]",
+      "rule": "Nối âm + Bật hơi",
+      "explanation": "Patchim ㅎ của 호 + ㅎ của 하 → bật hơi kép [보호하고] đọc liền.",
+      "meaning": "bảo vệ và"
+    },
+    {
+      "word": "책임을",
+      "pronounced": "[채기믈]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅁ của 임 nối với 을 → [이믈→채기믈].",
+      "meaning": "trách nhiệm"
+    },
+    {
+      "word": "권력에",
+      "pronounced": "[궐려게]",
+      "rule": "Biến âm lưỡi + Nối âm",
+      "explanation": "Patchim ㄹ của 권 gặp ㄹ của 력 → [궐력]; ㄱ patchim của 력 nối với 에 → [려게].",
+      "meaning": "đối với quyền lực"
+    },
+    {
+      "word": "비판적인",
+      "pronounced": "[비판쩌긴]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㄱ của 판 gặp ㅈ của 적 → căng hóa [쩍]; 적+인 nối âm [쩌긴].",
+      "meaning": "mang tính phê phán"
+    },
+    {
+      "word": "포용적인",
+      "pronounced": "[포용쩌긴]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㄱ của 용 gặp ㅈ của 적 → căng hóa [쩍]; 적+인 nối âm [쩌긴].",
+      "meaning": "mang tính bao dung"
     },
     {
       "word": "소양을",
-      "pronounced": "소양글",
-      "rule": "Nối âm",
-      "explanation": "Patchim 'ng' (ㅇ) không nối âm, nhưng ở đây 'ng' (ㅇ) đứng trước 'eu' (으) thường được phát âm rõ ràng."
+      "pronounced": "[소양을]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㅇ của 양 nối với 을 → [양을] liên kết tự nhiên.",
+      "meaning": "phẩm chất, giáo dục cơ bản"
     },
     {
-      "word": "의식을",
-      "pronounced": "의시글",
-      "rule": "Nối âm",
-      "explanation": "Patchim 'k' (ㄱ) nối lên nguyên âm 'eu' (으)."
+      "word": "일상생활속에서",
+      "pronounced": "[일상생활쏘게서]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "Patchim ㄱ của 속 căng hóa ㅅ → [쏙]; 속+에 nối âm [쏘게서].",
+      "meaning": "trong cuộc sống hàng ngày"
+    },
+    {
+      "word": "갈등과",
+      "pronounced": "[갈뜽꽈]",
+      "rule": "Căng hóa (Hán tự + kết hợp)",
+      "explanation": "Patchim ㄹ của 갈 căng hóa ㄷ của 등 → [뜽]; patchim ㅇ của 등 căng hóa ㄱ của 과 → [꽈].",
+      "meaning": "mâu thuẫn và"
+    },
+    {
+      "word": "공고해질",
+      "pronounced": "[공고해질]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄹ của 질 liên kết; chuỗi 4 âm tiết tự nhiên.",
+      "meaning": "trở nên vững chắc"
+    },
+    {
+      "word": "완성된",
+      "pronounced": "[완성된]",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim ㄴ của 된 liên kết; không biến âm lớn.",
+      "meaning": "đã hoàn thành"
+    },
+    {
+      "word": "끊임없는",
+      "pronounced": "[끄니멉는]",
+      "rule": "Biến âm mũi + Nối âm",
+      "explanation": "Patchim kép ㄶ: ㄴ giữ, ㅎ câm; 없+는 nối âm: ㅅ gặp ㄴ → ㄴ [멈는].",
+      "meaning": "không ngừng nghỉ"
     }
   ]
 }
