@@ -2,11 +2,14 @@
 
 import { useAuth } from '@/contexts/AuthContext';
 import { LoginPage } from '@/components/LoginPage';
+import { LandingPage } from '@/components/LandingPage';
 import { TopicLessons } from '@/components/TopicLessons';
 import { Sparkles, LogOut, User } from 'lucide-react';
+import { useState } from 'react';
 
 export function MainApp() {
   const { user, loading, logout } = useAuth();
+  const [showLanding, setShowLanding] = useState(true);
 
   if (loading) {
     return (
@@ -14,6 +17,10 @@ export function MainApp() {
         <div className="w-8 h-8 border-4 border-blue-600 border-t-transparent rounded-full animate-spin" />
       </div>
     );
+  }
+
+  if (!user && showLanding) {
+    return <LandingPage onGetStarted={() => setShowLanding(false)} />;
   }
 
   if (!user) {
