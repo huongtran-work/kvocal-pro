@@ -60,6 +60,11 @@ npm run seed
 npm run dev
 ```
 
+## Git Convention
+- Regular commits — no squashing into a single init commit
+- Author: `Huong Tran <tranthuhuong.work@gmail.com>`
+- Remote: `github.com/huongtran-work/kvocal-pro`
+
 ## Key Files
 - `prisma/schema.prisma` — DB schema (Lesson, UserProgress, User, Session, Account)
 - `lib/db.ts` — Prisma client singleton
