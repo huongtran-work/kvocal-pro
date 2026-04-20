@@ -13,13 +13,13 @@
       "word": "문제집을",
       "pronounced": "문제지블",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅂ' của '문제집' nối với nguyên âm 'ㅡ' của '을', phát âm thành [문제지블].",
+      "explanation": "Patchim 'ㅂ' của '문제집' nối với nguyên âm 'ㅡ' của '을', phát âm thành [문제지블]."
     },
     {
       "word": "풀어요",
       "pronounced": "푸러요",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '풀' nối với nguyên âm 'ㅓ' của '어요', phát âm thành [푸러요].",
+      "explanation": "Patchim 'ㄹ' của '풀' nối với nguyên âm 'ㅓ' của '어요', phát âm thành [푸러요]."
     },
     {
       "word": "있으면",
@@ -49,7 +49,7 @@
       "word": "좋은",
       "pronounced": "조은",
       "rule": "Lược bỏ ㅎ (ㅎ탈락)",
-      "explanation": "Patchim 'ㅎ' của '좋' bị lược bỏ trước nguyên âm 'ㅡ' của '은', phát âm thành [조은].",
+      "explanation": "Patchim 'ㅎ' của '좋' bị lược bỏ trước nguyên âm 'ㅡ' của '은', phát âm thành [조은]."
     },
     {
       "word": "것도",
@@ -61,7 +61,7 @@
       "word": "들어요",
       "pronounced": "드러요",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '들' nối với nguyên âm 'ㅓ' của '어요', phát âm thành [드러요].",
+      "explanation": "Patchim 'ㄹ' của '들' nối với nguyên âm 'ㅓ' của '어요', phát âm thành [드러요]."
     },
     {
       "word": "볼 수 있을",
