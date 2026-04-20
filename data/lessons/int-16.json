@@ -98,61 +98,71 @@
       "word": "공간으로",
       "pronounced": "공가느로",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '공간' nối với nguyên âm '으', phát âm thành [공가느로]."
+      "explanation": "Patchim 'ㄴ' của '공간' nối với nguyên âm '으', phát âm thành [공가느로].",
+      "meaning": "như một không gian"
     },
     {
       "word": "카페들이",
       "pronounced": "카페드리",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '카페들' nối với nguyên âm '이', phát âm thành [카페드리]."
+      "explanation": "Patchim 'ㄹ' của '카페들' nối với nguyên âm '이', phát âm thành [카페드리].",
+      "meaning": "các quán cà phê"
     },
     {
       "word": "있어요",
       "pronounced": "이써요",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm '어', phát âm thành [이써요]."
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm '어', phát âm thành [이써요].",
+      "meaning": "có"
     },
     {
       "word": "노트북을",
       "pronounced": "노트부글",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '노트북' nối với nguyên âm '을', phát âm thành [노트부글]."
+      "explanation": "Patchim 'ㄱ' của '노트북' nối với nguyên âm '을', phát âm thành [노트부글].",
+      "meaning": "laptop"
     },
     {
       "word": "찾아다니며",
       "pronounced": "차자다니며",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅈ' (대표음 ㄷ) của '찾' nối với nguyên âm '아', phát âm thành [차자다니며]."
+      "explanation": "Patchim 'ㅈ' (대표음 ㄷ) của '찾' nối với nguyên âm '아', phát âm thành [차자다니며].",
+      "meaning": "tìm kiếm khắp nơi và"
     },
     {
       "word": "보드게임을",
       "pronounced": "보드게이믈",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '보드게임' nối với nguyên âm '을', phát âm thành [보드게이믈]."
+      "explanation": "Patchim 'ㅁ' của '보드게임' nối với nguyên âm '을', phát âm thành [보드게이믈].",
+      "meaning": "trò chơi board game"
     },
     {
       "word": "만화책을",
       "pronounced": "만화채글",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '만화책' nối với nguyên âm '을', phát âm thành [만화채글]."
+      "explanation": "Patchim 'ㄱ' của '만화책' nối với nguyên âm '을', phát âm thành [만화채글].",
+      "meaning": "truyện tranh"
     },
     {
       "word": "입을",
       "pronounced": "이블",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅂ' của '입' nối với nguyên âm '을', phát âm thành [이블]."
+      "explanation": "Patchim 'ㅂ' của '입' nối với nguyên âm '을', phát âm thành [이블].",
+      "meaning": "miệng"
     },
     {
       "word": "음악은",
       "pronounced": "으마근",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '음악' nối với nguyên âm '은', phát âm thành [으마근]."
+      "explanation": "Patchim 'ㄱ' của '음악' nối với nguyên âm '은', phát âm thành [으마근].",
+      "meaning": "âm nhạc"
     },
     {
       "word": "마음을",
       "pronounced": "마으믈",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm '을', phát âm thành [마으믈]."
+      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm '을', phát âm thành [마으믈].",
+      "meaning": "tâm hồn, tinh thần"
     }
   ]
 }

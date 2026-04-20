@@ -105,43 +105,50 @@
       "word": "시간에도",
       "pronounced": "씨가네도",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '시간' nối với nguyên âm '에', phát âm thành [씨가네도]."
+      "explanation": "Patchim 'ㄴ' của '시간' nối với nguyên âm '에', phát âm thành [씨가네도].",
+      "meaning": "ngay cả vào giờ cao điểm"
     },
     {
       "word": "시간을",
       "pronounced": "씨가늘",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '시간' nối với nguyên âm '을', phát âm thành [씨가늘]."
+      "explanation": "Patchim 'ㄴ' của '시간' nối với nguyên âm '을', phát âm thành [씨가늘].",
+      "meaning": "thời gian"
     },
     {
       "word": "안에는",
       "pronounced": "아네는",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '안' nối với nguyên âm '에', phát âm thành [아네는]."
+      "explanation": "Patchim 'ㄴ' của '안' nối với nguyên âm '에', phát âm thành [아네는].",
+      "meaning": "ở bên trong"
     },
     {
       "word": "있어서",
       "pronounced": "이써서",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm '어', phát âm thành [이써서]."
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm '어', phát âm thành [이써서].",
+      "meaning": "vì có"
     },
     {
       "word": "처음 이용하는",
       "pronounced": "처으미용하는",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '처음' nối với nguyên âm '이' của '이용', phát âm thành [처으미용하는]."
+      "explanation": "Patchim 'ㅁ' của '처음' nối với nguyên âm '이' của '이용', phát âm thành [처으미용하는].",
+      "meaning": "người lần đầu sử dụng"
     },
     {
       "word": "배려들이",
       "pronounced": "배려드리",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '배려들' nối với nguyên âm '이', phát âm thành [배려드리]."
+      "explanation": "Patchim 'ㄹ' của '배려들' nối với nguyên âm '이', phát âm thành [배려드리].",
+      "meaning": "những sự chu đáo, quan tâm"
     },
     {
       "word": "좋아요",
       "pronounced": "조아요",
       "rule": "Nối âm (연음) và lược bỏ 'ㅎ'",
-      "explanation": "Patchim 'ㅎ' của '좋' bị lược bỏ, nối với nguyên âm '아', phát âm thành [조아요]."
+      "explanation": "Patchim 'ㅎ' của '좋' bị lược bỏ, nối với nguyên âm '아', phát âm thành [조아요].",
+      "meaning": "tốt, tuyệt"
     }
   ]
 }

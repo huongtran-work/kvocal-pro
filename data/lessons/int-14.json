@@ -98,61 +98,71 @@
       "word": "마음을",
       "pronounced": "마으믈",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm '을', phát âm thành [마으믈]."
+      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm '을', phát âm thành [마으믈].",
+      "meaning": "tâm hồn, trái tim"
     },
     {
       "word": "쌓인",
       "pronounced": "싸인",
       "rule": "Nối âm (연음) và lược bỏ 'ㅎ'",
-      "explanation": "Patchim 'ㅎ' của '쌓' bị lược bỏ trước nguyên âm '인', phát âm thành [싸인]."
+      "explanation": "Patchim 'ㅎ' của '쌓' bị lược bỏ trước nguyên âm '인', phát âm thành [싸인].",
+      "meaning": "đã tích lũy"
     },
     {
       "word": "깊은",
       "pronounced": "기픈",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅍ' của '깊' nối với nguyên âm '은', phát âm thành [기픈]."
+      "explanation": "Patchim 'ㅍ' của '깊' nối với nguyên âm '은', phát âm thành [기픈].",
+      "meaning": "sâu sắc"
     },
     {
       "word": "있어요",
       "pronounced": "이써요",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm '어', phát âm thành [이써요]."
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm '어', phát âm thành [이써요].",
+      "meaning": "có"
     },
     {
       "word": "일이",
       "pronounced": "이리",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '일' nối với nguyên âm '이', phát âm thành [이리]."
+      "explanation": "Patchim 'ㄹ' của '일' nối với nguyên âm '이', phát âm thành [이리].",
+      "meaning": "việc"
     },
     {
       "word": "짐을",
       "pronounced": "지믈",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '짐' nối với nguyên âm '을', phát âm thành [지믈]."
+      "explanation": "Patchim 'ㅁ' của '짐' nối với nguyên âm '을', phát âm thành [지믈].",
+      "meaning": "gánh nặng"
     },
     {
       "word": "마음에서",
       "pronounced": "마으메서",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm '에', phát âm thành [마으메서]."
+      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm '에', phát âm thành [마으메서].",
+      "meaning": "từ trong lòng"
     },
     {
       "word": "울어주는",
       "pronounced": "우러주는",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '울' nối với nguyên âm '어', phát âm thành [우러주는]."
+      "explanation": "Patchim 'ㄹ' của '울' nối với nguyên âm '어', phát âm thành [우러주는].",
+      "meaning": "khóc cùng"
     },
     {
       "word": "사람에게",
       "pronounced": "사라메게",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '사람' nối với nguyên âm '에', phát âm thành [사라메게]."
+      "explanation": "Patchim 'ㅁ' của '사람' nối với nguyên âm '에', phát âm thành [사라메게].",
+      "meaning": "đến người đó"
     },
     {
       "word": "핵심입니다",
       "pronounced": "해씸임니다",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '핵심' nối với nguyên âm '이' của '입니다', phát âm thành [해씸임니다]."
+      "explanation": "Patchim 'ㅁ' của '핵심' nối với nguyên âm '이' của '입니다', phát âm thành [해씸임니다].",
+      "meaning": "là cốt lõi, điều thiết yếu"
     }
   ]
 }

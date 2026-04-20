@@ -7,91 +7,106 @@
       "word": "물건을",
       "pronounced": "물거늘",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '물건' nối với nguyên âm 'ㅡ' của '을', phát âm thành [거늘]."
+      "explanation": "Patchim 'ㄴ' của '물건' nối với nguyên âm 'ㅡ' của '을', phát âm thành [거늘].",
+      "meaning": "hàng hóa, đồ vật"
     },
     {
       "word": "마음에",
       "pronounced": "마으메",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm 'ㅔ' của '에', phát âm thành [으메]."
+      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm 'ㅔ' của '에', phát âm thành [으메].",
+      "meaning": "vừa ý, hợp ý"
     },
     {
       "word": "않을",
       "pronounced": "아늘",
       "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
-      "explanation": "Patchim 'ㅎ' của '않' bị lược bỏ trước nguyên âm, 'ㄴ' nối với 'ㅡ' của '을', phát âm thành [아늘]."
+      "explanation": "Patchim 'ㅎ' của '않' bị lược bỏ trước nguyên âm, 'ㄴ' nối với 'ㅡ' của '을', phát âm thành [아늘].",
+      "meaning": "không (phủ định)"
     },
     {
       "word": "옷을",
       "pronounced": "오슬",
       "rule": "Nối âm (연음) + âm đại diện (대표음)",
-      "explanation": "Patchim 'ㅅ' của '옷' được đọc theo đại diện âm [ㄷ], sau đó nối với 'ㅡ' của '을' thành [오슬]."
+      "explanation": "Patchim 'ㅅ' của '옷' được đọc theo đại diện âm [ㄷ], sau đó nối với 'ㅡ' của '을' thành [오슬].",
+      "meaning": "quần áo"
     },
     {
       "word": "맞을",
       "pronounced": "마즐",
       "rule": "Nối âm (연음) + âm đại diện (대표음)",
-      "explanation": "Patchim 'ㅈ' của '맞' nối trực tiếp với nguyên âm 'ㅡ' của '을', phát âm thành [마즐]."
+      "explanation": "Patchim 'ㅈ' của '맞' nối trực tiếp với nguyên âm 'ㅡ' của '을', phát âm thành [마즐].",
+      "meaning": "vừa vặn, phù hợp"
     },
     {
       "word": "있어요",
       "pronounced": "이써요",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm 'ㅓ' của '어요', phát âm thành [이써요]."
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm 'ㅓ' của '어요', phát âm thành [이써요].",
+      "meaning": "có, tồn tại"
     },
     {
       "word": "온라인에서",
       "pronounced": "온라이네서",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '온라인' nối với nguyên âm 'ㅔ' của '에서', phát âm thành [온라이네서]."
+      "explanation": "Patchim 'ㄴ' của '온라인' nối với nguyên âm 'ㅔ' của '에서', phát âm thành [온라이네서].",
+      "meaning": "trên mạng, trực tuyến"
     },
     {
       "word": "색깔이",
       "pronounced": "색까리",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '색깔' nối với nguyên âm 'ㅣ' của '이', phát âm thành [까리]."
+      "explanation": "Patchim 'ㄹ' của '색깔' nối với nguyên âm 'ㅣ' của '이', phát âm thành [까리].",
+      "meaning": "màu sắc"
     },
     {
       "word": "교환이나",
       "pronounced": "교화니나",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '교환' nối với nguyên âm 'ㅣ' của '이나', phát âm thành [화니나]."
+      "explanation": "Patchim 'ㄴ' của '교환' nối với nguyên âm 'ㅣ' của '이나', phát âm thành [화니나].",
+      "meaning": "đổi hàng hoặc"
     },
     {
       "word": "반품을",
       "pronounced": "반푸믈",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '반품' nối với nguyên âm 'ㅡ' của '을', phát âm thành [푸믈]."
+      "explanation": "Patchim 'ㅁ' của '반품' nối với nguyên âm 'ㅡ' của '을', phát âm thành [푸믈].",
+      "meaning": "trả hàng"
     },
     {
       "word": "조건이",
       "pronounced": "조꺼니",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '조건' nối với nguyên âm 'ㅣ' của '이', phát âm thành [꺼니]."
+      "explanation": "Patchim 'ㄴ' của '조건' nối với nguyên âm 'ㅣ' của '이', phát âm thành [꺼니].",
+      "meaning": "điều kiện"
     },
     {
       "word": "영수증이",
       "pronounced": "영수즈미",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅇ(ng)' của '증' nối với nguyên âm 'ㅣ' của '이', phát âm thành [즈미]."
+      "explanation": "Patchim 'ㅇ(ng)' của '증' nối với nguyên âm 'ㅣ' của '이', phát âm thành [즈미].",
+      "meaning": "hóa đơn"
     },
     {
       "word": "많아요",
       "pronounced": "마나요",
       "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
-      "explanation": "Patchim 'ㅎ' của '많' bị lược bỏ, 'ㄴ' nối với nguyên âm 'ㅏ' của '아요', phát âm thành [마나요]."
+      "explanation": "Patchim 'ㅎ' của '많' bị lược bỏ, 'ㄴ' nối với nguyên âm 'ㅏ' của '아요', phát âm thành [마나요].",
+      "meaning": "nhiều"
     },
     {
       "word": "물건에",
       "pronounced": "물거네",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '물건' nối với nguyên âm 'ㅔ' của '에', phát âm thành [거네]."
+      "explanation": "Patchim 'ㄴ' của '물건' nối với nguyên âm 'ㅔ' của '에', phát âm thành [거네].",
+      "meaning": "về hàng hóa"
     },
     {
       "word": "알아두면",
       "pronounced": "아라두면",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '알' nối với nguyên âm 'ㅏ' của '아두면', phát âm thành [아라두면]."
+      "explanation": "Patchim 'ㄹ' của '알' nối với nguyên âm 'ㅏ' của '아두면', phát âm thành [아라두면].",
+      "meaning": "nếu biết trước"
     }
   ]
 }

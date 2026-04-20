@@ -105,43 +105,50 @@
       "word": "봄에는",
       "pronounced": "보메는",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '봄' nối với nguyên âm '에', phát âm thành [보메는]."
+      "explanation": "Patchim 'ㅁ' của '봄' nối với nguyên âm '에', phát âm thành [보메는].",
+      "meaning": "vào mùa xuân"
     },
     {
       "word": "나들이를",
       "pronounced": "나드리를",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '나들' nối với nguyên âm '이', phát âm thành [나드리를]."
+      "explanation": "Patchim 'ㄹ' của '나들' nối với nguyên âm '이', phát âm thành [나드리를].",
+      "meaning": "chuyến đi dạo, đi chơi"
     },
     {
       "word": "여름에는",
       "pronounced": "여르메는",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '여름' nối với nguyên âm '에', phát âm thành [여르메는]."
+      "explanation": "Patchim 'ㅁ' của '여름' nối với nguyên âm '에', phát âm thành [여르메는].",
+      "meaning": "vào mùa hè"
     },
     {
       "word": "맑아서",
       "pronounced": "말가서",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim kép 'ㄺ' của '맑': 'ㄹ' ở lại, 'ㄱ' nối với nguyên âm '아', phát âm thành [말가서]."
+      "explanation": "Patchim kép 'ㄺ' của '맑': 'ㄹ' ở lại, 'ㄱ' nối với nguyên âm '아', phát âm thành [말가서].",
+      "meaning": "vì trong lành, quang đãng"
     },
     {
       "word": "귤을",
       "pronounced": "규를",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '귤' nối với nguyên âm '을', phát âm thành [규를]."
+      "explanation": "Patchim 'ㄹ' của '귤' nối với nguyên âm '을', phát âm thành [규를].",
+      "meaning": "quýt"
     },
     {
       "word": "색깔이",
       "pronounced": "색까리",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '색깔' nối với nguyên âm '이', phát âm thành [색까리]."
+      "explanation": "Patchim 'ㄹ' của '색깔' nối với nguyên âm '이', phát âm thành [색까리].",
+      "meaning": "màu sắc"
     },
     {
       "word": "계절에",
       "pronounced": "계저레",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '계절' nối với nguyên âm '에', phát âm thành [계저레]."
+      "explanation": "Patchim 'ㄹ' của '계절' nối với nguyên âm '에', phát âm thành [계저레].",
+      "meaning": "vào mùa đó"
     }
   ]
 }

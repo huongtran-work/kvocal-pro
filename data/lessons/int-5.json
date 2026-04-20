@@ -7,91 +7,106 @@
       "word": "좋은",
       "pronounced": "조은",
       "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
-      "explanation": "Patchim 'ㅎ' của '좋' bị lược bỏ trước nguyên âm '은', phát âm thành [조은]."
+      "explanation": "Patchim 'ㅎ' của '좋' bị lược bỏ trước nguyên âm '은', phát âm thành [조은].",
+      "meaning": "tốt, tốt lành"
     },
     {
       "word": "사람이에요",
       "pronounced": "사라미에요",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '사람' nối với nguyên âm 'ㅣ' của '이에요', phát âm thành [사라미에요]."
+      "explanation": "Patchim 'ㅁ' của '사람' nối với nguyên âm 'ㅣ' của '이에요', phát âm thành [사라미에요].",
+      "meaning": "là người"
     },
     {
       "word": "밝고",
       "pronounced": "발꼬",
       "rule": "Nối âm (연음) với patchim kép (겹받침) + Căng âm (경음화)",
-      "explanation": "Patchim kép 'ㄺ' của '밝': trước phụ âm 'ㄱ' của '고', 'ㄹ' được giữ lại và 'ㄱ' của patchim gây căng âm, 'ㄱ' của '고' trở thành [ㄲ], phát âm thành [발꼬]."
+      "explanation": "Patchim kép 'ㄺ' của '밝': trước phụ âm 'ㄱ' của '고', 'ㄹ' được giữ lại và 'ㄱ' của patchim gây căng âm, 'ㄱ' của '고' trở thành [ㄲ], phát âm thành [발꼬].",
+      "meaning": "vui vẻ, sáng sủa và"
     },
     {
       "word": "있어요",
       "pronounced": "이써요",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm 'ㅓ' của '어요', phát âm thành [이써요]."
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm 'ㅓ' của '어요', phát âm thành [이써요].",
+      "meaning": "có, tồn tại"
     },
     {
       "word": "일이",
       "pronounced": "이리",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '일' nối với nguyên âm 'ㅣ' của '이', phát âm thành [이리]."
+      "explanation": "Patchim 'ㄹ' của '일' nối với nguyên âm 'ㅣ' của '이', phát âm thành [이리].",
+      "meaning": "việc, công việc"
     },
     {
       "word": "있어도",
       "pronounced": "이써도",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm 'ㅓ' của '어도', phát âm thành [이써도]."
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm 'ㅓ' của '어도', phát âm thành [이써도].",
+      "meaning": "dù có"
     },
     {
       "word": "않아요",
       "pronounced": "아나요",
       "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
-      "explanation": "Patchim 'ㅎ' của '않' bị lược bỏ trước nguyên âm. 'ㄴ' nối với 'ㅏ' của '아요', phát âm thành [아나요]."
+      "explanation": "Patchim 'ㅎ' của '않' bị lược bỏ trước nguyên âm. 'ㄴ' nối với 'ㅏ' của '아요', phát âm thành [아나요].",
+      "meaning": "không"
     },
     {
       "word": "사람의",
       "pronounced": "사라메",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '사람' nối với nguyên âm '의' (phát âm thành '에'), phát âm thành [사라메]."
+      "explanation": "Patchim 'ㅁ' của '사람' nối với nguyên âm '의' (phát âm thành '에'), phát âm thành [사라메].",
+      "meaning": "của người"
     },
     {
       "word": "마음을",
       "pronounced": "마으믈",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm 'ㅡ' của '을', phát âm thành [마으믈]."
+      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm 'ㅡ' của '을', phát âm thành [마으믈].",
+      "meaning": "trái tim, tâm hồn"
     },
     {
       "word": "능력이",
       "pronounced": "능녀기",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '능력' nối với nguyên âm 'ㅣ' của '이', phát âm thành [능녀기]."
+      "explanation": "Patchim 'ㄱ' của '능력' nối với nguyên âm 'ㅣ' của '이', phát âm thành [능녀기].",
+      "meaning": "năng lực"
     },
     {
       "word": "많아요",
       "pronounced": "마나요",
       "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
-      "explanation": "Patchim 'ㅎ' của '많' bị lược bỏ trước nguyên âm. 'ㄴ' nối với 'ㅏ' của '아요', phát âm thành [마나요]."
+      "explanation": "Patchim 'ㅎ' của '많' bị lược bỏ trước nguyên âm. 'ㄴ' nối với 'ㅏ' của '아요', phát âm thành [마나요].",
+      "meaning": "nhiều, có nhiều"
     },
     {
       "word": "음악을",
       "pronounced": "으마글",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '음악' nối với nguyên âm 'ㅡ' của '을', phát âm thành [으마글]."
+      "explanation": "Patchim 'ㄱ' của '음악' nối với nguyên âm 'ㅡ' của '을', phát âm thành [으마글].",
+      "meaning": "âm nhạc"
     },
     {
       "word": "것을",
       "pronounced": "거슬",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅅ' của '것' nối với nguyên âm 'ㅡ' của '을', phát âm thành [거슬]."
+      "explanation": "Patchim 'ㅅ' của '것' nối với nguyên âm 'ㅡ' của '을', phát âm thành [거슬].",
+      "meaning": "điều đó"
     },
     {
       "word": "앞에서",
       "pronounced": "아페서",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅍ' của '앞' nối với nguyên âm 'ㅔ' của '에서', phát âm thành [아페서]."
+      "explanation": "Patchim 'ㅍ' của '앞' nối với nguyên âm 'ㅔ' của '에서', phát âm thành [아페서].",
+      "meaning": "trước mặt, ở phía trước"
     },
     {
       "word": "사람들에게",
       "pronounced": "사람드레게",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '사람들' nối với nguyên âm 'ㅔ' của '에게', phát âm thành [사람드레게]."
+      "explanation": "Patchim 'ㄹ' của '사람들' nối với nguyên âm 'ㅔ' của '에게', phát âm thành [사람드레게].",
+      "meaning": "với mọi người"
     }
   ]
 }

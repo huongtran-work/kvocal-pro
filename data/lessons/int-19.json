@@ -98,37 +98,43 @@
       "word": "현대적인",
       "pronounced": "현대저긴",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '현대적' nối với nguyên âm '인', phát âm thành [현대저긴]."
+      "explanation": "Patchim 'ㄱ' của '현대적' nối với nguyên âm '인', phát âm thành [현대저긴].",
+      "meaning": "hiện đại"
     },
     {
       "word": "대부분의",
       "pronounced": "대부부네",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '대부분' nối với nguyên âm '의' (phát âm là '에'), phát âm thành [대부부네]."
+      "explanation": "Patchim 'ㄴ' của '대부분' nối với nguyên âm '의' (phát âm là '에'), phát âm thành [대부부네].",
+      "meaning": "hầu hết"
     },
     {
       "word": "집안",
       "pronounced": "지반",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅂ' của '집' nối với nguyên âm '안', phát âm thành [지반]."
+      "explanation": "Patchim 'ㅂ' của '집' nối với nguyên âm '안', phát âm thành [지반].",
+      "meaning": "trong nhà, nội thất"
     },
     {
       "word": "아파트에",
       "pronounced": "아파테",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄷ' (대표음) của '아파트' nối với nguyên âm '에', phát âm thành [아파테]."
+      "explanation": "Patchim 'ㄷ' (대표음) của '아파트' nối với nguyên âm '에', phát âm thành [아파테].",
+      "meaning": "ở căn hộ chung cư"
     },
     {
       "word": "있어서",
       "pronounced": "이써서",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm '어', phát âm thành [이써서]."
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm '어', phát âm thành [이써서].",
+      "meaning": "vì có"
     },
     {
       "word": "겨울철에도",
       "pronounced": "겨울처레도",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '겨울철' nối với nguyên âm '에', phát âm thành [겨울처레도]."
+      "explanation": "Patchim 'ㄹ' của '겨울철' nối với nguyên âm '에', phát âm thành [겨울처레도].",
+      "meaning": "ngay cả vào mùa đông"
     },
     {
       "word": "놀이터",

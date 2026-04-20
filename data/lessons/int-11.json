@@ -7,85 +7,99 @@
       "word": "한옥은",
       "pronounced": "하노근",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '한옥' nối với nguyên âm 'ㅡ' của '은', phát âm thành [하노근]."
+      "explanation": "Patchim 'ㄱ' của '한옥' nối với nguyên âm 'ㅡ' của '은', phát âm thành [하노근].",
+      "meaning": "nhà truyền thống Hàn Quốc"
     },
     {
       "word": "건축물입니다",
       "pronounced": "건충무림니다",
       "rule": "Nối âm (연음) + biến âm mũi (비음화)",
-      "explanation": "Patchim 'ㄹ' của '물' nối với 'ㅣ' của '입니다' → [무리]; patchim 'ㅂ' của '입' gặp 'ㄴ' biến thành âm mũi [ㅁ], phát âm thành [건충무림니다]."
+      "explanation": "Patchim 'ㄹ' của '물' nối với 'ㅣ' của '입니다' → [무리]; patchim 'ㅂ' của '입' gặp 'ㄴ' biến thành âm mũi [ㅁ], phát âm thành [건충무림니다].",
+      "meaning": "là công trình kiến trúc"
     },
     {
       "word": "특징은",
       "pronounced": "특찡은",
       "rule": "Căng hóa (경음화) + nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '특' đứng trước 'ㅈ' của '징' gây căng hóa thành [ㅉ → 찡]; patchim 'ㅇ(ng)' của '징' nối với 'ㅡ' của '은', phát âm thành [특찡은]."
+      "explanation": "Patchim 'ㄱ' của '특' đứng trước 'ㅈ' của '징' gây căng hóa thành [ㅉ → 찡]; patchim 'ㅇ(ng)' của '징' nối với 'ㅡ' của '은', phát âm thành [특찡은].",
+      "meaning": "đặc điểm"
     },
     {
       "word": "사계절을",
       "pronounced": "사계저를",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '사계절' nối với nguyên âm 'ㅡ' của '을', phát âm thành [사계저를]."
+      "explanation": "Patchim 'ㄹ' của '사계절' nối với nguyên âm 'ㅡ' của '을', phát âm thành [사계저를].",
+      "meaning": "bốn mùa"
     },
     {
       "word": "겨울에는",
       "pronounced": "겨우레는",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '겨울' nối với nguyên âm 'ㅔ' của '에는', phát âm thành [겨우레는]."
+      "explanation": "Patchim 'ㄹ' của '겨울' nối với nguyên âm 'ㅔ' của '에는', phát âm thành [겨우레는].",
+      "meaning": "vào mùa đông"
     },
     {
       "word": "여름에는",
       "pronounced": "여르메는",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '여름' nối với nguyên âm 'ㅔ' của '에는', phát âm thành [여르메는]."
+      "explanation": "Patchim 'ㅁ' của '여름' nối với nguyên âm 'ㅔ' của '에는', phát âm thành [여르메는].",
+      "meaning": "vào mùa hè"
     },
     {
       "word": "많아요",
       "pronounced": "마나요",
       "rule": "Lược bỏ ㅎ (ㅎ탈락)",
-      "explanation": "Patchim kép 'ㄶ' của '많': 'ㅎ' bị lược bỏ trước nguyên âm 'ㅏ', 'ㄴ' nối với 'ㅏ' của '아요', phát âm thành [마나요]."
+      "explanation": "Patchim kép 'ㄶ' của '많': 'ㅎ' bị lược bỏ trước nguyên âm 'ㅏ', 'ㄴ' nối với 'ㅏ' của '아요', phát âm thành [마나요].",
+      "meaning": "nhiều"
     },
     {
       "word": "않고",
       "pronounced": "안코",
       "rule": "Lược bỏ ㅎ (ㅎ탈락) + bật hơi (격음화)",
-      "explanation": "Patchim kép 'ㄶ' của '않': 'ㅎ' kết hợp với 'ㄱ' của '고' tạo thành âm bật hơi [ㅋ], phát âm thành [안코]."
+      "explanation": "Patchim kép 'ㄶ' của '않': 'ㅎ' kết hợp với 'ㄱ' của '고' tạo thành âm bật hơi [ㅋ], phát âm thành [안코].",
+      "meaning": "không và"
     },
     {
       "word": "삶이",
       "pronounced": "살미",
       "rule": "Patchim kép (겹받침) + nối âm (연음)",
-      "explanation": "Patchim kép 'ㄻ' của '삶': trước nguyên âm 'ㅣ', 'ㄹ' ở lại và 'ㅁ' nối sang âm tiết sau, phát âm thành [살미]."
+      "explanation": "Patchim kép 'ㄻ' của '삶': trước nguyên âm 'ㅣ', 'ㄹ' ở lại và 'ㅁ' nối sang âm tiết sau, phát âm thành [살미].",
+      "meaning": "cuộc sống"
     },
     {
       "word": "문화유산입니다",
       "pronounced": "문화유사님니다",
       "rule": "Nối âm (연음) + biến âm mũi (비음화)",
-      "explanation": "Patchim 'ㄴ' của '유산' nối với 'ㅣ' của '입' → [사니]; patchim 'ㅂ' của '입' gặp 'ㄴ' biến thành âm mũi [ㅁ], phát âm thành [문화유사님니다]."
+      "explanation": "Patchim 'ㄴ' của '유산' nối với 'ㅣ' của '입' → [사니]; patchim 'ㅂ' của '입' gặp 'ㄴ' biến thành âm mũi [ㅁ], phát âm thành [문화유사님니다].",
+      "meaning": "là di sản văn hóa"
     },
     {
       "word": "관광객들에게",
       "pronounced": "관광객뜨레게",
       "rule": "Căng hóa (경음화) + nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '관광객' đứng trước 'ㄷ' của '들' gây căng hóa thành [ㄸ → 뜰]; patchim 'ㄹ' của '들' nối với 'ㅔ' của '에게', phát âm thành [관광객뜨레게]."
+      "explanation": "Patchim 'ㄱ' của '관광객' đứng trước 'ㄷ' của '들' gây căng hóa thành [ㄸ → 뜰]; patchim 'ㄹ' của '들' nối với 'ㅔ' của '에게', phát âm thành [관광객뜨레게].",
+      "meaning": "với du khách"
     },
     {
       "word": "햇빛이",
       "pronounced": "해삐치",
       "rule": "Căng hóa (경음화) + nối âm (연음)",
-      "explanation": "Patchim 'ㄷ' (âm đại diện của 'ㅅ' trong '햇') đứng trước 'ㅂ' của '빛' gây căng hóa thành [ㅂ → ㅃ → 삐]; patchim 'ㅊ' của '빛' nối với 'ㅣ' của '이', phát âm thành [해삐치]."
+      "explanation": "Patchim 'ㄷ' (âm đại diện của 'ㅅ' trong '햇') đứng trước 'ㅂ' của '빛' gây căng hóa thành [ㅂ → ㅃ → 삐]; patchim 'ㅊ' của '빛' nối với 'ㅣ' của '이', phát âm thành [해삐치].",
+      "meaning": "ánh nắng"
     },
     {
       "word": "들어오고",
       "pronounced": "드러오고",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '들' nối với nguyên âm 'ㅓ' của '어오고', phát âm thành [드러오고]."
+      "explanation": "Patchim 'ㄹ' của '들' nối với nguyên âm 'ㅓ' của '어오고', phát âm thành [드러오고].",
+      "meaning": "chiếu vào và"
     },
     {
       "word": "마음을",
       "pronounced": "마으믈",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm 'ㅡ' của '을', phát âm thành [마으믈]."
+      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm 'ㅡ' của '을', phát âm thành [마으믈].",
+      "meaning": "tâm hồn, tinh thần"
     }
   ]
 }

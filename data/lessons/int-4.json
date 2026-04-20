@@ -7,85 +7,99 @@
       "word": "늦었어요",
       "pronounced": "느저써요",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅈ' của '늦' nối với nguyên âm 'ㅓ' của '었어요', phát âm thành [느저]. Patchim 'ㅆ' của '었' cũng nối với 'ㅓ' của '어요' thành [써요]."
+      "explanation": "Patchim 'ㅈ' của '늦' nối với nguyên âm 'ㅓ' của '었어요', phát âm thành [느저]. Patchim 'ㅆ' của '었' cũng nối với 'ㅓ' của '어요' thành [써요].",
+      "meaning": "đã đến trễ"
     },
     {
       "word": "시간에",
       "pronounced": "씨가네",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '시간' nối với nguyên âm 'ㅔ' của '에', phát âm thành [씨가네]."
+      "explanation": "Patchim 'ㄴ' của '시간' nối với nguyên âm 'ㅔ' của '에', phát âm thành [씨가네].",
+      "meaning": "đúng giờ"
     },
     {
       "word": "집에서",
       "pronounced": "지베서",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅂ' của '집' nối với nguyên âm 'ㅔ' của '에서', phát âm thành [지베서]."
+      "explanation": "Patchim 'ㅂ' của '집' nối với nguyên âm 'ㅔ' của '에서', phát âm thành [지베서].",
+      "meaning": "từ nhà"
     },
     {
       "word": "길이",
       "pronounced": "기리",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '길' nối với nguyên âm 'ㅣ' của '이', phát âm thành [기리]."
+      "explanation": "Patchim 'ㄹ' của '길' nối với nguyên âm 'ㅣ' của '이', phát âm thành [기리].",
+      "meaning": "con đường"
     },
     {
       "word": "움직이지",
       "pronounced": "움지기지",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '움직' nối với nguyên âm 'ㅣ' của '이지', phát âm thành [지기지]."
+      "explanation": "Patchim 'ㄱ' của '움직' nối với nguyên âm 'ㅣ' của '이지', phát âm thành [지기지].",
+      "meaning": "không di chuyển"
     },
     {
       "word": "않았어요",
       "pronounced": "아나써요",
       "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
-      "explanation": "Patchim 'ㅎ' của '않' bị lược bỏ trước nguyên âm. 'ㄴ' nối với 'ㅏ' của '았어요' thành [나], patchim 'ㅆ' của '았' nối với 'ㅓ' thành [써요]."
+      "explanation": "Patchim 'ㅎ' của '않' bị lược bỏ trước nguyên âm. 'ㄴ' nối với 'ㅏ' của '았어요' thành [나], patchim 'ㅆ' của '았' nối với 'ㅓ' thành [써요].",
+      "meaning": "đã không"
     },
     {
       "word": "바람에",
       "pronounced": "바라메",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '바람' nối với nguyên âm 'ㅔ' của '에', phát âm thành [바라메]."
+      "explanation": "Patchim 'ㅁ' của '바람' nối với nguyên âm 'ㅔ' của '에', phát âm thành [바라메].",
+      "meaning": "vì lý do đó"
     },
     {
       "word": "앉아",
       "pronounced": "안자",
       "rule": "Nối âm (연음) với patchim kép (겹받침)",
-      "explanation": "Patchim kép 'ㄵ' của '앉': khi theo sau là nguyên âm, 'ㅈ' chuyển sang âm tiết sau, phát âm thành [안자]."
+      "explanation": "Patchim kép 'ㄵ' của '앉': khi theo sau là nguyên âm, 'ㅈ' chuyển sang âm tiết sau, phát âm thành [안자].",
+      "meaning": "ngồi"
     },
     {
       "word": "있었어요",
       "pronounced": "이써써요",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim kép 'ㅆ' của '있' nối với 'ㅓ' của '었어요' thành [써], patchim 'ㅆ' của '었' nối với 'ㅓ' của '어요' thành [써요]."
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với 'ㅓ' của '었어요' thành [써], patchim 'ㅆ' của '었' nối với 'ㅓ' của '어요' thành [써요].",
+      "meaning": "đã có, đã ở"
     },
     {
       "word": "마음에",
       "pronounced": "마으메",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm 'ㅔ' của '에', phát âm thành [마으메]."
+      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm 'ㅔ' của '에', phát âm thành [마으메].",
+      "meaning": "trong lòng"
     },
     {
       "word": "없어서",
       "pronounced": "업써서",
       "rule": "Nối âm (연음) với patchim kép (겹받침)",
-      "explanation": "Patchim kép 'ㅄ' của '없': khi theo sau là nguyên âm, 'ㅅ' chuyển sang âm tiết sau, phát âm thành [업써서]."
+      "explanation": "Patchim kép 'ㅄ' của '없': khi theo sau là nguyên âm, 'ㅅ' chuyển sang âm tiết sau, phát âm thành [업써서].",
+      "meaning": "vì không có"
     },
     {
       "word": "불편을",
       "pronounced": "불펴늘",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '불편' nối với nguyên âm 'ㅡ' của '을', phát âm thành [불펴늘]."
+      "explanation": "Patchim 'ㄴ' của '불편' nối với nguyên âm 'ㅡ' của '을', phát âm thành [불펴늘].",
+      "meaning": "sự bất tiện"
     },
     {
       "word": "연락드렸어야",
       "pronounced": "연락드려써야",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim kép 'ㅆ' của '드렸' nối với nguyên âm 'ㅓ' của '어야', phát âm thành [드려써야]."
+      "explanation": "Patchim kép 'ㅆ' của '드렸' nối với nguyên âm 'ㅓ' của '어야', phát âm thành [드려써야].",
+      "meaning": "lẽ ra phải liên lạc"
     },
     {
       "word": "없을",
       "pronounced": "업쓸",
       "rule": "Nối âm (연음) với patchim kép (겹받침)",
-      "explanation": "Patchim kép 'ㅄ' của '없': khi theo sau là nguyên âm, 'ㅅ' chuyển sang âm tiết sau, phát âm thành [업쓸]."
+      "explanation": "Patchim kép 'ㅄ' của '없': khi theo sau là nguyên âm, 'ㅅ' chuyển sang âm tiết sau, phát âm thành [업쓸].",
+      "meaning": "sẽ không có"
     }
   ]
 }

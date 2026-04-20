@@ -7,85 +7,99 @@
       "word": "한국에서",
       "pronounced": "한구게서",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '한국' nối với nguyên âm 'ㅔ' của '에서', phát âm thành [한구게서]."
+      "explanation": "Patchim 'ㄱ' của '한국' nối với nguyên âm 'ㅔ' của '에서', phát âm thành [한구게서].",
+      "meaning": "ở Hàn Quốc"
     },
     {
       "word": "것은",
       "pronounced": "거슨",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅅ' của '것' nối với nguyên âm 'ㅡ' của '은', phát âm thành [거슨]."
+      "explanation": "Patchim 'ㅅ' của '것' nối với nguyên âm 'ㅡ' của '은', phát âm thành [거슨].",
+      "meaning": "điều đó"
     },
     {
       "word": "일이에요",
       "pronounced": "이리에요",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '일' nối với nguyên âm 'ㅣ' của '이에요', phát âm thành [이리에요]."
+      "explanation": "Patchim 'ㄹ' của '일' nối với nguyên âm 'ㅣ' của '이에요', phát âm thành [이리에요].",
+      "meaning": "là việc, điều đó"
     },
     {
       "word": "신분증이",
       "pronounced": "신분쯩이",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅇ(ng)' của '신분증' nối với nguyên âm 'ㅣ' của '이', phát âm thành [쯩이]."
+      "explanation": "Patchim 'ㅇ(ng)' của '신분증' nối với nguyên âm 'ㅣ' của '이', phát âm thành [쯩이].",
+      "meaning": "thẻ căn cước"
     },
     {
       "word": "외국인",
       "pronounced": "외구긴",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '외국' nối với nguyên âm 'ㅣ' của '인', phát âm thành [구긴]."
+      "explanation": "Patchim 'ㄱ' của '외국' nối với nguyên âm 'ㅣ' của '인', phát âm thành [구긴].",
+      "meaning": "người nước ngoài"
     },
     {
       "word": "등록증이나",
       "pronounced": "등록쯩이나",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅇ(ng)' của '등록증' nối với nguyên âm 'ㅣ' của '이나', phát âm thành [쯩이나]."
+      "explanation": "Patchim 'ㅇ(ng)' của '등록증' nối với nguyên âm 'ㅣ' của '이나', phát âm thành [쯩이나].",
+      "meaning": "thẻ đăng ký hoặc"
     },
     {
       "word": "여권을",
       "pronounced": "여꿔늘",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '여권' nối với nguyên âm 'ㅡ' của '을', phát âm thành [꿔늘]."
+      "explanation": "Patchim 'ㄴ' của '여권' nối với nguyên âm 'ㅡ' của '을', phát âm thành [꿔늘].",
+      "meaning": "hộ chiếu"
     },
     {
       "word": "목적을",
       "pronounced": "모저글",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '목적' nối với nguyên âm 'ㅡ' của '을', phát âm thành [모저글]."
+      "explanation": "Patchim 'ㄱ' của '목적' nối với nguyên âm 'ㅡ' của '을', phát âm thành [모저글].",
+      "meaning": "mục đích"
     },
     {
       "word": "말해야",
       "pronounced": "마래야",
       "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
-      "explanation": "Patchim 'ㄹ' của '말' nối với 'ㅎ' của '해', âm 'ㅎ' yếu đi trong chuỗi phụ âm, tạo thành [마래야]."
+      "explanation": "Patchim 'ㄹ' của '말' nối với 'ㅎ' của '해', âm 'ㅎ' yếu đi trong chuỗi phụ âm, tạo thành [마래야].",
+      "meaning": "phải nói"
     },
     {
       "word": "것이",
       "pronounced": "거시",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅅ' của '것' nối với nguyên âm 'ㅣ' của '이', phát âm thành [거시]."
+      "explanation": "Patchim 'ㅅ' của '것' nối với nguyên âm 'ㅣ' của '이', phát âm thành [거시].",
+      "meaning": "điều, việc"
     },
     {
       "word": "있으면",
       "pronounced": "이쓰면",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm 'ㅡ' của '으면', phát âm thành [이쓰면]."
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm 'ㅡ' của '으면', phát âm thành [이쓰면].",
+      "meaning": "nếu có"
     },
     {
       "word": "직원에게",
       "pronounced": "지궈네게",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '직원' nối với nguyên âm 'ㅔ' của '에게', phát âm thành [지궈네게]."
+      "explanation": "Patchim 'ㄴ' của '직원' nối với nguyên âm 'ㅔ' của '에게', phát âm thành [지궈네게].",
+      "meaning": "đến nhân viên"
     },
     {
       "word": "돈을",
       "pronounced": "도늘",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '돈' nối với nguyên âm 'ㅡ' của '을', phát âm thành [도늘]."
+      "explanation": "Patchim 'ㄴ' của '돈' nối với nguyên âm 'ㅡ' của '을', phát âm thành [도늘].",
+      "meaning": "tiền"
     },
     {
       "word": "어렵지 않아서",
       "pronounced": "어렵찌 아나서",
       "rule": "Căng âm (경음화) + Nối âm (연음) + lược bỏ ㅎ",
-      "explanation": "Patchim 'ㅂ' của '어렵' gặp 'ㅈ' của '지' gây căng âm thành [찌]. 'ㅎ' của '않' bị lược bỏ, 'ㄴ' nối với 'ㅏ' của '아서' thành [아나서]."
+      "explanation": "Patchim 'ㅂ' của '어렵' gặp 'ㅈ' của '지' gây căng âm thành [찌]. 'ㅎ' của '않' bị lược bỏ, 'ㄴ' nối với 'ㅏ' của '아서' thành [아나서].",
+      "meaning": "vì không khó"
     }
   ]
 }
