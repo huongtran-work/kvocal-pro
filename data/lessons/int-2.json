@@ -62,6 +62,24 @@
       "pronounced": "[도늘]",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄴ' của '돈' nối với nguyên âm 'ㅡ' (âm câm 'ㅇ') của '을'."
+    },
+    {
+      "word": "한국에서",
+      "pronounced": "[한구게서]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '한국' nối với nguyên âm 'ㅔ' của '에서', phát âm thành [한구게서]."
+    },
+    {
+      "word": "일이에요",
+      "pronounced": "[이리에요]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '일' nối với nguyên âm 'ㅣ' của '이에요', phát âm thành [이리에요]."
+    },
+    {
+      "word": "않아서",
+      "pronounced": "[아나서]",
+      "rule": "Nối âm (연음) và lược bỏ 'ㅎ'",
+      "explanation": "Patchim 'ㅎ' của '않' bị lược bỏ, 'ㄴ' nối với nguyên âm '아' của '아서', phát âm thành [아나서]."
     }
   ]
 }

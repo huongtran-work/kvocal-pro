@@ -62,6 +62,24 @@
       "pronounced": "일거요",
       "rule": "Nối âm 연음",
       "explanation": "Phụ âm cuối kép 'ㄺ' của '읽' nối với nguyên âm '어' của '어요', chỉ 'ㄱ' được chuyển sang."
+    },
+    {
+      "word": "시간을",
+      "pronounced": "씨가늘",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim 'ㄴ' của '시간' nối với nguyên âm '으' của '을', phát âm thành [씨가늘]."
+    },
+    {
+      "word": "없을",
+      "pronounced": "업쓸",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim kép 'ㅄ' của '없': 'ㅂ' ở lại, 'ㅅ' nối với nguyên âm '으' của '을', phát âm thành [업쓸]."
+    },
+    {
+      "word": "봤어요",
+      "pronounced": "봐써요",
+      "rule": "Nối âm 연음",
+      "explanation": "Patchim kép 'ㅆ' của '봤' nối với nguyên âm '어' của '어요', phát âm thành [봐써요]."
     }
   ]
 }

@@ -62,6 +62,24 @@
       "pronounced": "마나요",
       "rule": "Nối âm (연음) và lược bỏ 'ㅎ'",
       "explanation": "Patchim 'ㅎ' của '많' bị lược bỏ, và 'ㄴ' nối với nguyên âm '아' của '아요', phát âm thành [마나요]."
+    },
+    {
+      "word": "반품을",
+      "pronounced": "반푸믈",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '반품' nối với nguyên âm '으' của '을', phát âm thành [반푸믈]."
+    },
+    {
+      "word": "온라인에서",
+      "pronounced": "온라이네서",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '온라인' nối với nguyên âm '에' của '에서', phát âm thành [온라이네서]."
+    },
+    {
+      "word": "색깔이",
+      "pronounced": "색까리",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '색깔' nối với nguyên âm '이', phát âm thành [색까리]."
     }
   ]
 }

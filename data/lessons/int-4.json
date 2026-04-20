@@ -56,6 +56,30 @@
       "pronounced": "업쓸",
       "rule": "Nối âm 연음",
       "explanation": "겹받침 'ㅄ'의 두 번째 자음 'ㅅ'이 뒤의 모음 '으'와 만나 [쓰]로 소리 납니다."
+    },
+    {
+      "word": "바람에",
+      "pronounced": "바라메",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '바람' nối với nguyên âm '에', phát âm thành [바라메]."
+    },
+    {
+      "word": "길이",
+      "pronounced": "기리",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '길' nối với nguyên âm '이', phát âm thành [기리]."
+    },
+    {
+      "word": "시간에",
+      "pronounced": "씨가네",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '시간' nối với nguyên âm '에', phát âm thành [씨가네]."
+    },
+    {
+      "word": "불편을",
+      "pronounced": "불펴늘",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '불편' nối với nguyên âm '을', phát âm thành [불펴늘]."
     }
   ]
 }
