@@ -1,85 +1,91 @@
 {
   "originalText": "선생님, 정말 죄송합니다. 오늘 약속 시간에 제가 늦었어요. 집에서 일찍 나왔는데, 길이 너무 막혀서 차가 움직이지 않았어요. 그 바람에 버스에서 오랫동안 앉아 있었어요. 예상치 못한 교통 체증 때문에 도착하는 데 평소보다 30분 더 걸렸습니다. 미리 연락드렸어야 하는데, 정신이 없어서 깜빡했어요. 급한 마음에 전화도 할 생각조차 못했어요. 저의 부주의로 불편을 드린 점 다시 한번 사과드립니다. 다음부터는 이런 일이 없도록 시간 관리에 더 신경 쓰겠습니다. 다음에 늦는 일은 절대로 없을 거예요.",
-  "pronouncedText": "선생님, 정말 죄송함니다. 오늘 약속 씨간에 제가 느저써요. 지베서 일찍 나와는데, 길이 너무 마켜서 차가 움지기지 아나써요. 그 바라메 버세서 오랫똥안 안자 이써써요. 예상치 모탄 교통 체증 때무네 도차카는 데 평소보다 삼십뿐 더 걸려씀니다. 미리 연락드려써야 하눈데, 정신이 업써서 깜빠캐써요. 급판 마음에 전화도 할 생각조차 모태써요. 저의 부주의로 불편을 드린 점 다시 한 번 사과드림니다. 다음부터는 이런 이리 업또록 씨간 괄리에 더 신경 쓰게씀니다. 다으메는 는는 이른 절때로 업쓸꺼예요.",
+  "pronouncedText": "[선생님, 정말 죄송함니다. 오늘 약속 씨가네 제가 느저써요. 지베서 일찍 나와는데, 기리 너무 마켜서 차가 움지기지 아나써요. 그 바라메 버세서 오랫똥안 안자 이써써요. 예상치 모탄 교통 체증 때무네 도차카는 데 평소보다 삼십뿐 더 걸려씀니다. 미리 연락드려써야 하눈데, 정신이 업써서 깜빠캐써요. 급판 마으메 전화도 할 생각조차 모태써요. 저의 부주의로 불펴늘 드린 점 다시 한 번 사과드림니다. 다음부터는 이런 이리 업또록 씨간 괄리에 더 신경 쓰게씀니다. 다으메는 는는 이른 절때로 업쓸 꺼예요.]",
   "translation": "Thầy/Cô giáo, tôi thực sự xin lỗi. Hôm nay, tôi đã đến muộn giờ hẹn. Tôi đã ra khỏi nhà sớm, nhưng đường quá tắc nghẽn nên xe không thể di chuyển được. Vì lý do đó, tôi đã ngồi trên xe buýt rất lâu. Do tình trạng kẹt xe không lường trước được, tôi đã mất thêm 30 phút để đến nơi so với bình thường. Lẽ ra tôi phải liên lạc trước, nhưng vì quá bối rối nên tôi đã quên mất. Trong lúc vội vàng, tôi thậm chí còn không nghĩ đến việc gọi điện thoại. Tôi xin lỗi một lần nữa vì sự bất tiện do sự bất cẩn của tôi gây ra. Từ lần sau, tôi sẽ chú ý hơn đến việc quản lý thời gian để việc này không xảy ra nữa. Tôi sẽ tuyệt đối không bao giờ đi muộn vào lần tới.",
   "annotatedWords": [
     {
       "word": "늦었어요",
       "pronounced": "느저써요",
-      "rule": "Nối âm 연음",
-      "explanation": "받침 'ㅈ'이 뒤의 모음 '어'와 만나 [저]로 소리 납니다."
-    },
-    {
-      "word": "집에서",
-      "pronounced": "지베서",
-      "rule": "Nối âm 연음",
-      "explanation": "받침 'ㅂ'이 뒤의 모음 '에'와 만나 [베]로 소리 납니다."
-    },
-    {
-      "word": "움직이지",
-      "pronounced": "움지기지",
-      "rule": "Nối âm 연음",
-      "explanation": "받침 'ㄱ'이 뒤의 모음 '이'와 만나 [기]로 소리 납니다."
-    },
-    {
-      "word": "않았어요",
-      "pronounced": "아나써요",
-      "rule": "Nối âm 연음",
-      "explanation": "'ㅎ'이 탈락하고, 앞 음절의 받침 'ㄴ'이 뒤의 모음 '아'와 만나 [나]로 소리 납니다."
-    },
-    {
-      "word": "앉아",
-      "pronounced": "안자",
-      "rule": "Nối âm 연음",
-      "explanation": "겹받침 'ㄵ'의 두 번째 자음 'ㅈ'이 뒤의 모음 '아'와 만나 [자]로 소리 납니다."
-    },
-    {
-      "word": "있었어요",
-      "pronounced": "이써써요",
-      "rule": "Nối âm 연음",
-      "explanation": "받침 'ㅆ'이 뒤의 모음 '어'와 만나 [써]로 소리 납니다."
-    },
-    {
-      "word": "연락드렸어야",
-      "pronounced": "연락드려써야",
-      "rule": "Nối âm 연음",
-      "explanation": "받침 'ㅆ'이 뒤의 모음 '어'와 만나 [써]로 소리 납니다."
-    },
-    {
-      "word": "없어서",
-      "pronounced": "업써서",
-      "rule": "Nối âm 연음",
-      "explanation": "겹받침 'ㅄ'의 두 번째 자음 'ㅅ'이 뒤의 모음 '어'와 만나 [써]로 소리 납니다."
-    },
-    {
-      "word": "없을",
-      "pronounced": "업쓸",
-      "rule": "Nối âm 연음",
-      "explanation": "겹받침 'ㅄ'의 두 번째 자음 'ㅅ'이 뒤의 모음 '으'와 만나 [쓰]로 소리 납니다."
-    },
-    {
-      "word": "바람에",
-      "pronounced": "바라메",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '바람' nối với nguyên âm '에', phát âm thành [바라메]."
-    },
-    {
-      "word": "길이",
-      "pronounced": "기리",
-      "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '길' nối với nguyên âm '이', phát âm thành [기리]."
+      "explanation": "Patchim 'ㅈ' của '늦' nối với nguyên âm 'ㅓ' của '었어요', phát âm thành [느저]. Patchim 'ㅆ' của '었' cũng nối với 'ㅓ' của '어요' thành [써요]."
     },
     {
       "word": "시간에",
       "pronounced": "씨가네",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '시간' nối với nguyên âm '에', phát âm thành [씨가네]."
+      "explanation": "Patchim 'ㄴ' của '시간' nối với nguyên âm 'ㅔ' của '에', phát âm thành [씨가네]."
+    },
+    {
+      "word": "집에서",
+      "pronounced": "지베서",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅂ' của '집' nối với nguyên âm 'ㅔ' của '에서', phát âm thành [지베서]."
+    },
+    {
+      "word": "길이",
+      "pronounced": "기리",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '길' nối với nguyên âm 'ㅣ' của '이', phát âm thành [기리]."
+    },
+    {
+      "word": "움직이지",
+      "pronounced": "움지기지",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '움직' nối với nguyên âm 'ㅣ' của '이지', phát âm thành [지기지]."
+    },
+    {
+      "word": "않았어요",
+      "pronounced": "아나써요",
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
+      "explanation": "Patchim 'ㅎ' của '않' bị lược bỏ trước nguyên âm. 'ㄴ' nối với 'ㅏ' của '았어요' thành [나], patchim 'ㅆ' của '았' nối với 'ㅓ' thành [써요]."
+    },
+    {
+      "word": "바람에",
+      "pronounced": "바라메",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '바람' nối với nguyên âm 'ㅔ' của '에', phát âm thành [바라메]."
+    },
+    {
+      "word": "앉아",
+      "pronounced": "안자",
+      "rule": "Nối âm (연음) với patchim kép (겹받침)",
+      "explanation": "Patchim kép 'ㄵ' của '앉': khi theo sau là nguyên âm, 'ㅈ' chuyển sang âm tiết sau, phát âm thành [안자]."
+    },
+    {
+      "word": "있었어요",
+      "pronounced": "이써써요",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với 'ㅓ' của '었어요' thành [써], patchim 'ㅆ' của '었' nối với 'ㅓ' của '어요' thành [써요]."
+    },
+    {
+      "word": "마음에",
+      "pronounced": "마으메",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm 'ㅔ' của '에', phát âm thành [마으메]."
+    },
+    {
+      "word": "없어서",
+      "pronounced": "업써서",
+      "rule": "Nối âm (연음) với patchim kép (겹받침)",
+      "explanation": "Patchim kép 'ㅄ' của '없': khi theo sau là nguyên âm, 'ㅅ' chuyển sang âm tiết sau, phát âm thành [업써서]."
     },
     {
       "word": "불편을",
       "pronounced": "불펴늘",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '불편' nối với nguyên âm '을', phát âm thành [불펴늘]."
+      "explanation": "Patchim 'ㄴ' của '불편' nối với nguyên âm 'ㅡ' của '을', phát âm thành [불펴늘]."
+    },
+    {
+      "word": "연락드렸어야",
+      "pronounced": "연락드려써야",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim kép 'ㅆ' của '드렸' nối với nguyên âm 'ㅓ' của '어야', phát âm thành [드려써야]."
+    },
+    {
+      "word": "없을",
+      "pronounced": "업쓸",
+      "rule": "Nối âm (연음) với patchim kép (겹받침)",
+      "explanation": "Patchim kép 'ㅄ' của '없': khi theo sau là nguyên âm, 'ㅅ' chuyển sang âm tiết sau, phát âm thành [업쓸]."
     }
   ]
 }

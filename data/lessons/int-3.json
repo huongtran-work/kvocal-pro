@@ -1,85 +1,97 @@
 {
   "originalText": "비행기 표와 호텔 예약은 여행의 가장 중요한 부분이에요. 요즘은 인터넷으로 쉽게 할 수 있어요. 저는 먼저 가고 싶은 나라와 도시를 선택했어요. 그 다음, 여러 예약 사이트에서 가격과 조건을 꼼꼼히 비교해 봤어요. 가장 좋은 옵션을 찾아서 결정했어요. 예약할 때 주의해야 할 점은 날짜와 시간을 다시 확인하는 것이에요. 특히, 취소 규정도 꼭 읽어요. 이렇게 하면 여행에 문제가 없을 거예요. 이제 떠날 날만 기다리고 있어요.",
-  "pronouncedText": "[비행기 표와 호텔 예야근 여행의 가장 중요한 부부니에요. 요즈믄 인터네스로 쉽께 할 쑤 이써요. 저느 머저 가고 시픈 나라와 도시를 선태캐써요. 그 다음, 여러 예얔 사이테서 가격꽈 조꺼늘 꼼꼬미 비교해 바써요. 가장 조은 옵셔늘 차자서 결쩡해써요. 예야칼 때 주의해야 할 저믄 날짜와 시가늘 다시 화긴하는 거시에요. 트키, 취소 규정또 꼭 일거요. 이러케 하면 여행에 문제가 업쓸 거예요. 이제 떠날 날만 기다리고 이써요.]",
+  "pronouncedText": "[비행기 표와 호텔 예야근 여행에 가장 중요한 부부니에요. 요즈믄 인터네스로 쉽께 할 쑤 이써요. 저느 머저 가고 시픈 나라와 도시를 선태캐써요. 그 다음, 여러 예얔 사이테서 가격꽈 조꺼늘 꼼꼬미 비교해 봐써요. 가장 조은 옵셔늘 차자서 결쩡해써요. 예야칼 때 주의해야 할 저믄 날짜와 시가늘 다시 화긴하는 거시에요. 트키, 취소 규정또 꼭 일거요. 이러케 하면 여행에 무네가 업쓸 꺼예요. 이제 떠날 날만 기다리고 이써요.]",
   "translation": "Đặt vé máy bay và phòng khách sạn là phần quan trọng nhất của chuyến đi. Ngày nay, bạn có thể dễ dàng làm điều đó qua Internet. Đầu tiên, tôi đã chọn quốc gia và thành phố mình muốn đến. Sau đó, tôi đã so sánh kỹ giá cả và điều kiện trên nhiều trang web đặt phòng khác nhau. Tôi đã tìm thấy và quyết định lựa chọn tốt nhất. Điều quan trọng cần lưu ý khi đặt chỗ là phải kiểm tra lại ngày và giờ. Đặc biệt, tôi luôn đọc kỹ các quy định hủy phòng nữa. Làm như vậy sẽ không có vấn đề gì cho chuyến đi của tôi. Bây giờ tôi chỉ còn chờ đến ngày khởi hành thôi.",
   "annotatedWords": [
     {
       "word": "예약은",
       "pronounced": "예야근",
-      "rule": "Nối âm 연음",
-      "explanation": "Phụ âm cuối 'ㄱ' của '예약' nối với nguyên âm '으' của '은'."
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '예약' nối với nguyên âm 'ㅡ' của '은', phát âm thành [예야근]."
+    },
+    {
+      "word": "여행의",
+      "pronounced": "여행에",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅇ(ng)' của '여행' nối với nguyên âm '의' (đọc thành '에') của '의', phát âm thành [여행에]."
     },
     {
       "word": "부분이에요",
       "pronounced": "부부니에요",
-      "rule": "Nối âm 연음",
-      "explanation": "Phụ âm cuối 'ㄴ' của '부분' nối với nguyên âm '이' của '이에요'."
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '부분' nối với nguyên âm 'ㅣ' của '이에요', phát âm thành [부부니에요]."
     },
     {
       "word": "요즘은",
       "pronounced": "요즈믄",
-      "rule": "Nối âm 연음",
-      "explanation": "Phụ âm cuối 'ㅁ' của '요즘' nối với nguyên âm '으' của '은'."
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '요즘' nối với nguyên âm 'ㅡ' của '은', phát âm thành [요즈믄]."
     },
     {
       "word": "인터넷으로",
       "pronounced": "인터네스로",
-      "rule": "Nối âm 연음",
-      "explanation": "Phụ âm cuối 'ㅅ' của '인터넷' nối với nguyên âm '으' của '으로'."
+      "rule": "Nối âm (연음) + âm đại diện (대표음)",
+      "explanation": "Patchim 'ㅅ' của '인터넷' được đọc theo đại diện âm [ㄷ], sau đó nối với 'ㅡ' của '으로', phát âm thành [인터네스로]."
     },
     {
       "word": "있어요",
       "pronounced": "이써요",
-      "rule": "Nối âm 연음",
-      "explanation": "Phụ âm cuối kép 'ㅆ' của '있' nối với nguyên âm '어' của '어요'."
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm 'ㅓ' của '어요', phát âm thành [이써요]."
     },
     {
-      "word": "사이트에서",
-      "pronounced": "사이테서",
-      "rule": "Nối âm 연음",
-      "explanation": "Phụ âm cuối '트' của '사이트' nối với nguyên âm '에' của '에서'."
-    },
-    {
-      "word": "조건을",
-      "pronounced": "조꺼늘",
-      "rule": "Nối âm 연음",
-      "explanation": "Phụ âm cuối 'ㄴ' của '조건' nối với nguyên âm '으' của '을'."
-    },
-    {
-      "word": "찾아서",
-      "pronounced": "차자서",
-      "rule": "Nối âm 연음",
-      "explanation": "Phụ âm cuối 'ㅈ' của '찾' nối với nguyên âm '아' của '아서'."
-    },
-    {
-      "word": "결정했어요",
-      "pronounced": "결쩡해써요",
-      "rule": "Nối âm 연음",
-      "explanation": "Phụ âm cuối kép 'ㅆ' (âm đại diện của '했') nối với nguyên âm '어' của '어요'."
-    },
-    {
-      "word": "읽어요",
-      "pronounced": "일거요",
-      "rule": "Nối âm 연음",
-      "explanation": "Phụ âm cuối kép 'ㄺ' của '읽' nối với nguyên âm '어' của '어요', chỉ 'ㄱ' được chuyển sang."
-    },
-    {
-      "word": "시간을",
-      "pronounced": "씨가늘",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim 'ㄴ' của '시간' nối với nguyên âm '으' của '을', phát âm thành [씨가늘]."
-    },
-    {
-      "word": "없을",
-      "pronounced": "업쓸",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim kép 'ㅄ' của '없': 'ㅂ' ở lại, 'ㅅ' nối với nguyên âm '으' của '을', phát âm thành [업쓸]."
+      "word": "선택했어요",
+      "pronounced": "선태캐써요",
+      "rule": "Âm bật hơi (격음화) + Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '선택' gặp 'ㅎ' của '했' tạo âm bật hơi [ㅋ], tạo thành [선태캐]. Patchim kép 'ㅆ' của '했' nối với 'ㅓ' của '어요' thành [써요]."
     },
     {
       "word": "봤어요",
       "pronounced": "봐써요",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim kép 'ㅆ' của '봤' nối với nguyên âm '어' của '어요', phát âm thành [봐써요]."
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim kép 'ㅆ' của '봤' nối với nguyên âm 'ㅓ' của '어요', phát âm thành [봐써요]."
+    },
+    {
+      "word": "조건을",
+      "pronounced": "조꺼늘",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '조건' nối với nguyên âm 'ㅡ' của '을', phát âm thành [조꺼늘]."
+    },
+    {
+      "word": "옵션을",
+      "pronounced": "옵셔늘",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '옵션' nối với nguyên âm 'ㅡ' của '을', phát âm thành [옵셔늘]."
+    },
+    {
+      "word": "찾아서",
+      "pronounced": "차자서",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅈ' của '찾' nối với nguyên âm 'ㅏ' của '아서', phát âm thành [차자서]."
+    },
+    {
+      "word": "시간을",
+      "pronounced": "시가늘",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '시간' nối với nguyên âm 'ㅡ' của '을', phát âm thành [시가늘]."
+    },
+    {
+      "word": "읽어요",
+      "pronounced": "일거요",
+      "rule": "Nối âm (연음) với patchim kép (겹받침)",
+      "explanation": "Patchim kép 'ㄺ' của '읽': khi theo sau là nguyên âm, 'ㄱ' chuyển sang âm tiết sau, phát âm thành [일거요]."
+    },
+    {
+      "word": "없을",
+      "pronounced": "업쓸",
+      "rule": "Nối âm (연음) với patchim kép (겹받침)",
+      "explanation": "Patchim kép 'ㅄ' của '없': khi theo sau là nguyên âm, 'ㅅ' chuyển sang âm tiết sau, phát âm thành [업쓸]."
+    },
+    {
+      "word": "기다리고 있어요",
+      "pronounced": "기다리고 이써요",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm 'ㅓ' của '어요', phát âm thành [이써요]."
     }
   ]
 }

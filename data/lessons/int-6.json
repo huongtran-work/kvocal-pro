@@ -4,100 +4,100 @@
   "translation": "Tôi đang học nhiều ngoại ngữ. Ban đầu tiếng Hàn thực sự rất khó, nhưng bây giờ thì thú vị rồi. Mỗi sáng tôi xem phim truyền hình Hàn Quốc để học các biểu hiện mới. Và tôi luyện ngữ pháp và phát âm một cách tự nhiên khi nói chuyện với bạn bè Hàn Quốc. Đặc biệt, khi sử dụng các từ nghi vấn như '어떻게' hay '어디에', tôi đã nhận ra hiện tượng nối âm tự nhiên. Khi luyện nghe, tôi cố gắng hiểu lời bài hát trong khi nghe nhạc. Lúc đầu tôi nghe không rõ, nhưng nghe mãi thì quen. Tôi nghĩ dù là ngôn ngữ nào, nếu kiên trì nỗ lực thì kỹ năng sẽ cải thiện được. Tôi muốn tiếp tục học ngoại ngữ một cách thú vị trong tương lai.",
   "annotatedWords": [
     {
+      "word": "외국어를",
+      "pronounced": "웨구거를",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '외국' nối với nguyên âm 'ㅓ' của '어를', phát âm thành [웨구거를]."
+    },
+    {
       "word": "배우고 있어요",
       "pronounced": "배우고 이써요",
-      "rule": "Nối âm 연음",
-      "explanation": "Có hai trường hợp nối âm: '고' không nối âm vì là nguyên âm, nhưng '있어요' có patchim 'ㅆ' nối với '어' thành [이써요]"
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm 'ㅓ' của '어요', phát âm thành [이써요]."
     },
     {
       "word": "어려웠지만",
       "pronounced": "어려웓찌만",
-      "rule": "Nối âm 연음, Căng âm 경음화",
-      "explanation": "Patchim 'ㅆ' của '어려웠' nối với nguyên âm '지만' thành [어려웓지만], sau đó 'ㄷ' gặp 'ㅈ' thành [ㅉ]"
+      "rule": "Nối âm (연음) + Căng âm (경음화)",
+      "explanation": "Patchim 'ㅆ' của '어려웠' gặp phụ âm 'ㅈ' của '지만', 'ㄷ' (đại diện của 'ㅆ') gặp 'ㅈ' gây căng âm thành [ㅉ], phát âm thành [어려웓찌만]."
     },
     {
       "word": "재미있어요",
       "pronounced": "재미이써요",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim 'ㅆ' của '있' nối với '어' thành [이써요]"
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm 'ㅓ' của '어요', phát âm thành [재미이써요]."
     },
     {
       "word": "아침에",
       "pronounced": "아치메",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim 'ㅁ' của '아침' nối với nguyên âm '에' thành [아치메]"
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '아침' nối với nguyên âm 'ㅔ' của '에', phát âm thành [아치메]."
+    },
+    {
+      "word": "표현을",
+      "pronounced": "펴혀늘",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '표현' nối với nguyên âm 'ㅡ' của '을', phát âm thành [펴혀늘]."
     },
     {
       "word": "익히고 있어요",
       "pronounced": "이키고 이써요",
-      "rule": "Nối âm 연음",
-      "explanation": "Tương tự '있어요', patchim 'ㅆ' nối với '어' thành [이써요]"
-    },
-    {
-      "word": "이야기하면서",
-      "pronounced": "이야기하면서",
-      "rule": "Nối âm 연음 (không có patchim để nối, nhưng âm tiết sau là nguyên âm)",
-      "explanation": "Âm '하' của '하면서' là âm tiết mở, không có patchim nên không có nối âm từ âm tiết trước. Bản thân '하면서' không có nối âm đặc biệt từ '하' sang '면'."
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm 'ㅓ' của '어요', phát âm thành [이써요]."
     },
     {
       "word": "어떻게",
       "pronounced": "어떠케",
-      "rule": "Nối âm 연음, Âm bật hơi 격음화",
-      "explanation": "Patchim 'ㅎ' của '떻' gặp 'ㄱ' của '게' tạo thành âm bật hơi 'ㅋ', đồng thời 'ㄸ' nối với '어' của '떻' thành [어떠케]."
+      "rule": "Âm bật hơi (격음화)",
+      "explanation": "Patchim 'ㅎ' của '어떻' gặp 'ㄱ' của '게' tạo âm bật hơi [ㅋ], phát âm thành [어떠케]."
     },
     {
-      "word": "어디에",
-      "pronounced": "어디에",
-      "rule": "Nối âm 연음 (không có patchim để nối)",
-      "explanation": "Không có patchim để nối, nhưng '에' là nguyên âm. '디' là âm tiết mở."
+      "word": "연음을",
+      "pronounced": "여느믈",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '연음' nối với nguyên âm 'ㅡ' của '을', phát âm thành [여느믈]."
     },
     {
       "word": "알게 되었어요",
       "pronounced": "알게 되어써요",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim 'ㅆ' của '되었' nối với '어' thành [되어써요]"
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim kép 'ㅆ' của '되었' nối với nguyên âm 'ㅓ' của '어요', phát âm thành [되어써요]."
     },
     {
       "word": "음악을",
       "pronounced": "으마글",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim 'ㄱ' của '음악' nối với '을' thành [으마글]"
-    },
-    {
-      "word": "가사를",
-      "pronounced": "가사를",
-      "rule": "Nối âm 연음 (không có patchim để nối)",
-      "explanation": "Không có patchim để nối. '사' là âm tiết mở."
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '음악' nối với nguyên âm 'ㅡ' của '을', phát âm thành [으마글]."
     },
     {
       "word": "안 들렸지만",
       "pronounced": "안 들렫찌만",
-      "rule": "Nối âm 연음, Căng âm 경음화",
-      "explanation": "Patchim 'ㅆ' của '들렸' nối với '지' thành [들렫지], sau đó 'ㄷ' gặp 'ㅈ' thành [ㅉ]."
+      "rule": "Nối âm (연음) + Căng âm (경음화)",
+      "explanation": "Patchim 'ㅆ' của '들렸' gặp 'ㅈ' của '지만', đại diện âm [ㄷ] gặp 'ㅈ' gây căng âm thành [ㅉ], phát âm thành [들렫찌만]."
     },
     {
       "word": "익숙해졌어요",
       "pronounced": "익쑤캐져써요",
-      "rule": "Nối âm 연음, Âm bật hơi 격음화",
-      "explanation": "Patchim 'ㄱ' của '익숙' gặp 'ㅎ' của '해' tạo thành âm bật hơi 'ㅋ'. Patchim 'ㅆ' của '졌' nối với '어' thành [져써요]."
+      "rule": "Âm bật hơi (격음화) + Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '익숙' gặp 'ㅎ' của '해' tạo âm bật hơi [ㅋ]. Patchim 'ㅆ' của '졌' nối với 'ㅓ' của '어요' thành [져써요]."
     },
     {
       "word": "실력이",
       "pronounced": "실려기",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim 'ㄱ' của '실력' nối với '이' thành [실려기]"
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '실력' nối với nguyên âm 'ㅣ' của '이', phát âm thành [실려기]."
     },
     {
       "word": "늘 수 있다고",
       "pronounced": "늘 쑤 이따고",
-      "rule": "Căng âm 경음화, Nối âm 연음",
-      "explanation": "Patchim 'ㄹ' của '늘' gặp '수' làm '수' thành [쑤]. '있다고': patchim 'ㅆ' của '있' nối với '다' thành [이따]."
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '늘' gây căng âm khiến '수' thành [쑤]. '있다고': patchim kép 'ㅆ' của '있' nối với 'ㄷ' của '다고' thành [이따]."
     },
     {
-      "word": "재미있게",
-      "pronounced": "재미읻께",
-      "rule": "Nối âm 연음, Căng âm 경음화",
-      "explanation": "Patchim 'ㅆ' của '있' nối với '게' thành [이께]."
+      "word": "앞으로도",
+      "pronounced": "아프로도",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅍ' của '앞' nối với nguyên âm 'ㅡ' của '으로도', phát âm thành [아프로도]."
     }
   ]
 }

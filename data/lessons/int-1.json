@@ -1,85 +1,97 @@
 {
   "originalText": "교환 및 반품은 우리가 물건을 사고 나서 마음에 들지 않을 때 이용하는 중요한 서비스입니다. 예를 들어, 온라인에서 옷을 샀는데 사이즈가 안 맞을 경우 교환할 수 있어요. 아니면 색깔이 마음에 안 들면 다른 제품으로 바꿀 수도 있지요. 하지만 교환이나 반품을 할 때는 몇 가지 조건이 있어요. 가장 중요한 것은 영수증이 꼭 있어야 한다는 점입니다. 또한, 물건이 사용하지 않은 새것 상태여야 하고, 대부분 7일 이내에 신청해야 합니다. 간혹 물건에 문제가 없는데도 단순 변심으로 반품하는 경우도 많아요. 이런 정책을 미리 잘 알아두면 소비자의 권리를 현명하게 활용할 수 있습니다.",
-  "pronouncedText": "[교환 및 반품은 우리가 물거늘 사고 나저 마으메 들지 아늘 때 이용하는 중요한 서비스임니다. 예를 드러, 온라인에서 오슬 산는데 싸이즈가 안 마즐 경우 교화날 쑤 이써요. 아니면 색까리 마으메 안 들면 다른 제푸므로 바꿀 쑤도 이찌요. 하지만 교화니나 반푸믈 할 때는 멷 까지 조꺼니 이써요. 가장 중요한 거슨 영수즈미 꼭 이써야 한다는 저밈니다. 또한, 물거니 사용한지 아는 새걷 상태여야 하고, 대부분 치릴 이내에 신청해야 함니다. 가녹 물거네 무네가 업는데도 단순 변시므로 반푸마는 경우도 마나요. 이런 정책을 미리 잘 아라두면 소비자의 궐리를 현명하게 화룡할 쑤 이씀니다.]",
+  "pronouncedText": "[교환 및 반푸믄 우리가 물거늘 사고 나저 마으메 들지 아늘 때 이용하는 중요한 서비스임니다. 예를 드러, 온라이네서 오슬 산는데 싸이즈가 안 마즐 경우 교화날 쑤 이써요. 아니면 색까리 마으메 안 들면 다른 제푸므로 바꿀 쑤도 이찌요. 하지만 교화니나 반푸믈 할 때는 멷 까지 조꺼니 이써요. 가장 중요한 거슨 영수즈미 꼭 이써야 한다는 저밈니다. 또한, 물거니 사용하지 아는 새걷 상태여야 하고, 대부분 치릴 이내에 신청해야 함니다. 가녹 물거네 무네가 업는데도 단순 변시므로 반푸마는 경우도 마나요. 이런 정채글 미리 잘 아라두면 소비자의 궐리를 현명하게 화룡할 쑤 이씀니다.]",
   "translation": "Đổi và trả hàng là một dịch vụ quan trọng mà chúng ta sử dụng khi không hài lòng với món đồ đã mua. Ví dụ, nếu bạn mua quần áo trực tuyến mà không vừa size, bạn có thể đổi. Hoặc nếu bạn không thích màu sắc, bạn có thể đổi sang sản phẩm khác. Tuy nhiên, khi đổi hoặc trả hàng, có một số điều kiện. Điều quan trọng nhất là phải có hóa đơn. Ngoài ra, món đồ phải ở trạng thái mới, chưa qua sử dụng, và hầu hết phải được yêu cầu trong vòng 7 ngày. Đôi khi, có nhiều trường hợp trả hàng đơn giản vì thay đổi ý định dù món đồ không có vấn đề gì. Nếu bạn nắm rõ những chính sách này, bạn có thể tận dụng quyền lợi của người tiêu dùng một cách khôn ngoan.",
   "annotatedWords": [
     {
       "word": "물건을",
       "pronounced": "물거늘",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '물건' nối với nguyên âm '으' của '을', phát âm thành [늘]."
+      "explanation": "Patchim 'ㄴ' của '물건' nối với nguyên âm 'ㅡ' của '을', phát âm thành [거늘]."
     },
     {
       "word": "마음에",
       "pronounced": "마으메",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm '으' của '에', phát âm thành [메]."
+      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm 'ㅔ' của '에', phát âm thành [으메]."
     },
     {
       "word": "않을",
       "pronounced": "아늘",
-      "rule": "Nối âm (연음) và lược bỏ 'ㅎ'",
-      "explanation": "Patchim 'ㅎ' của '않' bị lược bỏ, và 'ㄴ' nối với nguyên âm '으' của '을', phát âm thành [아늘]."
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
+      "explanation": "Patchim 'ㅎ' của '않' bị lược bỏ trước nguyên âm, 'ㄴ' nối với 'ㅡ' của '을', phát âm thành [아늘]."
     },
     {
       "word": "옷을",
       "pronounced": "오슬",
-      "rule": "Nối âm (연음) và đại diện âm",
-      "explanation": "Patchim 'ㅅ' của '옷' được chuyển thành âm đại diện [ㄷ], sau đó nối với nguyên âm '으' của '을', phát âm thành [오슬]."
+      "rule": "Nối âm (연음) + âm đại diện (대표음)",
+      "explanation": "Patchim 'ㅅ' của '옷' được đọc theo đại diện âm [ㄷ], sau đó nối với 'ㅡ' của '을' thành [오슬]."
     },
     {
       "word": "맞을",
       "pronounced": "마즐",
-      "rule": "Nối âm (연음) và đại diện âm",
-      "explanation": "Patchim 'ㅈ' của '맞' được chuyển thành âm đại diện [ㄷ], sau đó nối với nguyên âm '으' của '을', phát âm thành [마즐]."
+      "rule": "Nối âm (연음) + âm đại diện (대표음)",
+      "explanation": "Patchim 'ㅈ' của '맞' nối trực tiếp với nguyên âm 'ㅡ' của '을', phát âm thành [마즐]."
     },
     {
       "word": "있어요",
       "pronounced": "이써요",
-      "rule": "Nối âm (연음) và đại diện âm",
-      "explanation": "Patchim 'ㅆ' của '있' được chuyển thành âm đại diện [ㄷ], sau đó nối với nguyên âm '어' của '어요', phát âm thành [이써요]."
-    },
-    {
-      "word": "영수증이",
-      "pronounced": "영수즈미",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅇ' của '증' nối với nguyên âm '이' của '이', phát âm thành [즈미]."
-    },
-    {
-      "word": "있어야",
-      "pronounced": "이써야",
-      "rule": "Nối âm (연음) và đại diện âm",
-      "explanation": "Patchim 'ㅆ' của '있' được chuyển thành âm đại diện [ㄷ], sau đó nối với nguyên âm '어' của '어야', phát âm thành [이써야]."
-    },
-    {
-      "word": "물건에",
-      "pronounced": "물거네",
-      "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '물건' nối với nguyên âm '에' của '에', phát âm thành [네]."
-    },
-    {
-      "word": "많아요",
-      "pronounced": "마나요",
-      "rule": "Nối âm (연음) và lược bỏ 'ㅎ'",
-      "explanation": "Patchim 'ㅎ' của '많' bị lược bỏ, và 'ㄴ' nối với nguyên âm '아' của '아요', phát âm thành [마나요]."
-    },
-    {
-      "word": "반품을",
-      "pronounced": "반푸믈",
-      "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '반품' nối với nguyên âm '으' của '을', phát âm thành [반푸믈]."
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm 'ㅓ' của '어요', phát âm thành [이써요]."
     },
     {
       "word": "온라인에서",
       "pronounced": "온라이네서",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '온라인' nối với nguyên âm '에' của '에서', phát âm thành [온라이네서]."
+      "explanation": "Patchim 'ㄴ' của '온라인' nối với nguyên âm 'ㅔ' của '에서', phát âm thành [온라이네서]."
     },
     {
       "word": "색깔이",
       "pronounced": "색까리",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '색깔' nối với nguyên âm '이', phát âm thành [색까리]."
+      "explanation": "Patchim 'ㄹ' của '색깔' nối với nguyên âm 'ㅣ' của '이', phát âm thành [까리]."
+    },
+    {
+      "word": "교환이나",
+      "pronounced": "교화니나",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '교환' nối với nguyên âm 'ㅣ' của '이나', phát âm thành [화니나]."
+    },
+    {
+      "word": "반품을",
+      "pronounced": "반푸믈",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '반품' nối với nguyên âm 'ㅡ' của '을', phát âm thành [푸믈]."
+    },
+    {
+      "word": "조건이",
+      "pronounced": "조꺼니",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '조건' nối với nguyên âm 'ㅣ' của '이', phát âm thành [꺼니]."
+    },
+    {
+      "word": "영수증이",
+      "pronounced": "영수즈미",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅇ(ng)' của '증' nối với nguyên âm 'ㅣ' của '이', phát âm thành [즈미]."
+    },
+    {
+      "word": "많아요",
+      "pronounced": "마나요",
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
+      "explanation": "Patchim 'ㅎ' của '많' bị lược bỏ, 'ㄴ' nối với nguyên âm 'ㅏ' của '아요', phát âm thành [마나요]."
+    },
+    {
+      "word": "물건에",
+      "pronounced": "물거네",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '물건' nối với nguyên âm 'ㅔ' của '에', phát âm thành [거네]."
+    },
+    {
+      "word": "알아두면",
+      "pronounced": "아라두면",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '알' nối với nguyên âm 'ㅏ' của '아두면', phát âm thành [아라두면]."
     }
   ]
 }
