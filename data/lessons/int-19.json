@@ -7,140 +7,140 @@
       "word": "중심이",
       "pronounced": "중시미",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim ㅁ của 심 nối với 이 → ㅁ chuyển: [중시미].",
+      "explanation": "Patchim 'ㅁ' của '중심' nối với nguyên âm 'ㅣ' của '이', phát âm thành [중시미].",
       "meaning": "là trung tâm"
     },
     {
       "word": "특징을",
       "pronounced": "특찡을",
       "rule": "Căng âm (경음화) + Nối âm (연음)",
-      "explanation": "Patchim ㄱ của 특 căng hóa ㅈ → [찡]; patchim ㅇ của 징 nối với 을 [찡을].",
+      "explanation": "Patchim 'ㄱ' của '특' căng hóa 'ㅈ' của '징' thành [찡]; patchim 'ㅇ' của '징' nối với nguyên âm 'ㅡ' của '을', phát âm thành [특찡을].",
       "meaning": "đặc điểm"
     },
     {
       "word": "시설이",
       "pronounced": "시서리",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim ㄹ của 설 nối với 이 → ㄹ chuyển: [시서리].",
+      "explanation": "Patchim 'ㄹ' của '시설' nối với nguyên âm 'ㅣ' của '이', phát âm thành [시서리].",
       "meaning": "tiện ích"
     },
     {
       "word": "갖춰져있어서",
       "pronounced": "가춰져이써서",
       "rule": "Nối âm (연음) + Căng âm (경음화)",
-      "explanation": "Patchim ㄱ của 있 căng hóa ㅅ của 어 → [이써]; 써서 liên kết tiếp.",
+      "explanation": "Patchim kép 'ㅆ' của '있' căng hóa 'ㅅ' của '어' thành [이써]; chuỗi nối âm tiếp tục tự nhiên, phát âm thành [가춰져이써서].",
       "meaning": "vì đã được trang bị"
     },
     {
       "word": "보안시스템이",
       "pronounced": "보안시스테미",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim ㅁ của 템 nối với 이 → ㅁ chuyển: [시스테미]; liên kết 6 âm tiết.",
+      "explanation": "Patchim 'ㅁ' của '보안시스템' nối với nguyên âm 'ㅣ' của '이', phát âm thành [보안시스테미].",
       "meaning": "hệ thống an ninh"
     },
     {
       "word": "난방방식인",
       "pronounced": "난방방시긴",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim ㄱ của 식 nối với 인 → ㄱ chuyển: [시긴]; chuỗi liên kết.",
+      "explanation": "Patchim 'ㄱ' của '난방방식' nối với nguyên âm 'ㅣ' của '인', phát âm thành [난방방시긴].",
       "meaning": "phương thức sưởi ấm"
     },
     {
       "word": "온돌시스템은",
       "pronounced": "온돌씨스테믄",
       "rule": "Căng âm (경음화) + Nối âm (연음)",
-      "explanation": "Patchim ㄹ của 돌 căng hóa ㅅ → [씨]; patchim ㅁ của 템 nối với 은 → [테믄].",
+      "explanation": "Patchim 'ㄹ' của '온돌' căng hóa 'ㅅ' của '시' thành [씨]; patchim 'ㅁ' của '온돌시스템' nối với nguyên âm 'ㅡ' của '은', phát âm thành [온돌씨스테믄].",
       "meaning": "hệ thống sưởi Ondol thì"
     },
     {
       "word": "전체를",
       "pronounced": "전체를",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim ㄹ của 체 nối với 를 → ㄹ liên kết [전체를].",
+      "explanation": "Patchim 'ㄹ' của '전체' nối với nguyên âm 'ㅡ' của '를', phát âm thành [전체를].",
       "meaning": "toàn bộ"
     },
     {
       "word": "유지해주어서",
       "pronounced": "유지해주어서",
       "rule": "Nối âm (연음)",
-      "explanation": "Chuỗi 6 âm tiết không có biến âm lớn; liên kết liên tục tự nhiên.",
+      "explanation": "Patchim 'ㅇ' của '해' nối với '주어서', chuỗi âm tiết nối liên tục tự nhiên, phát âm thành [유지해주어서].",
       "meaning": "vì duy trì cho"
     },
     {
       "word": "효율적이에요",
       "pronounced": "효율쩌기에요",
       "rule": "Căng âm (경음화) + Nối âm (연음)",
-      "explanation": "Patchim ㄱ của 율 căng hóa ㅈ → [쩍]; 쩍+이에요 nối âm → [쩌기에요].",
+      "explanation": "Patchim 'ㄱ' của '효율' căng hóa 'ㅈ' của '적' thành [쩍]; patchim 'ㄱ' của '적' nối với nguyên âm 'ㅣ' của '이에요', phát âm thành [효율쩌기에요].",
       "meaning": "rất hiệu quả"
     },
     {
       "word": "안전하고",
       "pronounced": "안저나고",
       "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
-      "explanation": "Patchim 'ㄴ' của '안전' nối với 하: 전+하 → [저나]; ㅎ bị lược bỏ → [안저나고].",
+      "explanation": "Patchim 'ㄴ' của '안전' nối với '하': 전+하 bị lược bỏ 'ㅎ' thành [저나], phát âm thành [안저나고].",
       "meaning": "an toàn và"
     },
     {
       "word": "편리한시설덕분에",
       "pronounced": "펼리한시설떡뿌네",
       "rule": "Căng âm (경음화) + Nối âm (연음)",
-      "explanation": "Chuỗi phức: 설+덕 → căng hóa [떡]; ㄱ+분 → [뿐]; ㄴ của 분 nối với 에 → [뿌네].",
+      "explanation": "Patchim 'ㄹ' của '설' gặp 'ㄷ' của '덕', căng hóa thành [떡]; patchim 'ㄴ' của '덕분' nối với nguyên âm 'ㅔ' của '에', phát âm thành [편리한시설떡뿌네].",
       "meaning": "nhờ tiện ích thuận tiện"
     },
     {
       "word": "생활하기에",
       "pronounced": "생화라기에",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '활' nối với '하': 활+하 → [화라]; phát âm tự nhiên [생화라기에].",
+      "explanation": "Patchim 'ㄹ' của '생활' nối với '하기에', 'ㅎ' bị yếu đi; patchim 'ㄹ' chuyển thành [화라], phát âm thành [생화라기에].",
       "meaning": "để sinh hoạt"
     },
     {
       "word": "현대적인",
       "pronounced": "현대저긴",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '현대적' nối với nguyên âm '인', phát âm thành [현대저긴].",
+      "explanation": "Patchim 'ㄱ' của '현대적' nối với nguyên âm 'ㅣ' của '인', phát âm thành [현대저긴].",
       "meaning": "hiện đại"
     },
     {
       "word": "대부분의",
       "pronounced": "대부부네",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '대부분' nối với nguyên âm '의' (phát âm là '에'), phát âm thành [대부부네].",
+      "explanation": "Patchim 'ㄴ' của '대부분' nối với nguyên âm '의' (phát âm là 'ㅔ'), phát âm thành [대부부네].",
       "meaning": "hầu hết"
     },
     {
       "word": "집안",
       "pronounced": "지반",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅂ' của '집' nối với nguyên âm '안', phát âm thành [지반].",
+      "explanation": "Patchim 'ㅂ' của '집' nối với nguyên âm 'ㅏ' của '안', phát âm thành [지반].",
       "meaning": "trong nhà, nội thất"
     },
     {
       "word": "아파트에",
       "pronounced": "아파테",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄷ' (대표음) của '아파트' nối với nguyên âm '에', phát âm thành [아파테].",
+      "explanation": "Patchim 'ㄷ' (대표음) của '아파트' nối với nguyên âm 'ㅔ' của '에', phát âm thành [아파테].",
       "meaning": "ở căn hộ chung cư"
     },
     {
       "word": "있어서",
       "pronounced": "이써서",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm '어', phát âm thành [이써서].",
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm 'ㅓ' của '어서', phát âm thành [이써서].",
       "meaning": "vì có"
     },
     {
       "word": "겨울철에도",
       "pronounced": "겨울처레도",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '겨울철' nối với nguyên âm '에', phát âm thành [겨울처레도].",
+      "explanation": "Patchim 'ㄹ' của '겨울철' nối với nguyên âm 'ㅔ' của '에도', phát âm thành [겨울처레도].",
       "meaning": "ngay cả vào mùa đông"
     },
     {
       "word": "놀이터",
       "pronounced": "노리터",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '놀' nối với nguyên âm '이', phát âm thành [노리터].",
+      "explanation": "Patchim 'ㄹ' của '놀' nối với nguyên âm 'ㅣ' của '이터', phát âm thành [노리터].",
       "meaning": "sân chơi"
     }
   ]

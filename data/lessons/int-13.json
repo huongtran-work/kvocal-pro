@@ -7,61 +7,61 @@
       "word": "시스템은",
       "pronounced": "시스테믄",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim ㅁ của 템 nối với 은 → ㅁ chuyển: [시스테믄]."
+      "explanation": "Patchim 'ㅁ' của '시스템' nối với nguyên âm 'ㅡ' của '은', phát âm thành [시스테믄]."
     },
     {
       "word": "노선이",
       "pronounced": "노서니",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim ㄴ của 선 nối với 이 → ㄴ chuyển: [노서니]."
+      "explanation": "Patchim 'ㄴ' của '노선' nối với nguyên âm 'ㅣ' của '이', phát âm thành [노서니]."
     },
     {
       "word": "어디든",
       "pronounced": "어디든",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim ㄴ của 디 nối với 든 → liên kết tự nhiên [어디든]."
+      "explanation": "Patchim 'ㄴ' của '든' nối âm tự nhiên trong chuỗi, không có biến âm, phát âm thành [어디든]."
     },
     {
       "word": "이용하기",
       "pronounced": "이용하기",
       "rule": "Nối âm (연음) + Âm bật hơi (격음화)",
-      "explanation": "Patchim ㅇ của 용 + ㅎ của 하 → bật hơi nhẹ; 하기 liên kết."
+      "explanation": "Patchim 'ㅇ' của '이용' gặp 'ㅎ' của '하기', tạo âm bật hơi nhẹ, phát âm thành [이용하기]."
     },
     {
       "word": "환승할인",
       "pronounced": "환승하린",
       "rule": "Nối âm (연음) + Âm bật hơi (격음화)",
-      "explanation": "Patchim ㅇ của 승 + ㅎ của 할 → bật hơi [하]; patchim ㄴ của 인 liên kết."
+      "explanation": "Patchim 'ㅇ' của '환승' gặp 'ㅎ' của '할인', tạo âm bật hơi; patchim 'ㄴ' của '인' nối âm tiếp theo, phát âm thành [환승하린]."
     },
     {
       "word": "갈아탈",
       "pronounced": "가라탈",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim ㄹ của 갈 nối với 아탈 → ㄹ chuyển: [가라탈]."
+      "explanation": "Patchim 'ㄹ' của '갈' nối với nguyên âm 'ㅏ' của '아탈', phát âm thành [가라탈]."
     },
     {
       "word": "절약할",
       "pronounced": "저랴칼",
       "rule": "Nối âm (연음) + Âm bật hơi (격음화)",
-      "explanation": "Patchim ㄹ của 약 nối với 할 → [랴칼]; ㄱ của 약 + ㅎ bật hơi."
+      "explanation": "Patchim 'ㄹ' của '절' nối với '약'; patchim 'ㄱ' của '약' gặp 'ㅎ' của '할', tạo âm bật hơi [ㅋ], phát âm thành [저랴칼]."
     },
     {
       "word": "실시간으로",
       "pronounced": "실씨가느로",
       "rule": "Căng âm (경음화) + Nối âm (연음)",
-      "explanation": "Patchim ㄹ của 실 căng hóa ㅅ → [씨]; patchim ㄴ của 간 nối với 으로 → [가느로]."
+      "explanation": "Patchim 'ㄹ' của '실' căng hóa 'ㅅ' của '시' thành [씨]; patchim 'ㄴ' của '간' nối với nguyên âm 'ㅡ' của '으로', phát âm thành [실씨가느로]."
     },
     {
       "word": "상점과",
       "pronounced": "상점꽈",
       "rule": "Căng âm (경음화)",
-      "explanation": "Patchim ㅁ của 점 gặp ㄱ của 과 → căng hóa [꽈]."
+      "explanation": "Patchim 'ㅁ' của '상점' gặp 'ㄱ' của '과', căng hóa thành [꽈], phát âm thành [상점꽈]."
     },
     {
       "word": "편의시설이",
       "pronounced": "편의시서리",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim ㄹ của 설 nối với 이 → [서리]; chuỗi liên kết mượt."
+      "explanation": "Patchim 'ㄹ' của '편의시설' nối với nguyên âm 'ㅣ' của '이', phát âm thành [편의시서리]."
     },
     {
       "word": "이용할",
@@ -73,61 +73,61 @@
       "word": "관광객들을",
       "pronounced": "관광객뜨를",
       "rule": "Căng âm (경음화) + Nối âm (연음)",
-      "explanation": "Patchim ㄱ của 객 căng hóa ㄷ → [뜨]; patchim ㄹ của 들 nối với 을 → [뜨를]."
+      "explanation": "Patchim 'ㄱ' của '관광객' căng hóa 'ㄷ' của '들' thành [뜨]; patchim 'ㄹ' của '들' nối với nguyên âm 'ㅡ' của '을', phát âm thành [관광객뜨를]."
     },
     {
       "word": "교통카드는",
       "pronounced": "교통카드는",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim ㄴ của 드 nối với 는 → âm liên kết tự nhiên."
+      "explanation": "Patchim 'ㄴ' của '교통카드' nối với nguyên âm 'ㅡ' của '는', phát âm thành [교통카드는]."
     },
     {
       "word": "구석구석을",
       "pronounced": "구석꾸서글",
       "rule": "Căng âm (경음화) + Nối âm (연음)",
-      "explanation": "Patchim ㄱ của 석 căng hóa ㄱ của 구 → [꾸]; patchim ㄱ của 석₂ nối với 을 → [서글]."
+      "explanation": "Patchim 'ㄱ' của '구석' căng hóa 'ㄱ' của '구' thứ hai thành [꾸]; patchim 'ㄱ' của '구석' thứ hai nối với nguyên âm 'ㅡ' của '을', phát âm thành [구석꾸서글]."
     },
     {
       "word": "시간에도",
       "pronounced": "씨가네도",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '시간' nối with nguyên âm '에', phát âm thành [씨가네도]."
+      "explanation": "Patchim 'ㄴ' của '시간' nối với nguyên âm 'ㅔ' của '에도', phát âm thành [씨가네도]."
     },
     {
       "word": "시간을",
       "pronounced": "씨가늘",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '시간' nối with nguyên âm '을', phát âm thành [씨가늘]."
+      "explanation": "Patchim 'ㄴ' của '시간' nối với nguyên âm 'ㅡ' của '을', phát âm thành [씨가늘]."
     },
     {
       "word": "안에는",
       "pronounced": "아네는",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '안' nối with nguyên âm '에', phát âm thành [아네는]."
+      "explanation": "Patchim 'ㄴ' của '안' nối với nguyên âm 'ㅔ' của '에는', phát âm thành [아네는]."
     },
     {
       "word": "있어서",
       "pronounced": "이써서",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim kép 'ㅆ' của '있' nối with nguyên âm '어', phát âm thành [이써서]."
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm 'ㅓ' của '어서', phát âm thành [이써서]."
     },
     {
       "word": "처음 이용하는",
       "pronounced": "처으미용하는",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '처음' nối with nguyên âm '이' của '이용', phát âm thành [처으미용하는]."
+      "explanation": "Patchim 'ㅁ' của '처음' nối với nguyên âm 'ㅣ' của '이용', phát âm thành [처으미용하는]."
     },
     {
       "word": "배려들이",
       "pronounced": "배려드리",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '배려들' nối with nguyên âm '이', phát âm thành [배려드리]."
+      "explanation": "Patchim 'ㄹ' của '배려들' nối với nguyên âm 'ㅣ' của '이', phát âm thành [배려드리]."
     },
     {
       "word": "좋아요",
       "pronounced": "조아요",
       "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
-      "explanation": "Patchim 'ㅎ' của '좋' bị lược bỏ, nối với nguyên âm '아', phát âm thành [조아요]."
+      "explanation": "Patchim 'ㅎ' của '좋' bị lược bỏ, 'ㅇ' nối với nguyên âm 'ㅏ' của '아요', phát âm thành [조아요]."
     }
   ]
 }

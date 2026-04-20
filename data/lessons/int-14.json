@@ -7,85 +7,85 @@
       "word": "사람과",
       "pronounced": "사람꽈",
       "rule": "Căng âm (경음화)",
-      "explanation": "Patchim ㅁ của 람 gặp ㄱ của 과 → căng hóa [꽈]."
+      "explanation": "Patchim 'ㅁ' của '사람' gặp 'ㄱ' của '과', căng hóa thành [꽈], phát âm thành [사람꽈]."
     },
     {
       "word": "사이의",
       "pronounced": "사이에",
       "rule": "Nối âm (연음)",
-      "explanation": "의 phát âm [에] trong ngữ cảnh; patchim ㅇ của 이 liên kết [사이에]."
+      "explanation": "Patchim 'ㅇ' (null patchim) của '이' liên kết với nguyên âm '의' (phát âm là 'ㅔ' trong ngữ cảnh), phát âm thành [사이에]."
     },
     {
       "word": "따뜻한",
       "pronounced": "따뜨탄",
       "rule": "Âm bật hơi (격음화)",
-      "explanation": "Patchim ㅅ của 뜻 gặp ㅎ của 한 → bật hơi [탄] → [따뜨탄]."
+      "explanation": "Patchim 'ㅅ' của '따뜻' gặp 'ㅎ' của '한', tạo âm bật hơi [ㅌ], phát âm thành [따뜨탄]."
     },
     {
       "word": "특별한",
       "pronounced": "특뼐한",
       "rule": "Căng âm (경음화)",
-      "explanation": "Patchim ㄱ của 특 căng hóa ㅂ của 별 → [뼐]."
+      "explanation": "Patchim 'ㄱ' của '특' căng hóa 'ㅂ' của '별' thành [뼐], phát âm thành [특뼐한]."
     },
     {
       "word": "단어입니다",
       "pronounced": "다너임니다",
       "rule": "Nối âm (연음) + Biến âm mũi (비음화)",
-      "explanation": "Patchim ㅓ(ㄴ) của 어 nối với 입 → [너임]; ㅂ gặp ㄴ biến âm mũi [임니다]."
+      "explanation": "Patchim 'ㄴ' của '단어' nối với nguyên âm 'ㅣ' của '입' thành [너임]; patchim 'ㅂ' của '입' gặp 'ㄴ' của '니다', biến âm mũi, phát âm thành [다너임니다]."
     },
     {
       "word": "좋아하는",
       "pronounced": "조아하는",
       "rule": "Lược bỏ ㅎ (ㅎ탈락)",
-      "explanation": "Patchim ㅎ của 좋 trước nguyên âm 아 → ㅎ câm: [조아하는]."
+      "explanation": "Patchim 'ㅎ' của '좋' bị lược bỏ trước nguyên âm 'ㅏ' của '아', phát âm thành [조아하는]."
     },
     {
       "word": "감정을",
       "pronounced": "감정을",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim ㅇ(ng) của 정 nối với 을 → ng liên kết: [감정을→감쩡을]."
+      "explanation": "Patchim 'ㅇ(ng)' của '감정' nối với nguyên âm 'ㅡ' của '을', phát âm thành [감정을]."
     },
     {
       "word": "넘어서",
       "pronounced": "너머서",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim ㅁ của 넘 nối với 어서 → ㅁ chuyển: [너머서]."
+      "explanation": "Patchim 'ㅁ' của '넘' nối với nguyên âm 'ㅓ' của '어서', phát âm thành [너머서]."
     },
     {
       "word": "형성이",
       "pronounced": "형성이",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim ㅇ(ng) của 성 nối với 이 → ng liên kết [형성이]."
+      "explanation": "Patchim 'ㅇ(ng)' của '형성' nối với nguyên âm 'ㅣ' của '이', phát âm thành [형성이]."
     },
     {
       "word": "나타내는",
       "pronounced": "나타내는",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim ㄴ của 내 nối với 는 → ㄴ liên kết mượt mà [나타내는]."
+      "explanation": "Patchim 'ㄴ' của '나타내' nối với nguyên âm 'ㅡ' của '는', phát âm thành [나타내는]."
     },
     {
       "word": "설명하기",
       "pronounced": "설명하기",
       "rule": "Nối âm (연음) + Âm bật hơi (격음화)",
-      "explanation": "Patchim ㅇ của 명 + ㅎ của 하 → bật hơi [하기]; 하기 liên kết."
+      "explanation": "Patchim 'ㅇ' của '설명' gặp 'ㅎ' của '하기', tạo âm bật hơi nhẹ, phát âm thành [설명하기]."
     },
     {
       "word": "어려운",
       "pronounced": "어려운",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim ㄴ của 운 liên kết nhẹ; chuỗi ㄹ liên tiếp trong 어려운."
+      "explanation": "Patchim 'ㄴ' của '어려운' kết thúc tự nhiên, không có biến âm lớn, phát âm thành [어려운]."
     },
     {
       "word": "정이들어요",
       "pronounced": "정이드러요",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim ㄹ của 들 nối với 어요 → ㄹ chuyển: [드러요]; chuỗi liên kết 4 âm tiết."
+      "explanation": "Patchim 'ㄹ' của '들' nối với nguyên âm 'ㅓ' của '어요', phát âm thành [정이드러요]."
     },
     {
       "word": "마음을",
       "pronounced": "마으믈",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm '을', phát âm thành [마으믈]."
+      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm 'ㅡ' của '을', phát âm thành [마으믈]."
     },
     {
       "word": "쌓인",
@@ -97,49 +97,49 @@
       "word": "깊은",
       "pronounced": "기픈",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅍ' của '깊' nối với nguyên âm '은', phát âm thành [기픈]."
+      "explanation": "Patchim 'ㅍ' của '깊' nối với nguyên âm 'ㅡ' của '은', phát âm thành [기픈]."
     },
     {
       "word": "있어요",
       "pronounced": "이써요",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm '어', phát âm thành [이써요]."
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm 'ㅓ' của '어요', phát âm thành [이써요]."
     },
     {
       "word": "일이",
       "pronounced": "이리",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '일' nối với nguyên âm '이', phát âm thành [이리]."
+      "explanation": "Patchim 'ㄹ' của '일' nối với nguyên âm 'ㅣ' của '이', phát âm thành [이리]."
     },
     {
       "word": "짐을",
       "pronounced": "지믈",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '짐' nối với nguyên âm '을', phát âm thành [지믈]."
+      "explanation": "Patchim 'ㅁ' của '짐' nối với nguyên âm 'ㅡ' của '을', phát âm thành [지믈]."
     },
     {
       "word": "마음에서",
       "pronounced": "마으메서",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm '에', phát âm thành [마으메서]."
+      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm 'ㅔ' của '에서', phát âm thành [마으메서]."
     },
     {
       "word": "울어주는",
       "pronounced": "우러주는",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '울' nối với nguyên âm '어', phát âm thành [우러주는]."
+      "explanation": "Patchim 'ㄹ' của '울' nối với nguyên âm 'ㅓ' của '어주는', phát âm thành [우러주는]."
     },
     {
       "word": "사람에게",
       "pronounced": "사라메게",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '사람' nối với nguyên âm '에', phát âm thành [사라메게]."
+      "explanation": "Patchim 'ㅁ' của '사람' nối với nguyên âm 'ㅔ' của '에게', phát âm thành [사라메게]."
     },
     {
       "word": "핵심입니다",
       "pronounced": "해씸임니다",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '핵심' nối với nguyên âm '이' của '입니다', phát âm thành [해씸임니다]."
+      "explanation": "Patchim 'ㅁ' của '핵심' nối với nguyên âm 'ㅣ' của '입니다', phát âm thành [해씸임니다]."
     }
   ]
 }

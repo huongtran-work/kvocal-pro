@@ -21,7 +21,7 @@
       "word": "삶의",
       "pronounced": "살므이",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim kép 'ㄻ' của '삶': ㅁ nối với '의' → [살므이].",
+      "explanation": "Patchim kép 'ㄻ' của '삶': 'ㅁ' nối với nguyên âm '의', phát âm thành [살므이].",
       "meaning": "của cuộc sống"
     },
     {
@@ -42,14 +42,14 @@
       "word": "분야에서",
       "pronounced": "부냐에서",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '야' nối với... 야+에: 분야+에서 → [부냐에서].",
+      "explanation": "Patchim 'ㄴ' của '분야' nối với nguyên âm 'ㅔ' của '에서', phát âm thành [부냐에서].",
       "meaning": "trong lĩnh vực"
     },
     {
       "word": "인공지능이",
       "pronounced": "인공지능이",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅇ' của '능' nối với '이': ㅇ nối âm → [지능이].",
+      "explanation": "Patchim 'ㅇ' của '인공지능' nối với nguyên âm 'ㅣ' của '이', phát âm thành [인공지능이].",
       "meaning": "trí tuệ nhân tạo (là)"
     },
     {
@@ -63,14 +63,14 @@
       "word": "편의성을",
       "pronounced": "펴니성을",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '의' nối với '성을': [펴니성을].",
+      "explanation": "Patchim 'ㄴ' của '편' nối với nguyên âm '의' của '편의성을', phát âm thành [펴니성을].",
       "meaning": "tính tiện lợi (tân ngữ)"
     },
     {
       "word": "높여주고있어요",
       "pronounced": "노펴주고이써요",
       "rule": "Âm bật hơi (격음화) + Nối âm (연음)",
-      "explanation": "높: ㅍ patchim bật hơi; 있+어: ㅆ nối âm → [이써요].",
+      "explanation": "Patchim 'ㅍ' của '높' gặp nguyên âm '여', tạo âm bật hơi [노펴]; patchim kép 'ㅆ' của '있' nối với nguyên âm 'ㅓ' của '어요', phát âm thành [노펴주고이써요].",
       "meaning": "đang nâng cao"
     },
     {
@@ -105,14 +105,14 @@
       "word": "공정성을",
       "pronounced": "공정성을",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅇ' của '성' nối với '을' → [공정성을].",
+      "explanation": "Patchim 'ㅇ' của '공정성' nối với nguyên âm 'ㅡ' của '을', phát âm thành [공정성을].",
       "meaning": "tính công bằng (tân ngữ)"
     },
     {
       "word": "것이무엇보다",
       "pronounced": "거시무엇보다",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅅ' của '것' nối với '이' → [거시].",
+      "explanation": "Patchim 'ㅅ' của '것' nối với nguyên âm 'ㅣ' của '이', phát âm thành [거시무엇보다].",
       "meaning": "điều quan trọng nhất"
     },
     {
@@ -126,7 +126,7 @@
       "word": "끊임없이",
       "pronounced": "끄님업씨",
       "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
-      "explanation": "끊: ㄶ patchim, ㄴ nối âm ㅎ lược; 없+이: ㅄ patchim → [업씨].",
+      "explanation": "Patchim kép 'ㄶ' của '끊': 'ㄴ' nối âm, 'ㅎ' lược bỏ; patchim kép 'ㅄ' của '없' nối với nguyên âm 'ㅣ' của '이', phát âm thành [끄님업씨].",
       "meaning": "không ngừng"
     },
     {
@@ -182,7 +182,7 @@
       "word": "돌아갈수있는",
       "pronounced": "도라갈쑤인는",
       "rule": "Nối âm (연음) + Căng âm (경음화)",
-      "explanation": "Patchim 'ㄹ' của '갈' nối với '수'; 수+있는: Căng hóa + nối âm.",
+      "explanation": "Patchim 'ㄹ' của '돌아갈' nối với '수'; patchim 'ㄷ' của '있' căng hóa 'ㄴ' của '는', phát âm thành [도라갈쑤인는].",
       "meaning": "có thể quay lại/đến được"
     },
     {
@@ -196,21 +196,21 @@
       "word": "사회적합의를",
       "pronounced": "사회저카비를",
       "rule": "Nối âm (연음) + Âm bật hơi (격음화)",
-      "explanation": "적+합: ㄱ+ㅎ = 격음화 [저카]; 합+의: ㅂ nối âm [하비를].",
+      "explanation": "Patchim 'ㄱ' của '사회적' gặp 'ㅎ' của '합의', tạo âm bật hơi [저카]; patchim 'ㅂ' của '합' nối với nguyên âm '의' của '를', phát âm thành [사회저카비를].",
       "meaning": "sự đồng thuận xã hội (tân ngữ)"
     },
     {
       "word": "키워나가야합니다",
       "pronounced": "키워나가야함니다",
       "rule": "Nối âm (연음)",
-      "explanation": "Chuỗi nguyên âm liên tiếp; 합+니: biến âm mũi [함니다].",
+      "explanation": "Patchim 'ㅂ' của '합' gặp 'ㄴ' của '니', biến âm mũi thành [함니다]; chuỗi '키워나가야' liên kết tự nhiên, phát âm thành [키워나가야함니다].",
       "meaning": "phải nuôi dưỡng, phát triển"
     },
     {
       "word": "해결해야할과제들도",
       "pronounced": "해겨래야할과제드로도",
       "rule": "Nối âm (연음)",
-      "explanation": "결+해: ㄹ nối âm → [겨래]; 들+도: ㄹ+ㄷ... các nối âm trong chuỗi.",
+      "explanation": "Patchim 'ㄹ' của '해결' nối với '해' thành [겨래]; patchim 'ㄹ' của '들' gặp 'ㄷ' của '도'; chuỗi nối âm liên tiếp, phát âm thành [해겨래야할과제드로도].",
       "meaning": "những vấn đề cần giải quyết"
     }
   ]

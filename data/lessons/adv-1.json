@@ -56,7 +56,7 @@
       "word": "걱정을",
       "pronounced": "걱쩌글",
       "rule": "Căng âm (경음화) + Nối âm (연음)",
-      "explanation": "ㄱ+ㅈ căng hóa → [쩡]; patchim 'ㅇ' của '정' nối với '을' → [걱쩌글].",
+      "explanation": "Patchim 'ㄱ' của '걱' căng hóa 'ㅈ' của '정' thành [쩡]; patchim 'ㅇ' của '정' nối với nguyên âm 'ㅡ' của '을', phát âm thành [걱쩌글].",
       "meaning": "lo lắng (tân ngữ)"
     },
     {
@@ -70,7 +70,7 @@
       "word": "실질적인",
       "pronounced": "실찔저긴",
       "rule": "Căng âm (경음화) + Nối âm (연음)",
-      "explanation": "ㄹ+ㅈ căng hóa → [찔]; patchim 'ㄱ' của '적' nối với '인' → [실찔저긴].",
+      "explanation": "Patchim 'ㄹ' của '실질' căng hóa 'ㅈ' của '적' thành [찔]; patchim 'ㄱ' của '적' nối với nguyên âm 'ㅣ' của '인', phát âm thành [실찔저긴].",
       "meaning": "thực chất"
     },
     {
@@ -154,21 +154,21 @@
       "word": "않으면",
       "pronounced": "아느면",
       "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
-      "explanation": "Patchim kép 'ㄶ' của '않': ㄴ nối âm, ㅎ lược bỏ → [아느면].",
+      "explanation": "Patchim kép 'ㄶ' của '않': 'ㄴ' nối âm, 'ㅎ' lược bỏ, phát âm thành [아느면].",
       "meaning": "nếu không"
     },
     {
       "word": "책임감을",
       "pronounced": "채김가믈",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '책' nối với '임' → [채김]; patchim 'ㅁ' của '감' nối với '을' → [가믈].",
+      "explanation": "Patchim 'ㄱ' của '책' nối với nguyên âm 'ㅣ' của '임' thành [채김]; patchim 'ㅁ' của '감' nối với nguyên âm 'ㅡ' của '을', phát âm thành [채김가믈].",
       "meaning": "tinh thần trách nhiệm (tân ngữ)"
     },
     {
       "word": "이어가야합니다",
       "pronounced": "이어가야함니다",
       "rule": "Nối âm (연음)",
-      "explanation": "이+어: chuỗi nguyên âm nối liên tiếp; hợp+니다 → biến âm mũi [함니다].",
+      "explanation": "Patchim 'ㅂ' của '합' gặp 'ㄴ' của '니', biến âm mũi thành [함니다]; chuỗi '이어가야' liên kết tự nhiên, phát âm thành [이어가야함니다].",
       "meaning": "phải tiếp tục duy trì"
     },
     {
@@ -189,28 +189,28 @@
       "word": "자연재해를",
       "pronounced": "자연재해를",
       "rule": "Nối âm (연음) + Âm bật hơi (격음화)",
-      "explanation": "재+해: patchim 'ㄴ'... 재해: ㅎ trước 를 → phát âm tự nhiên [자연재해를].",
+      "explanation": "Patchim 'ㄴ' của '자연' nối với nguyên âm 'ㅐ' của '재해'; chuỗi âm tiết liên kết tự nhiên, phát âm thành [자연재해를].",
       "meaning": "thiên tai (tân ngữ)"
     },
     {
       "word": "중대한과제가",
       "pronounced": "중대한과제가",
       "rule": "Nối âm (연음)",
-      "explanation": "한+과: patchim 'ㄴ'+과 → [한과]; chuỗi nối tự nhiên [중대한과제가].",
+      "explanation": "Patchim 'ㄴ' của '중대한' nối với nguyên âm 'ㅘ' của '과제가'; chuỗi âm tiết liên kết tự nhiên, phát âm thành [중대한과제가].",
       "meaning": "nhiệm vụ quan trọng"
     },
     {
       "word": "무분별한",
       "pronounced": "무분벼란",
       "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
-      "explanation": "Patchim 'ㄹ' của '별' nối với '한': ㄹ+한 → ㅎ lược bỏ → [무분벼란].",
+      "explanation": "Patchim 'ㄹ' của '무분별' nối với '한': 'ㅎ' của '한' bị lược bỏ, phát âm thành [무분벼란].",
       "meaning": "bừa bãi, vô tội vạ"
     },
     {
       "word": "행동하지않으면",
       "pronounced": "행도나지아느면",
       "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
-      "explanation": "동+하: ㅎ lược bỏ → [도나]; 않+으: ㄴ nối âm, ㅎ lược → [아느면].",
+      "explanation": "Patchim 'ㅇ' của '행동' nối với '하': 'ㅎ' bị lược bỏ thành [도나]; patchim kép 'ㄶ' của '않': 'ㄴ' nối âm, 'ㅎ' lược bỏ, phát âm thành [행도나지아느면].",
       "meaning": "nếu không hành động"
     }
   ]
