@@ -100,6 +100,60 @@
       "rule": "Căng hóa liên tiếp",
       "explanation": "Patchim ㄱ của 집 căng hóa ㅈ → [쭝]; ㄹ của 할+수 → căng hóa [쑤]; ㄷ của 있 căng hóa ㄱ → [읻께].",
       "meaning": "để có thể tập trung"
+    },
+    {
+      "word": "워라밸을",
+      "pronounced": "워라배를",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '워라밸' nối với nguyên âm '을', phát âm thành [워라배를]."
+    },
+    {
+      "word": "야근이",
+      "pronounced": "야그니",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '야근' nối với nguyên âm '이', phát âm thành [야그니]."
+    },
+    {
+      "word": "있어요",
+      "pronounced": "이써요",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm '어', phát âm thành [이써요]."
+    },
+    {
+      "word": "개인의",
+      "pronounced": "개이네",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '개인' nối với nguyên âm '의' (phát âm là '에'), phát âm thành [개이네]."
+    },
+    {
+      "word": "시간을",
+      "pronounced": "씨가늘",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '시간' nối với nguyên âm '을', phát âm thành [씨가늘]."
+    },
+    {
+      "word": "덕분에",
+      "pronounced": "덕뿌네",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '덕분' nối với nguyên âm '에', phát âm thành [덕뿌네]."
+    },
+    {
+      "word": "질이",
+      "pronounced": "찌리",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '삶의 질' nối với nguyên âm '이', phát âm thành [찌리]."
+    },
+    {
+      "word": "효율적으로",
+      "pronounced": "효율저그로",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '효율적' nối với nguyên âm '으로', phát âm thành [효율저그로]."
+    },
+    {
+      "word": "것 같아요",
+      "pronounced": "거 가타요",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅌ' của '같' nối với nguyên âm '아', phát âm thành [거 가타요]."
     }
   ]
 }

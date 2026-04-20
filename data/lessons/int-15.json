@@ -93,6 +93,60 @@
       "rule": "Nối âm 연음",
       "explanation": "Patchim ㅁ của 움 nối với 에는 → ㅁ chuyển: [배우메는].",
       "meaning": "trong việc học"
+    },
+    {
+      "word": "교육을",
+      "pronounced": "교유글",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '교육' nối với nguyên âm '을', phát âm thành [교유글]."
+    },
+    {
+      "word": "수업이",
+      "pronounced": "수어비",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅂ' của '수업' nối với nguyên âm '이', phát âm thành [수어비]."
+    },
+    {
+      "word": "수험생들을",
+      "pronounced": "수험생드를",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '수험생들' nối với nguyên âm '을', phát âm thành [수험생드를]."
+    },
+    {
+      "word": "지식을",
+      "pronounced": "지시글",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '지식' nối với nguyên âm '을', phát âm thành [지시글]."
+    },
+    {
+      "word": "해결하는",
+      "pronounced": "해겨라는",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '해결' nối với '하', 'ㅎ' bị yếu đi, phát âm thành [해겨라는]."
+    },
+    {
+      "word": "최우선으로",
+      "pronounced": "최우서느로",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '최우선' nối với nguyên âm '으', phát âm thành [최우서느로]."
+    },
+    {
+      "word": "끝이",
+      "pronounced": "끄치",
+      "rule": "Nối âm (연음) và 구개음화",
+      "explanation": "Patchim 'ㅌ' của '끝' nối với nguyên âm '이', ㅌ+이 → 구개음화 thành [끄치]."
+    },
+    {
+      "word": "학원에",
+      "pronounced": "하궈네",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '학원' nối với nguyên âm '에', phát âm thành [하궈네]."
+    },
+    {
+      "word": "있었지만",
+      "pronounced": "이썯찌만",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm '었', phát âm thành [이썯찌만]."
     }
   ]
 }

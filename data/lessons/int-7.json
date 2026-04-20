@@ -100,6 +100,48 @@
       "rule": "Nối âm + Biến âm mũi",
       "explanation": "Patchim ㄹ của 렀 nối với 는데; ㅆ+ㄴ gặp nhau → biến âm mũi [런는데].",
       "meaning": "dù khó khăn"
+    },
+    {
+      "word": "아침에",
+      "pronounced": "아치메",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '아침' nối với nguyên âm '에', phát âm thành [아치메]."
+    },
+    {
+      "word": "좋아하는",
+      "pronounced": "조아하는",
+      "rule": "Nối âm (연음) và lược bỏ 'ㅎ'",
+      "explanation": "Patchim 'ㅎ' của '좋' bị lược bỏ, 'ㅇ' trước nối với '아', phát âm thành [조아하는]."
+    },
+    {
+      "word": "단백질이",
+      "pronounced": "단배찌리",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '단백질' nối với nguyên âm '이', phát âm thành [단배찌리]."
+    },
+    {
+      "word": "마음이",
+      "pronounced": "마으미",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm '이', phát âm thành [마으미]."
+    },
+    {
+      "word": "있을 거예요",
+      "pronounced": "이쓸 거예요",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm '을', phát âm thành [이쓸]."
+    },
+    {
+      "word": "공원으로",
+      "pronounced": "공워느로",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '공원' nối với nguyên âm '으', phát âm thành [공워느로]."
+    },
+    {
+      "word": "잔은",
+      "pronounced": "자는",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '잔' nối với nguyên âm '은', phát âm thành [자는]."
     }
   ]
 }

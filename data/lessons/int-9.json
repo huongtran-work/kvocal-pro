@@ -100,6 +100,48 @@
       "rule": "Nối âm 연음",
       "explanation": "Patchim ㄱ của 식 nối với 을 → ㄱ chuyển: [양시글].",
       "meaning": "lương thực tinh thần"
+    },
+    {
+      "word": "주말에",
+      "pronounced": "주마레",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '주말' nối với nguyên âm '에', phát âm thành [주마레]."
+    },
+    {
+      "word": "마음의",
+      "pronounced": "마으메",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm '의' (phát âm là '에'), phát âm thành [마으메]."
+    },
+    {
+      "word": "공원을",
+      "pronounced": "공워늘",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '공원' nối với nguyên âm '을', phát âm thành [공워늘]."
+    },
+    {
+      "word": "있어서",
+      "pronounced": "이써서",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm '어', phát âm thành [이써서]."
+    },
+    {
+      "word": "길이",
+      "pronounced": "기리",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '길' nối với nguyên âm '이', phát âm thành [기리]."
+    },
+    {
+      "word": "도서관은",
+      "pronounced": "도서과는",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '도서관' nối với nguyên âm '은', phát âm thành [도서과는]."
+    },
+    {
+      "word": "좋은",
+      "pronounced": "조은",
+      "rule": "Nối âm (연음) và lược bỏ 'ㅎ'",
+      "explanation": "Patchim 'ㅎ' của '좋' bị lược bỏ trước nguyên âm '은', phát âm thành [조은]."
     }
   ]
 }

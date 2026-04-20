@@ -100,6 +100,48 @@
       "rule": "Nối âm 연음",
       "explanation": "Patchim ㅁ của 감 nối với 을 → ㅁ chuyển: [영가믈].",
       "meaning": "nguồn cảm hứng"
+    },
+    {
+      "word": "봄에는",
+      "pronounced": "보메는",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '봄' nối với nguyên âm '에', phát âm thành [보메는]."
+    },
+    {
+      "word": "나들이를",
+      "pronounced": "나드리를",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '나들' nối với nguyên âm '이', phát âm thành [나드리를]."
+    },
+    {
+      "word": "여름에는",
+      "pronounced": "여르메는",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '여름' nối với nguyên âm '에', phát âm thành [여르메는]."
+    },
+    {
+      "word": "맑아서",
+      "pronounced": "말가서",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim kép 'ㄺ' của '맑': 'ㄹ' ở lại, 'ㄱ' nối với nguyên âm '아', phát âm thành [말가서]."
+    },
+    {
+      "word": "귤을",
+      "pronounced": "규를",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '귤' nối với nguyên âm '을', phát âm thành [규를]."
+    },
+    {
+      "word": "색깔이",
+      "pronounced": "색까리",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '색깔' nối với nguyên âm '이', phát âm thành [색까리]."
+    },
+    {
+      "word": "계절에",
+      "pronounced": "계저레",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '계절' nối với nguyên âm '에', phát âm thành [계저레]."
     }
   ]
 }

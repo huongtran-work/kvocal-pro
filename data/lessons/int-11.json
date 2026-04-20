@@ -100,6 +100,48 @@
       "rule": "Nối âm + Biến âm mũi",
       "explanation": "Patchim ㄴ của 산 nối với 입 → [사니]; ㅂ của 입 gặp ㄴ biến âm mũi [님니다].",
       "meaning": "là di sản văn hóa"
+    },
+    {
+      "word": "사계절을",
+      "pronounced": "사계저를",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '사계절' nối với nguyên âm '을', phát âm thành [사계저를]."
+    },
+    {
+      "word": "여름에는",
+      "pronounced": "여르메는",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '여름' nối với nguyên âm '에', phát âm thành [여르메는]."
+    },
+    {
+      "word": "많아요",
+      "pronounced": "마나요",
+      "rule": "Nối âm (연음) và lược bỏ 'ㅎ'",
+      "explanation": "Patchim 'ㅎ' của '많' bị lược bỏ, 'ㄴ' nối với nguyên âm '아', phát âm thành [마나요]."
+    },
+    {
+      "word": "곡선은",
+      "pronounced": "곡써는",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '곡선' nối với nguyên âm '은', phát âm thành [곡써는]."
+    },
+    {
+      "word": "깊숙이",
+      "pronounced": "깊수기",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '깊숙' nối với nguyên âm '이', phát âm thành [깊수기]."
+    },
+    {
+      "word": "에어컨이나",
+      "pronounced": "에어코니나",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '에어컨' nối với nguyên âm '이나', phát âm thành [에어코니나]."
+    },
+    {
+      "word": "삶이",
+      "pronounced": "살미",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim kép 'ㄻ' của '삶': 'ㄹ' ở lại, 'ㅁ' nối với nguyên âm '이', phát âm thành [살미]."
     }
   ]
 }

@@ -100,6 +100,48 @@
       "rule": "Căng hóa + Nối âm",
       "explanation": "Patchim ㄱ của 석 căng hóa ㄱ của 구 → [꾸]; patchim ㄱ của 석₂ nối với 을 → [서글].",
       "meaning": "từng góc, khắp nơi"
+    },
+    {
+      "word": "시간에도",
+      "pronounced": "씨가네도",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '시간' nối với nguyên âm '에', phát âm thành [씨가네도]."
+    },
+    {
+      "word": "시간을",
+      "pronounced": "씨가늘",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '시간' nối với nguyên âm '을', phát âm thành [씨가늘]."
+    },
+    {
+      "word": "안에는",
+      "pronounced": "아네는",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '안' nối với nguyên âm '에', phát âm thành [아네는]."
+    },
+    {
+      "word": "있어서",
+      "pronounced": "이써서",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm '어', phát âm thành [이써서]."
+    },
+    {
+      "word": "처음 이용하는",
+      "pronounced": "처으미용하는",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '처음' nối với nguyên âm '이' của '이용', phát âm thành [처으미용하는]."
+    },
+    {
+      "word": "배려들이",
+      "pronounced": "배려드리",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '배려들' nối với nguyên âm '이', phát âm thành [배려드리]."
+    },
+    {
+      "word": "좋아요",
+      "pronounced": "조아요",
+      "rule": "Nối âm (연음) và lược bỏ 'ㅎ'",
+      "explanation": "Patchim 'ㅎ' của '좋' bị lược bỏ, nối với nguyên âm '아', phát âm thành [조아요]."
     }
   ]
 }

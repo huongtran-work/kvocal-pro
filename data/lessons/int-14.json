@@ -93,6 +93,66 @@
       "rule": "Nối âm 연음",
       "explanation": "Patchim ㄹ của 들 nối với 어요 → ㄹ chuyển: [드러요]; chuỗi liên kết 4 âm tiết.",
       "meaning": "trở nên gắn bó"
+    },
+    {
+      "word": "마음을",
+      "pronounced": "마으믈",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm '을', phát âm thành [마으믈]."
+    },
+    {
+      "word": "쌓인",
+      "pronounced": "싸인",
+      "rule": "Nối âm (연음) và lược bỏ 'ㅎ'",
+      "explanation": "Patchim 'ㅎ' của '쌓' bị lược bỏ trước nguyên âm '인', phát âm thành [싸인]."
+    },
+    {
+      "word": "깊은",
+      "pronounced": "기픈",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅍ' của '깊' nối với nguyên âm '은', phát âm thành [기픈]."
+    },
+    {
+      "word": "있어요",
+      "pronounced": "이써요",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm '어', phát âm thành [이써요]."
+    },
+    {
+      "word": "일이",
+      "pronounced": "이리",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '일' nối với nguyên âm '이', phát âm thành [이리]."
+    },
+    {
+      "word": "짐을",
+      "pronounced": "지믈",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '짐' nối với nguyên âm '을', phát âm thành [지믈]."
+    },
+    {
+      "word": "마음에서",
+      "pronounced": "마으메서",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm '에', phát âm thành [마으메서]."
+    },
+    {
+      "word": "울어주는",
+      "pronounced": "우러주는",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '울' nối với nguyên âm '어', phát âm thành [우러주는]."
+    },
+    {
+      "word": "사람에게",
+      "pronounced": "사라메게",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '사람' nối với nguyên âm '에', phát âm thành [사라메게]."
+    },
+    {
+      "word": "핵심입니다",
+      "pronounced": "해씸임니다",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '핵심' nối với nguyên âm '이' của '입니다', phát âm thành [해씸임니다]."
     }
   ]
 }
