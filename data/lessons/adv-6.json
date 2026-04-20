@@ -5,213 +5,183 @@
   "annotatedWords": [
     {
       "word": "풍요로움을",
-      "pronounced": "[풍요로우믈]",
+      "pronounced": "풍요로우믈",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '움' nối với '을' → [풍요로우믈].",
-      "meaning": "sự phong phú (tân ngữ)"
+      "explanation": "Patchim 'ㅁ' của '움' nối với '을' → [풍요로우믈]."
     },
     {
       "word": "핵심적인",
-      "pronounced": "[핵씸저긴]",
+      "pronounced": "핵씸저긴",
       "rule": "Căng hóa + Nối âm",
-      "explanation": "핵+심: ㄱ+ㅅ căng hóa → [핵씸]; 적(ㄱ)+인: ㄱ nối âm → [저긴].",
-      "meaning": "mang tính cốt lõi"
+      "explanation": "핵+심: ㄱ+ㅅ căng hóa → [핵씸]; 적(ㄱ)+인: ㄱ nối âm → [저긴]."
     },
     {
       "word": "공존하는",
-      "pronounced": "[공조나는]",
+      "pronounced": "공조나는",
       "rule": "Nối âm + ㅎ lược bỏ",
-      "explanation": "Patchim 'ㄴ' của '존' nối với '하는'; ㅎ lược bỏ → [공조나는].",
-      "meaning": "cùng tồn tại"
+      "explanation": "Patchim 'ㄴ' của '존' nối với '하는'; ㅎ lược bỏ → [공조나는]."
     },
     {
       "word": "존중하고",
-      "pronounced": "[존중하고]",
+      "pronounced": "존중하고",
       "rule": "Nối âm + ㅎ lược bỏ",
-      "explanation": "Patchim 'ㅇ' của '중' nối với '하고'; ㅎ lược bỏ → [존중하고].",
-      "meaning": "tôn trọng và"
+      "explanation": "Patchim 'ㅇ' của '중' nối với '하고'; ㅎ lược bỏ → [존중하고]."
     },
     {
       "word": "갈등을",
-      "pronounced": "[갈뜨글]",
+      "pronounced": "갈뜨글",
       "rule": "Căng hóa + Nối âm",
-      "explanation": "ㄹ+ㄷ căng hóa → [갈뜽]; 등(ㅇ)+을: ㅇ nối âm → [갈뜨글].",
-      "meaning": "mâu thuẫn (tân ngữ)"
+      "explanation": "ㄹ+ㄷ căng hóa → [갈뜽]; 등(ㅇ)+을: ㅇ nối âm → [갈뜨글]."
     },
     {
       "word": "접촉이",
-      "pronounced": "[접초기]",
+      "pronounced": "접초기",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '촉' nối với '이' → [접초기].",
-      "meaning": "sự tiếp xúc (là/được)"
+      "explanation": "Patchim 'ㄱ' của '촉' nối với '이' → [접초기]."
     },
     {
       "word": "차별을",
-      "pronounced": "[차벼를]",
+      "pronounced": "차벼를",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '별' nối với '을' → [차벼를].",
-      "meaning": "sự phân biệt (tân ngữ)"
+      "explanation": "Patchim 'ㄹ' của '별' nối với '을' → [차벼를]."
     },
     {
       "word": "넘어",
-      "pronounced": "[너머]",
+      "pronounced": "너머",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '넘' nối với '어' → [너머].",
-      "meaning": "vượt qua"
+      "explanation": "Patchim 'ㅁ' của '넘' nối với '어' → [너머]."
     },
     {
       "word": "포용적인",
-      "pronounced": "[포용저긴]",
+      "pronounced": "포용저긴",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '적' nối với '인' → [포용저긴].",
-      "meaning": "bao dung, hòa nhập"
+      "explanation": "Patchim 'ㄱ' của '적' nối với '인' → [포용저긴]."
     },
     {
       "word": "속에서",
-      "pronounced": "[소게서]",
+      "pronounced": "소게서",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '속' nối với '에서' → [소게서].",
-      "meaning": "trong, bên trong"
+      "explanation": "Patchim 'ㄱ' của '속' nối với '에서' → [소게서]."
     },
     {
       "word": "권리를",
-      "pronounced": "[궐리를]",
+      "pronounced": "궐리를",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '권' nối với '리를' → [궐리를].",
-      "meaning": "quyền lợi (tân ngữ)"
+      "explanation": "Patchim 'ㄹ' của '권' nối với '리를' → [궐리를]."
     },
     {
       "word": "노력을",
-      "pronounced": "[노녀그믈]",
+      "pronounced": "노녀그믈",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '력' nối với '을' → [노녀그믈].",
-      "meaning": "nỗ lực (tân ngữ)"
+      "explanation": "Patchim 'ㄱ' của '력' nối với '을' → [노녀그믈]."
     },
     {
       "word": "감수성을",
-      "pronounced": "[감수성을]",
+      "pronounced": "감수성을",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅇ' của '성' nối với '을' → [감수성을].",
-      "meaning": "độ nhạy cảm (tân ngữ)"
+      "explanation": "Patchim 'ㅇ' của '성' nối với '을' → [감수성을]."
     },
     {
       "word": "다름을",
-      "pronounced": "[다르믈]",
+      "pronounced": "다르믈",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '름' nối với '을' → [다르믈].",
-      "meaning": "sự khác biệt (tân ngữ)"
+      "explanation": "Patchim 'ㅁ' của '름' nối với '을' → [다르믈]."
     },
     {
       "word": "길러주어야",
-      "pronounced": "[길러주어야]",
+      "pronounced": "길러주어야",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '길' nối với '러주어야' → [길러주어야].",
-      "meaning": "phải nuôi dưỡng"
+      "explanation": "Patchim 'ㄹ' của '길' nối với '러주어야' → [길러주어야]."
     },
     {
       "word": "넓은",
-      "pronounced": "[널븐]",
+      "pronounced": "널븐",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim kép 'ㄼ' của '넓': ㅂ nối với '은' → [널븐].",
-      "meaning": "rộng, rộng lớn"
+      "explanation": "Patchim kép 'ㄼ' của '넓': ㅂ nối với '은' → [널븐]."
     },
     {
       "word": "나아갈",
-      "pronounced": "[나아갈]",
+      "pronounced": "나아갈",
       "rule": "Nối âm (연음)",
-      "explanation": "나+아: chuỗi nguyên âm liên tiếp → [나아갈].",
-      "meaning": "có thể tiến đến"
+      "explanation": "나+아: chuỗi nguyên âm liên tiếp → [나아갈]."
     },
     {
       "word": "적극적인",
-      "pronounced": "[적끄저긴]",
+      "pronounced": "적끄저긴",
       "rule": "Căng hóa + Nối âm",
-      "explanation": "극+적: ㄱ+ㅈ căng hóa; 적(ㄱ)+인: ㄱ nối âm → [저긴].",
-      "meaning": "tích cực"
+      "explanation": "극+적: ㄱ+ㅈ căng hóa; 적(ㄱ)+인: ㄱ nối âm → [저긴]."
     },
     {
       "word": "필요합니다",
-      "pronounced": "[피료함니다]",
+      "pronounced": "피료함니다",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '필' nối với '요합니다'; 합+니: ㅂ→ㅁ biến âm mũi.",
-      "meaning": "là điều cần thiết"
+      "explanation": "Patchim 'ㄹ' của '필' nối với '요합니다'; 합+니: ㅂ→ㅁ biến âm mũi."
     },
     {
       "word": "얻을",
-      "pronounced": "[어들]",
+      "pronounced": "어들",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄷ' của '얻' nối với '을' → [어들].",
-      "meaning": "có thể nhận được"
+      "explanation": "Patchim 'ㄷ' của '얻' nối với '을' → [어들]."
     },
     {
       "word": "원동력이",
-      "pronounced": "[원동녀기]",
+      "pronounced": "원동녀기",
       "rule": "Biến âm lưỡi + Nối âm",
-      "explanation": "ㄴ+ㄹ biến âm lưỡi; 력(ㄱ)+이: ㄱ nối âm → [녀기].",
-      "meaning": "động lực (là/được)"
+      "explanation": "ㄴ+ㄹ biến âm lưỡi; 력(ㄱ)+이: ㄱ nối âm → [녀기]."
     },
     {
       "word": "됩니다",
-      "pronounced": "[됨니다]",
+      "pronounced": "됨니다",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄷ' của '됩' → biến âm mũi; 됩+니: [됨니다].",
-      "meaning": "trở thành, là"
+      "explanation": "Patchim 'ㄷ' của '됩' → biến âm mũi; 됩+니: [됨니다]."
     },
     {
       "word": "두려워하지",
-      "pronounced": "[두려워하지]",
+      "pronounced": "두려워하지",
       "rule": "Nối âm (연음)",
-      "explanation": "려+워: ㄹ nối âm tự nhiên; 워+하: ㅎ lược bỏ tự nhiên.",
-      "meaning": "không sợ hãi"
+      "explanation": "려+워: ㄹ nối âm tự nhiên; 워+하: ㅎ lược bỏ tự nhiên."
     },
     {
       "word": "기회로",
-      "pronounced": "[기회로]",
+      "pronounced": "기회로",
       "rule": "Nối âm (연음)",
-      "explanation": "Chuỗi âm tiết nguyên âm liên tiếp: 기+회+로 tự nhiên.",
-      "meaning": "làm cơ hội"
+      "explanation": "Chuỗi âm tiết nguyên âm liên tiếp: 기+회+로 tự nhiên."
     },
     {
       "word": "만들어집니다",
-      "pronounced": "[만드러짐니다]",
+      "pronounced": "만드러짐니다",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '들' nối với '어집니다' → [만드러짐니다].",
-      "meaning": "được tạo ra, hình thành"
+      "explanation": "Patchim 'ㄹ' của '들' nối với '어집니다' → [만드러짐니다]."
     },
     {
       "word": "다양한",
-      "pronounced": "[다양한]",
+      "pronounced": "다양한",
       "rule": "Nối âm (연음)",
-      "explanation": "양(ㅇ)+한: ㅇ nối âm → [다양한].",
-      "meaning": "đa dạng"
+      "explanation": "양(ㅇ)+한: ㅇ nối âm → [다양한]."
     },
     {
       "word": "인정하고",
-      "pronounced": "[인정하고]",
+      "pronounced": "인정하고",
       "rule": "Nối âm + ㅎ lược bỏ",
-      "explanation": "정(ㅇ)+하고: ㅎ lược bỏ → [인정하고].",
-      "meaning": "công nhận và"
+      "explanation": "정(ㅇ)+하고: ㅎ lược bỏ → [인정하고]."
     },
     {
       "word": "발전을",
-      "pronounced": "[발저늘]",
+      "pronounced": "발저늘",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '전' nối với '을' → [발저늘].",
-      "meaning": "sự phát triển (tân ngữ)"
+      "explanation": "Patchim 'ㄴ' của '전' nối với '을' → [발저늘]."
     },
     {
       "word": "이루기",
-      "pronounced": "[이루기]",
+      "pronounced": "이루기",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '이룰'... 이루+기: ㄹ nối âm tự nhiên.",
-      "meaning": "để đạt được"
+      "explanation": "Patchim 'ㄹ' của '이룰'... 이루+기: ㄹ nối âm tự nhiên."
     },
     {
       "word": "문화적",
-      "pronounced": "[문화저]",
+      "pronounced": "문화저",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '적' tiếp tục nối với âm tiếp theo: 문화적+소수자 → [문화저소수자].",
-      "meaning": "mang tính văn hóa"
+      "explanation": "Patchim 'ㄱ' của '적' tiếp tục nối với âm tiếp theo: 문화적+소수자 → [문화저소수자]."
     }
   ]
 }

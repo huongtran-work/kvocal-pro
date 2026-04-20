@@ -5,213 +5,183 @@
   "annotatedWords": [
     {
       "word": "속에서",
-      "pronounced": "[소게서]",
+      "pronounced": "소게서",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '속' nối với '에서' → [소게서].",
-      "meaning": "trong, bên trong"
+      "explanation": "Patchim 'ㄱ' của '속' nối với '에서' → [소게서]."
     },
     {
       "word": "선별하고",
-      "pronounced": "[선벼라고]",
+      "pronounced": "선벼라고",
       "rule": "Nối âm (연음) + ㅎ lược bỏ",
-      "explanation": "Patchim 'ㄹ' của '별' nối với '하고'; ㅎ lược bỏ → [선벼라고].",
-      "meaning": "chọn lọc và"
+      "explanation": "Patchim 'ㄹ' của '별' nối với '하고'; ㅎ lược bỏ → [선벼라고]."
     },
     {
       "word": "역량입니다",
-      "pronounced": "[영냥임니다]",
+      "pronounced": "영냥임니다",
       "rule": "Biến âm lưỡi + Nối âm",
-      "explanation": "역량: ㄱ+ㄹ biến âm → [영냥]; 량(ㅇ)+입: ㅇ nối âm → [임니다].",
-      "meaning": "là năng lực"
+      "explanation": "역량: ㄱ+ㄹ biến âm → [영냥]; 량(ㅇ)+입: ㅇ nối âm → [임니다]."
     },
     {
       "word": "실시간으로",
-      "pronounced": "[실씨가느로]",
+      "pronounced": "실씨가느로",
       "rule": "Căng hóa + Nối âm",
-      "explanation": "시+간: ㄹ căng hóa → [실씨]; 간(ㄴ)+으로: ㄴ nối âm → [가느로].",
-      "meaning": "theo thời gian thực"
+      "explanation": "시+간: ㄹ căng hóa → [실씨]; 간(ㄴ)+으로: ㄴ nối âm → [가느로]."
     },
     {
       "word": "쏟아지는",
-      "pronounced": "[쏘다지는]",
+      "pronounced": "쏘다지는",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄷ' của '쏟' nối với '아지는' → [쏘다지는].",
-      "meaning": "đổ xuống, tuôn ra"
+      "explanation": "Patchim 'ㄷ' của '쏟' nối với '아지는' → [쏘다지는]."
     },
     {
       "word": "개인의",
-      "pronounced": "[개이늬]",
+      "pronounced": "개이늬",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '인' nối với '의' → [개이늬].",
-      "meaning": "của cá nhân"
+      "explanation": "Patchim 'ㄴ' của '인' nối với '의' → [개이늬]."
     },
     {
       "word": "판단을",
-      "pronounced": "[판다늘]",
+      "pronounced": "판다늘",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '단' nối với '을' → [판다늘].",
-      "meaning": "phán đoán (tân ngữ)"
+      "explanation": "Patchim 'ㄴ' của '단' nối với '을' → [판다늘]."
     },
     {
       "word": "편향성을",
-      "pronounced": "[편향성을]",
+      "pronounced": "편향성을",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅇ' của '성' nối với '을' → [편향성을].",
-      "meaning": "xu hướng, thiên kiến (tân ngữ)"
+      "explanation": "Patchim 'ㅇ' của '성' nối với '을' → [편향성을]."
     },
     {
       "word": "신뢰성을",
-      "pronounced": "[신뢰성을]",
+      "pronounced": "신뢰성을",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅇ' của '성' nối với '을' → [신뢰성을].",
-      "meaning": "độ tin cậy (tân ngữ)"
+      "explanation": "Patchim 'ㅇ' của '성' nối với '을' → [신뢰성을]."
     },
     {
       "word": "확인하는",
-      "pronounced": "[화기나는]",
+      "pronounced": "화기나는",
       "rule": "Nối âm + ㅎ lược bỏ",
-      "explanation": "Patchim 'ㄴ' của '인' nối với '하는'; ㅎ lược bỏ → [화기나는].",
-      "meaning": "xác nhận, kiểm tra"
+      "explanation": "Patchim 'ㄴ' của '인' nối với '하는'; ㅎ lược bỏ → [화기나는]."
     },
     {
       "word": "책임감도",
-      "pronounced": "[채김감도]",
+      "pronounced": "채김감도",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '책' nối với '임' → [채김]; chuỗi nối âm tự nhiên.",
-      "meaning": "tinh thần trách nhiệm cũng"
+      "explanation": "Patchim 'ㄱ' của '책' nối với '임' → [채김]; chuỗi nối âm tự nhiên."
     },
     {
       "word": "말아야",
-      "pronounced": "[마라야]",
+      "pronounced": "마라야",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '말' nối với '아야' → [마라야].",
-      "meaning": "không được (quên)"
+      "explanation": "Patchim 'ㄹ' của '말' nối với '아야' → [마라야]."
     },
     {
       "word": "마련해야",
-      "pronounced": "[마려내야]",
+      "pronounced": "마려내야",
       "rule": "Nối âm + ㅎ lược bỏ",
-      "explanation": "Patchim 'ㄴ' của '련' nối với '해야'; ㅎ lược bỏ → [마려내야].",
-      "meaning": "phải chuẩn bị"
+      "explanation": "Patchim 'ㄴ' của '련' nối với '해야'; ㅎ lược bỏ → [마려내야]."
     },
     {
       "word": "확산을",
-      "pronounced": "[확싸늘]",
+      "pronounced": "확싸늘",
       "rule": "Căng hóa + Nối âm",
-      "explanation": "확+산: ㄱ căng hóa → [확싼]; 산(ㄴ)+을: ㄴ nối âm → [싸늘].",
-      "meaning": "sự lan rộng (tân ngữ)"
+      "explanation": "확+산: ㄱ căng hóa → [확싼]; 산(ㄴ)+을: ㄴ nối âm → [싸늘]."
     },
     {
       "word": "만들어갈",
-      "pronounced": "[만드러갈]",
+      "pronounced": "만드러갈",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '들' nối với '어갈' → [만드러갈].",
-      "meaning": "có thể tạo ra"
+      "explanation": "Patchim 'ㄹ' của '들' nối với '어갈' → [만드러갈]."
     },
     {
       "word": "살아가는",
-      "pronounced": "[사라가는]",
+      "pronounced": "사라가는",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '살' nối với '아가는' → [사라가는].",
-      "meaning": "đang sống, sinh sống"
+      "explanation": "Patchim 'ㄹ' của '살' nối với '아가는' → [사라가는]."
     },
     {
       "word": "것입니다",
-      "pronounced": "[거심니다]",
+      "pronounced": "거심니다",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅅ' của '것' nối với '입니다' → [거심니다].",
-      "meaning": "là điều đó"
+      "explanation": "Patchim 'ㅅ' của '것' nối với '입니다' → [거심니다]."
     },
     {
       "word": "기관인지",
-      "pronounced": "[기과닌지]",
+      "pronounced": "기과닌지",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '관' nối với '인지' → [기과닌지].",
-      "meaning": "có phải tổ chức hay không"
+      "explanation": "Patchim 'ㄴ' của '관' nối với '인지' → [기과닌지]."
     },
     {
       "word": "시각을",
-      "pronounced": "[시가그믈]",
+      "pronounced": "시가그믈",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '각' nối với '을' → [시가그믈].",
-      "meaning": "góc nhìn, quan điểm (tân ngữ)"
+      "explanation": "Patchim 'ㄱ' của '각' nối với '을' → [시가그믈]."
     },
     {
       "word": "반응하기",
-      "pronounced": "[바능하기]",
+      "pronounced": "바능하기",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅇ' của '응' nối với '하기' → [바능하기].",
-      "meaning": "phản ứng"
+      "explanation": "Patchim 'ㅇ' của '응' nối với '하기' → [바능하기]."
     },
     {
       "word": "사실여부를",
-      "pronounced": "[사시려부를]",
+      "pronounced": "사시려부를",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '실' nối với '여부를' → [사시려부를].",
-      "meaning": "thực hư sự thật (tân ngữ)"
+      "explanation": "Patchim 'ㄹ' của '실' nối với '여부를' → [사시려부를]."
     },
     {
       "word": "습관을",
-      "pronounced": "[습과늘]",
+      "pronounced": "습과늘",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '관' nối với '을' → [습과늘].",
-      "meaning": "thói quen (tân ngữ)"
+      "explanation": "Patchim 'ㄴ' của '관' nối với '을' → [습과늘]."
     },
     {
       "word": "않을",
-      "pronounced": "[아늘]",
+      "pronounced": "아늘",
       "rule": "Nối âm + ㅎ lược bỏ",
-      "explanation": "Patchim kép 'ㄶ' của '않': ㄴ nối âm, ㅎ lược bỏ → [아늘].",
-      "meaning": "không (trợ từ phủ định)"
+      "explanation": "Patchim kép 'ㄶ' của '않': ㄴ nối âm, ㅎ lược bỏ → [아늘]."
     },
     {
       "word": "내용을",
-      "pronounced": "[내용을]",
+      "pronounced": "내용을",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅇ' của '용' nối với '을' → [내용을].",
-      "meaning": "nội dung (tân ngữ)"
+      "explanation": "Patchim 'ㅇ' của '용' nối với '을' → [내용을]."
     },
     {
       "word": "비판적으로",
-      "pronounced": "[비판저그로]",
+      "pronounced": "비판저그로",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '적' nối với '으로' → [비판저그로].",
-      "meaning": "một cách phê phán"
+      "explanation": "Patchim 'ㄱ' của '적' nối với '으로' → [비판저그로]."
     },
     {
       "word": "필수적인",
-      "pronounced": "[필수저긴]",
+      "pronounced": "필수저긴",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '적' nối với '인' → [필수저긴].",
-      "meaning": "cần thiết, bắt buộc"
+      "explanation": "Patchim 'ㄱ' của '적' nối với '인' → [필수저긴]."
     },
     {
       "word": "체계적인",
-      "pronounced": "[체계저긴]",
+      "pronounced": "체계저긴",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '적' nối với '인' → [체계저긴].",
-      "meaning": "có hệ thống"
+      "explanation": "Patchim 'ㄱ' của '적' nối với '인' → [체계저긴]."
     },
     {
       "word": "윤리적",
-      "pronounced": "[율리저긴]",
+      "pronounced": "율리저긴",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '적' nối với '인/조치': ㄱ nối âm → [율리저].",
-      "meaning": "đạo đức, đạo lý"
+      "explanation": "Patchim 'ㄱ' của '적' nối với '인/조치': ㄱ nối âm → [율리저]."
     },
     {
       "word": "비판적인",
-      "pronounced": "[비판저긴]",
+      "pronounced": "비판저긴",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '적' nối với '인' → [비판저긴].",
-      "meaning": "mang tính phê phán"
+      "explanation": "Patchim 'ㄱ' của '적' nối với '인' → [비판저긴]."
     },
     {
       "word": "검토한",
-      "pronounced": "[검토한]",
+      "pronounced": "검토한",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '검' nối với '토한' → [검토한].",
-      "meaning": "đã xem xét, kiểm tra"
+      "explanation": "Patchim 'ㅁ' của '검' nối với '토한' → [검토한]."
     }
   ]
 }
