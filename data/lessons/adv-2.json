@@ -5,210 +5,210 @@
   "annotatedWords": [
     {
       "word": "기술의",
-      "pronounced": "[기수릐]",
+      "pronounced": "기수릐",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄹ' của '술' nối với '의', phát âm thành [기수릐].",
       "meaning": "của kỹ thuật"
     },
     {
       "word": "발전은",
-      "pronounced": "[발저는]",
+      "pronounced": "발저는",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄴ' của '전' nối với '은', phát âm thành [발저는].",
       "meaning": "sự phát triển (chủ ngữ)"
     },
     {
       "word": "삶의",
-      "pronounced": "[살므이]",
+      "pronounced": "살므이",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim kép 'ㄻ' của '삶': ㅁ nối với '의' → [살므이].",
       "meaning": "của cuộc sống"
     },
     {
       "word": "방식을",
-      "pronounced": "[방시그믈]",
+      "pronounced": "방시그믈",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '식' nối với '을', phát âm thành [방시그믈].",
       "meaning": "phương thức (tân ngữ)"
     },
     {
       "word": "근본적으로",
-      "pronounced": "[근본저그로]",
+      "pronounced": "근본저그로",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '적' nối với '으로', phát âm thành [근본저그로].",
       "meaning": "về cơ bản"
     },
     {
       "word": "분야에서",
-      "pronounced": "[부냐에서]",
+      "pronounced": "부냐에서",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄴ' của '야' nối với... 야+에: 분야+에서 → [부냐에서].",
       "meaning": "trong lĩnh vực"
     },
     {
       "word": "인공지능이",
-      "pronounced": "[인공지능이]",
+      "pronounced": "인공지능이",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㅇ' của '능' nối với '이': ㅇ nối âm → [지능이].",
       "meaning": "trí tuệ nhân tạo (là)"
     },
     {
       "word": "활용되며",
-      "pronounced": "[화룡되며]",
+      "pronounced": "화룡되며",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄹ' của '활' nối với '용', phát âm thành [화룡되며].",
       "meaning": "được ứng dụng và"
     },
     {
       "word": "편의성을",
-      "pronounced": "[펴니성을]",
+      "pronounced": "펴니성을",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄴ' của '의' nối với '성을': [펴니성을].",
       "meaning": "tính tiện lợi (tân ngữ)"
     },
     {
       "word": "높여주고있어요",
-      "pronounced": "[노펴주고이써요]",
-      "rule": "Bật hơi + Nối âm",
+      "pronounced": "노펴주고이써요",
+      "rule": "Âm bật hơi (격음화) + Nối âm (연음)",
       "explanation": "높: ㅍ patchim bật hơi; 있+어: ㅆ nối âm → [이써요].",
       "meaning": "đang nâng cao"
     },
     {
       "word": "지능을",
-      "pronounced": "[지느글]",
+      "pronounced": "지느글",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㅇ' của '능' nối với '을', phát âm thành [지느글].",
       "meaning": "trí tuệ (tân ngữ)"
     },
     {
       "word": "합의를",
-      "pronounced": "[하비를]",
+      "pronounced": "하비를",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㅂ' của '합' nối với '의를', phát âm thành [하비를].",
       "meaning": "sự đồng thuận (tân ngữ)"
     },
     {
       "word": "이끌어내야합니다",
-      "pronounced": "[이끄러내야함니다]",
+      "pronounced": "이끄러내야함니다",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄹ' của '끌' nối với '어', phát âm thành [이끄러내야함니다].",
       "meaning": "phải dẫn dắt, tạo ra"
     },
     {
       "word": "알고리즘의",
-      "pronounced": "[알고리즈믜]",
+      "pronounced": "알고리즈믜",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㅁ' của '즘' nối với '의', phát âm thành [알고리즈믜].",
       "meaning": "của thuật toán"
     },
     {
       "word": "공정성을",
-      "pronounced": "[공정성을]",
+      "pronounced": "공정성을",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㅇ' của '성' nối với '을' → [공정성을].",
       "meaning": "tính công bằng (tân ngữ)"
     },
     {
       "word": "것이무엇보다",
-      "pronounced": "[거시무엇보다]",
+      "pronounced": "거시무엇보다",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㅅ' của '것' nối với '이' → [거시].",
       "meaning": "điều quan trọng nhất"
     },
     {
       "word": "가이드라인이",
-      "pronounced": "[가이드라이니]",
+      "pronounced": "가이드라이니",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄴ' của '인' nối với '이', phát âm thành [가이드라이니].",
       "meaning": "hướng dẫn (là)"
     },
     {
       "word": "끊임없이",
-      "pronounced": "[끄님업씨]",
-      "rule": "Nối âm + ㅎ lược bỏ",
+      "pronounced": "끄님업씨",
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
       "explanation": "끊: ㄶ patchim, ㄴ nối âm ㅎ lược; 없+이: ㅄ patchim → [업씨].",
       "meaning": "không ngừng"
     },
     {
       "word": "주역으로서",
-      "pronounced": "[주여그로서]",
+      "pronounced": "주여그로서",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '역' nối với '으로서', phát âm thành [주여그로서].",
       "meaning": "với tư cách là nhân vật chính"
     },
     {
       "word": "비판적인",
-      "pronounced": "[비판저긴]",
+      "pronounced": "비판저긴",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '적' nối với '인', phát âm thành [비판저긴].",
       "meaning": "mang tính phê phán"
     },
     {
       "word": "창의적인",
-      "pronounced": "[창의저긴]",
+      "pronounced": "창의저긴",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '적' nối với '인', phát âm thành [창의저긴].",
       "meaning": "mang tính sáng tạo"
     },
     {
       "word": "능력을",
-      "pronounced": "[능녀그믈]",
+      "pronounced": "능녀그믈",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '력' nối với '을', phát âm thành [능녀그믈].",
       "meaning": "năng lực (tân ngữ)"
     },
     {
       "word": "기술이",
-      "pronounced": "[기수리]",
+      "pronounced": "기수리",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄹ' của '술' nối với '이', phát âm thành [기수리].",
       "meaning": "kỹ thuật (là)"
     },
     {
       "word": "인간을",
-      "pronounced": "[인가늘]",
+      "pronounced": "인가늘",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄴ' của '간' nối với '을', phát âm thành [인가늘].",
       "meaning": "con người (tân ngữ)"
     },
     {
       "word": "혜택이",
-      "pronounced": "[혜태기]",
+      "pronounced": "혜태기",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '택' nối với '이', phát âm thành [혜태기].",
       "meaning": "lợi ích (là)"
     },
     {
       "word": "돌아갈수있는",
-      "pronounced": "[도라갈쑤인는]",
-      "rule": "Nối âm + Căng hóa",
+      "pronounced": "도라갈쑤인는",
+      "rule": "Nối âm (연음) + Căng âm (경음화)",
       "explanation": "Patchim 'ㄹ' của '갈' nối với '수'; 수+있는: Căng hóa + nối âm.",
       "meaning": "có thể quay lại/đến được"
     },
     {
       "word": "만들어야합니다",
-      "pronounced": "[만드러야함니다]",
+      "pronounced": "만드러야함니다",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄹ' của '들' nối với '어야', phát âm thành [만드러야함니다].",
       "meaning": "phải tạo ra"
     },
     {
       "word": "사회적합의를",
-      "pronounced": "[사회저카비를]",
-      "rule": "Nối âm + Bật hơi",
+      "pronounced": "사회저카비를",
+      "rule": "Nối âm (연음) + Âm bật hơi (격음화)",
       "explanation": "적+합: ㄱ+ㅎ = 격음화 [저카]; 합+의: ㅂ nối âm [하비를].",
       "meaning": "sự đồng thuận xã hội (tân ngữ)"
     },
     {
       "word": "키워나가야합니다",
-      "pronounced": "[키워나가야함니다]",
-      "rule": "Nối âm chuỗi",
+      "pronounced": "키워나가야함니다",
+      "rule": "Nối âm (연음)",
       "explanation": "Chuỗi nguyên âm liên tiếp; 합+니: biến âm mũi [함니다].",
       "meaning": "phải nuôi dưỡng, phát triển"
     },
     {
       "word": "해결해야할과제들도",
-      "pronounced": "[해겨래야할과제드로도]",
+      "pronounced": "해겨래야할과제드로도",
       "rule": "Nối âm (연음)",
       "explanation": "결+해: ㄹ nối âm → [겨래]; 들+도: ㄹ+ㄷ... các nối âm trong chuỗi.",
       "meaning": "những vấn đề cần giải quyết"

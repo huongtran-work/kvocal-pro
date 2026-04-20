@@ -5,64 +5,64 @@
   "annotatedWords": [
     {
       "word": "이름은",
-      "pronounced": "[이르믄]",
-      "rule": "Nối âm 연음",
+      "pronounced": "이르믄",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㅁ' của '름' nối với nguyên âm 'ㅇ' của '은'.",
       "meaning": "Tên là"
     },
     {
       "word": "사람이에요",
-      "pronounced": "[사라미에여]",
-      "rule": "Nối âm 연음",
+      "pronounced": "사라미에여",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㅁ' của '람' nối với nguyên âm 'ㅇ' của '이'.",
       "meaning": "Là người"
     },
     {
       "word": "대학교에",
-      "pronounced": "[대하꾜에]",
-      "rule": "Nối âm 연음",
+      "pronounced": "대하꾜에",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '학' nối với nguyên âm 'ㅇ' của '에'.",
       "meaning": "Đến đại học"
     },
     {
       "word": "한국어를",
-      "pronounced": "[한구거를]",
-      "rule": "Nối âm 연음",
+      "pronounced": "한구거를",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '국' nối với nguyên âm 'ㅇ' của '어'.",
       "meaning": "Tiếng Hàn"
     },
     {
       "word": "음악을",
-      "pronounced": "[으마글]",
-      "rule": "Nối âm 연음",
+      "pronounced": "으마글",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '악' nối với nguyên âm 'ㅇ' của '을'.",
       "meaning": "Nhạc"
     },
     {
       "word": "들어요",
-      "pronounced": "[드러여]",
-      "rule": "Nối âm 연음",
+      "pronounced": "드러여",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄹ' của '들' nối với nguyên âm '어'.",
       "meaning": "Nghe"
     },
     {
       "word": "책을",
-      "pronounced": "[채글]",
-      "rule": "Nối âm 연음",
+      "pronounced": "채글",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '책' nối với nguyên âm 'ㅇ' của '을'.",
       "meaning": "Sách"
     },
     {
       "word": "읽어요",
-      "pronounced": "[일거여]",
-      "rule": "Nối âm 연음",
+      "pronounced": "일거여",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄺ' của '읽' nối với nguyên âm '어', chỉ có 'ㄱ' nối sang.",
       "meaning": "Đọc"
     },
     {
       "word": "친구들을",
-      "pronounced": "[친구드를]",
-      "rule": "Nối âm 연음",
+      "pronounced": "친구드를",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄹ' của '들' nối với nguyên âm '을'.",
       "meaning": "Bạn bè"
     }

@@ -5,211 +5,211 @@
   "annotatedWords": [
     {
       "word": "세계적으로",
-      "pronounced": "[세계저그로]",
+      "pronounced": "세계저그로",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '적' nối với nguyên âm '으', phát âm thành [세계저그로].",
       "meaning": "trên toàn thế giới"
     },
     {
       "word": "있으며",
-      "pronounced": "[이쓰며]",
+      "pronounced": "이쓰며",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim kép 'ㅆ' của '있' nối với '으며', phát âm thành [이쓰며].",
       "meaning": "đang có và"
     },
     {
       "word": "생존을",
-      "pronounced": "[생조늘]",
+      "pronounced": "생조늘",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄴ' của '존' nối với '을', phát âm thành [생조늘].",
       "meaning": "sự sinh tồn (tân ngữ)"
     },
     {
       "word": "수준에",
-      "pronounced": "[수주네]",
+      "pronounced": "수주네",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄴ' của '준' nối với '에', phát âm thành [수주네].",
       "meaning": "ở mức độ"
     },
     {
       "word": "배출은",
-      "pronounced": "[배추른]",
+      "pronounced": "배추른",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄹ' của '출' nối với '은', phát âm thành [배추른].",
       "meaning": "sự thải ra (chủ ngữ)"
     },
     {
       "word": "주범으로",
-      "pronounced": "[주버므로]",
+      "pronounced": "주버므로",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㅁ' của '범' nối với '으로', phát âm thành [주버므로].",
       "meaning": "là thủ phạm chính"
     },
     {
       "word": "막연한",
-      "pronounced": "[마견한]",
+      "pronounced": "마견한",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '막' nối với nguyên âm '연', phát âm thành [마견한].",
       "meaning": "막연(막+연) mơ hồ"
     },
     {
       "word": "걱정을",
-      "pronounced": "[걱쩌글]",
-      "rule": "Căng hóa + Nối âm",
+      "pronounced": "걱쩌글",
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
       "explanation": "ㄱ+ㅈ căng hóa → [쩡]; patchim 'ㅇ' của '정' nối với '을' → [걱쩌글].",
       "meaning": "lo lắng (tân ngữ)"
     },
     {
       "word": "넘어",
-      "pronounced": "[너머]",
+      "pronounced": "너머",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㅁ' của '넘' nối với nguyên âm '어', phát âm thành [너머].",
       "meaning": "vượt qua"
     },
     {
       "word": "실질적인",
-      "pronounced": "[실찔저긴]",
-      "rule": "Căng hóa + Nối âm",
+      "pronounced": "실찔저긴",
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
       "explanation": "ㄹ+ㅈ căng hóa → [찔]; patchim 'ㄱ' của '적' nối với '인' → [실찔저긴].",
       "meaning": "thực chất"
     },
     {
       "word": "대책을",
-      "pronounced": "[대채글]",
+      "pronounced": "대채글",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '책' nối với '을', phát âm thành [대채글].",
       "meaning": "đối sách (tân ngữ)"
     },
     {
       "word": "차원에서의",
-      "pronounced": "[차워네서의]",
+      "pronounced": "차워네서의",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄴ' của '원' nối với '에서', phát âm thành [차워네서의].",
       "meaning": "ở cấp độ"
     },
     {
       "word": "더불어",
-      "pronounced": "[더부러]",
+      "pronounced": "더부러",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄹ' của '불' nối với nguyên âm '어', phát âm thành [더부러].",
       "meaning": "cùng với"
     },
     {
       "word": "기업들의",
-      "pronounced": "[기업드릐]",
+      "pronounced": "기업드릐",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄹ' của '들' nối với '의', phát âm thành [기업드릐].",
       "meaning": "của các doanh nghiệp"
     },
     {
       "word": "전환이",
-      "pronounced": "[전화니]",
+      "pronounced": "전화니",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄴ' của '환' nối với '이', phát âm thành [전화니].",
       "meaning": "sự chuyển đổi (là/được)"
     },
     {
       "word": "필수적입니다",
-      "pronounced": "[필수저깁니다]",
+      "pronounced": "필수저깁니다",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '적' nối với '입니다', phát âm thành [필수저깁니다].",
       "meaning": "là điều cần thiết"
     },
     {
       "word": "속에서",
-      "pronounced": "[소게서]",
+      "pronounced": "소게서",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '속' nối với '에서', phát âm thành [소게서].",
       "meaning": "trong/bên trong"
     },
     {
       "word": "실천을",
-      "pronounced": "[실처늘]",
+      "pronounced": "실처늘",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄴ' của '천' nối với '을', phát âm thành [실처늘].",
       "meaning": "thực hành (tân ngữ)"
     },
     {
       "word": "선택이",
-      "pronounced": "[선태기]",
+      "pronounced": "선태기",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '택' nối với '이', phát âm thành [선태기].",
       "meaning": "lựa chọn (là)"
     },
     {
       "word": "후손들에게",
-      "pronounced": "[후손드레게]",
+      "pronounced": "후손드레게",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄹ' của '들' nối với '에게', phát âm thành [후손드레게].",
       "meaning": "cho con cháu"
     },
     {
       "word": "유산임을",
-      "pronounced": "[유사님을]",
+      "pronounced": "유사님을",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄴ' của '산' nối với '임을', phát âm thành [유사님을].",
       "meaning": "(là) di sản (tân ngữ)"
     },
     {
       "word": "않으면",
-      "pronounced": "[아느면]",
-      "rule": "Nối âm + ㅎ lược bỏ",
+      "pronounced": "아느면",
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
       "explanation": "Patchim kép 'ㄶ' của '않': ㄴ nối âm, ㅎ lược bỏ → [아느면].",
       "meaning": "nếu không"
     },
     {
       "word": "책임감을",
-      "pronounced": "[채김가믈]",
+      "pronounced": "채김가믈",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '책' nối với '임' → [채김]; patchim 'ㅁ' của '감' nối với '을' → [가믈].",
       "meaning": "tinh thần trách nhiệm (tân ngữ)"
     },
     {
       "word": "이어가야합니다",
-      "pronounced": "[이어가야함니다]",
-      "rule": "Nối âm chuỗi",
+      "pronounced": "이어가야함니다",
+      "rule": "Nối âm (연음)",
       "explanation": "이+어: chuỗi nguyên âm nối liên tiếp; hợp+니다 → biến âm mũi [함니다].",
       "meaning": "phải tiếp tục duy trì"
     },
     {
       "word": "말아야합니다",
-      "pronounced": "[마라야함니다]",
+      "pronounced": "마라야함니다",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄹ' của '말' nối với '아야', phát âm thành [마라야함니다].",
       "meaning": "không được quên"
     },
     {
       "word": "경영전환이",
-      "pronounced": "[경영저놔니]",
+      "pronounced": "경영저놔니",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄴ' của '환' nối với '이', phát âm thành [경영저놔니].",
       "meaning": "chuyển đổi quản trị (là)"
     },
     {
       "word": "자연재해를",
-      "pronounced": "[자연재해를]",
-      "rule": "Nối âm + Bật hơi",
+      "pronounced": "자연재해를",
+      "rule": "Nối âm (연음) + Âm bật hơi (격음화)",
       "explanation": "재+해: patchim 'ㄴ'... 재해: ㅎ trước 를 → phát âm tự nhiên [자연재해를].",
       "meaning": "thiên tai (tân ngữ)"
     },
     {
       "word": "중대한과제가",
-      "pronounced": "[중대한과제가]",
+      "pronounced": "중대한과제가",
       "rule": "Nối âm (연음)",
       "explanation": "한+과: patchim 'ㄴ'+과 → [한과]; chuỗi nối tự nhiên [중대한과제가].",
       "meaning": "nhiệm vụ quan trọng"
     },
     {
       "word": "무분별한",
-      "pronounced": "[무분벼란]",
-      "rule": "Nối âm + ㅎ lược bỏ",
+      "pronounced": "무분벼란",
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
       "explanation": "Patchim 'ㄹ' của '별' nối với '한': ㄹ+한 → ㅎ lược bỏ → [무분벼란].",
       "meaning": "bừa bãi, vô tội vạ"
     },
     {
       "word": "행동하지않으면",
-      "pronounced": "[행도나지아느면]",
-      "rule": "Nối âm + ㅎ lược bỏ",
+      "pronounced": "행도나지아느면",
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
       "explanation": "동+하: ㅎ lược bỏ → [도나]; 않+으: ㄴ nối âm, ㅎ lược → [아느면].",
       "meaning": "nếu không hành động"
     }

@@ -5,92 +5,92 @@
   "annotatedWords": [
     {
       "word": "공간을",
-      "pronounced": "[공가늘]",
-      "rule": "Nối âm 연음",
+      "pronounced": "공가늘",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim ㄴ của 간 nối với nguyên âm 을 → ㄴ chuyển: [공가늘].",
       "meaning": "không gian"
     },
     {
       "word": "넘어",
-      "pronounced": "[너머]",
-      "rule": "Nối âm 연음",
+      "pronounced": "너머",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim ㅁ của 넘 nối với nguyên âm 어 → ㅁ chuyển: [너머].",
       "meaning": "vượt qua"
     },
     {
       "word": "활동이",
-      "pronounced": "[활동이]",
-      "rule": "Nối âm 연음",
+      "pronounced": "활동이",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim ㅇ(ng) của 동 nối với 이 → ng liên kết: [활동이].",
       "meaning": "hoạt động"
     },
     {
       "word": "이루어지는",
-      "pronounced": "[이루어지는]",
-      "rule": "Nối âm 연음",
+      "pronounced": "이루어지는",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim ㄹ của 루 + 어지는 → ㄹ liên kết; chuỗi 5 âm tiết mượt mà.",
       "meaning": "được diễn ra"
     },
     {
       "word": "골라가는",
-      "pronounced": "[골라가는]",
-      "rule": "Nối âm 연음",
+      "pronounced": "골라가는",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim ㄹ của 골 nối với 아가는 → ㄹ chuyển: [골라가는].",
       "meaning": "chọn lựa rồi đi"
     },
     {
       "word": "특징입니다",
-      "pronounced": "[특찡임니다]",
-      "rule": "Căng hóa + Biến âm mũi",
+      "pronounced": "특찡임니다",
+      "rule": "Căng âm (경음화) + Biến âm mũi (비음화)",
       "explanation": "Patchim ㄱ của 특 căng hóa ㅈ → [찡]; 징+입 nối âm [찡이]; ㅂ gặp ㄴ biến âm mũi [임니다].",
       "meaning": "là đặc điểm"
     },
     {
       "word": "대화를",
-      "pronounced": "[대화를]",
-      "rule": "Nối âm 연음",
+      "pronounced": "대화를",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim ㄹ của 화 nối với 를 → ㄹ liên kết: [대화를].",
       "meaning": "cuộc trò chuyện"
     },
     {
       "word": "좋아합니다",
-      "pronounced": "[조아함니다]",
-      "rule": "Nối âm (ㅎ câm) + Biến âm mũi",
+      "pronounced": "조아함니다",
+      "rule": "Lược bỏ ㅎ (ㅎ탈락) + Biến âm mũi (비음화)",
       "explanation": "Patchim ㅎ của 좋 trước 아 → ㅎ câm [조아]; ㅂ của 합 gặp ㄴ biến âm mũi [함니다].",
       "meaning": "thích"
     },
     {
       "word": "반려동물과",
-      "pronounced": "[발려동물꽈]",
-      "rule": "Biến âm lưỡi + Căng hóa",
+      "pronounced": "발려동물꽈",
+      "rule": "Biến âm lưỡi (유음화) + Căng âm (경음화)",
       "explanation": "Patchim ㄴ của 반 gặp ㄹ → [발려]; patchim ㄹ của 물 gặp ㄱ → căng hóa [꽈].",
       "meaning": "cùng thú cưng và"
     },
     {
       "word": "음료나",
-      "pronounced": "[음료나]",
-      "rule": "Nối âm 연음",
+      "pronounced": "음료나",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim ㄹ của 료 nối với 나 → ㄹ liên kết [음료나].",
       "meaning": "đồ uống hoặc"
     },
     {
       "word": "집중력을",
-      "pronounced": "[집쭝녀글]",
-      "rule": "Căng hóa + Biến âm mũi + Nối âm",
+      "pronounced": "집쭝녀글",
+      "rule": "Căng âm (경음화) + Biến âm mũi (비음화) + Nối âm (연음)",
       "explanation": "Patchim ㄱ của 중 căng hóa ㄹ의 력 → [쭝녀]; patchim ㄱ nối với 을 → [녀글].",
       "meaning": "khả năng tập trung"
     },
     {
       "word": "라이프스타일을",
-      "pronounced": "[라이프스타이를]",
-      "rule": "Nối âm 연음",
+      "pronounced": "라이프스타이를",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim ㄹ của 일 nối với 을 → ㄹ chuyển: [스타이를]; chuỗi liên kết mượt.",
       "meaning": "phong cách sống"
     },
     {
       "word": "이색카페들이",
-      "pronounced": "[이색까페드리]",
-      "rule": "Căng hóa + Nối âm",
+      "pronounced": "이색까페드리",
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
       "explanation": "Patchim ㄱ của 색 căng hóa ㄱ của 카 → [까]; patchim ㄹ của 들 nối với 이 → [드리].",
       "meaning": "những quán cà phê độc đáo"
     },

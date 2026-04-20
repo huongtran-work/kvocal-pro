@@ -12,19 +12,19 @@
     {
       "word": "선별하고",
       "pronounced": "선벼라고",
-      "rule": "Nối âm (연음) + ㅎ lược bỏ",
+      "rule": "Nối âm (연音) + lược bỏ ㅎ (ㅎ탈락)",
       "explanation": "Patchim 'ㄹ' của '별' nối với '하고'; ㅎ lược bỏ → [선벼라고]."
     },
     {
       "word": "역량입니다",
       "pronounced": "영냥임니다",
-      "rule": "Biến âm lưỡi + Nối âm",
+      "rule": "Biến âm lưỡi (유음화) + Nối âm (연音)",
       "explanation": "역량: ㄱ+ㄹ biến âm → [영냥]; 량(ㅇ)+입: ㅇ nối âm → [임니다]."
     },
     {
       "word": "실시간으로",
       "pronounced": "실씨가느로",
-      "rule": "Căng hóa + Nối âm",
+      "rule": "Căng âm (경음화) + Nối âm (연音)",
       "explanation": "시+간: ㄹ căng hóa → [실씨]; 간(ㄴ)+으로: ㄴ nối âm → [가느로]."
     },
     {
@@ -60,7 +60,7 @@
     {
       "word": "확인하는",
       "pronounced": "화기나는",
-      "rule": "Nối âm + ㅎ lược bỏ",
+      "rule": "Nối âm (연音) + lược bỏ ㅎ (ㅎ탈락)",
       "explanation": "Patchim 'ㄴ' của '인' nối với '하는'; ㅎ lược bỏ → [화기나는]."
     },
     {
@@ -78,13 +78,13 @@
     {
       "word": "마련해야",
       "pronounced": "마려내야",
-      "rule": "Nối âm + ㅎ lược bỏ",
+      "rule": "Nối âm (연音) + lược bỏ ㅎ (ㅎ탈락)",
       "explanation": "Patchim 'ㄴ' của '련' nối với '해야'; ㅎ lược bỏ → [마려내야]."
     },
     {
       "word": "확산을",
       "pronounced": "확싸늘",
-      "rule": "Căng hóa + Nối âm",
+      "rule": "Căng âm (경음화) + Nối âm (연音)",
       "explanation": "확+산: ㄱ căng hóa → [확싼]; 산(ㄴ)+을: ㄴ nối âm → [싸늘]."
     },
     {
@@ -96,7 +96,7 @@
     {
       "word": "살아가는",
       "pronounced": "사라가는",
-      "rule": "Nối âm (연음)",
+      "rule": "Nối âm (연音)",
       "explanation": "Patchim 'ㄹ' của '살' nối với '아가는' → [사라가는]."
     },
     {
@@ -138,7 +138,7 @@
     {
       "word": "않을",
       "pronounced": "아늘",
-      "rule": "Nối âm + ㅎ lược bỏ",
+      "rule": "Nối âm (연音) + lược bỏ ㅎ (ㅎ탈락)",
       "explanation": "Patchim kép 'ㄶ' của '않': ㄴ nối âm, ㅎ lược bỏ → [아늘]."
     },
     {

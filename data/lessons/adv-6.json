@@ -7,30 +7,30 @@
       "word": "풍요로움을",
       "pronounced": "풍요로우믈",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '움' nối với '을' → [풍요로우믈]."
+      "explanation": "Patchim 'ㅁ' của '음' nối với '을' → [풍요로우믈]."
     },
     {
       "word": "핵심적인",
       "pronounced": "핵씸저긴",
-      "rule": "Căng hóa + Nối âm",
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
       "explanation": "핵+심: ㄱ+ㅅ căng hóa → [핵씸]; 적(ㄱ)+인: ㄱ nối âm → [저긴]."
     },
     {
       "word": "공존하는",
       "pronounced": "공조나는",
-      "rule": "Nối âm + ㅎ lược bỏ",
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
       "explanation": "Patchim 'ㄴ' của '존' nối với '하는'; ㅎ lược bỏ → [공조나는]."
     },
     {
       "word": "존중하고",
       "pronounced": "존중하고",
-      "rule": "Nối âm + ㅎ lược bỏ",
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
       "explanation": "Patchim 'ㅇ' của '중' nối với '하고'; ㅎ lược bỏ → [존중하고]."
     },
     {
       "word": "갈등을",
       "pronounced": "갈뜨글",
-      "rule": "Căng hóa + Nối âm",
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
       "explanation": "ㄹ+ㄷ căng hóa → [갈뜽]; 등(ㅇ)+을: ㅇ nối âm → [갈뜨글]."
     },
     {
@@ -108,7 +108,7 @@
     {
       "word": "적극적인",
       "pronounced": "적끄저긴",
-      "rule": "Căng hóa + Nối âm",
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
       "explanation": "극+적: ㄱ+ㅈ căng hóa; 적(ㄱ)+인: ㄱ nối âm → [저긴]."
     },
     {
@@ -126,7 +126,7 @@
     {
       "word": "원동력이",
       "pronounced": "원동녀기",
-      "rule": "Biến âm lưỡi + Nối âm",
+      "rule": "Biến âm lưỡi (유음화) + Nối âm (연음)",
       "explanation": "ㄴ+ㄹ biến âm lưỡi; 력(ㄱ)+이: ㄱ nối âm → [녀기]."
     },
     {
@@ -162,7 +162,7 @@
     {
       "word": "인정하고",
       "pronounced": "인정하고",
-      "rule": "Nối âm + ㅎ lược bỏ",
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
       "explanation": "정(ㅇ)+하고: ㅎ lược bỏ → [인정하고]."
     },
     {

@@ -6,77 +6,77 @@
     {
       "word": "아침밥을",
       "pronounced": "아침바블",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối 'ㅂ' của '밥' nối với nguyên âm '을'.",
       "meaning": "cơm sáng"
     },
     {
       "word": "먹어요",
       "pronounced": "머거요",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối 'ㄱ' của '먹' nối với nguyên âm '어'.",
       "meaning": "ăn"
     },
     {
       "word": "앞에서",
       "pronounced": "아페서",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối 'ㅍ' của '앞' nối với nguyên âm '에'.",
       "meaning": "ở phía trước"
     },
     {
       "word": "책을",
       "pronounced": "채글",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối 'ㄱ' của '책' nối với nguyên âm '을'.",
       "meaning": "sách"
     },
     {
       "word": "읽어요",
       "pronounced": "일거요",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối kép 'ㄺ' của '읽' nối với nguyên âm '어' (âm 'ㄱ' của phụ âm kép được chuyển sang và phát âm).",
       "meaning": "đọc"
     },
     {
       "word": "수업이",
       "pronounced": "수어비",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối 'ㅂ' của '수업' nối với nguyên âm '이'.",
       "meaning": "buổi học"
     },
     {
       "word": "있어요",
       "pronounced": "이써요",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối 'ㅆ' của '있' nối với nguyên âm '어' (và biến âm căng).",
       "meaning": "có / tồn tại"
     },
     {
       "word": "음악을",
       "pronounced": "으마글",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối 'ㄱ' của '음악' nối với nguyên âm '을'.",
       "meaning": "âm nhạc"
     },
     {
       "word": "옷을",
       "pronounced": "오슬",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối 'ㅅ' (được phát âm như 'ㄷ') của '옷' nối với nguyên âm '을'.",
       "meaning": "quần áo"
     },
     {
       "word": "밖에",
       "pronounced": "바께",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối 'ㅋ' của '밖' nối với nguyên âm '에' (và biến âm căng).",
       "meaning": "ở ngoài"
     },
     {
       "word": "없어서",
       "pronounced": "업써서",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối kép 'ㅄ' của '없' nối với nguyên âm '어' (âm 'ㅅ' của phụ âm kép được chuyển sang và phát âm, sau đó biến âm căng).",
       "meaning": "vì không có"
     }

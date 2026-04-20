@@ -66,13 +66,13 @@
     {
       "word": "조성하는",
       "pronounced": "조성하는",
-      "rule": "Nối âm + ㅎ lược bỏ",
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
       "explanation": "성(ㅇ)+하는: ㅎ lược bỏ → [조성하는]."
     },
     {
       "word": "확충하고",
       "pronounced": "확추카고",
-      "rule": "Nối âm + Bật hơi",
+      "rule": "Nối âm (연음) + Âm bật hơi (격음화)",
       "explanation": "충(ㅇ)+하고: ㅎ bật hơi sau ㅇ patchim → [확추카고]."
     },
     {
@@ -84,7 +84,7 @@
     {
       "word": "마련해야",
       "pronounced": "마려내야",
-      "rule": "Nối âm + ㅎ lược bỏ",
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
       "explanation": "Patchim 'ㄴ' của '련' nối với '해야'; ㅎ lược bỏ → [마려내야]."
     },
     {
@@ -108,7 +108,7 @@
     {
       "word": "잊지말아야",
       "pronounced": "잊찌마라야",
-      "rule": "Căng hóa + Nối âm",
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
       "explanation": "잊+지: ㄱ+ㅈ căng hóa; 말(ㄹ)+아야: ㄹ nối âm → [마라야]."
     },
     {
@@ -132,7 +132,7 @@
     {
       "word": "해결하려",
       "pronounced": "해겨라려",
-      "rule": "Nối âm + ㅎ lược bỏ",
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
       "explanation": "결(ㄹ)+하: ㄹ nối âm; ㅎ lược bỏ → [해겨라려]."
     },
     {
@@ -156,13 +156,13 @@
     {
       "word": "표현하고",
       "pronounced": "표혀나고",
-      "rule": "Nối âm + ㅎ lược bỏ",
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
       "explanation": "현(ㄴ)+하고: ㄴ nối âm; ㅎ lược bỏ → [표혀나고]."
     },
     {
       "word": "요청하는",
       "pronounced": "요청하는",
-      "rule": "Nối âm + ㅎ lược bỏ",
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
       "explanation": "청(ㅇ)+하는: ㅎ lược bỏ → [요청하는]."
     },
     {

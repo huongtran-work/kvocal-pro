@@ -7,99 +7,85 @@
       "word": "공원에서",
       "pronounced": "공워네서",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '공원' nối với nguyên âm 'ㅔ' của '에서', phát âm thành [공워네서].",
-      "meaning": "ở công viên"
+      "explanation": "Patchim 'ㄴ' của '공원' nối với nguyên âm 'ㅔ' của '에서', phát âm thành [공워네서]."
     },
     {
       "word": "숨이",
       "pronounced": "수미",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '숨' nối với nguyên âm 'ㅣ' của '이', phát âm thành [수미].",
-      "meaning": "hơi thở"
+      "explanation": "Patchim 'ㅁ' của '숨' nối với nguyên âm 'ㅣ' của '이', phát âm thành [수미]."
     },
     {
       "word": "음악을",
       "pronounced": "으마글",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '음악' nối với nguyên âm 'ㅡ' của '을', phát âm thành [으마글].",
-      "meaning": "âm nhạc"
+      "explanation": "Patchim 'ㄱ' của '음악' nối với nguyên âm 'ㅡ' của '을', phát âm thành [으마글]."
     },
     {
       "word": "들으면서",
       "pronounced": "드르면서",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '들' nối với nguyên âm 'ㅡ' của '으면서', phát âm thành [드르면서].",
-      "meaning": "vừa nghe"
+      "explanation": "Patchim 'ㄹ' của '들' nối với nguyên âm 'ㅡ' của '으면서', phát âm thành [드르면서]."
     },
     {
       "word": "근육을",
       "pronounced": "그뉴글",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '근육' nối với nguyên âm 'ㅡ' của '을', phát âm thành [그뉴글].",
-      "meaning": "cơ bắp"
+      "explanation": "Patchim 'ㄱ' của '근육' nối with nguyên âm 'ㅡ' của '을', phát âm thành [그뉴글]."
     },
     {
       "word": "음식을",
       "pronounced": "음시글",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '음식' nối với nguyên âm 'ㅡ' của '을', phát âm thành [음시글].",
-      "meaning": "thức ăn"
+      "explanation": "Patchim 'ㄱ' của '음식' nối with nguyên âm 'ㅡ' của '을', phát âm thành [음시글]."
     },
     {
       "word": "먹으려고",
       "pronounced": "머그려고",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '먹' nối với nguyên âm 'ㅡ' của '으려고', phát âm thành [머그려고].",
-      "meaning": "để ăn"
+      "explanation": "Patchim 'ㄱ' của '먹' nối with nguyên âm 'ㅡ' của '으려고', phát âm thành [머그려고]."
     },
     {
       "word": "일어나서",
       "pronounced": "이러나서",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '일' nối với nguyên âm 'ㅓ' của '어나서', phát âm thành [이러나서].",
-      "meaning": "thức dậy và"
+      "explanation": "Patchim 'ㄹ' của '일' nối with nguyên âm 'ㅓ' của '어나서', phát âm thành [이러나서]."
     },
     {
       "word": "마음이",
       "pronounced": "마으미",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm 'ㅣ' của '이', phát âm thành [마으미].",
-      "meaning": "tâm hồn, tinh thần"
+      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm 'ㅣ' của '이', phát âm thành [마으미]."
     },
     {
       "word": "좋아하는",
       "pronounced": "조아하는",
       "rule": "Lược bỏ ㅎ (ㅎ탈락)",
-      "explanation": "Patchim 'ㅎ' của '좋' bị lược bỏ trước nguyên âm 'ㅏ', âm tiết '좋아' phát âm thành [조아].",
-      "meaning": "yêu thích"
+      "explanation": "Patchim 'ㅎ' của '좋' bị lược bỏ trước nguyên âm 'ㅏ', âm tiết '좋아' phát âm thành [조아]."
     },
     {
       "word": "않고",
       "pronounced": "안코",
-      "rule": "Lược bỏ ㅎ (ㅎ탈락) + bật hơi (격음화)",
-      "explanation": "Patchim kép 'ㄶ' của '않': 'ㅎ' kết hợp với 'ㄱ' của '고' tạo thành âm bật hơi [ㅋ], phát âm thành [안코].",
-      "meaning": "không và"
+      "rule": "Lược bỏ ㅎ (ㅎ탈락) + Âm bật hơi (격음화)",
+      "explanation": "Patchim kép 'ㄶ' của '않': 'ㅎ' kết hợp với 'ㄱ' của '고' tạo thành âm bật hơi [ㅋ], phát âm thành [안코]."
     },
     {
       "word": "뛸 수",
       "pronounced": "뛸 쑤",
-      "rule": "Căng hóa (경음화)",
-      "explanation": "Patchim 'ㄹ' của '뛸' đứng trước 'ㅅ' của '수' gây căng hóa, phát âm 'ㅅ' thành [ㅆ]: [뛸 쑤].",
-      "meaning": "có thể chạy"
+      "rule": "Căng âm (경음화)",
+      "explanation": "Patchim 'ㄹ' của '뛸' đứng trước 'ㅅ' của '수' gây căng hóa, phát âm 'ㅅ' thành [ㅆ]: [뛸 쑤]."
     },
     {
       "word": "잊지",
       "pronounced": "읻찌",
-      "rule": "Âm đại diện (대표음) + căng hóa (경음화)",
-      "explanation": "Patchim 'ㅈ' của '잊' đổi thành đại diện âm [ㄷ], sau đó 'ㄷ' trước 'ㅈ' của '지' gây căng hóa thành [ㅉ], phát âm thành [읻찌].",
-      "meaning": "quên"
+      "rule": "Âm đại diện (대표음) + Căng âm (경음화)",
+      "explanation": "Patchim 'ㅈ' của '잊' đổi thành đại diện âm [ㄷ], sau đó 'ㄷ' trước 'ㅈ' của '지' gây căng hóa thành [ㅉ], phát âm thành [읻찌]."
     },
     {
       "word": "힘들었는데",
       "pronounced": "힘드런는데",
-      "rule": "Nối âm (연음) + biến âm mũi (비음화)",
-      "explanation": "Patchim 'ㄹ' của '들었' nối với '는데'; chuỗi 'ㅆ+ㄴ' gặp nhau dẫn đến biến âm mũi, phát âm thành [힘드런는데].",
-      "meaning": "tuy mệt nhưng"
+      "rule": "Nối âm (연음) + Biến âm mũi (비음화)",
+      "explanation": "Patchim 'ㄹ' của '들었' nối với '는데'; chuỗi 'ㅆ+ㄴ' gặp nhau dẫn đến biến âm mũi, phát âm thành [힘드런는데]."
     }
   ]
 }

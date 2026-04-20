@@ -6,70 +6,70 @@
     {
       "word": "앉아요",
       "pronounced": "안자요",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối ㅈ của '앉' nối với nguyên âm ㅏ của '아요'.",
       "meaning": "Ngồi"
     },
     {
       "word": "메뉴판을",
       "pronounced": "메뉴파늘",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối ㄴ của '판' nối với nguyên âm ㅡ của '을'.",
       "meaning": "Thực đơn"
     },
     {
       "word": "음식이",
       "pronounced": "음시기",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối ㄱ của '식' nối với nguyên âm ㅣ của '이'.",
       "meaning": "Món ăn"
     },
     {
       "word": "맛있어요",
       "pronounced": "마시써요",
-      "rule": "Nối âm 연음 및 경음화",
+      "rule": "Nối âm (연음) + Căng âm (경음화)",
       "explanation": "Phụ âm cuối ㅅ của '맛' nối với nguyên âm ㅣ của '있', sau đó ㅅ của '있' làm căng âm ㅅ của '어요'.",
       "meaning": "Ngon"
     },
     {
       "word": "비빔밥을",
       "pronounced": "비빔바블",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối ㅂ của '밥' nối với nguyên âm ㅡ của '을'.",
       "meaning": "Cơm trộn"
     },
     {
       "word": "먹을게요",
       "pronounced": "머글께요",
-      "rule": "Nối âm 연음 및 경음화",
+      "rule": "Nối âm (연음) + Căng âm (경음화)",
       "explanation": "Phụ âm cuối ㄱ của '먹' nối với nguyên âm ㅡ của '을', sau đó ㄱ của '게요' được căng âm.",
       "meaning": "Sẽ ăn"
     },
     {
       "word": "밥을",
       "pronounced": "바블",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối ㅂ của '밥' nối với nguyên âm ㅡ của '을'.",
       "meaning": "Cơm"
     },
     {
       "word": "먹어요",
       "pronounced": "머거요",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối ㄱ của '먹' nối với nguyên âm ㅓ của '어요'.",
       "meaning": "Ăn"
     },
     {
       "word": "컵이",
       "pronounced": "커비",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối ㅂ của '컵' nối với nguyên âm ㅣ của '이'.",
       "meaning": "Cốc/ly"
     },
     {
       "word": "있어요",
       "pronounced": "이써요",
-      "rule": "Nối âm 연음 및 경음화",
+      "rule": "Nối âm (연음) + Căng âm (경음화)",
       "explanation": "Phụ âm cuối ㅅ của '있' nối với nguyên âm ㅓ của '어요', đồng thời gây căng âm ㅅ thành ㅆ.",
       "meaning": "có"
     }

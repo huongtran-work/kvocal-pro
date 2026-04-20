@@ -5,99 +5,99 @@
   "annotatedWords": [
     {
       "word": "사계절이",
-      "pronounced": "[사계저리]",
-      "rule": "Nối âm 연음",
+      "pronounced": "사계저리",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim ㄹ của 절 nối với 이 → ㄹ chuyển: [사계저리].",
       "meaning": "bốn mùa"
     },
     {
       "word": "아름다움을",
-      "pronounced": "[아름다우믈]",
-      "rule": "Nối âm 연음",
+      "pronounced": "아름다우믈",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim ㅁ của 움 nối với 을 → ㅁ chuyển: [아름다우믈].",
       "meaning": "vẻ đẹp"
     },
     {
       "word": "벚꽃이",
-      "pronounced": "[벚꼬치]",
-      "rule": "Căng hóa + Nối âm",
+      "pronounced": "벚꼬치",
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
       "explanation": "Patchim ㅅ của 벚 căng hóa ㄱ của 꽃 → [꽃]; patchim ㅊ nối với 이 → [꼬치].",
       "meaning": "hoa anh đào"
     },
     {
       "word": "분홍빛으로",
-      "pronounced": "[분홍비츠로]",
-      "rule": "Nối âm 연음",
+      "pronounced": "분홍비츠로",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim ㅅ của 빛 nối với 으로 → ㅅ chuyển thành [츠]: [비츠로].",
       "meaning": "thành màu hồng"
     },
     {
       "word": "최적의",
-      "pronounced": "[최저게]",
-      "rule": "Nối âm 연음",
+      "pronounced": "최저게",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim ㄱ của 적 nối với 의(에) → ㄱ chuyển: [최저게].",
       "meaning": "tốt nhất, tối ưu"
     },
     {
       "word": "단풍이",
-      "pronounced": "[단풍이]",
-      "rule": "Nối âm 연음",
+      "pronounced": "단풍이",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim ㅇ(ng) của 풍 nối với 이 → ng liên kết: [단풍이].",
       "meaning": "lá mùa thu"
     },
     {
       "word": "등산을",
-      "pronounced": "[등산을]",
-      "rule": "Nối âm 연음",
+      "pronounced": "등산을",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim ㄴ của 산 nối với 을 → ㄴ chuyển: [등사늘].",
       "meaning": "leo núi"
     },
     {
       "word": "계절마다",
-      "pronounced": "[계절마다]",
-      "rule": "Nối âm 연음",
+      "pronounced": "계절마다",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim ㄹ của 절 nối với 마다 → ㄹ liên kết [계절마다].",
       "meaning": "mỗi mùa"
     },
     {
       "word": "냉면이나",
-      "pronounced": "[냉며니나]",
-      "rule": "Nối âm 연음",
+      "pronounced": "냉며니나",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim ㄴ của 면 nối với 이나 → ㄴ chuyển: [냉며니나].",
       "meaning": "mì lạnh hoặc"
     },
     {
       "word": "팥빙수를",
-      "pronounced": "[팓삥수를]",
-      "rule": "Căng hóa + Nối âm",
+      "pronounced": "팓삥수를",
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
       "explanation": "Patchim ㅅ của 팥 căng hóa ㅂ → [삥]; patchim ㄹ của 수 nối với 를 → [수를].",
       "meaning": "kem đá đậu đỏ"
     },
     {
       "word": "음식을",
-      "pronounced": "[음시글]",
-      "rule": "Nối âm 연음",
+      "pronounced": "음시글",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim ㄱ của 식 nối với 을 → ㄱ chuyển: [음시글].",
       "meaning": "thức ăn, đồ ăn"
     },
     {
       "word": "즐겨먹어요",
-      "pronounced": "[즐겨머거요]",
-      "rule": "Nối âm 연음",
+      "pronounced": "즐겨머거요",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim ㄱ của 먹 nối với 어요 → ㄱ chuyển: [머거요]; 2 lần nối âm liên tiếp.",
       "meaning": "thường xuyên ăn"
     },
     {
       "word": "울긋불긋한",
-      "pronounced": "[울긋뿔그탄]",
-      "rule": "Căng hóa + Bật hơi",
+      "pronounced": "울긋뿔그탄",
+      "rule": "Căng âm (경음화) + Âm bật hơi (격음화)",
       "explanation": "Patchim ㅅ của 긋 căng hóa ㅂ → [뿔]; patchim ㄱ của 긋₂ gặp ㅎ của 한 → bật hơi [그탄].",
       "meaning": "rực rỡ nhiều màu"
     },
     {
       "word": "영감을",
-      "pronounced": "[영가믈]",
-      "rule": "Nối âm 연음",
+      "pronounced": "영가믈",
+      "rule": "Nối âm (연음)",
       "explanation": "Patchim ㅁ của 감 nối với 을 → ㅁ chuyển: [영가믈].",
       "meaning": "nguồn cảm hứng"
     },

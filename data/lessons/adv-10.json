@@ -60,7 +60,7 @@
     {
       "word": "목소리에",
       "pronounced": "목쏘리에",
-      "rule": "Căng hóa + Nối âm",
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
       "explanation": "목+소: ㄱ+ㅅ căng hóa → [목쏘]; 리+에: ㄹ nối âm → [소리에]."
     },
     {
@@ -90,8 +90,8 @@
     {
       "word": "실천하는",
       "pronounced": "실처나는",
-      "rule": "Nối âm + ㅎ lược bỏ",
-      "explanation": "Patchim 'ㄴ' của '천' nối với '하는'; ㅎ lược bỏ → [실처나는]."
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
+      "explanation": "천(ㄴ)+하는: ㄴ nối âm; ㅎ lược bỏ → [실처나는]."
     },
     {
       "word": "노력이",
@@ -102,7 +102,7 @@
     {
       "word": "협력의",
       "pronounced": "혐녀긔",
-      "rule": "Biến âm lưỡi + Nối âm",
+      "rule": "Biến âm lưỡi (유음화) + Nối âm (연음)",
       "explanation": "ㄴ+ㄹ biến âm lưỡi; 력(ㄱ)+의: ㄱ nối âm → [혐녀긔]."
     },
     {
@@ -110,6 +110,12 @@
       "pronounced": "정시늘",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄴ' của '신' nối với '을' → [정시늘]."
+    },
+    {
+      "word": "끊임없이",
+      "pronounced": "끄님업씨",
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
+      "explanation": "끊: ㄶ patchim, ㄴ nối âm, ㅎ lược; 없(ㅄ)+이: ㅅ nối âm → [업씨]."
     },
     {
       "word": "다름을",
@@ -131,9 +137,9 @@
     },
     {
       "word": "경청하고",
-      "pronounced": "경청하고",
-      "rule": "Nối âm + ㅎ lược bỏ",
-      "explanation": "Patchim 'ㅇ' của '청' nối với '하고'; ㅎ lược bỏ → [경청하고]."
+      "pronounced": "경처나고",
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
+      "explanation": "청(ㅇ)+하고: ㅎ lược bỏ → [경청하고]."
     },
     {
       "word": "이끌어내는",

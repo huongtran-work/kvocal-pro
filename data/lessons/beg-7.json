@@ -6,77 +6,77 @@
     {
       "word": "좋아요",
       "pronounced": "조아요",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối 'ㅎ' (patchim) của '좋' không được phát âm và nguyên âm '아' của '아요' nối với 'ㅈ' của âm tiết trước.",
       "meaning": "rất đẹp"
     },
     {
       "word": "하늘이",
       "pronounced": "하느리",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối 'ㄹ' (patchim) của '늘' nối trực tiếp với nguyên âm '이' của âm tiết sau.",
       "meaning": "bầu trời"
     },
     {
       "word": "햇볕이",
       "pronounced": "해뼈치",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối 'ㅌ' (patchim) của '볕' được phát âm là 'ㄷ', sau đó nối với nguyên âm '이' của âm tiết sau và biến đổi thành 'ㅊ' (phát âm căng/bật hơi).",
       "meaning": "ánh nắng"
     },
     {
       "word": "바람이",
       "pronounced": "바라미",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối 'ㅁ' (patchim) của '람' nối trực tiếp với nguyên âm '이' của âm tiết sau.",
       "meaning": "gió"
     },
     {
       "word": "많이",
       "pronounced": "마니",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối 'ㅎ' (patchim) của '많' không được phát âm, và 'ㄴ' của âm tiết trước nối trực tiếp với nguyên âm '이' của âm tiết sau.",
       "meaning": "nhiều"
     },
     {
       "word": "기분이",
       "pronounced": "기부니",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối 'ㄴ' (patchim) của '분' nối trực tiếp với nguyên âm '이' của âm tiết sau.",
       "meaning": "tâm trạng"
     },
     {
       "word": "좋아요",
       "pronounced": "조아요",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối 'ㅎ' (patchim) của '좋' không được phát âm và nguyên âm '아' của '아요' nối với 'ㅈ' của âm tiết trước.",
       "meaning": "rất tốt"
     },
     {
       "word": "밖에",
       "pronounced": "바께",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối 'ㄱ' (patchim) của '밖' nối trực tiếp với nguyên âm '에' của âm tiết sau, và 'ㄱ' được phát âm căng thành 'ㄲ'.",
       "meaning": "ở ngoài"
     },
     {
       "word": "싶어요",
       "pronounced": "시퍼요",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối 'ㅂ' (patchim) của '싶' nối trực tiếp với nguyên âm '어' của âm tiết sau và được phát âm bật hơi thành 'ㅍ'.",
       "meaning": "muốn (làm gì)"
     },
     {
       "word": "옷을",
       "pronounced": "오슬",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối 'ㅅ' (patchim) của '옷' được phát âm là 'ㄷ', sau đó nối với nguyên âm '으' của âm tiết sau và biến đổi thành 'ㅅ'.",
       "meaning": "quần áo"
     },
     {
       "word": "입어야",
       "pronounced": "이벼야",
-      "rule": "Nối âm 연음",
+      "rule": "Nối âm (연음)",
       "explanation": "Phụ âm cuối 'ㅂ' (patchim) của '입' nối trực tiếp với nguyên âm '어' của âm tiết sau.",
       "meaning": "phải mặc"
     }

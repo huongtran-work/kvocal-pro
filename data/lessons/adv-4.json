@@ -5,210 +5,210 @@
   "annotatedWords": [
     {
       "word": "산업혁명",
-      "pronounced": "[사넙형명]",
+      "pronounced": "사넙형명",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄴ' của '산' nối với '업': 산+업 → [사넙]; 혁+명: ㄱ nối âm → [형명].",
       "meaning": "cách mạng công nghiệp"
     },
     {
       "word": "교육의",
-      "pronounced": "[교육의]",
+      "pronounced": "교육의",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '육' nối với '의', phát âm thành [교육의].",
       "meaning": "của giáo dục"
     },
     {
       "word": "중요성이",
-      "pronounced": "[중요성이]",
+      "pronounced": "중요성이",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㅇ' của '성' nối với '이', phát âm thành [중요성이].",
       "meaning": "tầm quan trọng (là)"
     },
     {
       "word": "지식의",
-      "pronounced": "[지시긔]",
+      "pronounced": "지시긔",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '식' nối với '의', phát âm thành [지시긔].",
       "meaning": "của kiến thức"
     },
     {
       "word": "기간이",
-      "pronounced": "[기가니]",
+      "pronounced": "기가니",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄴ' của '간' nối với '이', phát âm thành [기가니].",
       "meaning": "thời hạn (là)"
     },
     {
       "word": "짧아지고",
-      "pronounced": "[짤바지고]",
+      "pronounced": "짤바지고",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim kép 'ㄼ': ㅂ nối với '아' → [짤바지고].",
       "meaning": "trở nên ngắn hơn và"
     },
     {
       "word": "지식만으로는",
-      "pronounced": "[지싱마느로는]",
-      "rule": "Căng hóa + Nối âm",
+      "pronounced": "지싱마느로는",
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
       "explanation": "식+만: ㄱ+ㅁ biến âm mũi; 만+으로: ㄴ nối âm → [마느로는].",
       "meaning": "chỉ với kiến thức"
     },
     {
       "word": "삶의",
-      "pronounced": "[살므이]",
+      "pronounced": "살므이",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim kép 'ㄻ' của '삶': ㅁ nối với '의' → [살므이].",
       "meaning": "của cuộc sống"
     },
     {
       "word": "과정에",
-      "pronounced": "[과정에]",
+      "pronounced": "과정에",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㅇ' của '정' nối với '에', phát âm thành [과정에].",
       "meaning": "trong quá trình"
     },
     {
       "word": "지속적으로",
-      "pronounced": "[지속저그로]",
+      "pronounced": "지속저그로",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '적' nối với '으로', phát âm thành [지속저그로].",
       "meaning": "một cách liên tục"
     },
     {
       "word": "필수적인",
-      "pronounced": "[필수저긴]",
+      "pronounced": "필수저긴",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '적' nối với '인', phát âm thành [필수저긴].",
       "meaning": "cần thiết, bắt buộc"
     },
     {
       "word": "역량을",
-      "pronounced": "[영냥을]",
-      "rule": "Biến âm lưỡi + Nối âm",
+      "pronounced": "영냥을",
+      "rule": "Biến âm lưỡi (유음화) + Nối âm (연음)",
       "explanation": "ㄱ+ㄴ biến âm; 량+을: ㄹ nối âm → [냥을].",
       "meaning": "năng lực (tân ngữ)"
     },
     {
       "word": "환경에",
-      "pronounced": "[환경에]",
+      "pronounced": "환경에",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㅇ' của '경' nối với '에', phát âm thành [환경에].",
       "meaning": "đối với môi trường"
     },
     {
       "word": "적응하기",
-      "pronounced": "[저그파기]",
-      "rule": "Nối âm + Bật hơi",
+      "pronounced": "저그파기",
+      "rule": "Nối âm (연음) + Âm bật hơi (격음화)",
       "explanation": "적+응: ㄱ nối âm → [저그]; 응+하: ㅎ bật hơi .",
       "meaning": "để thích nghi"
     },
     {
       "word": "끊임없이",
-      "pronounced": "[끄님업씨]",
-      "rule": "Nối âm + ㅎ lược bỏ",
+      "pronounced": "끄님업씨",
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
       "explanation": "끊: ㄶ patchim → ㄴ nối âm, ㅎ lược; 없+이: ㅄ → [업씨].",
       "meaning": "không ngừng"
     },
     {
       "word": "교육을",
-      "pronounced": "[교육을]",
+      "pronounced": "교육을",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '육' nối với '을', phát âm thành [교육을].",
       "meaning": "giáo dục (tân ngữ)"
     },
     {
       "word": "구성원들의",
-      "pronounced": "[구성원드릐]",
+      "pronounced": "구성원드릐",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄹ' của '들' nối với '의', phát âm thành [구성원드릐].",
       "meaning": "của các thành viên"
     },
     {
       "word": "계발을",
-      "pronounced": "[계바를]",
+      "pronounced": "계바를",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄹ' của '발' nối với '을', phát âm thành [계바를].",
       "meaning": "sự phát triển bản thân (tân ngữ)"
     },
     {
       "word": "적극적으로",
-      "pronounced": "[적끄저그로]",
-      "rule": "Căng hóa + Nối âm",
+      "pronounced": "적끄저그로",
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
       "explanation": "극+적: Căng hóa [극쩍]; 적+으로: ㄱ nối âm [저그로].",
       "meaning": "một cách tích cực"
     },
     {
       "word": "배움에는",
-      "pronounced": "[배우메는]",
+      "pronounced": "배우메는",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㅁ' của '움' nối với '에는', phát âm thành [배우메는].",
       "meaning": "trong việc học (là)"
     },
     {
       "word": "끝이없으며",
-      "pronounced": "[끄치업쓰며]",
-      "rule": "Nối âm + ㅎ lược bỏ",
+      "pronounced": "끄치업쓰며",
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
       "explanation": "끝+이: ㅌ nối âm → [끄치]; 없+으며: ㅄ → [업쓰며].",
       "meaning": "không có kết thúc"
     },
     {
       "word": "지식을습득하는",
-      "pronounced": "[지시그슾뜨카는]",
-      "rule": "Nối âm + Căng hóa + Bật hơi",
+      "pronounced": "지시그슾뜨카는",
+      "rule": "Nối âm (연음) + Căng âm (경음화) + Âm bật hơi (격음화)",
       "explanation": "식+을: ㄱ nối âm → [시그]; 득+하: 격음화 [드카].",
       "meaning": "quá trình tiếp thu kiến thức"
     },
     {
       "word": "경쟁력을높이는",
-      "pronounced": "[경쟁녀그믈노피는]",
-      "rule": "Nối âm + Bật hơi",
+      "pronounced": "경쟁녀그믈노피는",
+      "rule": "Nối âm (연음) + Âm bật hơi (격음화)",
       "explanation": "력+을: ㄱ nối âm → [녀그믈]; 높+이: ㅍ bật hơi → [노피는].",
       "meaning": "nâng cao sức cạnh tranh"
     },
     {
       "word": "만들어나가야합니다",
-      "pronounced": "[만드러나가야함니다]",
+      "pronounced": "만드러나가야함니다",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄹ' của '들' nối với '어', phát âm thành [만드러나가야함니다].",
       "meaning": "phải tạo ra và tiến lên"
     },
     {
       "word": "이루어져야하는",
-      "pronounced": "[이루어져야하는]",
-      "rule": "Nối âm chuỗi",
+      "pronounced": "이루어져야하는",
+      "rule": "Nối âm (연음)",
       "explanation": "이+루+어: chuỗi nguyên âm nối mượt mà; 져+야: tiếp tục.",
       "meaning": "phải được thực hiện"
     },
     {
       "word": "학습인프라를",
-      "pronounced": "[학씁인프라를]",
-      "rule": "Căng hóa + Nối âm",
+      "pronounced": "학씁인프라를",
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
       "explanation": "학+습: ㄱ+ㅅ căng hóa; 습+인: ㅂ nối âm → [씁인].",
       "meaning": "cơ sở hạ tầng học tập (tân ngữ)"
     },
     {
       "word": "보람을찾을수있습니다",
-      "pronounced": "[보라믈차즐쑤잇씀니다]",
-      "rule": "Nối âm + Căng hóa",
+      "pronounced": "보라믈차즐쑤잇씀니다",
+      "rule": "Nối âm (연음) + Căng âm (경음화)",
       "explanation": "람+을: ㅁ nối âm; 찾+을: ㅈ nối âm; 있+습: căng hóa.",
       "meaning": "có thể tìm thấy ý nghĩa"
     },
     {
       "word": "핵심적인",
-      "pronounced": "[핵씸저긴]",
-      "rule": "Căng hóa + Nối âm",
+      "pronounced": "핵씸저긴",
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
       "explanation": "핵+심: ㄱ+ㅅ căng hóa; 적+인: ㄱ nối âm → [저긴].",
       "meaning": "mang tính cốt lõi"
     },
     {
       "word": "동력이될것입니다",
-      "pronounced": "[동녀기될거심니다]",
-      "rule": "Biến âm lưỡi + Nối âm",
+      "pronounced": "동녀기될거심니다",
+      "rule": "Biến âm lưỡi (유음화) + Nối âm (연음)",
       "explanation": "ㄴ+ㄹ biến âm lưỡi; 력+이: ㄱ nối âm → [녀기]; 것+입: ㅅ nối âm.",
       "meaning": "sẽ trở thành động lực"
     },
     {
       "word": "배움의즐거움을누리며",
-      "pronounced": "[배우믜즐거우믈누리며]",
+      "pronounced": "배우믜즐거우믈누리며",
       "rule": "Nối âm (연음)",
       "explanation": "움+의: ㅁ nối âm → [우믜]; 움+을: ㅁ nối âm → [우믈].",
       "meaning": "vui hưởng niềm vui học hỏi"

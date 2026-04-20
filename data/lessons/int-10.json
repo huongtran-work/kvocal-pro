@@ -6,100 +6,86 @@
     {
       "word": "입학한",
       "pronounced": "이파칸",
-      "rule": "Nối âm (연음) + bật hơi (격음화)",
-      "explanation": "Patchim 'ㅂ' của '입' nối với 'ㅎ' của '학' tạo thành âm bật hơi [ㅍ → 파]; tiếp theo patchim 'ㄱ' của '학' nối với 'ㅎ' của '한' tạo âm bật hơi [ㅋ → 칸], phát âm thành [이파칸].",
-      "meaning": "đã nhập học"
+      "rule": "Nối âm (연음) + Âm bật hơi (격음화)",
+      "explanation": "Patchim 'ㅂ' của '입' nối với 'ㅎ' của '학' tạo thành âm bật hơi [ㅍ → 파]; tiếp theo patchim 'ㄱ' của '학' nối với 'ㅎ' của '한' tạo âm bật hơi [ㅋ → 칸], phát âm thành [이파칸]."
     },
     {
       "word": "가입했어요",
       "pronounced": "가이패써요",
-      "rule": "Nối âm (연음) + bật hơi (격음화)",
-      "explanation": "Patchim 'ㅂ' của '가입' gặp 'ㅎ' của '했어요' tạo thành âm bật hơi [ㅍ → 패]; 'ㄷ' (đại diện của '했') + 'ㅆ' giữ căng hóa, phát âm thành [가이패써요].",
-      "meaning": "đã gia nhập"
+      "rule": "Nối âm (연음) + Âm bật hơi (격음화)",
+      "explanation": "Patchim 'ㅂ' của '가입' gặp 'ㅎ' của '했어요' tạo thành âm bật hơi [ㅍ → 패]; 'ㄷ' (đại diện của '했') + 'ㅆ' giữ căng hóa, phát âm thành [가이패써요]."
     },
     {
       "word": "들었어요",
       "pronounced": "드러써요",
-      "rule": "Nối âm (연음) + căng hóa (경음화)",
-      "explanation": "Patchim 'ㄹ' của '들' nối với 'ㅓ' của '었어요'; 'ㄷ' (đại diện của '었') + 'ㅆ' của '아요' gây căng hóa, phát âm thành [드러써요].",
-      "meaning": "đã nghe, đã tham gia"
+      "rule": "Nối âm (연음) + Căng âm (경음화)",
+      "explanation": "Patchim 'ㄹ' của '들' nối với 'ㅓ' của '었어요'; 'ㄷ' (đại diện của '었') + 'ㅆ' của '아요' gây căng hóa, phát âm thành [드러써요]."
     },
     {
       "word": "재미있고",
       "pronounced": "재미꼬",
-      "rule": "Nối âm (연음) + căng hóa (경음화)",
-      "explanation": "Patchim kép 'ㅆ' của '있' nối liền với '고'; âm căng 'ㅆ' đứng trước 'ㄱ' gây căng hóa thành [ㄲ], phát âm thành [재미꼬].",
-      "meaning": "thú vị và"
+      "rule": "Nối âm (연음) + Căng âm (경음화)",
+      "explanation": "Patchim kép 'ㅆ' của '있' nối liền với '고'; âm căng 'ㅆ' đứng trước 'ㄱ' gây căng hóa thành [ㄲ], phát âm thành [재미꼬]."
     },
     {
       "word": "좋은",
       "pronounced": "조은",
       "rule": "Lược bỏ ㅎ (ㅎ탈락)",
-      "explanation": "Patchim 'ㅎ' của '좋' bị lược bỏ trước nguyên âm 'ㅡ' của '은', phát âm thành [조은].",
-      "meaning": "tốt, tốt lành"
+      "explanation": "Patchim 'ㅎ' của '좋' bị lược bỏ trước nguyên âm 'ㅡ' của '은', phát âm thành [조은]."
     },
     {
       "word": "있었고",
       "pronounced": "이써꼬",
-      "rule": "Nối âm (연음) + căng hóa (경음화)",
-      "explanation": "Patchim kép 'ㅆ' của '있' nối với 'ㅓ' của '었고' và giữ âm căng; 'ㄷ' (đại diện của '었') đứng trước 'ㄱ' gây căng hóa thành [ㄲ], phát âm thành [이써꼬].",
-      "meaning": "đã có và"
+      "rule": "Nối âm (연음) + Căng âm (경음화)",
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với 'ㅓ' của '었고' và giữ âm căng; 'ㄷ' (đại diện của '었') đứng trước 'ㄱ' gây căng hóa thành [ㄲ], phát âm thành [이써꼬]."
     },
     {
       "word": "힘이",
       "pronounced": "히미",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '힘' nối với nguyên âm 'ㅣ' của '이', phát âm thành [히미].",
-      "meaning": "sức mạnh"
+      "explanation": "Patchim 'ㅁ' của '힘' nối với nguyên âm 'ㅣ' của '이', phát âm thành [히미]."
     },
     {
       "word": "넓어졌어요",
       "pronounced": "널버뎌써요",
-      "rule": "Patchim kép (겹받침) + nối âm (연음)",
-      "explanation": "Patchim kép 'ㄼ' của '넓': trước nguyên âm 'ㅓ', 'ㄹ' ở lại và 'ㅂ' nối sang âm tiết sau, phát âm thành [널버뎌써요].",
-      "meaning": "đã mở rộng"
+      "rule": "Nối âm (연음) với Patchim kép (겹받침)",
+      "explanation": "Patchim kép 'ㄼ' của '넓': trước nguyên âm 'ㅓ', 'ㄹ' ở lại và 'ㅂ' nối sang âm tiết sau, phát âm thành [널버뎌써요]."
     },
     {
       "word": "낯설었지만",
       "pronounced": "낟썰엳찌만",
-      "rule": "Âm đại diện (대표음) + căng hóa (경음화)",
-      "explanation": "Patchim 'ㅅ' của '낯' đổi thành đại diện âm [ㄷ]; 'ㄷ' đứng trước 'ㅅ' của '설' gây căng hóa thành [ㅆ]; tiếp theo patchim 'ㄷ' của '었' gây căng hóa 'ㅈ' thành [ㅉ], phát âm thành [낟썰엳찌만].",
-      "meaning": "tuy xa lạ nhưng"
+      "rule": "Âm đại diện (대표음) + Căng âm (경음화)",
+      "explanation": "Patchim 'ㅅ' của '낯' đổi thành đại diện âm [ㄷ]; 'ㄷ' đứng trước 'ㅅ' của '설' gây căng hóa thành [ㅆ]; tiếp theo patchim 'ㄷ' của '었' gây căng hóa 'ㅈ' thành [ㅉ], phát âm thành [낟썰엳찌만]."
     },
     {
       "word": "사람이",
       "pronounced": "사라미",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '사람' nối với nguyên âm 'ㅣ' của '이', phát âm thành [사라미].",
-      "meaning": "người"
+      "explanation": "Patchim 'ㅁ' của '사람' nối với nguyên âm 'ㅣ' của '이', phát âm thành [사라미]."
     },
     {
       "word": "있는",
       "pronounced": "인는",
       "rule": "Biến âm mũi (비음화)",
-      "explanation": "Patchim 'ㄷ' (âm đại diện của 'ㅆ' trong '있') gặp 'ㄴ' của '는' biến thành âm mũi [ㄴ], phát âm thành [인는].",
-      "meaning": "có, tồn tại"
+      "explanation": "Patchim 'ㄷ' (âm đại diện của 'ㅆ' trong '있') gặp 'ㄴ' của '는' biến thành âm mũi [ㄴ], phát âm thành [인는]."
     },
     {
       "word": "싶어요",
       "pronounced": "시퍼요",
-      "rule": "Nối âm (연음) + bật hơi (격음화)",
-      "explanation": "Patchim 'ㅂ' của '싶' gặp 'ㅎ' của '하' (trong cấu trúc ~고 싶어요) tạo âm bật hơi [ㅍ → 퍼], phát âm thành [시퍼요].",
-      "meaning": "muốn"
+      "rule": "Nối âm (연음) + Âm bật hơi (격음화)",
+      "explanation": "Patchim 'ㅂ' của '싶' gặp 'ㅎ' của '하' (trong cấu trúc ~고 싶어요) tạo âm bật hơi [ㅍ → 퍼], phát âm thành [시퍼요]."
     },
     {
       "word": "활동은",
       "pronounced": "활똥은",
-      "rule": "Căng hóa (경음화)",
-      "explanation": "Patchim 'ㄹ' của '활' đứng trước 'ㄷ' của '동' gây căng hóa thành [ㄸ], phát âm thành [활똥은].",
-      "meaning": "hoạt động"
+      "rule": "Căng âm (경음화)",
+      "explanation": "Patchim 'ㄹ' của '활' đứng trước 'ㄷ' của '동' gây căng hóa thành [ㄸ], phát âm thành [활똥은]."
     },
     {
       "word": "관점을",
       "pronounced": "관쩜을",
-      "rule": "Căng hóa (경음화) + nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '관' đứng trước 'ㅈ' của '점' gây căng hóa thành [ㅉ]; patchim 'ㅁ' của '점' nối với 'ㅡ' của '을', phát âm thành [관쩜을].",
-      "meaning": "quan điểm"
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '관' đứng trước 'ㅈ' của '점' gây căng hóa thành [ㅉ]; patchim 'ㅁ' của '점' nối với 'ㅡ' của '을', phát âm thành [관쩜을]."
     }
   ]
 }

@@ -54,7 +54,7 @@
     {
       "word": "도입해야",
       "pronounced": "도이패야",
-      "rule": "Nối âm + Bật hơi",
+      "rule": "Nối âm (연음) + Âm bật hơi (격음화)",
       "explanation": "Patchim 'ㅂ' của '입' + '해야': ㅂ+ㅎ = 격음화 → [도이패야]."
     },
     {
@@ -66,7 +66,7 @@
     {
       "word": "마련하고",
       "pronounced": "마려나고",
-      "rule": "Nối âm + ㅎ lược bỏ",
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
       "explanation": "Patchim 'ㄴ' của '련' nối với '하고'; ㅎ lược bỏ → [마려나고]."
     },
     {
@@ -102,7 +102,7 @@
     {
       "word": "달려있습니다",
       "pronounced": "달려잇씀니다",
-      "rule": "Nối âm + Căng hóa",
+      "rule": "Nối âm (연음) + Căng âm (경음화)",
       "explanation": "Patchim 'ㄹ' của '달' nối với '려'; 있+습: căng hóa [잇씀]."
     },
     {
@@ -114,19 +114,19 @@
     {
       "word": "직접적인",
       "pronounced": "직쩝저긴",
-      "rule": "Căng hóa + Nối âm",
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
       "explanation": "직+접: ㄱ+ㅈ căng hóa → [직쩝]; 적(ㄱ)+인: ㄱ nối âm → [저긴]."
     },
     {
       "word": "확산될수록",
       "pronounced": "확싼될쑤록",
-      "rule": "Căng hóa + Nối âm",
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
       "explanation": "확+산: ㄱ căng hóa → [확싼]; 될+수록: ㄹ nối âm."
     },
     {
       "word": "줄일수있습니다",
       "pronounced": "주릴쑤잇씀니다",
-      "rule": "Nối âm + Căng hóa",
+      "rule": "Nối âm (연음) + Căng âm (경음화)",
       "explanation": "줄(ㄹ)+일: ㄹ nối âm; 수+있: căng hóa [쑤잇]."
     },
     {
@@ -138,7 +138,7 @@
     {
       "word": "투자하게",
       "pronounced": "투자하게",
-      "rule": "Nối âm + ㅎ lược bỏ",
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
       "explanation": "자+하게: ㅈ+ㅎ... 자(no patchim)+하: ㅎ lược bỏ sau nguyên âm → [투자하게]."
     },
     {
@@ -150,13 +150,13 @@
     {
       "word": "바꿀수있습니다",
       "pronounced": "바꿀쑤잇씀니다",
-      "rule": "Nối âm + Căng hóa",
+      "rule": "Nối âm (연음) + Căng âm (경음화)",
       "explanation": "꿀(ㄹ)+수: ㄹ nối âm; 수+있: căng hóa [쑤잇]."
     },
     {
       "word": "무분별한",
       "pronounced": "무분벼란",
-      "rule": "Nối âm + ㅎ lược bỏ",
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
       "explanation": "Patchim 'ㄹ' của '별' nối với '한'; ㅎ lược bỏ → [무분벼란]."
     },
     {
@@ -180,7 +180,7 @@
     {
       "word": "고려하고",
       "pronounced": "고려하고",
-      "rule": "Nối âm + ㅎ lược bỏ",
+      "rule": "Nối âm (연음) + lược bỏ ㅎ (ㅎ탈락)",
       "explanation": "려+하고: ㄹ nối âm; ㅎ lược bỏ → [고려하고]."
     }
   ]

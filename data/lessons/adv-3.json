@@ -5,224 +5,224 @@
   "annotatedWords": [
     {
       "word": "출산율의",
-      "pronounced": "[출싸뉴릐]",
-      "rule": "Căng hóa + Nối âm",
+      "pronounced": "출싸뉴릐",
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
       "explanation": "ㄹ+ㅅ căng hóa → [싼]; 율+의: ㄹ nối âm → [뉴릐].",
       "meaning": "của tỷ lệ sinh"
     },
     {
       "word": "전반의",
-      "pronounced": "[전바늬]",
+      "pronounced": "전바늬",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄴ' của '반' nối với '의', phát âm thành [전바늬].",
       "meaning": "của toàn bộ"
     },
     {
       "word": "활력을",
-      "pronounced": "[활려그믈]",
+      "pronounced": "활려그믈",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '력' nối với '을', phát âm thành [활려그믈].",
       "meaning": "sức sống (tân ngữ)"
     },
     {
       "word": "떨어뜨리고",
-      "pronounced": "[떠러뜨리고]",
+      "pronounced": "떠러뜨리고",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄹ' của '떨' nối với '어', phát âm thành [떠러뜨리고].",
       "meaning": "làm giảm, làm rớt"
     },
     {
       "word": "연장으로",
-      "pronounced": "[연장으로]",
+      "pronounced": "연장으로",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㅇ' của '장' nối với '으로', phát âm thành [연장으로].",
       "meaning": "do kéo dài"
     },
     {
       "word": "부담을",
-      "pronounced": "[부다믈]",
+      "pronounced": "부다믈",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㅁ' của '담' nối với '을', phát âm thành [부다믈].",
       "meaning": "gánh nặng (tân ngữ)"
     },
     {
       "word": "갈등을",
-      "pronounced": "[갈뜨글]",
-      "rule": "Căng hóa + Nối âm",
+      "pronounced": "갈뜨글",
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
       "explanation": "ㄹ+ㄷ căng hóa → [뜽]; patchim 'ㅇ' của '등' nối với '을' → [갈뜨글].",
       "meaning": "mâu thuẫn (tân ngữ)"
     },
     {
       "word": "복합적인",
-      "pronounced": "[복합저긴]",
+      "pronounced": "복합저긴",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '적' nối với '인', phát âm thành [복합저긴].",
       "meaning": "phức tạp"
     },
     {
       "word": "장려금을",
-      "pronounced": "[장녀그믈]",
-      "rule": "Biến âm lưỡi + Nối âm",
+      "pronounced": "장녀그믈",
+      "rule": "Biến âm lưỡi (유음화) + Nối âm (연음)",
       "explanation": "ㄴ+ㄹ biến âm lưỡi → [장녀]; 금+을: ㅁ→그믈 nối âm.",
       "meaning": "trợ cấp khuyến sinh (tân ngữ)"
     },
     {
       "word": "수준을",
-      "pronounced": "[수주늘]",
+      "pronounced": "수주늘",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄴ' của '준' nối với '을', phát âm thành [수주늘].",
       "meaning": "mức độ (tân ngữ)"
     },
     {
       "word": "넘어",
-      "pronounced": "[너머]",
+      "pronounced": "너머",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㅁ' của '넘' nối với '어', phát âm thành [너머].",
       "meaning": "vượt qua"
     },
     {
       "word": "근본적인",
-      "pronounced": "[근본저긴]",
+      "pronounced": "근본저긴",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '적' nối với '인', phát âm thành [근본저긴].",
       "meaning": "cơ bản, căn bản"
     },
     {
       "word": "개선이",
-      "pronounced": "[개서니]",
+      "pronounced": "개서니",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄴ' của '선' nối với '이', phát âm thành [개서니].",
       "meaning": "sự cải thiện (là)"
     },
     {
       "word": "가정이",
-      "pronounced": "[가정이]",
+      "pronounced": "가정이",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㅇ' của '정' nối với '이' → [가정이].",
       "meaning": "gia đình (là)"
     },
     {
       "word": "더불어",
-      "pronounced": "[더부러]",
+      "pronounced": "더부러",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄹ' của '불' nối với '어', phát âm thành [더부러].",
       "meaning": "cùng với"
     },
     {
       "word": "장기적인",
-      "pronounced": "[장기저긴]",
+      "pronounced": "장기저긴",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '적' nối với '인', phát âm thành [장기저긴].",
       "meaning": "dài hạn"
     },
     {
       "word": "마련이",
-      "pronounced": "[마려니]",
+      "pronounced": "마려니",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄴ' của '련' nối với '이', phát âm thành [마려니].",
       "meaning": "sự chuẩn bị (là)"
     },
     {
       "word": "시스템을",
-      "pronounced": "[시스테믈]",
+      "pronounced": "시스테믈",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㅁ' của '템' nối với '을', phát âm thành [시스테믈].",
       "meaning": "hệ thống (tân ngữ)"
     },
     {
       "word": "가능성을",
-      "pronounced": "[가능성을]",
+      "pronounced": "가능성을",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㅇ' của '성' nối với '을' → [가능성을].",
       "meaning": "tính bền vững (tân ngữ)"
     },
     {
       "word": "포용적인",
-      "pronounced": "[포용저긴]",
+      "pronounced": "포용저긴",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '적' nối với '인', phát âm thành [포용저긴].",
       "meaning": "bao dung, hòa nhập"
     },
     {
       "word": "구조적위기",
-      "pronounced": "[구조저귀기]",
+      "pronounced": "구조저귀기",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄱ' của '적' nối với '위기', phát âm thành [구조저귀기].",
       "meaning": "khủng hoảng cấu trúc"
     },
     {
       "word": "노동인구",
-      "pronounced": "[노동인구]",
+      "pronounced": "노동인구",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㅇ' của '동' nối với '인구' → [노동인구].",
       "meaning": "dân số lao động"
     },
     {
       "word": "야기할우려가",
-      "pronounced": "[야기하루려가]",
+      "pronounced": "야기하루려가",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄹ' của '할' nối với '우려가', phát âm thành [야기하루려가].",
       "meaning": "có nguy cơ gây ra"
     },
     {
       "word": "일자리창출및",
-      "pronounced": "[일짜리창출밋]",
-      "rule": "Căng hóa + Nối âm",
+      "pronounced": "일짜리창출밋",
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
       "explanation": "일+자: ㄹ căng hóa → [짜리]; 출+및: ㄹ patchim nối với 밋.",
       "meaning": "tạo việc làm và"
     },
     {
       "word": "병행되어야합니다",
-      "pronounced": "[병행되어야함니다]",
-      "rule": "Nối âm chuỗi",
+      "pronounced": "병행되어야함니다",
+      "rule": "Nối âm (연음)",
       "explanation": "되+어: ㅇ null, chuỗi nối âm tự nhiên; 합+니: biến âm mũi.",
       "meaning": "phải được tiến hành song song"
     },
     {
       "word": "복지비용부담을",
-      "pronounced": "[복찌비용부다믈]",
-      "rule": "Căng hóa + Nối âm",
+      "pronounced": "복찌비용부다믈",
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
       "explanation": "복+지: ㄱ căng hóa → [찌]; 담+을: ㅁ nối âm → [다믈].",
       "meaning": "gánh nặng chi phí phúc lợi"
     },
     {
       "word": "세대간갈등을",
-      "pronounced": "[세대깐갈뜨글]",
-      "rule": "Căng hóa + Nối âm",
+      "pronounced": "세대깐갈뜨글",
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
       "explanation": "세대+간: Căng hóa [깐]; 등+을: ㅇ nối âm → [갈뜨글].",
       "meaning": "mâu thuẫn giữa các thế hệ"
     },
     {
       "word": "지속가능성을",
-      "pronounced": "[지속까능성을]",
-      "rule": "Căng hóa + Nối âm",
+      "pronounced": "지속까능성을",
+      "rule": "Căng âm (경음화) + Nối âm (연음)",
       "explanation": "ㄱ+ㄱ căng hóa [까]; ㅇ của 성+을 nối âm → [성을]; 2 hiện tượng.",
       "meaning": "tính bền vững"
     },
     {
       "word": "일과가정이양립할수있는",
-      "pronounced": "[일꽈가정이양리팔쑤인는]",
-      "rule": "Căng hóa + Nối âm + Bật hơi",
+      "pronounced": "일꽈가정이양리팔쑤인는",
+      "rule": "Căng âm (경음화) + Nối âm (연음) + Âm bật hơi (격음화)",
       "explanation": "가정이: patchim ㅇ của '정' nối với '이' → [가정이]; 양립할: ㄱ căng hóa; 있는: ㅆ+ㄴ biến âm. Kết hợp nối âm + căng hóa + bật hơi.",
       "meaning": "có thể cân bằng công việc và gia đình"
     },
     {
       "word": "인구구조변화에",
-      "pronounced": "[인구구조변화에]",
-      "rule": "Nối âm chuỗi",
+      "pronounced": "인구구조변화에",
+      "rule": "Nối âm (연음)",
       "explanation": "Chuỗi âm tiết nguyên âm liên tiếp, nối mượt mà.",
       "meaning": "đối với sự thay đổi cấu trúc dân số"
     },
     {
       "word": "새로운사회시스템을",
-      "pronounced": "[새로운사회시스테믈]",
+      "pronounced": "새로운사회시스테믈",
       "rule": "Nối âm (연음)",
       "explanation": "템+을: ㅁ patchim nối với '을' → [시스테믈].",
       "meaning": "hệ thống xã hội mới (tân ngữ)"
     },
     {
       "word": "노인일자리",
-      "pronounced": "[노이닐짜리]",
+      "pronounced": "노이닐짜리",
       "rule": "Nối âm (연음)",
       "explanation": "노인+일: patchim 'ㄴ' của '인' nối với '일' → [노이닐].",
       "meaning": "việc làm cho người cao tuổi"
