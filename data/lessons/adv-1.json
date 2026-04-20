@@ -4,130 +4,214 @@
   "translation": "Trong xã hội hiện đại, vấn đề môi trường đã trở thành một nhiệm vụ trọng tâm không thể bỏ qua. Biến đổi khí hậu do nóng lên toàn cầu đang gây ra những thảm họa tự nhiên nghiêm trọng trên toàn thế giới, đe dọa đến sự tồn vong của nhân loại. Đặc biệt, việc sử dụng nhựa bừa bãi và phát thải carbon đang được chỉ ra là nguyên nhân chính gây phá hủy hệ sinh thái. Giờ đây, chúng ta cần đưa ra những biện pháp thực chất thay vì chỉ lo lắng mơ hồ. Cùng với những quy định môi trường nghiêm ngặt ở cấp chính phủ, việc chuyển đổi sang quản lý thân thiện với môi trường của các doanh nghiệp là điều tất yếu. Ngoài ra, mỗi cá nhân cũng cần tiếp tục thực hiện những hành động nhỏ trong cuộc sống hàng ngày như giảm sử dụng đồ dùng một lần, phân loại rác thải triệt để. Bảo vệ môi trường không phải là lựa chọn mà là điều bắt buộc, và chúng ta không được quên rằng đó là di sản quý giá nhất mà chúng ta để lại cho con cháu. Nếu không hành động ngay bây giờ, tương lai sẽ không thể được đảm bảo. Đã đến lúc tất cả chúng ta phải có trách nhiệm và đi đầu trong việc bảo vệ môi trường.",
   "annotatedWords": [
     {
-      "word": "없는",
-      "pronounced": "[엄는]",
-      "rule": "Nối âm + Biến âm mũi",
-      "explanation": "Patchim kép ㅄ→ㅂ trước ㄴ biến thành ㅁ; kết hợp nối âm liền mạch → [엄는].",
-      "meaning": "không có"
+      "word": "세계적으로",
+      "pronounced": "[세계저그로]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '적' nối với nguyên âm '으', phát âm thành [세계저그로].",
+      "meaning": "trên toàn thế giới"
     },
     {
       "word": "있으며",
       "pronounced": "[이쓰며]",
-      "rule": "Nối âm + Căng hóa",
-      "explanation": "Patchim ㄱ của 있 nối với 으 → ㄱ chuyển vị, ㅆ căng hóa [이쓰며].",
-      "meaning": "trong khi có"
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với '으며', phát âm thành [이쓰며].",
+      "meaning": "đang có và"
     },
     {
-      "word": "이르렀습니다",
-      "pronounced": "[이르렀씀니다]",
-      "rule": "Nối âm + Căng hóa + Biến âm mũi",
-      "explanation": "ㄷ căng hóa ㅅ→[씀]; ㅂ gặp ㄴ biến âm mũi→[씀니다]; chuỗi 5 âm tiết phức.",
-      "meaning": "đã đạt đến"
+      "word": "생존을",
+      "pronounced": "[생조늘]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '존' nối với '을', phát âm thành [생조늘].",
+      "meaning": "sự sinh tồn (tân ngữ)"
     },
     {
-      "word": "앞으로도",
-      "pronounced": "[아브로도]",
-      "rule": "Nối âm (patchim kép)",
-      "explanation": "Patchim ㅍ→ㅂ âm chuẩn; ㅂ nối với 으 → ㅂ chuyển vị: [아브로도].",
-      "meaning": "về sau cũng"
+      "word": "수준에",
+      "pronounced": "[수주네]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '준' nối với '에', phát âm thành [수주네].",
+      "meaning": "ở mức độ"
     },
     {
-      "word": "실질적인",
-      "pronounced": "[실찔쩌긴]",
-      "rule": "Căng hóa Hán tự + Nối âm",
-      "explanation": "ㄹ+ㅈ căng hóa [찔]; ㄱ của 적 nối với 인 → [쩌긴]; 2 hiện tượng liên tiếp.",
-      "meaning": "mang tính thực chất"
+      "word": "배출은",
+      "pronounced": "[배추른]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '출' nối với '은', phát âm thành [배추른].",
+      "meaning": "sự thải ra (chủ ngữ)"
+    },
+    {
+      "word": "주범으로",
+      "pronounced": "[주버므로]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '범' nối với '으로', phát âm thành [주버므로].",
+      "meaning": "là thủ phạm chính"
+    },
+    {
+      "word": "막연한",
+      "pronounced": "[마견한]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '막' nối với nguyên âm '연', phát âm thành [마견한].",
+      "meaning": "막연(막+연) mơ hồ"
     },
     {
       "word": "걱정을",
-      "pronounced": "[걱쩡을]",
+      "pronounced": "[걱쩌글]",
       "rule": "Căng hóa + Nối âm",
-      "explanation": "ㄱ+ㅈ căng hóa [쩡]; ㅇ của 정 nối với 을 → [쩡을] liên kết.",
-      "meaning": "lo lắng"
+      "explanation": "ㄱ+ㅈ căng hóa → [쩡]; patchim 'ㅇ' của '정' nối với '을' → [걱쩌글].",
+      "meaning": "lo lắng (tân ngữ)"
     },
     {
-      "word": "위협하는",
-      "pronounced": "[위혀파는]",
-      "rule": "Bật hơi + Nối âm",
-      "explanation": "Patchim ㅂ của 협 + ㅎ của 하 → bật hơi [파]; 하+는 nối tiếp [혀파는].",
-      "meaning": "đang đe dọa"
+      "word": "넘어",
+      "pronounced": "[너머]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '넘' nối với nguyên âm '어', phát âm thành [너머].",
+      "meaning": "vượt qua"
+    },
+    {
+      "word": "실질적인",
+      "pronounced": "[실찔저긴]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "ㄹ+ㅈ căng hóa → [찔]; patchim 'ㄱ' của '적' nối với '인' → [실찔저긴].",
+      "meaning": "thực chất"
+    },
+    {
+      "word": "대책을",
+      "pronounced": "[대채글]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '책' nối với '을', phát âm thành [대채글].",
+      "meaning": "đối sách (tân ngữ)"
+    },
+    {
+      "word": "차원에서의",
+      "pronounced": "[차워네서의]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '원' nối với '에서', phát âm thành [차워네서의].",
+      "meaning": "ở cấp độ"
+    },
+    {
+      "word": "더불어",
+      "pronounced": "[더부러]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '불' nối với nguyên âm '어', phát âm thành [더부러].",
+      "meaning": "cùng với"
+    },
+    {
+      "word": "기업들의",
+      "pronounced": "[기업드릐]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '들' nối với '의', phát âm thành [기업드릐].",
+      "meaning": "của các doanh nghiệp"
+    },
+    {
+      "word": "전환이",
+      "pronounced": "[전화니]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '환' nối với '이', phát âm thành [전화니].",
+      "meaning": "sự chuyển đổi (là/được)"
     },
     {
       "word": "필수적입니다",
-      "pronounced": "[필수저김니다]",
-      "rule": "Nối âm liên tiếp + Biến âm mũi",
-      "explanation": "ㄱ của 적 nối với 입 → [저기]; ㅂ gặp ㄴ biến âm mũi → [김니다]; chuỗi 5 âm tiết.",
-      "meaning": "là điều bắt buộc"
+      "pronounced": "[필수저깁니다]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '적' nối với '입니다', phát âm thành [필수저깁니다].",
+      "meaning": "là điều cần thiết"
     },
     {
-      "word": "잊지않고",
-      "pronounced": "[잊찌안코]",
-      "rule": "Căng hóa + Nối âm + Bật hơi",
-      "explanation": "ㅈ+ㅈ căng hóa [잊찌]; ㄴ của 않 + ㅎ의 고 → bật hơi [안코]; 3 hiện tượng.",
-      "meaning": "không quên"
+      "word": "속에서",
+      "pronounced": "[소게서]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '속' nối với '에서', phát âm thành [소게서].",
+      "meaning": "trong/bên trong"
     },
     {
-      "word": "분리수거",
-      "pronounced": "[불리수거]",
-      "rule": "Biến âm lưỡi + Nối âm",
-      "explanation": "ㄴ của 분+ㄹ의 리 → biến âm lưỡi [불리]; 리+수거 nối âm liền mạch.",
-      "meaning": "phân loại rác"
+      "word": "실천을",
+      "pronounced": "[실처늘]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '천' nối với '을', phát âm thành [실처늘].",
+      "meaning": "thực hành (tân ngữ)"
     },
     {
-      "word": "세계적으로",
-      "pronounced": "[세계쩌그로]",
-      "rule": "Căng hóa + Nối âm",
-      "explanation": "ㄱ+ㅈ căng hóa [쩍]; ㄱ của 적 nối với 으로 → [쩌그로].",
-      "meaning": "trên toàn thế giới"
+      "word": "선택이",
+      "pronounced": "[선태기]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '택' nối với '이', phát âm thành [선태기].",
+      "meaning": "lựa chọn (là)"
     },
     {
-      "word": "물려줄",
-      "pronounced": "[물려줄]",
-      "rule": "Nối âm chuỗi ㄹ",
-      "explanation": "Patchim ㄹ của 물 liên kết liền mạch 려줄; chuỗi ㄹ-ㄹ liên tiếp tự nhiên.",
-      "meaning": "để lại cho"
+      "word": "후손들에게",
+      "pronounced": "[후손드레게]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '들' nối với '에게', phát âm thành [후손드레게].",
+      "meaning": "cho con cháu"
     },
     {
-      "word": "행동하지않으면",
-      "pronounced": "[행동하지아느면]",
-      "rule": "Nối âm + Bật hơi",
-      "explanation": "Patchim ㅎ của 않 + 으면 → ㅎ câm [아느면]; ㄴ của 않 nối với 으면 tự nhiên.",
-      "meaning": "nếu không hành động"
+      "word": "유산임을",
+      "pronounced": "[유사님을]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '산' nối với '임을', phát âm thành [유사님을].",
+      "meaning": "(là) di sản (tân ngữ)"
     },
     {
-      "word": "자연재해를",
-      "pronounced": "[자연재해를]",
-      "rule": "Nối âm chuỗi dài",
-      "explanation": "Chuỗi 5 âm tiết: patchim ㄴ của 연 liên kết; ㄹ của 해 nối với 를 → [해를]; mượt mà.",
-      "meaning": "thiên tai"
+      "word": "않으면",
+      "pronounced": "[아느면]",
+      "rule": "Nối âm + ㅎ lược bỏ",
+      "explanation": "Patchim kép 'ㄶ' của '않': ㄴ nối âm, ㅎ lược bỏ → [아느면].",
+      "meaning": "nếu không"
     },
     {
       "word": "책임감을",
-      "pronounced": "[채기마믈]",
-      "rule": "Nối âm liên tiếp",
-      "explanation": "ㄱ của 임 nối với 감 → [이마]; ㅁ của 감 nối với 을 → [가믈]; 2 lần nối âm liên tiếp.",
-      "meaning": "tinh thần trách nhiệm"
+      "pronounced": "[채김가믈]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '책' nối với '임' → [채김]; patchim 'ㅁ' của '감' nối với '을' → [가믈].",
+      "meaning": "tinh thần trách nhiệm (tân ngữ)"
     },
     {
       "word": "이어가야합니다",
       "pronounced": "[이어가야함니다]",
-      "rule": "Nối âm chuỗi + Biến âm mũi",
-      "explanation": "Chuỗi 5 âm tiết: 이+어+가+야 nối liên tiếp; ㅂ của 합 gặp ㄴ biến âm mũi [함니다].",
-      "meaning": "phải tiếp tục"
+      "rule": "Nối âm chuỗi",
+      "explanation": "이+어: chuỗi nguyên âm nối liên tiếp; hợp+니다 → biến âm mũi [함니다].",
+      "meaning": "phải tiếp tục duy trì"
     },
     {
-      "word": "소중한유산임을",
-      "pronounced": "[소중한유사니믈]",
-      "rule": "Nối âm + Biến âm mũi + Nối âm",
-      "explanation": "ㄴ của 산 nối với 임 → [사님]; ㅁ của 임 nối với 을 → [이믈]; 2 lần nối âm.",
-      "meaning": "là di sản quý giá"
+      "word": "말아야합니다",
+      "pronounced": "[마라야함니다]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '말' nối với '아야', phát âm thành [마라야함니다].",
+      "meaning": "không được quên"
     },
     {
-      "word": "마련해야합니다",
-      "pronounced": "[마련해야함니다]",
-      "rule": "Bật hơi + Biến âm mũi",
-      "explanation": "Patchim 야+합 → 해야합; ㅂ của 합 gặp ㄴ biến âm mũi [함니다]; chuỗi 5 âm tiết.",
-      "meaning": "phải chuẩn bị"
+      "word": "경영전환이",
+      "pronounced": "[경영저놔니]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '환' nối với '이', phát âm thành [경영저놔니].",
+      "meaning": "chuyển đổi quản trị (là)"
+    },
+    {
+      "word": "자연재해를",
+      "pronounced": "[자연재해를]",
+      "rule": "Nối âm + Bật hơi",
+      "explanation": "재+해: patchim 'ㄴ'... 재해: ㅎ trước 를 → phát âm tự nhiên [자연재해를].",
+      "meaning": "thiên tai (tân ngữ)"
+    },
+    {
+      "word": "중대한과제가",
+      "pronounced": "[중대한과제가]",
+      "rule": "Nối âm (연음)",
+      "explanation": "한+과: patchim 'ㄴ'+과 → [한과]; chuỗi nối tự nhiên [중대한과제가].",
+      "meaning": "nhiệm vụ quan trọng"
+    },
+    {
+      "word": "무분별한",
+      "pronounced": "[무분벼란]",
+      "rule": "Nối âm + ㅎ lược bỏ",
+      "explanation": "Patchim 'ㄹ' của '별' nối với '한': ㄹ+한 → ㅎ lược bỏ → [무분벼란].",
+      "meaning": "bừa bãi, vô tội vạ"
+    },
+    {
+      "word": "행동하지않으면",
+      "pronounced": "[행도나지아느면]",
+      "rule": "Nối âm + ㅎ lược bỏ",
+      "explanation": "동+하: ㅎ lược bỏ → [도나]; 않+으: ㄴ nối âm, ㅎ lược → [아느면].",
+      "meaning": "nếu không hành động"
     }
   ]
 }

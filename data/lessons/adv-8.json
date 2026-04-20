@@ -5,122 +5,213 @@
   "annotatedWords": [
     {
       "word": "삶의질을결정하는",
-      "pronounced": "[사뤄찌를결쩡하는]",
-      "rule": "Nối âm patchim kép + Căng hóa + Nối âm",
-      "explanation": "Patchim kép ㄻ의 삶+의 → [사뤄]; ㄹ의 질+을 nối âm [찌를]; ㄹ+ㅈ căng hóa [쩡]; chuỗi 7 âm tiết.",
+      "pronounced": "[살므이지를결쩡하는]",
+      "rule": "Nối âm + Căng hóa",
+      "explanation": "삶: ㄻ → ㅁ nối âm; 질+을: ㄹ nối âm; 정+하: ㅎ lược.",
       "meaning": "quyết định chất lượng cuộc sống"
     },
     {
       "word": "소홀히다뤄지는경우가많습니다",
       "pronounced": "[소홀히다뤄지는경우가만씀니다]",
-      "rule": "Nối âm + Biến âm mũi",
-      "explanation": "ㄹ의 홀+히 nối âm [홀히]; ㄴ의 많+습 → ㅎ câm [만]; ㅂ+ㄴ biến âm mũi [만씀니다]; chuỗi 10 âm tiết.",
-      "meaning": "thường bị xem nhẹ"
+      "rule": "Nối âm + ㅎ lược bỏ",
+      "explanation": "홀+히: ㄹ nối âm → [소홀히]; 많+습: ㄶ → ㄴ nối âm.",
+      "meaning": "thường bị coi nhẹ"
     },
     {
       "word": "우울증이나불안장애와",
       "pronounced": "[우울쯩이나부란장애와]",
-      "rule": "Căng hóa + Nối âm + Biến âm lưỡi",
-      "explanation": "ㄹ의 울+ㅈ căng hóa Hán [쯩]; 쯩+이나 nối âm; ㄴ의 불+ㄹ biến âm lưỡi [부란]; chuỗi 8 âm tiết.",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "증+이: ㅇ nối âm; 불+안: ㄹ nối âm → [부란].",
       "meaning": "trầm cảm hoặc rối loạn lo âu và"
     },
     {
       "word": "정신적문제를야기하며",
-      "pronounced": "[정신쩍문제를야기하며]",
-      "rule": "Căng hóa + Nối âm chuỗi",
-      "explanation": "ㄱ+ㅈ căng hóa [쩍]; ㄹ의 제+를 nối âm; 를+야기하며 liên kết; chuỗi 8 âm tiết.",
-      "meaning": "gây ra các vấn đề tâm thần và"
+      "pronounced": "[정신적문제를야기하며]",
+      "rule": "Nối âm (연음)",
+      "explanation": "적+문: ㄱ nối âm → [저문]; 제+를: nối tự nhiên.",
+      "meaning": "gây ra các vấn đề tâm lý và"
     },
     {
       "word": "자신의마음상태를",
-      "pronounced": "[자시네마음상태를]",
-      "rule": "Nối âm 연음",
-      "explanation": "신+의(에) nối âm [시네]; ㅁ의 음+상 liên kết; ㄹ의 태+를 nối âm; chuỗi 7 âm tiết.",
-      "meaning": "trạng thái tâm trí của bản thân"
+      "pronounced": "[자시늬마음상태를]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '신' nối với '의', phát âm thành [자시늬].",
+      "meaning": "trạng thái tâm trí của bản thân (tân ngữ)"
     },
     {
       "word": "세심하게살피고",
       "pronounced": "[세시마게살피고]",
-      "rule": "Bật hơi + Nối âm",
-      "explanation": "ㅁ의 심+ㅎ의 하 → bật hơi [시마]; ㄹ의 살+피고 nối âm; chuỗi 6 âm tiết.",
+      "rule": "Nối âm + ㅎ lược bỏ",
+      "explanation": "심+하: ㅁ+ㅎ → ㅎ lược → [세시마게].",
       "meaning": "quan sát tỉ mỉ và"
     },
     {
       "word": "전문가의도움을받는것을",
-      "pronounced": "[전문가에도우믈반는거슬]",
-      "rule": "Nối âm liên tiếp",
-      "explanation": "가+의(에) nối âm [가에]; ㅁ의 움+을 nối âm [우믈]; 것+을 nối âm [거슬]; 3 lần nối âm liên tiếp trong chuỗi 10 âm tiết.",
-      "meaning": "sự trợ giúp của chuyên gia"
+      "pronounced": "[전문가의도우믈반는거슬]",
+      "rule": "Nối âm (연음)",
+      "explanation": "움+을: ㅁ nối âm → [도우믈]; 것+을: ㅅ nối âm → [거슬].",
+      "meaning": "nhận sự giúp đỡ từ chuyên gia (tân ngữ)"
     },
     {
       "word": "주저하지말아야합니다",
       "pronounced": "[주저하지마라야함니다]",
-      "rule": "Nối âm + Biến âm mũi",
-      "explanation": "ㄹ의 말+아야 nối âm [마라야]; ㅂ+ㄴ biến âm mũi [함니다]; chuỗi 8 âm tiết.",
-      "meaning": "không nên ngần ngại"
+      "rule": "Nối âm + ㅎ lược bỏ",
+      "explanation": "말+아야: ㄹ nối âm → [마라야]; ㅎ lược bỏ.",
+      "meaning": "không được do dự"
     },
     {
       "word": "사회적편견을해소하고",
-      "pronounced": "[사회쩍편견을해소하고]",
-      "rule": "Căng hóa + Nối âm + Bật hơi",
-      "explanation": "ㄱ+ㅈ căng hóa [쩍]; ㄴ의 견+을 nối âm [견을]; ㅎ bật hơi tự nhiên; chuỗi 8 âm tiết.",
+      "pronounced": "[사회저펀겨늘해소하고]",
+      "rule": "Nối âm + ㅎ lược bỏ",
+      "explanation": "적+편: ㄱ nối âm; 견+을: ㄴ nối âm → [겨늘]; 소+하: ㅎ lược.",
       "meaning": "xóa bỏ định kiến xã hội và"
     },
     {
       "word": "자유롭게상담과치료를받을수있는",
-      "pronounced": "[자유롭께상담꽈치료를바들쑤인는]",
-      "rule": "Căng hóa liên tiếp + Nối âm + Biến âm mũi",
-      "explanation": "ㅂ의 롭+게 căng hóa [롭께]; 담+과 căng hóa [담꽈]; ㄹ의 받+을 nối âm [바들]; 할+수 căng hóa [쑤]; 있+는 biến âm mũi; chuỗi 11 âm tiết.",
-      "meaning": "có thể tự do tư vấn và điều trị"
+      "pronounced": "[자유롭께상담과치료를바들쑤인는]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "롭+게: ㅂ+ㄱ căng hóa; 수+있: căng hóa [쑤인].",
+      "meaning": "có thể được tư vấn và điều trị tự do"
+    },
+    {
+      "word": "포용적인분위기를조성하는것이중요합니다",
+      "pronounced": "[포용저긴부뉘기를조성하는거시중요함니다]",
+      "rule": "Nối âm (연음)",
+      "explanation": "적+인: ㄱ nối âm → [저긴]; 분+위: ㄴ nối âm → [부뉘기]; 것+이: ㅅ nối âm → [거시].",
+      "meaning": "quan trọng là tạo ra bầu không khí bao dung"
     },
     {
       "word": "정신건강서비스를확충하고",
       "pronounced": "[정신건강서비스를확추카고]",
-      "rule": "Bật hơi 격음화",
-      "explanation": "ㄱ의 충+ㅎ의 하 → bật hơi [추카]; 하고 liên kết; chuỗi 8 âm tiết.",
+      "rule": "Nối âm + Bật hơi",
+      "explanation": "충+하: ㅎ bật hơi → [확추카고].",
       "meaning": "mở rộng dịch vụ sức khỏe tâm thần và"
     },
     {
       "word": "심리지원프로그램을강화해야합니다",
-      "pronounced": "[씸니지원프로그래믈강화해야함니다]",
-      "rule": "Biến âm mũi + Nối âm + Biến âm mũi",
-      "explanation": "ㅁ의 심 gặp ㄴ của 니 biến âm mũi [씸니]; ㅁ의 램+을 nối âm [래믈]; ㅂ+ㄴ biến âm mũi [함니다]; chuỗi 10 âm tiết.",
+      "pronounced": "[심리지원프로그래믈강화해야함니다]",
+      "rule": "Nối âm (연음)",
+      "explanation": "램+을: ㅁ nối âm → [래믈].",
       "meaning": "phải tăng cường chương trình hỗ trợ tâm lý"
     },
     {
       "word": "마음이건강할때우리는",
       "pronounced": "[마으미건강할때우리는]",
-      "rule": "Nối âm 연음",
-      "explanation": "ㅁ의 음+이 nối âm [으미]; chuỗi 8 âm tiết liên kết mượt mà.",
-      "meaning": "khi tâm trí khỏe mạnh chúng ta thì"
+      "rule": "Nối âm (연음)",
+      "explanation": "음+이: ㅁ nối âm → [마으미].",
+      "meaning": "khi tâm trí lành mạnh, chúng ta"
     },
     {
       "word": "비로소진정한행복을누리고",
-      "pronounced": "[비로소진정한행보글누리고]",
-      "rule": "Bật hơi + Nối âm",
-      "explanation": "ㄱ의 복+을 nối âm [보글]; ㄹ의 누+리고 nối âm; 2 lần nối âm trong chuỗi 9 âm tiết.",
-      "meaning": "mới thực sự tận hưởng hạnh phúc và"
+      "pronounced": "[비로소진정한행보그늘누리고]",
+      "rule": "Nối âm (연음)",
+      "explanation": "복+을: ㄱ nối âm → [행보그늘]; 누리+고: ㄹ nối âm.",
+      "meaning": "mới có thể tận hưởng hạnh phúc thực sự và"
     },
     {
-      "word": "사회의일원으로서건강하게",
-      "pronounced": "[사회에이러느로서건강하게]",
-      "rule": "Nối âm chuỗi dài",
-      "explanation": "회+의(에) nối âm [회에]; ㄴ의 원+으로서 nối âm [이러느로서]; chuỗi 10 âm tiết liền mạch.",
-      "meaning": "với tư cách thành viên xã hội một cách khỏe mạnh"
+      "word": "사회의일원으로서건강하게활동할수있습니다",
+      "pronounced": "[사회의이뤄느로서건강하게활동할쑤잇씀니다]",
+      "rule": "Nối âm + Căng hóa",
+      "explanation": "원+으로: ㄴ nối âm → [이뤄느로]; 수+있: căng hóa.",
+      "meaning": "có thể hoạt động lành mạnh như một thành viên xã hội"
     },
     {
-      "word": "정신건강은개인의문제를넘어",
-      "pronounced": "[정신건강은개이네문제를너머]",
-      "rule": "Nối âm liên tiếp",
-      "explanation": "인+의(에) nối âm [이네]; ㅁ의 넘+어 nối âm [너머]; chuỗi 10 âm tiết, 2 lần nối âm.",
-      "meaning": "sức khỏe tâm thần vượt ra ngoài vấn đề cá nhân"
+      "word": "개인의문제를넘어",
+      "pronounced": "[개이늬문제를너머]",
+      "rule": "Nối âm (연음)",
+      "explanation": "인+의: ㄴ nối âm → [개이늬]; 넘+어: ㅁ nối âm → [너머].",
+      "meaning": "vượt ra ngoài vấn đề cá nhân"
     },
     {
       "word": "우리사회전체가함께돌봐야할소중한가치임을잊지말아야합니다",
-      "pronounced": "[우리사회전체가함께돌봐야할소중한가치이믈잊찌마라야함니다]",
-      "rule": "Nối âm + Căng hóa + Biến âm mũi chuỗi dài",
-      "explanation": "ㅁ의 임+을 nối âm [이믈]; ㅈ+ㅈ căng hóa [잊찌]; ㄹ의 말+아야 nối âm [마라야]; ㅂ+ㄴ biến âm mũi [함니다]; chuỗi 21 âm tiết.",
-      "meaning": "là giá trị quý giá mà cả xã hội phải cùng nhau chăm sóc, đừng quên"
+      "pronounced": "[우리사회전체가함꼐돌봐야할소중한가치임을잊찌마라야함니다]",
+      "rule": "Nối âm chuỗi dài",
+      "explanation": "임+을: ㅁ nối âm; 말+아: ㄹ nối âm.",
+      "meaning": "giá trị quý giá mà toàn xã hội phải cùng chăm sóc"
+    },
+    {
+      "word": "체계적인관리시스템을마련해야합니다",
+      "pronounced": "[체계저긴관리시스테믈마려내야함니다]",
+      "rule": "Nối âm + ㅎ lược bỏ",
+      "explanation": "적+인: ㄱ nối âm; 템+을: ㅁ nối âm; 련+해: ㄴ+ㅎ lược.",
+      "meaning": "phải chuẩn bị hệ thống quản lý có hệ thống"
+    },
+    {
+      "word": "구성원들의정신건강을보호하기위한",
+      "pronounced": "[구성원드릐정신건강을보호하기위한]",
+      "rule": "Nối âm (연음)",
+      "explanation": "들+의: ㄹ nối âm → [드릐]; 강+을: ㅇ nối âm.",
+      "meaning": "để bảo vệ sức khỏe tâm thần của các thành viên"
+    },
+    {
+      "word": "과도한스트레스경쟁위주의사회분위기고립감등은",
+      "pronounced": "[과도한스트레스경쟁위주의사회부뉘기고립감드근]",
+      "rule": "Nối âm (연음)",
+      "explanation": "분+위: ㄴ nối âm → [부뉘기]; 감+등: ㅁ+ㄷ... 등+은: ㅇ nối âm → [드근].",
+      "meaning": "stress quá mức, không khí xã hội cạnh tranh, cô đơn, v.v."
+    },
+    {
+      "word": "우울증이나불안장애와같은정신적문제를야기하며",
+      "pronounced": "[우울쯩이나부란장애와가튼정신적문제를야기하며]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "증+이: ㅇ nối âm; 불+안: ㄹ nối âm; 같+은: ㄱ nối âm → [가튼].",
+      "meaning": "gây ra các vấn đề tâm lý như trầm cảm, rối loạn lo âu"
+    },
+    {
+      "word": "개인의행복을저해하고있습니다",
+      "pronounced": "[개이늬행보그를저해하고잇씀니다]",
+      "rule": "Nối âm + Căng hóa",
+      "explanation": "복+을: ㄱ nối âm → [행보그를]; 있+습: căng hóa.",
+      "meaning": "đang gây hại cho hạnh phúc cá nhân"
+    },
+    {
+      "word": "필요할때는전문가의도움을받는것을주저하지말아야합니다",
+      "pronounced": "[피료할때는전문가의도우믈반는거슬주저하지마라야함니다]",
+      "rule": "Nối âm chuỗi",
+      "explanation": "움+을: ㅁ nối âm; 것+을: ㅅ nối âm; 말+아: ㄹ nối âm.",
+      "meaning": "không được do dự nhận giúp đỡ chuyên gia khi cần"
+    },
+    {
+      "word": "정신건강에대한사회적편견을해소하고",
+      "pronounced": "[정신건강에대한사회저펀겨늘해소하고]",
+      "rule": "Nối âm (연음)",
+      "explanation": "적+편: ㄱ nối âm; 견+을: ㄴ nối âm → [겨늘].",
+      "meaning": "xóa bỏ định kiến xã hội về sức khỏe tâm thần"
+    },
+    {
+      "word": "누구나자유롭게상담과치료를받을수있는포용적인분위기를",
+      "pronounced": "[누구나자유롭께상담과치료를바들쑤인는포용저긴부뉘기를]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "롭+게: căng hóa; 수+있: căng hóa; 적+인: ㄱ nối âm; 분+위: ㄴ nối âm.",
+      "meaning": "bầu không khí bao dung nơi mọi người có thể tư vấn và điều trị"
+    },
+    {
+      "word": "조성하는것이중요합니다",
+      "pronounced": "[조성하는거시중요함니다]",
+      "rule": "Nối âm (연음)",
+      "explanation": "것+이: ㅅ nối âm → [거시].",
+      "meaning": "việc tạo ra điều đó là quan trọng"
+    },
+    {
+      "word": "정신건강은개인의문제를넘어우리사회전체가함께돌봐야할",
+      "pronounced": "[정신건강은개이늬문제를너머우리사회전체가함꼐돌봐야할]",
+      "rule": "Nối âm (연음)",
+      "explanation": "인+의: ㄴ nối âm; 넘+어: ㅁ nối âm.",
+      "meaning": "sức khỏe tâm thần vượt ra ngoài vấn đề cá nhân, toàn xã hội phải chăm sóc"
+    },
+    {
+      "word": "소중한가치임을잊지말아야합니다",
+      "pronounced": "[소중한가치임을잊찌마라야함니다]",
+      "rule": "Nối âm + Căng hóa",
+      "explanation": "임+을: ㅁ nối âm → [이믈]; 잊+지: căng hóa [잊찌]; 말+아: ㄹ nối âm.",
+      "meaning": "không được quên đây là giá trị quý giá"
+    },
+    {
+      "word": "고립감등은우울증이나불안장애와같은",
+      "pronounced": "[고립깜드근우울쯩이나부란장애와가튼]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "감+등: ㅁ+ㄷ căng hóa; 등+은: ㅇ nối âm → [드근]; 증+이: ㅇ nối âm; 불+안: ㄹ nối âm; 같+은: ㄱ nối âm.",
+      "meaning": "cô đơn v.v. là trầm cảm hoặc rối loạn lo âu như"
     }
   ]
 }

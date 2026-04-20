@@ -6,114 +6,212 @@
     {
       "word": "풍요로움을",
       "pronounced": "[풍요로우믈]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㅁ của 움 nối với nguyên âm 을 → ㅁ chuyển vị: [풍요로우믈].",
-      "meaning": "sự phong phú"
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '움' nối với '을', phát âm thành [풍요로우믈].",
+      "meaning": "sự phong phú (tân ngữ)"
     },
     {
       "word": "지속가능한",
       "pronounced": "[지속까능한]",
       "rule": "Căng hóa + Nối âm",
-      "explanation": "Patchim ㄱ của 속 căng hóa ㄱ của 가 → [까]; ㄴ의 능+한 bật hơi nhẹ.",
+      "explanation": "속+가: ㄱ+ㄱ căng hóa; 능+한: ㅇ nối âm.",
       "meaning": "bền vững"
     },
     {
       "word": "타자의문화를",
-      "pronounced": "[타자에문화를]",
-      "rule": "Nối âm 연음",
-      "explanation": "의 phát âm [에]; ㅈ của 자+의(에) nối âm [자에]; ㄹ nối với 를.",
-      "meaning": "văn hóa của người khác"
+      "pronounced": "[타자의문화를]",
+      "rule": "Nối âm (연음)",
+      "explanation": "자+의: patchim 'ㄴ' của '인'... [타자의문화를].",
+      "meaning": "văn hóa của người khác (tân ngữ)"
     },
     {
-      "word": "존중하고",
-      "pronounced": "[존중하고]",
-      "rule": "Bật hơi 격음화",
-      "explanation": "Patchim ㅇ của 중 + ㅎ của 하 → bật hơi nhẹ; 하고 liên kết.",
-      "meaning": "tôn trọng và"
+      "word": "존중하고이해하려는",
+      "pronounced": "[존중하고이해하려는]",
+      "rule": "Nối âm + ㅎ lược bỏ",
+      "explanation": "중+하: ㅎ lược → [존중하고]; 해+하: ㅎ lược.",
+      "meaning": "nỗ lực tôn trọng và hiểu biết"
     },
     {
       "word": "갈등을예방하고",
-      "pronounced": "[갈뜽을예바나고]",
-      "rule": "Căng hóa + Nối âm + Bật hơi",
-      "explanation": "ㄹ+ㄷ căng hóa Hán [뜽]; ㅇ의 뜽+을 nối âm; ㅂ의 방+ㅎ bật hơi [바나]; chuỗi 6 âm tiết.",
+      "pronounced": "[갈뜨글예방하고]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "ㄹ+ㄷ căng hóa; 등+을: ㅇ nối âm → [갈뜨글].",
       "meaning": "ngăn ngừa mâu thuẫn và"
     },
     {
       "word": "접촉이빈번해진",
-      "pronounced": "[접초기빈버내진]",
-      "rule": "Nối âm + Bật hơi chuỗi",
-      "explanation": "ㄱ의 촉+이 nối âm [초기]; ㄴ의 번+ㅎ의 해 → bật hơi [버내]; chuỗi 6 âm tiết.",
-      "meaning": "sự tiếp xúc đã trở nên thường xuyên"
+      "pronounced": "[접초기빈번해진]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '촉' nối với '이', phát âm thành [접초기빈번해진].",
+      "meaning": "tiếp xúc trở nên thường xuyên"
     },
     {
       "word": "편견과차별을넘어",
-      "pronounced": "[편견꽈차벼를너머]",
-      "rule": "Căng hóa + Nối âm liên tiếp",
-      "explanation": "ㄴ의 견+과 căng hóa [꽈]; ㄹ의 별+을 nối âm [벼를]; ㅁ의 넘+어 nối âm [너머]; 3 hiện tượng.",
-      "meaning": "vượt qua định kiến và phân biệt đối xử"
+      "pronounced": "[편견과차벼를너머]",
+      "rule": "Nối âm (연음)",
+      "explanation": "별+을: ㄹ nối âm → [차벼를]; 넘+어: ㅁ nối âm → [너머].",
+      "meaning": "vượt qua định kiến và phân biệt"
     },
     {
       "word": "포용적인자세를",
-      "pronounced": "[포용쩌긴자세를]",
-      "rule": "Căng hóa + Nối âm",
-      "explanation": "ㄱ의 용+ㅈ căng hóa [쩍]; ㄱ의 적+인 nối âm [쩌긴]; ㄹ의 세 nối với 를.",
+      "pronounced": "[포용저긴자세를]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '적' nối với '인', phát âm thành [포용저긴].",
       "meaning": "thái độ bao dung"
     },
     {
-      "word": "자신의문화만을절대적인",
-      "pronounced": "[자시네문화마늘절때쩌긴]",
-      "rule": "Nối âm + Căng hóa + Nối âm",
-      "explanation": "신+의(에) nối âm [시네]; ㄴ의 만+을 nối âm [마늘]; ㄹ+ㄷ căng hóa Hán [때]; ㄱ+ㅈ căng hóa [쩍]; ㄱ+인 nối âm [쩌긴]; chuỗi 9 âm tiết.",
-      "meaning": "chỉ lấy văn hóa của mình, mang tính tuyệt đối"
+      "word": "절대적인기준으로",
+      "pronounced": "[절때저긴기주느로]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "대+적: ㄷ+ㅈ căng hóa; 적+인: ㄱ nối âm; 준+으로: ㄴ nối âm.",
+      "meaning": "làm tiêu chuẩn tuyệt đối"
     },
     {
       "word": "다양한문화적표현의가치를인정하고",
-      "pronounced": "[다양한문화쩍표혀네가치를인정하고]",
-      "rule": "Căng hóa + Nối âm + Bật hơi",
-      "explanation": "ㄱ+ㅈ căng hóa [쩍]; ㄴ의 현+의(에) nối âm [혀네]; ㄹ의 치+를 nối âm; ㄴ의 정+ㅎ bật hơi; chuỗi 11 âm tiết.",
-      "meaning": "công nhận giá trị của các biểu hiện văn hóa đa dạng và"
+      "pronounced": "[다양한문화저표혀늬가치를인정하고]",
+      "rule": "Nối âm + Bật hơi",
+      "explanation": "적+표: ㄱ+ㅍ bật hơi; 현+의: ㄴ nối âm → [표혀늬].",
+      "meaning": "công nhận giá trị biểu hiện văn hóa đa dạng"
     },
     {
       "word": "문화적소수자의권리를",
-      "pronounced": "[문화쩍소수자에권리를]",
-      "rule": "Căng hóa + Nối âm chuỗi",
-      "explanation": "ㄱ+ㅈ căng hóa [쩍]; 자+의(에) nối âm [자에]; ㄹ의 리+를 nối âm; chuỗi 8 âm tiết.",
-      "meaning": "quyền lợi của các thiểu số văn hóa"
+      "pronounced": "[문화저소수자의궐리를]",
+      "rule": "Nối âm (연음)",
+      "explanation": "적+소: ㄱ nối âm → [저소]; 리+를: ㄹ tiếp.",
+      "meaning": "quyền lợi của người thiểu số văn hóa"
     },
     {
       "word": "대화를촉진하기위한정책적노력을",
-      "pronounced": "[대화를촉찌나기위한정채쩡노려글]",
-      "rule": "Căng hóa + Bật hơi + Nối âm",
-      "explanation": "ㄱ의 촉+ㅈ căng hóa [찌]; ㄴ의 진+ㅎ bật hơi [찌나]; ㄱ의 략+을 nối âm [녀글]; chuỗi 9 âm tiết.",
-      "meaning": "nỗ lực chính sách để thúc đẩy đối thoại"
+      "pronounced": "[대화를촉찌나기위한정책적노녀그믈]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "진+하: ㄴ+ㅎ → [찌나]; 력+을: ㄱ nối âm → [녀그믈].",
+      "meaning": "nỗ lực chính sách thúc đẩy đối thoại"
     },
     {
       "word": "다문화적감수성을",
-      "pronounced": "[다문화쩍감수성을]",
-      "rule": "Căng hóa + Nối âm",
-      "explanation": "ㄱ+ㅈ căng hóa [쩍]; ㅇ의 성+을 nối âm [성을]; chuỗi 7 âm tiết liên kết.",
-      "meaning": "cảm thức đa văn hóa"
+      "pronounced": "[다문화저감수성을]",
+      "rule": "Nối âm (연음)",
+      "explanation": "적+감: ㄱ nối âm → [저감]; 성+을: ㅇ nối âm → [성을].",
+      "meaning": "độ nhạy cảm đa văn hóa (tân ngữ)"
     },
     {
       "word": "서로의다름을인정하는",
-      "pronounced": "[서로에다르믈인정하는]",
-      "rule": "Nối âm liên tiếp",
-      "explanation": "ㄹ의 로+의(에) nối âm [로에]; ㅁ의 름+을 nối âm [르믈]; chuỗi 8 âm tiết, 2 lần nối âm.",
+      "pronounced": "[서로의다르믈인정하는]",
+      "rule": "Nối âm (연음)",
+      "explanation": "름+을: ㅁ nối âm → [르믈]; 름+인: ㅁ... 을+인: liên tục.",
       "meaning": "công nhận sự khác biệt của nhau"
     },
     {
       "word": "태도를길러주어야합니다",
       "pronounced": "[태도를길러주어야함니다]",
-      "rule": "Nối âm chuỗi + Biến âm mũi",
-      "explanation": "ㄹ의 길+러 nối âm [길러]; 려주어야 chuỗi nguyên âm liên tiếp; ㅂ+ㄴ biến âm mũi [함니다]; chuỗi 8 âm tiết.",
-      "meaning": "phải bồi dưỡng thái độ"
+      "rule": "Nối âm (연음)",
+      "explanation": "길+러: ㄹ nối âm → [길러]; 주+어: vowel chain.",
+      "meaning": "phải nuôi dưỡng thái độ"
     },
     {
       "word": "더넓은이해와연대의길로",
-      "pronounced": "[더널븐이해와연대에길로]",
-      "rule": "Nối âm patchim kép + Nối âm",
-      "explanation": "Patchim kép ㄼ의 넓+은 → ㄹ chuyển: [널븐]; ㄷ의 대+의(에) nối âm [대에]; chuỗi 9 âm tiết.",
-      "meaning": "đến con đường hiểu biết và đoàn kết rộng lớn hơn"
+      "pronounced": "[더널브니해와연대의길로]",
+      "rule": "Nối âm (연음)",
+      "explanation": "넓+은: ㅂ nối âm → [넓은→널브은→널빈]; 이해+와: nối tiếp.",
+      "meaning": "con đường hiểu biết và đoàn kết rộng hơn"
+    },
+    {
+      "word": "역사전통언어가치관을",
+      "pronounced": "[역싸전통어너가치과늘]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "사+전: ㄱ+ㅅ căng hóa; 관+을: ㄴ nối âm → [과늘].",
+      "meaning": "lịch sử, truyền thống, ngôn ngữ, giá trị quan"
+    },
+    {
+      "word": "공존하는세상에서",
+      "pronounced": "[공조나는세상에서]",
+      "rule": "Nối âm + ㅎ lược bỏ",
+      "explanation": "존+하: ㄴ+ㅎ → ㅎ lược → [공조나는].",
+      "meaning": "trong thế giới cùng tồn tại"
+    },
+    {
+      "word": "핵심적인가치입니다",
+      "pronounced": "[핵씸저긴가치임니다]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "핵+심: ㄱ+ㅅ căng hóa; 적+인: ㄱ nối âm → [저긴].",
+      "meaning": "là giá trị cốt lõi"
+    },
+    {
+      "word": "인류공동체의",
+      "pronounced": "[일류공동체의]",
+      "rule": "Biến âm lưỡi + Nối âm",
+      "explanation": "ㄴ+ㄹ biến âm lưỡi; 체+의: nối tự nhiên.",
+      "meaning": "của cộng đồng nhân loại"
+    },
+    {
+      "word": "새로운창의성을발견해야합니다",
+      "pronounced": "[새로운창의성을발겨내야함니다]",
+      "rule": "Nối âm + ㅎ lược bỏ",
+      "explanation": "성+을: ㅇ nối âm; 견+해: ㄴ+ㅎ → ㅎ lược → [발겨내야].",
+      "meaning": "phải tìm ra sự sáng tạo mới"
+    },
+    {
+      "word": "세계화가가속화되면서",
+      "pronounced": "[세계화가가속화되면서]",
+      "rule": "Nối âm + Căng hóa",
+      "explanation": "세계화: 계+화 nối tự nhiên; 속+화: ㄱ+ㅎ = 격음화.",
+      "meaning": "khi toàn cầu hóa tăng tốc"
+    },
+    {
+      "word": "평화를유지하는데",
+      "pronounced": "[평화를유지하는데]",
+      "rule": "Nối âm (연음)",
+      "explanation": "화+를: patchim nối tiếp; 지+하: ㅎ lược bỏ tự nhiên.",
+      "meaning": "trong việc duy trì hòa bình"
+    },
+    {
+      "word": "문화간대화를촉진하기위한",
+      "pronounced": "[문화깐대화를촉찌나기위한]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "간+대: ㄴ+ㄷ căng hóa; 진+하: ㄴ+ㅎ → [찌나기].",
+      "meaning": "để thúc đẩy đối thoại giữa các nền văn hóa"
+    },
+    {
+      "word": "어릴때부터다문화적감수성을키우고",
+      "pronounced": "[어릴때부터다문화저감수성을키우고]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "적+감: ㄱ nối âm → [저감]; 성+을: ㅇ nối âm → [성을].",
+      "meaning": "nuôi dưỡng độ nhạy cảm đa văn hóa từ nhỏ"
+    },
+    {
+      "word": "서로의지혜를나누고함께성장하는",
+      "pronounced": "[서로의지혜를나누고함꼐성장하는]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '혜' 없 → 지혜: 혜+를 nối tự nhiên.",
+      "meaning": "chia sẻ trí tuệ và cùng phát triển"
+    },
+    {
+      "word": "열린마음으로세상을바라볼때",
+      "pronounced": "[열린마으므로세상을바라볼때]",
+      "rule": "Nối âm (연음)",
+      "explanation": "음+으로: ㅁ nối âm → [마으므로].",
+      "meaning": "khi nhìn thế giới với tâm trí rộng mở"
+    },
+    {
+      "word": "더넓은이해와연대의길로나아갈수있습니다",
+      "pronounced": "[더널브니해와연대의길로나아갈쑤잇씀니다]",
+      "rule": "Nối âm + Căng hóa",
+      "explanation": "넓+은: ㅂ nối âm; 수+있: căng hóa [쑤잇].",
+      "meaning": "có thể tiến đến con đường hiểu biết rộng hơn"
+    },
+    {
+      "word": "인정하고그속에서",
+      "pronounced": "[인정하고그소게서]",
+      "rule": "Nối âm + ㅎ lược bỏ",
+      "explanation": "정+하: ㅎ lược bỏ; 속+에서: ㄱ nối âm → [소게서].",
+      "meaning": "công nhận và trong đó"
+    },
+    {
+      "word": "국제사회는문화적소수자의권리를보호하고",
+      "pronounced": "[국쩨사회는문화저소수자의궐리를보호하고]",
+      "rule": "Căng hóa + Nối âm",
+      "explanation": "적+소: ㄱ nối âm; 리+를: ㄹ nối tiếp; 호+하: ㅎ lược.",
+      "meaning": "chính phủ và xã hội quốc tế bảo vệ quyền lợi"
     }
   ]
 }
