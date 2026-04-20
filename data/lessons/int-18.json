@@ -110,6 +110,20 @@
       "pronounced": "조씀니다",
       "rule": "Nối âm (연음) và lược bỏ 'ㅎ'",
       "explanation": "Patchim 'ㅎ' của '좋' nối với 'ㅅ' của '습니다', phát âm thành [조씀니다]."
+    },
+    {
+      "word": "볼거리와",
+      "pronounced": "[보거리와]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '볼' nối với nguyên âm '거', phát âm thành [보거리와].",
+      "meaning": "đồ để xem và"
+    },
+    {
+      "word": "먹거리가",
+      "pronounced": "[머거리가]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '먹' nối với nguyên âm '거', phát âm thành [머거리가].",
+      "meaning": "đồ ăn (là/được)"
     }
   ]
 }

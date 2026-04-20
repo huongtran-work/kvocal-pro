@@ -74,11 +74,11 @@
       "meaning": "rất hiệu quả"
     },
     {
-      "word": "환경과",
-      "pronounced": "[환경꽈]",
-      "rule": "Căng hóa 경음화",
-      "explanation": "Patchim ㅇ(ng) của 경 gặp ㄱ của 과 → căng hóa [꽈].",
-      "meaning": "môi trường và"
+      "word": "안전하고",
+      "pronounced": "[안저나고]",
+      "rule": "Nối âm + ㅎ lược bỏ",
+      "explanation": "Patchim 'ㄴ' của '안전' nối với 하: 전+하 → [저나]; ㅎ bị lược bỏ → [안저나고].",
+      "meaning": "an toàn và"
     },
     {
       "word": "편리한시설덕분에",
@@ -88,11 +88,11 @@
       "meaning": "nhờ tiện ích thuận tiện"
     },
     {
-      "word": "만족하며",
-      "pronounced": "[만조카며]",
-      "rule": "Bật hơi 격음화",
-      "explanation": "Patchim ㄱ của 족 kết hợp ㅎ của 하 → bật hơi [카]: [만조카며].",
-      "meaning": "trong khi hài lòng"
+      "word": "생활하기에",
+      "pronounced": "[생화라기에]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '활' nối với '하': 활+하 → [화라]; phát âm tự nhiên [생화라기에].",
+      "meaning": "để sinh hoạt"
     },
     {
       "word": "현대적인",
@@ -129,6 +129,13 @@
       "pronounced": "겨울처레도",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㄹ' của '겨울철' nối với nguyên âm '에', phát âm thành [겨울처레도]."
+    },
+    {
+      "word": "놀이터",
+      "pronounced": "[노리터]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '놀' nối với nguyên âm '이', phát âm thành [노리터].",
+      "meaning": "sân chơi"
     }
   ]
 }

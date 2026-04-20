@@ -154,6 +154,13 @@
       "pronounced": "거 가타요",
       "rule": "Nối âm (연음)",
       "explanation": "Patchim 'ㅌ' của '같' nối với nguyên âm '아', phát âm thành [거 가타요]."
+    },
+    {
+      "word": "정시퇴근을",
+      "pronounced": "[정시퇴그늘]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '퇴근' nối với nguyên âm '을', phát âm thành [정시퇴그늘].",
+      "meaning": "việc tan ca đúng giờ (tân ngữ)"
     }
   ]
 }
