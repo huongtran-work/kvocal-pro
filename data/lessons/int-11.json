@@ -1,147 +1,91 @@
 {
   "originalText": "한국의 전통 가옥인 한옥은 자연과 조화를 이루는 아름다운 건축물입니다. 한옥의 가장 큰 특징은 온돌과 대청마루인데, 이는 한국의 뚜렷한 사계절을 견디기 위한 지혜가 담겨 있어요. 겨울에는 온돌 덕분에 방바닥이 따뜻하고, 여름에는 대청마루 덕분에 시원하게 지낼 수 있습니다. 요즘은 현대적인 시설을 갖춘 한옥 스테이도 많아서 외국인 관광객들에게 인기가 아주 많아요. 여러분도 기회가 된다면 한옥에서 하룻밤 머물며 한국의 전통미를 느껴 보시길 바랍니다. 한옥은 못을 사용하지 않고 나무를 끼워 맞춰서 짓는 방식이 매우 독특합니다. 지붕의 곡선은 산의 능선과 닮아 있어 주변 경관과 아주 잘 어우러져요. 창문에는 한지를 발라서 햇빛이 은은하게 들어오고 통풍도 잘 됩니다. 마당은 비어 있는 공간이지만 잔치를 열거나 아이들이 뛰어놀기에 아주 좋은 장소예요. 한옥의 처마는 여름의 뜨거운 햇빛을 막아주고 겨울의 낮은 햇빛은 집 안 깊숙이 들어오게 합니다. 이러한 구조 덕분에 에어컨이나 히터 없이도 쾌적한 생활이 가능했어요. 요즘은 도시에서도 한옥의 멋을 살린 카페나 식당을 쉽게 찾아볼 수 있습니다. 전통과 현대가 공존하는 공간에서 차 한 잔을 마시는 것도 아주 특별한 경험이 될 거예요. 한옥은 단순히 집이 아니라 한국인의 철학과 삶이 담긴 소중한 문화유산입니다. 우리 조상들의 지혜가 깃든 한옥을 잘 보존하고 아끼는 마음을 가져야겠습니다. 여러분은 한옥의 어떤 점이 가장 인상 깊으신가요? 다음에 한국에 오시면 꼭 한옥 마을을 방문해 보세요. 전주나 안동 같은 곳에 가면 정말 아름다운 한옥들을 많이 볼 수 있습니다.",
-  "pronouncedText": "[한구게 전통 가오긴 하노근 자연과 조화르 리루는 아름다운 건축물림니다. 하노게 가장 큰 특찡은 온돌과 대청마루인데, 이는 한구게 뚜려탄 사계저르 견디기 위한 지혜가 담겨 이써요. 겨우레는 온돌 덕뿐에 방바다기 따뜻하고, 여르메는 대청마루 덕뿐에 시원하게 지낼 쑤 이씀니다. 요즘은 현대적인 시서르 가춘 하녹 스테이도 마나서 외구긴 관광객들에게 인기가 아주 마나요. 여러분도 기회가 된다면 하노게서 하룯빰 머물며 한구게 전통미를 느껴 보시길 바람니다. 하노근 모슬 사용하지 안코 나무를 끼워 마춰서 진는 방시기 매우 독트캄니다. 지부늬 곡써는 사늬 능선과 달마 이써 주변 경관과 아주 잘 어우러져요. 창무네는 한지르 발라서 해삐치 은은하게 드러오고 통풍도 잘 됨니다. 마당은 비어 인는 공간이지만 잔치르 열거나 아이들이 뛰어놀기에 아주 조은 장소예여. 하노게 처마는 여르메 뜨거운 해삐슬 마가주고 겨우레 낮은 해삐슨 집 안 깊쑤기 드러오게 함니다. 이러한 구조 덕뿐에 에어커니나 히터 업씨도 쾌적한 생활이 가능해써요. 요즘은 도시에서도 하노게 머슬 살린 카페나 식땅을 쉽께 찾아볼 쑤 이씀니다. 전통과 현대가 공존하는 공간에서 차 한 자늘 마시는 것도 아주 특뼐한 경험이 될 거예여. 하노근 단순히 지비 아니라 한구기네 철학과 살미 담긴 소중한 문화유산임니다. 우리 조상들의 지혜가 깃든 하노글 잘 보존하고 아끼는 마으믈 가져야게씀니다. 여러분은 하노게 어떤 저미 가장 인상 기프신가요? 다음에 한구게 오시면 꼭 한옥 마으를 방문해 보세여. 전주나 안동 가튼 고세 가면 정말 아름다운 하녹뜨르 마니 볼 쑤 이씀니다.]",
+  "pronouncedText": "[한구게 전통 가오긴 하노근 자연과 조화르 리루는 아름다운 건축물림니다. 하노게 가장 큰 특찡은 온돌과 대청마루인데, 이는 한구게 뚜려탄 사계저르 견디기 위한 지혜가 담겨 이써요. 겨우레는 온돌 덕뿐에 방바다기 따뜻하고, 여르메는 대청마루 덕뿐에 시원하게 지낼 쑤 이씀니다. 요즘은 현대적인 시서르 가춘 하녹 스테이도 마나서 외구긴 관광객들에게 인기가 아주 마나요. 여러분도 기회가 된다면 하노게서 하룯빰 머물며 한구게 전통미를 느껴 보시길 바람니다. 하노근 모슬 사용하지 안코 나무를 끼워 마춰서 진는 방시기 매우 독트캄니다. 지부늬 곡써는 사늬 능선과 달마 이써 주변 경관과 아주 잘 어우러져요. 창무네는 한지르 발라서 해삐치 은은하게 드러오고 통풍도 잘 됨니다. 마당은 비어 인는 공간이지만 잔치르 열거나 아이들이 뛰어놀기에 아주 조은 장소예여. 하노게 처마는 여르메 뜨거운 해삐슬 마가주고 겨우레 낮은 해삐슨 집 안 깊쑤기 드러오게 함니다. 이러한 구조 덕뿐에 에어코니나 히터 업씨도 쾌적한 생활이 가능해써요. 요즘은 도시에서도 하노게 머슬 살린 카페나 식땅을 쉽께 찾아볼 쑤 이씀니다. 전통과 현대가 공존하는 공간에서 차 한 자늘 마시는 것도 아주 특뼐한 경험이 될 거예여. 하노근 단순히 지비 아니라 한구기네 철학과 살미 담긴 소중한 문화유산임니다. 우리 조상들의 지혜가 깃든 하노글 잘 보존하고 아끼는 마으믈 가져야게씀니다. 여러분은 하노게 어떤 저미 가장 인상 기프신가요? 다음에 한구게 오시면 꼭 한옥 마으를 방문해 보세여. 전주나 안동 가튼 고세 가면 정말 아름다운 하녹뜨르 마니 볼 쑤 이씀니다.]",
   "translation": "Hanok, ngôi nhà truyền thống của Hàn Quốc, là một công trình kiến trúc đẹp đẽ hòa hợp với thiên nhiên. Đặc điểm lớn nhất của Hanok là Ondol (hệ thống sưởi sàn) và Daecheongmaru (sàn gỗ mở), chứa đựng trí tuệ để chịu đựng bốn mùa rõ rệt của Hàn Quốc. Vào mùa đông, nhờ Ondol mà sàn phòng ấm áp, còn vào mùa hè, nhờ Daecheongmaru mà có thể ở một cách mát mẻ. Dạo này có nhiều dịch vụ Hanok stay với trang thiết bị hiện đại nên rất được khách du lịch nước ngoài ưa chuộng. Tôi hy vọng các bạn nếu có cơ hội hãy thử ở lại một đêm tại Hanok và cảm nhận vẻ đẹp truyền thống của Hàn Quốc. Hanok rất độc đáo ở cách xây dựng bằng cách lắp ghép gỗ mà không sử dụng đinh. Đường cong của mái nhà giống với đường sườn núi nên rất hài hòa với cảnh quan xung quanh. Cửa sổ được dán giấy Hanji nên ánh nắng chiếu vào dịu nhẹ và thông gió cũng rất tốt. Sân là một không gian trống nhưng là nơi rất tốt để tổ chức tiệc tùng hoặc cho trẻ em chạy nhảy. Mái hiên của Hanok ngăn chặn ánh nắng gắt của mùa hè và cho phép ánh nắng thấp của mùa đông chiếu sâu vào trong nhà. Nhờ cấu trúc này mà cuộc sống thoải mái vẫn khả thi mà không cần máy điều hòa hay máy sưởi. Dạo này ngay cả ở thành phố, bạn cũng có thể dễ dàng tìm thấy các quán cà phê hoặc nhà hàng mang vẻ đẹp của Hanok. Việc uống một tách trà trong không gian nơi truyền thống và hiện đại cùng tồn tại cũng sẽ là một trải nghiệm rất đặc biệt. Hanok không đơn thuần là một ngôi nhà mà là một di sản văn hóa quý giá chứa đựng triết lý và cuộc sống của người Hàn Quốc. Chúng ta nên có tấm lòng trân trọng và bảo tồn tốt Hanok nơi kết tinh trí tuệ của tổ tiên. Các bạn thấy điểm nào của Hanok là ấn tượng nhất? Lần tới khi đến Hàn Quốc, nhất định hãy ghé thăm làng Hanok nhé. Nếu đến những nơi như Jeonju hay Andong, bạn có thể thấy rất nhiều ngôi nhà Hanok thực sự đẹp đẽ.",
   "annotatedWords": [
     {
       "word": "한옥은",
-      "pronounced": "[하노근]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㄱ của 옥 nối với nguyên âm 은 → ㄱ chuyển: [하노근].",
-      "meaning": "nhà truyền thống Hàn (thì)"
-    },
-    {
-      "word": "이루는",
-      "pronounced": "[이루는]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㄹ của 루 nối với 는; ㄹ liên kết tự nhiên [이루는].",
-      "meaning": "tạo nên"
+      "pronounced": "하노근",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '한옥' nối với nguyên âm 'ㅡ' của '은', phát âm thành [하노근]."
     },
     {
       "word": "건축물입니다",
-      "pronounced": "[건충무림니다]",
-      "rule": "Nối âm + Biến âm mũi",
-      "explanation": "Patchim ㄹ của 물 nối với 입 → [무리]; ㅂ gặp ㄴ biến âm mũi [림니다].",
-      "meaning": "là công trình kiến trúc"
+      "pronounced": "건충무림니다",
+      "rule": "Nối âm (연음) + biến âm mũi (비음화)",
+      "explanation": "Patchim 'ㄹ' của '물' nối với 'ㅣ' của '입니다' → [무리]; patchim 'ㅂ' của '입' gặp 'ㄴ' biến thành âm mũi [ㅁ], phát âm thành [건충무림니다]."
     },
     {
       "word": "특징은",
-      "pronounced": "[특찡은]",
-      "rule": "Căng hóa + Nối âm",
-      "explanation": "Patchim ㄱ của 특 căng hóa ㅈ của 징 → [찡]; patchim ㅇ của 징 nối với 은.",
-      "meaning": "đặc điểm (thì)"
-    },
-    {
-      "word": "담겨있어요",
-      "pronounced": "[담겨이써요]",
-      "rule": "Nối âm + Căng hóa",
-      "explanation": "Patchim ㄱ của 겨 nối với 있 → [겨있→겨이]; ㅅ patchim của 있 + 어 → căng hóa [써요].",
-      "meaning": "được chứa đựng"
-    },
-    {
-      "word": "겨울에는",
-      "pronounced": "[겨우레는]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㄹ của 울 nối với 에는 → ㄹ chuyển: [겨우레는].",
-      "meaning": "vào mùa đông thì"
-    },
-    {
-      "word": "관광객들에게",
-      "pronounced": "[관광객뜨레게]",
-      "rule": "Nối âm + Căng hóa",
-      "explanation": "Patchim ㄱ của 객 gặp ㄷ của 들 → căng hóa [뜰]; ㄹ của 들 nối với 에게 → [뜨레게].",
-      "meaning": "dành cho khách du lịch"
-    },
-    {
-      "word": "끼워맞춰서",
-      "pronounced": "[끼워맏춰서]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㅊ của 춰 nối với 서 → âm liên kết: [맏춰서].",
-      "meaning": "lắp ráp vào"
-    },
-    {
-      "word": "능선과",
-      "pronounced": "[능선꽈]",
-      "rule": "Căng hóa 경음화",
-      "explanation": "Patchim ㄴ của 선 gặp ㄱ của 과 → căng hóa [꽈].",
-      "meaning": "đường sống núi và"
-    },
-    {
-      "word": "어우러져요",
-      "pronounced": "[어우러져요]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㄹ của 러 nối với 져요; ㄹ liên kết liền mạch.",
-      "meaning": "hòa quyện"
-    },
-    {
-      "word": "햇빛이",
-      "pronounced": "[해삐치]",
-      "rule": "Nối âm + Bật hơi",
-      "explanation": "Patchim ㅅ của 햇 + ㅂ → căng hóa [삐]; patchim ㅊ của 빛 nối với 이 → [치].",
-      "meaning": "ánh nắng"
-    },
-    {
-      "word": "은은하게",
-      "pronounced": "[으느나게]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㄴ của 은 nối với 은 → [으느]; tiếp tục ㄴ nối 하게 → [나게]; chuỗi liên tiếp.",
-      "meaning": "nhẹ nhàng, dịu dàng"
-    },
-    {
-      "word": "들어오게",
-      "pronounced": "[드러오게]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㄹ của 들 nối với 어 → [드러]; tiếp theo 오게 liên kết tự nhiên.",
-      "meaning": "để vào được"
-    },
-    {
-      "word": "문화유산입니다",
-      "pronounced": "[문화유사님니다]",
-      "rule": "Nối âm + Biến âm mũi",
-      "explanation": "Patchim ㄴ của 산 nối với 입 → [사니]; ㅂ của 입 gặp ㄴ biến âm mũi [님니다].",
-      "meaning": "là di sản văn hóa"
+      "pronounced": "특찡은",
+      "rule": "Căng hóa (경음화) + nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '특' đứng trước 'ㅈ' của '징' gây căng hóa thành [ㅉ → 찡]; patchim 'ㅇ(ng)' của '징' nối với 'ㅡ' của '은', phát âm thành [특찡은]."
     },
     {
       "word": "사계절을",
       "pronounced": "사계저를",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '사계절' nối với nguyên âm '을', phát âm thành [사계저를]."
+      "explanation": "Patchim 'ㄹ' của '사계절' nối với nguyên âm 'ㅡ' của '을', phát âm thành [사계저를]."
+    },
+    {
+      "word": "겨울에는",
+      "pronounced": "겨우레는",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '겨울' nối với nguyên âm 'ㅔ' của '에는', phát âm thành [겨우레는]."
     },
     {
       "word": "여름에는",
       "pronounced": "여르메는",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '여름' nối với nguyên âm '에', phát âm thành [여르메는]."
+      "explanation": "Patchim 'ㅁ' của '여름' nối với nguyên âm 'ㅔ' của '에는', phát âm thành [여르메는]."
     },
     {
       "word": "많아요",
       "pronounced": "마나요",
-      "rule": "Nối âm (연음) và lược bỏ 'ㅎ'",
-      "explanation": "Patchim 'ㅎ' của '많' bị lược bỏ, 'ㄴ' nối với nguyên âm '아', phát âm thành [마나요]."
+      "rule": "Lược bỏ ㅎ (ㅎ탈락)",
+      "explanation": "Patchim kép 'ㄶ' của '많': 'ㅎ' bị lược bỏ trước nguyên âm 'ㅏ', 'ㄴ' nối với 'ㅏ' của '아요', phát âm thành [마나요]."
     },
     {
-      "word": "곡선은",
-      "pronounced": "곡써는",
-      "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '곡선' nối với nguyên âm '은', phát âm thành [곡써는]."
-    },
-    {
-      "word": "깊숙이",
-      "pronounced": "깊수기",
-      "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄱ' của '깊숙' nối với nguyên âm '이', phát âm thành [깊수기]."
-    },
-    {
-      "word": "에어컨이나",
-      "pronounced": "에어코니나",
-      "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '에어컨' nối với nguyên âm '이나', phát âm thành [에어코니나]."
+      "word": "않고",
+      "pronounced": "안코",
+      "rule": "Lược bỏ ㅎ (ㅎ탈락) + bật hơi (격음화)",
+      "explanation": "Patchim kép 'ㄶ' của '않': 'ㅎ' kết hợp với 'ㄱ' của '고' tạo thành âm bật hơi [ㅋ], phát âm thành [안코]."
     },
     {
       "word": "삶이",
       "pronounced": "살미",
+      "rule": "Patchim kép (겹받침) + nối âm (연음)",
+      "explanation": "Patchim kép 'ㄻ' của '삶': trước nguyên âm 'ㅣ', 'ㄹ' ở lại và 'ㅁ' nối sang âm tiết sau, phát âm thành [살미]."
+    },
+    {
+      "word": "문화유산입니다",
+      "pronounced": "문화유사님니다",
+      "rule": "Nối âm (연음) + biến âm mũi (비음화)",
+      "explanation": "Patchim 'ㄴ' của '유산' nối với 'ㅣ' của '입' → [사니]; patchim 'ㅂ' của '입' gặp 'ㄴ' biến thành âm mũi [ㅁ], phát âm thành [문화유사님니다]."
+    },
+    {
+      "word": "관광객들에게",
+      "pronounced": "관광객뜨레게",
+      "rule": "Căng hóa (경음화) + nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '관광객' đứng trước 'ㄷ' của '들' gây căng hóa thành [ㄸ → 뜰]; patchim 'ㄹ' của '들' nối với 'ㅔ' của '에게', phát âm thành [관광객뜨레게]."
+    },
+    {
+      "word": "햇빛이",
+      "pronounced": "해삐치",
+      "rule": "Căng hóa (경음화) + nối âm (연음)",
+      "explanation": "Patchim 'ㄷ' (âm đại diện của 'ㅅ' trong '햇') đứng trước 'ㅂ' của '빛' gây căng hóa thành [ㅂ → ㅃ → 삐]; patchim 'ㅊ' của '빛' nối với 'ㅣ' của '이', phát âm thành [해삐치]."
+    },
+    {
+      "word": "들어오고",
+      "pronounced": "드러오고",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim kép 'ㄻ' của '삶': 'ㄹ' ở lại, 'ㅁ' nối với nguyên âm '이', phát âm thành [살미]."
+      "explanation": "Patchim 'ㄹ' của '들' nối với nguyên âm 'ㅓ' của '어오고', phát âm thành [드러오고]."
+    },
+    {
+      "word": "마음을",
+      "pronounced": "마으믈",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm 'ㅡ' của '을', phát âm thành [마으믈]."
     }
   ]
 }

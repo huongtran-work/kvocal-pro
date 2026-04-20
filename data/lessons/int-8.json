@@ -4,112 +4,88 @@
   "translation": "Kỷ niệm đáng nhớ nhất trong đời tôi là khi tôi đi Jeju-do vào năm ngoái. Từ khi tôi cùng bạn bè lên kế hoạch du lịch và lên máy bay, tôi đã cảm thấy rất phấn khích. Ngay khi đến Jeju-do, một bãi biển tuyệt đẹp mở ra trước mắt tôi, và chúng tôi đã ăn hải sản tươi ngon. Đặc biệt, phong cảnh khi leo lên núi Hallasan thực sự không thể nào quên. Đứng trên đỉnh núi, nhìn ngắm bầu trời rộng lớn, tôi đã nhận được một sự xúc động sâu sắc. Mặc dù khó khăn, nhưng tất cả chúng tôi đã cười nói và có một khoảng thời gian vui vẻ cùng nhau. Trên chuyến bay trở về, tôi đã lập kế hoạch cho chuyến đi tiếp theo với bạn bè, và kỷ niệm này sẽ mãi mãi ở trong trái tim tôi. Cảm xúc lúc đó vẫn còn sống động cho đến bây giờ.",
   "annotatedWords": [
     {
-      "word": "인생에서",
-      "pronounced": "[인생에서]",
-      "rule": "Nối âm 연음",
-      "explanation": "받침 ㅇ(이응) sau nguyên âm → không có nối âm đặc biệt, chỉ là đọc liền"
-    },
-    {
       "word": "기억에",
-      "pronounced": "[기어게]",
-      "rule": "Nối âm 연음",
-      "explanation": "받침 ㄱ(기역) của '기억' nối với nguyên âm 'ㅔ' của '에'."
-    },
-    {
-      "word": "갔을",
-      "pronounced": "[가쓸]",
-      "rule": "Nối âm 연음 + Căng âm",
-      "explanation": "받침 ㅅ(시옷) của '갔' nối với nguyên âm 'ㅡ' của '을', đồng thời âm '을' bị căng thành [쓸]."
+      "pronounced": "기어게",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '기억' nối với nguyên âm 'ㅔ' của '에', phát âm thành [기어게]."
     },
     {
       "word": "몸을",
-      "pronounced": "[모믈]",
-      "rule": "Nối âm 연음",
-      "explanation": "받침 ㅁ(미음) của '몸' nối với nguyên âm 'ㅡ' của '을'."
+      "pronounced": "모믈",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '몸' nối với nguyên âm 'ㅡ' của '을', phát âm thành [모믈]."
+    },
+    {
+      "word": "갔을",
+      "pronounced": "가쓸",
+      "rule": "Nối âm (연음) + căng hóa (경음화)",
+      "explanation": "Patchim kép 'ㅆ' của '갔' nối với nguyên âm 'ㅡ' của '을'; âm căng 'ㅆ' giữ nguyên khi chuyển sang âm tiết sau, phát âm thành [가쓸]."
     },
     {
       "word": "실었을",
-      "pronounced": "[시러쓸]",
-      "rule": "Nối âm 연음 + Căng âm",
-      "explanation": "받침 ㅅ(시옷) của '실었' nối với nguyên âm 'ㅡ' của '을', đồng thời âm '을' bị căng thành [쓸]."
-    },
-    {
-      "word": "눈앞에",
-      "pronounced": "[누나페]",
-      "rule": "Nối âm 연음 + Biến âm (Bật hơi)",
-      "explanation": "받침 ㅌ(티읕) của '앞' (âm đại diện của ㅍ) nối với nguyên âm 'ㅔ' của '에', đồng thời biến thành âm bật hơi ㅍ."
-    },
-    {
-      "word": "먹었어요",
-      "pronounced": "[머거써요]",
-      "rule": "Nối âm 연음 + Căng âm",
-      "explanation": "받침 ㄱ(기역) của '먹' nối với nguyên âm 'ㅓ' của '었어요', đồng thời '었' bị căng thành [써]."
-    },
-    {
-      "word": "올라갔을",
-      "pronounced": "[올라가쓸]",
-      "rule": "Nối âm 연음 + Căng âm",
-      "explanation": "받침 ㅅ(시옷) của '갔' nối với nguyên âm 'ㅡ' của '을', đồng thời âm '을' bị căng thành [쓸]."
-    },
-    {
-      "word": "없어요",
-      "pronounced": "[업써요]",
-      "rule": "Nối âm 연음 + Căng âm",
-      "explanation": "받침 ㅄ(비읍시옷) của '없' (âm đại diện là ㅂ) nối với nguyên âm 'ㅓ' của '어요', đồng thời '어' bị căng thành [써]."
+      "pronounced": "시러쓸",
+      "rule": "Nối âm (연음) + căng hóa (경음화)",
+      "explanation": "Patchim 'ㄹ' của '실' nối với '었을'; patchim kép 'ㅆ' của '었' nối với 'ㅡ' của '을' và giữ âm căng, phát âm thành [시러쓸]."
     },
     {
       "word": "넓은",
-      "pronounced": "[널븐]",
-      "rule": "Nối âm 연음",
-      "explanation": "받침 ㅂ(비읍) của '넓' nối với nguyên âm 'ㅡ' của '은'. (ㄹㅂ chỉ đọc ㅂ khi theo sau là nguyên âm)"
+      "pronounced": "널븐",
+      "rule": "Nối âm (연음) + Patchim kép (겹받침)",
+      "explanation": "Patchim kép 'ㄼ' của '넓': trước nguyên âm 'ㅡ' của '은', cả 'ㄹ' ở lại và 'ㅂ' chuyển sang âm tiết sau, phát âm thành [널븐]."
     },
     {
-      "word": "받았습니다",
-      "pronounced": "[바다씀니다]",
-      "rule": "Nối âm 연음 + Căng âm",
-      "explanation": "받침 ㄷ(디귿) của '받았' nối với nguyên âm 'ㅡ' của '습니다', đồng thời '습' bị căng thành [씁]."
+      "word": "없어요",
+      "pronounced": "업써요",
+      "rule": "Nối âm (연음) + Patchim kép (겹받침) + căng hóa",
+      "explanation": "Patchim kép 'ㅄ' của '없': âm đại diện 'ㅂ' ở lại, 'ㅆ' nối với 'ㅓ' của '어요' và giữ âm căng, phát âm thành [업써요]."
+    },
+    {
+      "word": "눈앞에",
+      "pronounced": "누나페",
+      "rule": "Nối âm (연음) + bật hơi (격음화)",
+      "explanation": "Patchim 'ㅍ' của '눈앞' nối với nguyên âm 'ㅔ' của '에'; âm 'ㅍ' bật hơi vẫn giữ nguyên khi chuyển sang âm tiết sau, phát âm thành [누나페]."
+    },
+    {
+      "word": "먹었어요",
+      "pronounced": "머거써요",
+      "rule": "Nối âm (연음) + căng hóa (경음화)",
+      "explanation": "Patchim 'ㄱ' của '먹' nối với 'ㅓ' của '었어요'; patchim 'ㄷ' (đại diện của '었') gặp 'ㅅ' gây căng hóa thành [ㅆ], phát âm thành [머거써요]."
     },
     {
       "word": "웃고",
-      "pronounced": "[욷꼬]",
-      "rule": "Căng âm",
-      "explanation": "Sau 받침 ㄷ(디귿) (âm đại diện của ㅅ), âm '고' bị căng thành [꼬]."
-    },
-    {
-      "word": "이야기하며",
-      "pronounced": "[이야갸며]",
-      "rule": "Nối âm 연음",
-      "explanation": "받침 ㅇ(이응) của '이야기' sau nguyên âm → không có nối âm đặc biệt, chỉ là đọc liền. (Chú ý: đây là trường hợp nối âm của '기' + '하며' -> [갸며] )"
+      "pronounced": "욷꼬",
+      "rule": "Căng hóa (경음화)",
+      "explanation": "Patchim 'ㄷ' (âm đại diện của 'ㅅ' trong '웃') đứng trước 'ㄱ' của '고' gây căng hóa thành [ㄲ], phát âm thành [욷꼬]."
     },
     {
       "word": "계획을",
-      "pronounced": "[계회글]",
-      "rule": "Nối âm 연음",
-      "explanation": "받침 ㄱ(기역) của '계획' nối với nguyên âm 'ㅡ' của '을'."
-    },
-    {
-      "word": "마음속에",
-      "pronounced": "[마음쏘게]",
-      "rule": "Căng âm",
-      "explanation": "Sau 받침 ㄱ(기역) của '속', âm '에' bị căng thành [께] (âm đại diện của ㅅ)"
+      "pronounced": "계회글",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '계획' nối với nguyên âm 'ㅡ' của '을', phát âm thành [계회글]."
     },
     {
       "word": "남아있을",
-      "pronounced": "[나마이쓸]",
-      "rule": "Nối âm 연음 + Căng âm",
-      "explanation": "받침 ㅅ(시옷) của '있' nối với nguyên âm 'ㅡ' của '을', đồng thời '을' bị căng thành [쓸]."
+      "pronounced": "나마이쓸",
+      "rule": "Nối âm (연음) + căng hóa (경음화)",
+      "explanation": "Patchim 'ㅁ' của '남' nối với 'ㅏ' của '아'; patchim kép 'ㅆ' của '있' nối với 'ㅡ' của '을' và giữ âm căng, phát âm thành [나마이쓸]."
     },
     {
       "word": "아직도",
-      "pronounced": "[아짇또]",
-      "rule": "Căng âm",
-      "explanation": "Sau 받침 ㅈ(지읒) (âm đại diện của ㅊ), âm '도' bị căng thành [또]."
+      "pronounced": "아짇또",
+      "rule": "Căng hóa (경음화)",
+      "explanation": "Patchim 'ㄱ' của '아직' đứng trước 'ㄷ' của '도' gây căng hóa thành [ㄸ], phát âm thành [아짇또]."
+    },
+    {
+      "word": "받았습니다",
+      "pronounced": "바다씀니다",
+      "rule": "Nối âm (연음) + căng hóa (경음화) + biến âm mũi (비음화)",
+      "explanation": "Patchim 'ㄷ' của '받았' nối với 'ㅡ' của '습니다'; 'ㅅ' của '습' bị căng hóa thành [ㅆ]; tiếp theo 'ㅂ' gặp 'ㄴ' biến thành âm mũi [ㅁ], phát âm thành [바다씀니다]."
     },
     {
       "word": "느껴져요",
-      "pronounced": "[늑껴져요]",
-      "rule": "Nối âm 연음 + Căng âm",
-      "explanation": "받침 ㄲ(쌍기역) của '느꼈' nối với nguyên âm 'ㅓ' của '어요', đồng thời '어' bị căng thành [쩌]."
+      "pronounced": "늑껴져요",
+      "rule": "Nối âm (연음) + căng hóa (경음화)",
+      "explanation": "Patchim 'ㄱ' của '느꼈' nối với 'ㅓ' của '어요'; âm 'ㄲ' (căng) giữ nguyên khi chuyển sang âm tiết, phát âm thành [늑껴져요]."
     }
   ]
 }

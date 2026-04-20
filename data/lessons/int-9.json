@@ -5,143 +5,93 @@
   "annotatedWords": [
     {
       "word": "책을",
-      "pronounced": "[채글]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㄱ của 책 nối với nguyên âm 을 → ㄱ chuyển sang tiếp: [채글].",
-      "meaning": "cuốn sách"
+      "pronounced": "채글",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '책' nối với nguyên âm 'ㅡ' của '을', phát âm thành [채글]."
     },
     {
       "word": "읽거나",
-      "pronounced": "[일꺼나]",
-      "rule": "Nối âm + Căng hóa",
-      "explanation": "Patchim kép ㄺ của 읽: ㄹ ở lại, ㄱ nối với 거 → nối âm [일거]; ㄱ+ㄱ căng hóa [일꺼].",
-      "meaning": "đọc hoặc"
+      "pronounced": "일꺼나",
+      "rule": "Patchim kép (겹받침) + căng hóa (경음화)",
+      "explanation": "Patchim kép 'ㄺ' của '읽': trước phụ âm 'ㄱ' của '거나', 'ㄹ' ở lại và 'ㄱ' gây căng hóa 'ㄱ' của '거나' thành [ㄲ], phát âm thành [일꺼나]."
     },
     {
-      "word": "도서관에",
-      "pronounced": "[도서과네]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㄴ của 관 nối với nguyên âm 에 → ㄴ chuyển: [과네].",
-      "meaning": "ở thư viện"
-    },
-    {
-      "word": "읽으면서",
-      "pronounced": "[일그면서]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim kép ㄺ: ㄹ ở lại, ㄱ nối với 으면서 → [일그면서]; patchim kép mở.",
-      "meaning": "trong khi đọc"
-    },
-    {
-      "word": "지식을",
-      "pronounced": "[지시글]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㄱ của 식 nối với nguyên âm 을 → ㄱ chuyển: [지시글].",
-      "meaning": "kiến thức"
-    },
-    {
-      "word": "과정이",
-      "pronounced": "[과정이]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㅇ(ng) của 정 nối với 이 → ng liên kết liền mạch: [과정이].",
-      "meaning": "quá trình"
-    },
-    {
-      "word": "소설책을",
-      "pronounced": "[소설채글]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㄱ của 책 nối với 을 → ㄱ chuyển: [소설채글]; chuỗi nối.",
-      "meaning": "cuốn tiểu thuyết"
-    },
-    {
-      "word": "분야의",
-      "pronounced": "[부냐에]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㅇ(ng) của 야 nối với 의(에) → âm liên kết: [부냐에].",
-      "meaning": "của lĩnh vực"
-    },
-    {
-      "word": "신문을",
-      "pronounced": "[신무늘]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㄴ của 문 nối với nguyên âm 을 → ㄴ chuyển: [신무늘].",
-      "meaning": "tờ báo"
-    },
-    {
-      "word": "소식을",
-      "pronounced": "[소시글]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㄱ của 식 nối với 을 → ㄱ chuyển: [소시글]; dạng nối âm rất phổ biến.",
-      "meaning": "tin tức"
-    },
-    {
-      "word": "샌드위치도",
-      "pronounced": "[샌드위치도]",
-      "rule": "Nối âm 연음",
-      "explanation": "ㅊ patchim của 치 không có biến đổi; liên kết tự nhiên trong chuỗi.",
-      "meaning": "sandwich cũng"
-    },
-    {
-      "word": "점심으로",
-      "pronounced": "[점시므로]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㅁ của 심 nối với 으로 → ㅁ chuyển: [점시므로].",
-      "meaning": "làm bữa trưa"
-    },
-    {
-      "word": "의미가",
-      "pronounced": "[의미가]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㅁ của 미 không có patchim; âm tiếp theo liên kết tự nhiên.",
-      "meaning": "ý nghĩa"
-    },
-    {
-      "word": "양식을",
-      "pronounced": "[양시글]",
-      "rule": "Nối âm 연음",
-      "explanation": "Patchim ㄱ của 식 nối với 을 → ㄱ chuyển: [양시글].",
-      "meaning": "lương thực tinh thần"
-    },
-    {
-      "word": "주말에",
-      "pronounced": "주마레",
-      "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '주말' nối với nguyên âm '에', phát âm thành [주마레]."
-    },
-    {
-      "word": "마음의",
-      "pronounced": "마으메",
-      "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm '의' (phát âm là '에'), phát âm thành [마으메]."
+      "word": "좋은",
+      "pronounced": "조은",
+      "rule": "Lược bỏ ㅎ (ㅎ탈락)",
+      "explanation": "Patchim 'ㅎ' của '좋' bị lược bỏ trước nguyên âm 'ㅡ' của '은', phát âm thành [조은]."
     },
     {
       "word": "공원을",
       "pronounced": "공워늘",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '공원' nối với nguyên âm '을', phát âm thành [공워늘]."
+      "explanation": "Patchim 'ㄴ' của '공원' nối với nguyên âm 'ㅡ' của '을', phát âm thành [공워늘]."
+    },
+    {
+      "word": "읽으면서",
+      "pronounced": "일그면서",
+      "rule": "Patchim kép (겹받침) + nối âm (연음)",
+      "explanation": "Patchim kép 'ㄺ' của '읽': trước nguyên âm 'ㅡ', 'ㄹ' ở lại và 'ㄱ' nối sang âm tiết sau, phát âm thành [일그면서]."
+    },
+    {
+      "word": "지식을",
+      "pronounced": "지시글",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '지식' nối với nguyên âm 'ㅡ' của '을', phát âm thành [지시글]."
+    },
+    {
+      "word": "주말에",
+      "pronounced": "주마레",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄹ' của '주말' nối với nguyên âm 'ㅔ' của '에', phát âm thành [주마레]."
+    },
+    {
+      "word": "신문을",
+      "pronounced": "신무늘",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '신문' nối với nguyên âm 'ㅡ' của '을', phát âm thành [신무늘]."
     },
     {
       "word": "있어서",
       "pronounced": "이써서",
+      "rule": "Nối âm (연음) + căng hóa (경음화)",
+      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm 'ㅓ' của '어서' và giữ âm căng, phát âm thành [이써서]."
+    },
+    {
+      "word": "점심으로",
+      "pronounced": "점시므로",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim kép 'ㅆ' của '있' nối với nguyên âm '어', phát âm thành [이써서]."
+      "explanation": "Patchim 'ㅁ' của '점심' nối với nguyên âm 'ㅡ' của '으로', phát âm thành [점시므로]."
+    },
+    {
+      "word": "마음의",
+      "pronounced": "마으메",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '마음' nối với nguyên âm '의' (phát âm là 'ㅔ' trong vị trí sở hữu cách), phát âm thành [마으메]."
+    },
+    {
+      "word": "양식을",
+      "pronounced": "양시글",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄱ' của '양식' nối với nguyên âm 'ㅡ' của '을', phát âm thành [양시글]."
     },
     {
       "word": "길이",
       "pronounced": "기리",
       "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄹ' của '길' nối với nguyên âm '이', phát âm thành [기리]."
+      "explanation": "Patchim 'ㄹ' của '길' nối với nguyên âm 'ㅣ' của '이', phát âm thành [기리]."
     },
     {
-      "word": "도서관은",
-      "pronounced": "도서과는",
-      "rule": "Nối âm (연음)",
-      "explanation": "Patchim 'ㄴ' của '도서관' nối với nguyên âm '은', phát âm thành [도서과는]."
+      "word": "즐겁고",
+      "pronounced": "즐겁꼬",
+      "rule": "Căng hóa (경음화)",
+      "explanation": "Patchim 'ㅂ' của '즐겁' đứng trước 'ㄱ' của '고' gây căng hóa thành [ㄲ], phát âm thành [즐겁꼬]."
     },
     {
-      "word": "좋은",
-      "pronounced": "조은",
-      "rule": "Nối âm (연음) và lược bỏ 'ㅎ'",
-      "explanation": "Patchim 'ㅎ' của '좋' bị lược bỏ trước nguyên âm '은', phát âm thành [조은]."
+      "word": "잡지나",
+      "pronounced": "잡찌나",
+      "rule": "Căng hóa (경음화)",
+      "explanation": "Patchim 'ㅂ' của '잡' đứng trước 'ㅈ' của '지나' gây căng hóa thành [ㅉ], phát âm thành [잡찌나]."
     }
   ]
 }
