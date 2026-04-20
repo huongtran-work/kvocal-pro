@@ -4,11 +4,11 @@
   "translation": "Vấn đề tỷ lệ sinh thấp và già hóa dân số là một trong những cuộc khủng hoảng cấu trúc dân số nghiêm trọng nhất mà xã hội Hàn Quốc đang phải đối mặt. Sự sụt giảm nhanh chóng của tỷ lệ sinh dẫn đến giảm lực lượng lao động và làm chậm tăng trưởng kinh tế, làm giảm sức sống của toàn xã hội. Ngoài ra, việc tăng tỷ trọng dân số già do kéo dài tuổi thọ dự kiến có nguy cơ làm tăng gánh nặng chi phí phúc lợi và gây ra mâu thuẫn giữa các thế hệ. Để giải quyết những vấn đề phức tạp này, cần có sự cải thiện môi trường căn bản như nhà ở, chăm sóc trẻ em, việc làm thay vì chỉ dừng lại ở mức hỗ trợ tiền khuyến khích sinh con. Cùng với việc tạo dựng văn hóa doanh nghiệp nơi công việc và gia đình có thể song hành, việc tạo việc làm cho người già và tăng cường mạng lưới an toàn xã hội cũng phải được tiến hành song song. Đây là thời điểm cấp bách để đưa ra chiến lược dài hạn ở cấp quốc gia nhằm ứng phó linh hoạt với sự thay đổi cấu trúc dân số. Giờ đây, chúng ta cần thiết kế một hệ thống xã hội mới chuẩn bị cho thời đại giảm dân số và suy nghĩ về tính bền vững của cộng đồng. Mục tiêu của chúng ta phải là tạo ra một xã hội bao dung nơi tất cả các thế hệ có thể cùng chung sống hạnh phúc.",
   "annotatedWords": [
     {
-      "word": "직면한",
-      "pronounced": "[징면한]",
-      "rule": "Biến âm mũi 비음화",
-      "explanation": "Patchim ㄱ của 직+ㅁ của 면 → ㄱ biến thành ㅇ(ng): [징면한].",
-      "meaning": "đang đối mặt"
+      "word": "넘어",
+      "pronounced": "[너머]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㅁ' của '넘' nối với nguyên âm '어', phát âm thành [너머].",
+      "meaning": "vượt qua"
     },
     {
       "word": "출산율의",
@@ -90,8 +90,8 @@
     {
       "word": "일과가정이양립할수있는",
       "pronounced": "[일꽈가정이양리팔쑤인는]",
-      "rule": "Căng hóa + Bật hơi + Căng hóa + Biến âm mũi",
-      "explanation": "ㄹ+과 căng hóa [꽈]; ㄹ의 립+ㅎ bật hơi [리팔]; 할+수 căng hóa [쑤]; 있+는 biến âm mũi [인는]; chuỗi 10 âm tiết.",
+      "rule": "Căng hóa + Nối âm + Bật hơi",
+      "explanation": "가정이: patchim ㅇ của '정' nối với '이' → [가정이]; 양립할: ㄱ căng hóa; 있는: ㅆ+ㄴ biến âm. Kết hợp nối âm + căng hóa + bật hơi.",
       "meaning": "có thể cân bằng công việc và gia đình"
     },
     {
@@ -102,11 +102,11 @@
       "meaning": "ứng phó linh hoạt với thay đổi cơ cấu dân số"
     },
     {
-      "word": "함께행복하게살수있는",
-      "pronounced": "[함께행보카게살쑤인는]",
-      "rule": "Bật hơi + Căng hóa + Biến âm mũi",
-      "explanation": "ㄱ의 복+ㅎ bật hơi [보카]; 살+수 căng hóa [쑤]; 있+는 biến âm mũi [인는]; chuỗi 9 âm tiết.",
-      "meaning": "có thể sống hạnh phúc cùng nhau"
+      "word": "개선이",
+      "pronounced": "[개서니]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '개선' nối với nguyên âm '이', phát âm thành [개서니].",
+      "meaning": "sự cải thiện (là/được)"
     },
     {
       "word": "새로운사회시스템을설계하고",
@@ -116,11 +116,11 @@
       "meaning": "thiết kế hệ thống xã hội mới và"
     },
     {
-      "word": "모든세대가함께행복하게살수있는",
-      "pronounced": "[모든세대가함께행보카게살쑤인는]",
-      "rule": "Bật hơi + Căng hóa liên tiếp + Biến âm mũi",
-      "explanation": "복+ㅎ bật hơi [보카]; 살+수 căng hóa [쑤]; 있+는 biến âm mũi [인는]; chuỗi 13 âm tiết.",
-      "meaning": "mọi thế hệ có thể sống hạnh phúc cùng nhau"
+      "word": "수준을",
+      "pronounced": "[수주늘]",
+      "rule": "Nối âm (연음)",
+      "explanation": "Patchim 'ㄴ' của '수준' nối với nguyên âm '을', phát âm thành [수주늘].",
+      "meaning": "mức độ (tân ngữ)"
     }
   ]
 }
